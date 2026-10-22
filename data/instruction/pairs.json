@@ -160,6 +160,46 @@
     "recipe_id": "biteku-teku-kasai"
   },
   {
+    "id": "boeuf-ya-kotumba-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Bœuf ya kotumba » (République démocratique du Congo).",
+    "completion": "# Bœuf ya kotumba\n\nRecette de bœuf ya kotumba : morceaux de bœuf marinés puis grillés jusqu’à une croûte fumée — grillade kinshasaise, distincte des kamundele en brochettes.\n\nRégion : Kinshasa\nPortions : 6\nPréparation : 25 min + 2 h de marinade\nCuisson : 40 min\n\n## Ingrédients\n- 1,2 kg de bœuf (basse côte, paleron ou rumsteck) en gros morceaux\n- 2 oignons, dont un râpé\n- 4 gousses d’ail, écrasées\n- 2 cm de gingembre, râpé\n- Jus de 1 citron\n- 3 c. à soupe d’huile\n- Pili-pili, sel et poivre\n- 1 cube de bouillon, facultatif\n\n## Préparation\n1. Préparer une marinade avec oignon râpé, ail, gingembre, citron, huile, sel, poivre, pili-pili et cube.\n2. Enrober le bœuf et mariner au frais au moins 2 heures.\n3. Précuire à la marmite 15 à 20 minutes avec un fond d’eau et la marinade.\n4. Égoutter puis griller sur braises moyennes 15 à 20 minutes en badigeonnant du jus.\n5. Servir avec oignon cru, sauce pili-pili, frites ou chikwangue.\n\nSource : https://mpichi.likeur.xyz/recettes/boeuf-ya-kotumba/",
+    "recipe_id": "boeuf-ya-kotumba"
+  },
+  {
+    "id": "boeuf-ya-kotumba-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Beef ya kotumba\" (Democratic Republic of the Congo).",
+    "completion": "# Beef ya kotumba\n\nBeef ya kotumba recipe: marinated beef pieces grilled to a smoky crust — Kinshasa grillade, distinct from kamundele skewers.\n\nRegion: Kinshasa\nServings: 6\nPrep: 25 min + 2 h de marinade\nCook: 40 min\n\n## Ingredients\n- 1.2 kg beef (chuck, blade or rump) in large pieces\n- 2 onions, one grated\n- 4 garlic cloves, crushed\n- 2 cm ginger, grated\n- Juice of 1 lemon\n- 3 tbsp oil\n- Chili, salt and pepper\n- 1 stock cube, optional\n\n## Steps\n1. Make a marinade with grated onion, garlic, ginger, lemon, oil, salt, pepper, chili and cube.\n2. Coat the beef and marinate cold at least 2 hours.\n3. Par-cook 15–20 minutes with a splash of water and the marinade.\n4. Drain, then grill over medium coals 15–20 minutes, basting.\n5. Serve with raw onion, chili sauce, fries or chikwangue.\n\nSource: https://mpichi.likeur.xyz/en/recettes/boeuf-ya-kotumba/",
+    "recipe_id": "boeuf-ya-kotumba"
+  },
+  {
+    "id": "boeuf-ya-kotumba-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Bœuf ya kotumba ?",
+    "completion": "- 1,2 kg de bœuf (basse côte, paleron ou rumsteck) en gros morceaux\n- 2 oignons, dont un râpé\n- 4 gousses d’ail, écrasées\n- 2 cm de gingembre, râpé\n- Jus de 1 citron\n- 3 c. à soupe d’huile\n- Pili-pili, sel et poivre\n- 1 cube de bouillon, facultatif",
+    "recipe_id": "boeuf-ya-kotumba"
+  },
+  {
+    "id": "boeuf-ya-kotumba-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Bœuf ya kotumba en RDC ?",
+    "completion": "Bœuf ya kotumba est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/boeuf-ya-kotumba/",
+    "recipe_id": "boeuf-ya-kotumba"
+  },
+  {
+    "id": "boeuf-ya-kotumba-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Bœuf ya kotumba ?",
+    "completion": "Bœuf ya kotumba peut aussi être appelé : bœuf grillé, kotumba, bœuf, grillade, Kinshasa, braise.",
+    "recipe_id": "boeuf-ya-kotumba"
+  },
+  {
     "id": "bouillie-arachide-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -240,6 +280,46 @@
     "recipe_id": "bouillie-mais"
   },
   {
+    "id": "brochettes-foie-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Brochettes de foie » (République démocratique du Congo).",
+    "completion": "# Brochettes de foie\n\nRecette de brochettes de foie : foie de bœuf en dés, enfilé et grillé rapidement — street food kinshasaise, distincte du foie sauté à la poêle.\n\nRégion : Kinshasa\nPortions : 4\nPréparation : 20 min + 30 min de marinade\nCuisson : 10 min\n\n## Ingrédients\n- 600 g de foie de bœuf, en dés\n- 1 oignon, râpé ou très finement émincé\n- 2 gousses d’ail, écrasées\n- 2 c. à soupe de jus de citron\n- 2 c. à soupe d’huile\n- Pili-pili, sel et poivre\n- Brochettes en bois, trempées dans l’eau\n\n## Préparation\n1. Mélanger oignon, ail, citron, huile, sel, poivre et pili-pili. Enrober le foie et mariner 30 minutes au frais.\n2. Enfiler les dés sur les brochettes sans trop serrer.\n3. [object Object]\n4. Servir aussitôt avec oignon cru, pili-pili et pain ou frites.\n\nSource : https://mpichi.likeur.xyz/recettes/brochettes-foie/",
+    "recipe_id": "brochettes-foie"
+  },
+  {
+    "id": "brochettes-foie-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Liver skewers\" (Democratic Republic of the Congo).",
+    "completion": "# Liver skewers\n\nLiver skewers recipe: beef liver cubes threaded and grilled quickly — Kinshasa street food, distinct from pan-sautéed liver.\n\nRegion: Kinshasa\nServings: 4\nPrep: 20 min + 30 min de marinade\nCook: 10 min\n\n## Ingredients\n- 600 g beef liver, cubed\n- 1 onion, grated or very finely sliced\n- 2 garlic cloves, crushed\n- 2 tbsp lemon juice\n- 2 tbsp oil\n- Chili, salt and pepper\n- Wooden skewers, soaked in water\n\n## Steps\n1. Mix onion, garlic, lemon, oil, salt, pepper and chili. Coat the liver and marinate cold 30 minutes.\n2. Thread the cubes without packing them too tight.\n3. Grill over hot coals 3–4 minutes per side; the liver should stay slightly pink inside.\n4. Serve at once with raw onion, chili sauce and bread or fries.\n\nSource: https://mpichi.likeur.xyz/en/recettes/brochettes-foie/",
+    "recipe_id": "brochettes-foie"
+  },
+  {
+    "id": "brochettes-foie-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Brochettes de foie ?",
+    "completion": "- 600 g de foie de bœuf, en dés\n- 1 oignon, râpé ou très finement émincé\n- 2 gousses d’ail, écrasées\n- 2 c. à soupe de jus de citron\n- 2 c. à soupe d’huile\n- Pili-pili, sel et poivre\n- Brochettes en bois, trempées dans l’eau",
+    "recipe_id": "brochettes-foie"
+  },
+  {
+    "id": "brochettes-foie-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Brochettes de foie en RDC ?",
+    "completion": "Brochettes de foie est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/brochettes-foie/",
+    "recipe_id": "brochettes-foie"
+  },
+  {
+    "id": "brochettes-foie-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Brochettes de foie ?",
+    "completion": "Brochettes de foie peut aussi être appelé : foie, brochettes, grillade, Kinshasa, street food.",
+    "recipe_id": "brochettes-foie"
+  },
+  {
     "id": "brochettes-grillons-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -318,6 +398,46 @@
     "prompt": "Quels autres noms connaît-on pour Bukari ?",
     "completion": "Bukari peut aussi être appelé : bidia, fufu de maïs, fufu, bukari, fufu maïs, Grand Katanga, Lubumbashi.",
     "recipe_id": "bukari-katanga"
+  },
+  {
+    "id": "capitaine-braise-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Capitaine braisé » (République démocratique du Congo).",
+    "completion": "# Capitaine braisé\n\nRecette de capitaine braisé : perche du Nil entière marinée aux aromates et grillée jusqu’à la peau fumée — grillade de fleuve, distincte du poisson de Kinkole.\n\nRégion : Kinshasa & bassin du Congo\nPortions : 4\nPréparation : 30 min + 1 h de marinade\nCuisson : 35 min\n\n## Ingrédients\n- 1 capitaine (perche du Nil) de 1,2 à 1,5 kg, vidé et écaillé\n- 2 oignons, dont un râpé\n- 4 gousses d’ail, écrasées\n- 2 cm de gingembre, râpé\n- Jus de 2 citrons\n- 3 c. à soupe d’huile\n- Pili-pili, sel et poivre\n- 1 cube de bouillon, facultatif\n\n## Préparation\n1. Inciser le poisson de chaque côté. Mélanger oignon râpé, ail, gingembre, citron, huile, sel, poivre, pili-pili et cube émietté.\n2. Enrober le capitaine, farcir un peu la cavité et mariner au frais au moins 1 heure.\n3. Précuire à la marmite 10 minutes avec un fond d’eau et le reste de marinade, ou passer directement au grill.\n4. Braiser sur braises moyennes 20 à 25 minutes en retournant et en badigeonnant du jus.\n5. Servir avec plantain, chikwangue, oignon cru et sauce pili-pili.\n\nSource : https://mpichi.likeur.xyz/recettes/capitaine-braise/",
+    "recipe_id": "capitaine-braise"
+  },
+  {
+    "id": "capitaine-braise-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Grilled capitaine\" (Democratic Republic of the Congo).",
+    "completion": "# Grilled capitaine\n\nGrilled capitaine recipe: whole Nile perch marinated with aromatics and grilled until the skin is smoky — river grillade, distinct from generic Kinkole braised fish.\n\nRegion: Kinshasa & bassin du Congo\nServings: 4\nPrep: 30 min + 1 h de marinade\nCook: 35 min\n\n## Ingredients\n- 1 capitaine (Nile perch), 1.2–1.5 kg, cleaned and scaled\n- 2 onions, one grated\n- 4 garlic cloves, crushed\n- 2 cm ginger, grated\n- Juice of 2 lemons\n- 3 tbsp oil\n- Chili, salt and pepper\n- 1 stock cube, optional\n\n## Steps\n1. Score the fish on both sides. Mix grated onion, garlic, ginger, lemon, oil, salt, pepper, chili and crumbled cube.\n2. Coat the fish, stuff a little into the cavity and marinate cold at least 1 hour.\n3. Par-cook 10 minutes with a splash of water and leftover marinade, or go straight to the grill.\n4. Grill over medium coals 20–25 minutes, turning and basting.\n5. Serve with plantain, chikwangue, raw onion and chili sauce.\n\nSource: https://mpichi.likeur.xyz/en/recettes/capitaine-braise/",
+    "recipe_id": "capitaine-braise"
+  },
+  {
+    "id": "capitaine-braise-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Capitaine braisé ?",
+    "completion": "- 1 capitaine (perche du Nil) de 1,2 à 1,5 kg, vidé et écaillé\n- 2 oignons, dont un râpé\n- 4 gousses d’ail, écrasées\n- 2 cm de gingembre, râpé\n- Jus de 2 citrons\n- 3 c. à soupe d’huile\n- Pili-pili, sel et poivre\n- 1 cube de bouillon, facultatif",
+    "recipe_id": "capitaine-braise"
+  },
+  {
+    "id": "capitaine-braise-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Capitaine braisé en RDC ?",
+    "completion": "Capitaine braisé est associé à la région / zone : Kinshasa & bassin du Congo. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/capitaine-braise/",
+    "recipe_id": "capitaine-braise"
+  },
+  {
+    "id": "capitaine-braise-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Capitaine braisé ?",
+    "completion": "Capitaine braisé peut aussi être appelé : perche du Nil, Nile perch, capitaine, braise, Kinshasa, fleuve.",
+    "recipe_id": "capitaine-braise"
   },
   {
     "id": "chikwangue-recipe-fr",
@@ -1080,6 +1200,46 @@
     "recipe_id": "lituma"
   },
   {
+    "id": "loso-mayonnaise-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Loso mayonnaise » (République démocratique du Congo).",
+    "completion": "# Loso mayonnaise\n\nRecette de loso mayonnaise : riz nature mélangé ou nappé d’une mayonnaise relevée — accompagnement et street food très courant à Kinshasa.\n\nRégion : Kinshasa\nPortions : 4\nPréparation : 10 min\nCuisson : 25 min\n\n## Ingrédients\n- 400 g de riz long\n- 750 ml d’eau\n- 1 c. à café de sel\n- 150 ml de mayonnaise\n- 1 gousse d’ail, écrasée, facultatif\n- 1 c. à café de moutarde, facultatif\n- Pili-pili et poivre\n- 1 c. à soupe de jus de citron, facultatif\n\n## Préparation\n1. Rincer le riz. Le cuire à l’eau salée jusqu’à absorption (environ 18 minutes). Égrener et laisser tiédir légèrement.\n2. Mélanger mayonnaise, ail, moutarde, citron, pili-pili et poivre.\n3. Incorporer la sauce au riz encore chaud, ou servir le riz et napper au dernier moment.\n4. Goûter et ajuster le sel. Servir avec poulet, poisson, brochettes ou seul.\n\nSource : https://mpichi.likeur.xyz/recettes/loso-mayonnaise/",
+    "recipe_id": "loso-mayonnaise"
+  },
+  {
+    "id": "loso-mayonnaise-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Loso mayonnaise\" (Democratic Republic of the Congo).",
+    "completion": "# Loso mayonnaise\n\nLoso mayonnaise recipe: plain rice mixed or topped with seasoned mayonnaise — everyday Kinshasa side and street plate.\n\nRegion: Kinshasa\nServings: 4\nPrep: 10 min\nCook: 25 min\n\n## Ingredients\n- 400 g long-grain rice\n- 750 ml water\n- 1 tsp salt\n- 150 ml mayonnaise\n- 1 garlic clove, crushed, optional\n- 1 tsp mustard, optional\n- Chili and pepper\n- 1 tbsp lemon juice, optional\n\n## Steps\n1. Rinse the rice. Cook in salted water until absorbed (about 18 minutes). Fluff and let it cool slightly.\n2. Mix mayonnaise, garlic, mustard, lemon, chili and pepper.\n3. Fold the sauce into the warm rice, or plate the rice and spoon the mayo on top.\n4. Taste and adjust salt. Serve with chicken, fish, skewers or on its own.\n\nSource: https://mpichi.likeur.xyz/en/recettes/loso-mayonnaise/",
+    "recipe_id": "loso-mayonnaise"
+  },
+  {
+    "id": "loso-mayonnaise-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Loso mayonnaise ?",
+    "completion": "- 400 g de riz long\n- 750 ml d’eau\n- 1 c. à café de sel\n- 150 ml de mayonnaise\n- 1 gousse d’ail, écrasée, facultatif\n- 1 c. à café de moutarde, facultatif\n- Pili-pili et poivre\n- 1 c. à soupe de jus de citron, facultatif",
+    "recipe_id": "loso-mayonnaise"
+  },
+  {
+    "id": "loso-mayonnaise-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Loso mayonnaise en RDC ?",
+    "completion": "Loso mayonnaise est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/loso-mayonnaise/",
+    "recipe_id": "loso-mayonnaise"
+  },
+  {
+    "id": "loso-mayonnaise-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Loso mayonnaise ?",
+    "completion": "Loso mayonnaise peut aussi être appelé : riz mayonnaise, loso mayo, loso, riz, mayonnaise, Kinshasa, street food.",
+    "recipe_id": "loso-mayonnaise"
+  },
+  {
     "id": "loso-na-madesu-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1840,6 +2000,46 @@
     "recipe_id": "ngai-ngai"
   },
   {
+    "id": "ngulu-ya-sauce-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Ngulu ya sauce » (République démocratique du Congo).",
+    "completion": "# Ngulu ya sauce\n\nRecette de ngulu ya sauce : porc mijoté dans une sauce tomate-oignon jusqu’à fondre — plat de table kinshasaise, distinct du porc braisé sur braises.\n\nRégion : Kinshasa\nPortions : 6\nPréparation : 25 min\nCuisson : 1 h 15\n\n## Ingrédients\n- 1,2 kg de porc (épaule ou échine) en morceaux\n- 3 oignons, émincés\n- 4 gousses d’ail, écrasées\n- 4 tomates mûres, concassées (ou 400 g de pulpe)\n- 3 c. à soupe d’huile\n- 1 cube de bouillon\n- Pili-pili, sel et poivre\n- 400 ml d’eau\n- 1 feuille de laurier, facultatif\n\n## Préparation\n1. Faire dorer les morceaux de porc dans l’huile. Réserver.\n2. Faire fondre les oignons, ajouter l’ail puis les tomates. Laisser réduire 8 à 10 minutes.\n3. Remettre le porc, le cube, le laurier, l’eau, sel, poivre et pili-pili.\n4. Couvrir et mijoter à feu doux 50 à 60 minutes jusqu’à ce que la viande soit tendre et la sauce liée.\n5. Rectifier l’assaisonnement. Servir avec riz, fufu, chikwangue ou plantain.\n\nSource : https://mpichi.likeur.xyz/recettes/ngulu-ya-sauce/",
+    "recipe_id": "ngulu-ya-sauce"
+  },
+  {
+    "id": "ngulu-ya-sauce-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Ngulu in sauce\" (Democratic Republic of the Congo).",
+    "completion": "# Ngulu in sauce\n\nNgulu ya sauce recipe: pork simmered in tomato-onion sauce until tender — Kinshasa table dish, distinct from charcoal-braised pork.\n\nRegion: Kinshasa\nServings: 6\nPrep: 25 min\nCook: 1 h 15\n\n## Ingredients\n- 1.2 kg pork (shoulder or loin) in pieces\n- 3 onions, sliced\n- 4 garlic cloves, crushed\n- 4 ripe tomatoes, crushed (or 400 g pulp)\n- 3 tbsp oil\n- 1 stock cube\n- Chili, salt and pepper\n- 400 ml water\n- 1 bay leaf, optional\n\n## Steps\n1. Brown the pork in oil. Set aside.\n2. Sweat the onions, add garlic then tomatoes. Reduce 8–10 minutes.\n3. Return the pork with cube, bay leaf, water, salt, pepper and chili.\n4. Cover and simmer gently 50–60 minutes until tender and the sauce thickens.\n5. Adjust seasoning. Serve with rice, fufu, chikwangue or plantain.\n\nSource: https://mpichi.likeur.xyz/en/recettes/ngulu-ya-sauce/",
+    "recipe_id": "ngulu-ya-sauce"
+  },
+  {
+    "id": "ngulu-ya-sauce-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Ngulu ya sauce ?",
+    "completion": "- 1,2 kg de porc (épaule ou échine) en morceaux\n- 3 oignons, émincés\n- 4 gousses d’ail, écrasées\n- 4 tomates mûres, concassées (ou 400 g de pulpe)\n- 3 c. à soupe d’huile\n- 1 cube de bouillon\n- Pili-pili, sel et poivre\n- 400 ml d’eau\n- 1 feuille de laurier, facultatif",
+    "recipe_id": "ngulu-ya-sauce"
+  },
+  {
+    "id": "ngulu-ya-sauce-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Ngulu ya sauce en RDC ?",
+    "completion": "Ngulu ya sauce est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/ngulu-ya-sauce/",
+    "recipe_id": "ngulu-ya-sauce"
+  },
+  {
+    "id": "ngulu-ya-sauce-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Ngulu ya sauce ?",
+    "completion": "Ngulu ya sauce peut aussi être appelé : ngulu, porc en sauce, porc, sauce tomate, Kinshasa, mijoté.",
+    "recipe_id": "ngulu-ya-sauce"
+  },
+  {
     "id": "nsafu-grilles-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2160,6 +2360,46 @@
     "recipe_id": "poisson-fume-tomates"
   },
   {
+    "id": "poisson-mayo-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Poisson mayo » (République démocratique du Congo).",
+    "completion": "# Poisson mayo\n\nRecette de poisson mayo : poisson frit ou grillé nappé d’une mayonnaise relevée d’ail et de pili-pili — street food kinshasaise, miroir du poulet mayo.\n\nRégion : Kinshasa\nPortions : 4\nPréparation : 20 min\nCuisson : 30 min\n\n## Ingrédients\n- 800 g de poisson en filets ou darnes (tilapia, capitaine…)\n- 3 c. à soupe d’huile pour frire ou griller\n- 2 oignons, émincés\n- 2 gousses d’ail, écrasées\n- 180 ml de mayonnaise\n- 1 c. à café de moutarde\n- 1 c. à soupe de jus de citron\n- Pili-pili, sel et poivre\n- Farine pour paner légèrement, facultatif\n\n## Préparation\n1. Saler, poivrer et citronner le poisson. Fariner légèrement si on veut une croûte.\n2. Faire dorer le poisson dans l’huile chaude (ou le griller). Réserver au chaud.\n3. Faire fondre les oignons et l’ail dans un fond d’huile. Déglacer d’un trait d’eau.\n4. Hors du feu, mélanger mayonnaise, moutarde, citron et pili-pili. Napper le poisson encore chaud.\n5. Servir aussitôt avec frites, riz ou pain.\n\nSource : https://mpichi.likeur.xyz/recettes/poisson-mayo/",
+    "recipe_id": "poisson-mayo"
+  },
+  {
+    "id": "poisson-mayo-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Fish mayo\" (Democratic Republic of the Congo).",
+    "completion": "# Fish mayo\n\nFish mayo recipe: fried or grilled fish finished with garlic-chili mayonnaise — Kinshasa street food, the fish twin of chicken mayo.\n\nRegion: Kinshasa\nServings: 4\nPrep: 20 min\nCook: 30 min\n\n## Ingredients\n- 800 g fish fillets or steaks (tilapia, capitaine…)\n- 3 tbsp oil for frying or grilling\n- 2 onions, sliced\n- 2 garlic cloves, crushed\n- 180 ml mayonnaise\n- 1 tsp mustard\n- 1 tbsp lemon juice\n- Chili, salt and pepper\n- Flour for a light coating, optional\n\n## Steps\n1. Season the fish with salt, pepper and lemon. Dust lightly with flour if you want a crust.\n2. Brown the fish in hot oil (or grill). Keep warm.\n3. Sweat onions and garlic in a little oil. Deglaze with a splash of water.\n4. Off the heat, mix mayonnaise, mustard, lemon and chili. Coat the hot fish.\n5. Serve at once with fries, rice or bread.\n\nSource: https://mpichi.likeur.xyz/en/recettes/poisson-mayo/",
+    "recipe_id": "poisson-mayo"
+  },
+  {
+    "id": "poisson-mayo-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Poisson mayo ?",
+    "completion": "- 800 g de poisson en filets ou darnes (tilapia, capitaine…)\n- 3 c. à soupe d’huile pour frire ou griller\n- 2 oignons, émincés\n- 2 gousses d’ail, écrasées\n- 180 ml de mayonnaise\n- 1 c. à café de moutarde\n- 1 c. à soupe de jus de citron\n- Pili-pili, sel et poivre\n- Farine pour paner légèrement, facultatif",
+    "recipe_id": "poisson-mayo"
+  },
+  {
+    "id": "poisson-mayo-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Poisson mayo en RDC ?",
+    "completion": "Poisson mayo est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/poisson-mayo/",
+    "recipe_id": "poisson-mayo"
+  },
+  {
+    "id": "poisson-mayo-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Poisson mayo ?",
+    "completion": "Poisson mayo peut aussi être appelé : poisson mayo, mayonnaise, street food, Kinshasa, frit.",
+    "recipe_id": "poisson-mayo"
+  },
+  {
     "id": "poisson-moambe-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2318,6 +2558,46 @@
     "prompt": "Quels autres noms connaît-on pour Poulet mayo ?",
     "completion": "Poulet mayo peut aussi être appelé : poulet mayo, mayonnaise, poulet, Kinshasa, fête.",
     "recipe_id": "poulet-mayo"
+  },
+  {
+    "id": "poulet-pane-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Poulet pané » (République démocratique du Congo).",
+    "completion": "# Poulet pané\n\nRecette de poulet pané : morceaux de poulet panés puis frits jusqu’à croustillant — street food et goûter kinshasa, distinct du poulet mayo ou grillé.\n\nRégion : Kinshasa\nPortions : 4\nPréparation : 25 min\nCuisson : 25 min\n\n## Ingrédients\n- 800 g de poulet (cuisses désossées ou blancs) en morceaux\n- 2 œufs, battus\n- 150 g de farine\n- 120 g de chapelure ou pain râpé\n- 1 c. à café de sel\n- Poivre et pili-pili\n- 1 c. à café d’ail en poudre ou 1 gousse écrasée\n- Huile pour friture\n\n## Préparation\n1. Assaisonner le poulet avec sel, poivre, pili-pili et ail. Laisser reposer 15 minutes.\n2. Fariner chaque morceau, passer dans l’œuf, puis dans la chapelure en pressant bien.\n3. Chauffer l’huile à feu moyen-vif. Frire les morceaux 6 à 8 minutes par côté jusqu’à doré et cuisson à cœur.\n4. Égoutter sur papier absorbant. Servir chaud avec sauce pili-pili, mayonnaise ou ketchup.\n\nSource : https://mpichi.likeur.xyz/recettes/poulet-pane/",
+    "recipe_id": "poulet-pane"
+  },
+  {
+    "id": "poulet-pane-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Breaded chicken\" (Democratic Republic of the Congo).",
+    "completion": "# Breaded chicken\n\nBreaded chicken recipe: chicken pieces coated and fried until crisp — Kinshasa street snack, distinct from mayo or grilled chicken.\n\nRegion: Kinshasa\nServings: 4\nPrep: 25 min\nCook: 25 min\n\n## Ingredients\n- 800 g chicken (boneless thighs or breasts) in pieces\n- 2 eggs, beaten\n- 150 g flour\n- 120 g breadcrumbs\n- 1 tsp salt\n- Pepper and chili\n- 1 tsp garlic powder or 1 crushed clove\n- Oil for frying\n\n## Steps\n1. Season the chicken with salt, pepper, chili and garlic. Rest 15 minutes.\n2. Flour each piece, dip in egg, then press into breadcrumbs.\n3. Heat oil to medium-high. Fry 6–8 minutes per side until golden and cooked through.\n4. Drain on paper. Serve hot with chili sauce, mayonnaise or ketchup.\n\nSource: https://mpichi.likeur.xyz/en/recettes/poulet-pane/",
+    "recipe_id": "poulet-pane"
+  },
+  {
+    "id": "poulet-pane-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Poulet pané ?",
+    "completion": "- 800 g de poulet (cuisses désossées ou blancs) en morceaux\n- 2 œufs, battus\n- 150 g de farine\n- 120 g de chapelure ou pain râpé\n- 1 c. à café de sel\n- Poivre et pili-pili\n- 1 c. à café d’ail en poudre ou 1 gousse écrasée\n- Huile pour friture",
+    "recipe_id": "poulet-pane"
+  },
+  {
+    "id": "poulet-pane-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Poulet pané en RDC ?",
+    "completion": "Poulet pané est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/poulet-pane/",
+    "recipe_id": "poulet-pane"
+  },
+  {
+    "id": "poulet-pane-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Poulet pané ?",
+    "completion": "Poulet pané peut aussi être appelé : poulet pané, frit, street food, Kinshasa, croustillant.",
+    "recipe_id": "poulet-pane"
   },
   {
     "id": "riz-moambe-recipe-fr",
@@ -2558,6 +2838,46 @@
     "prompt": "Quels autres noms connaît-on pour Sauce pili-pili ?",
     "completion": "Sauce pili-pili peut aussi être appelé : pili-pili, sauce piment, condiment, grillade, piment.",
     "recipe_id": "sauce-pili-pili"
+  },
+  {
+    "id": "saucisse-frites-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Saucisse-frites » (République démocratique du Congo).",
+    "completion": "# Saucisse-frites\n\nRecette de saucisse-frites : saucisses dorées servies avec des frites croustillantes — combo street food incontournable de Kinshasa.\n\nRégion : Kinshasa\nPortions : 4\nPréparation : 15 min\nCuisson : 30 min\n\n## Ingrédients\n- 8 saucisses (type cocktail ou saucisses à griller)\n- 800 g de pommes de terre\n- Huile pour friture\n- Sel\n- Pili-pili ou ketchup, pour servir\n- 1 oignon émincé, facultatif\n\n## Préparation\n1. Éplucher les pommes de terre, les couper en frites, rincer et bien sécher.\n2. Faire chauffer l’huile. Blanchir les frites 5 à 6 minutes à feu moyen, égoutter. Remonter le feu et les redorer 3 à 4 minutes. Saler.\n3. Dans une poêle ou l’huile, faire dorer les saucisses 8 à 10 minutes en les piquant légèrement.\n4. Servir saucisses et frites ensemble, avec oignon, pili-pili ou ketchup.\n\nSource : https://mpichi.likeur.xyz/recettes/saucisse-frites/",
+    "recipe_id": "saucisse-frites"
+  },
+  {
+    "id": "saucisse-frites-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Sausage and fries\" (Democratic Republic of the Congo).",
+    "completion": "# Sausage and fries\n\nSausage and fries recipe: browned sausages with crisp fries — a Kinshasa street-food combo.\n\nRegion: Kinshasa\nServings: 4\nPrep: 15 min\nCook: 30 min\n\n## Ingredients\n- 8 sausages (cocktail or grilling sausages)\n- 800 g potatoes\n- Oil for frying\n- Salt\n- Chili sauce or ketchup, to serve\n- 1 sliced onion, optional\n\n## Steps\n1. Peel and cut the potatoes into fries; rinse and dry well.\n2. Heat the oil. Blanch the fries 5–6 minutes over medium heat; drain. Raise the heat and brown 3–4 minutes. Salt.\n3. In a pan or the oil, brown the sausages 8–10 minutes, pricking them lightly.\n4. Serve sausages and fries together with onion, chili or ketchup.\n\nSource: https://mpichi.likeur.xyz/en/recettes/saucisse-frites/",
+    "recipe_id": "saucisse-frites"
+  },
+  {
+    "id": "saucisse-frites-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Saucisse-frites ?",
+    "completion": "- 8 saucisses (type cocktail ou saucisses à griller)\n- 800 g de pommes de terre\n- Huile pour friture\n- Sel\n- Pili-pili ou ketchup, pour servir\n- 1 oignon émincé, facultatif",
+    "recipe_id": "saucisse-frites"
+  },
+  {
+    "id": "saucisse-frites-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Saucisse-frites en RDC ?",
+    "completion": "Saucisse-frites est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/saucisse-frites/",
+    "recipe_id": "saucisse-frites"
+  },
+  {
+    "id": "saucisse-frites-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Saucisse-frites ?",
+    "completion": "Saucisse-frites peut aussi être appelé : saucisse, frites, street food, Kinshasa, snack.",
+    "recipe_id": "saucisse-frites"
   },
   {
     "id": "sombe-recipe-fr",
@@ -2867,12 +3187,28 @@
     "id": "region-list-3",
     "lang": "fr",
     "task": "region_list",
+    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa » ?",
+    "completion": "- Bœuf ya kotumba\n- Brochettes de foie\n- Foie de bœuf sauté\n- Jus de fruit de la passion\n- Kamundele\n- Loso mayonnaise\n- Loso na madesu\n- Loso na petits pois\n- Makoso\n- Mikate\n- Mikila\n- Ndunda\n- Ngulu ya sauce\n- Pain mayonnaise\n- Pepe soupe ya ngolo\n- Poisson mayo\n- Porc braisé\n- Poulet mayo\n- Poulet pané\n- Saucisse-frites\n- Soso ya kotumba\n- Soso ya sauce\n- Tangawisi\n- Viande ya sauce",
+    "recipe_id": null
+  },
+  {
+    "id": "region-list-4",
+    "lang": "fr",
+    "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Grand Katanga » ?",
     "completion": "- Bukari\n- Matembele aux arachides\n- Sombe",
     "recipe_id": null
   },
   {
-    "id": "region-list-4",
+    "id": "region-list-5",
+    "lang": "fr",
+    "task": "region_list",
+    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & bassin du Congo » ?",
+    "completion": "- Capitaine braisé\n- Kossa-kossa\n- Makayabu aux tomates\n- Poisson fumé aux tomates\n- Poisson à la moambe",
+    "recipe_id": null
+  },
+  {
+    "id": "region-list-6",
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Bassin du Congo » ?",
@@ -2880,15 +3216,7 @@
     "recipe_id": null
   },
   {
-    "id": "region-list-5",
-    "lang": "fr",
-    "task": "region_list",
-    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa » ?",
-    "completion": "- Foie de bœuf sauté\n- Jus de fruit de la passion\n- Kamundele\n- Loso na madesu\n- Loso na petits pois\n- Makoso\n- Mikate\n- Mikila\n- Ndunda\n- Pain mayonnaise\n- Pepe soupe ya ngolo\n- Porc braisé\n- Poulet mayo\n- Soso ya kotumba\n- Soso ya sauce\n- Tangawisi\n- Viande ya sauce",
-    "recipe_id": null
-  },
-  {
-    "id": "region-list-6",
+    "id": "region-list-7",
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Ouest de la RDC » ?",
@@ -2896,19 +3224,11 @@
     "recipe_id": null
   },
   {
-    "id": "region-list-7",
+    "id": "region-list-8",
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Haut-Katanga & Tanganyika » ?",
     "completion": "- Kapenta aux tomates\n- Sambaza aux tomates",
-    "recipe_id": null
-  },
-  {
-    "id": "region-list-8",
-    "lang": "fr",
-    "task": "region_list",
-    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & bassin du Congo » ?",
-    "completion": "- Kossa-kossa\n- Makayabu aux tomates\n- Poisson fumé aux tomates\n- Poisson à la moambe",
     "recipe_id": null
   },
   {

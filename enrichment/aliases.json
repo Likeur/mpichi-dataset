@@ -40,5 +40,21 @@
     { "name": "bidia", "lang": "fr", "note": "Kasai name for the same maize dough (no separate page)" },
     { "name": "fufu de maïs", "lang": "fr" },
     { "name": "fufu", "lang": "en", "note": "Generic diaspora term for stiff starch balls" }
+  ],
+  "ngulu-ya-sauce": [
+    { "name": "ngulu", "lang": "ln", "note": "Lingala for pork" },
+    { "name": "porc en sauce", "lang": "fr" }
+  ],
+  "capitaine-braise": [
+    { "name": "perche du Nil", "lang": "fr" },
+    { "name": "Nile perch", "lang": "en" }
+  ],
+  "boeuf-ya-kotumba": [
+    { "name": "bœuf grillé", "lang": "fr" },
+    { "name": "kotumba", "lang": "ln", "note": "Grill / roast gesture" }
+  ],
+  "loso-mayonnaise": [
+    { "name": "riz mayonnaise", "lang": "fr" },
+    { "name": "loso mayo", "lang": "ln" }
   ]
 }

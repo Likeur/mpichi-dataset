@@ -575,6 +575,153 @@
     "updated_at": "2026-10-22"
   },
   {
+    "id": "boeuf-ya-kotumba",
+    "slug": "boeuf-ya-kotumba",
+    "names": {
+      "fr": "Bœuf ya kotumba",
+      "en": "Beef ya kotumba",
+      "aliases": [
+        {
+          "name": "bœuf grillé",
+          "lang": "fr"
+        },
+        {
+          "name": "kotumba",
+          "lang": "ln",
+          "note": "Grill / roast gesture"
+        },
+        {
+          "name": "bœuf",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "grillade",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Kinshasa",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "braise",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette bœuf ya kotumba — bœuf grillé",
+      "en": "Beef ya kotumba recipe — grilled beef"
+    },
+    "description": {
+      "fr": "Recette de bœuf ya kotumba : morceaux de bœuf marinés puis grillés jusqu’à une croûte fumée — grillade kinshasaise, distincte des kamundele en brochettes.",
+      "en": "Beef ya kotumba recipe: marinated beef pieces grilled to a smoky crust — Kinshasa grillade, distinct from kamundele skewers."
+    },
+    "body": {
+      "fr": "**Kotumba** renvoie au geste de grillade / rôti. Le [soso ya kotumba](/recettes/soso-ya-kotumba/) est le poulet ; ici c’est le **bœuf en pièces**, plus larges que les [kamundele](/recettes/kamundele/) en brochettes. Pour le bœuf mijoté, voir [viande ya sauce](/recettes/viande-ya-sauce/).",
+      "en": "Kotumba points to grilling or roasting. Soso ya kotumba is the chicken; here beef comes in larger pieces than kamundele skewers. For stewed beef, see viande ya sauce."
+    },
+    "region": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "plat",
+    "difficulty": "moyen",
+    "prep_time": "25 min + 2 h de marinade",
+    "cook_time": "40 min",
+    "prep_time_iso": "PT2H25M",
+    "cook_time_iso": "PT40M",
+    "servings": 6,
+    "tags": [
+      "bœuf",
+      "kotumba",
+      "grillade",
+      "Kinshasa",
+      "braise"
+    ],
+    "ingredients": {
+      "fr": [
+        "1,2 kg de bœuf (basse côte, paleron ou rumsteck) en gros morceaux",
+        "2 oignons, dont un râpé",
+        "4 gousses d’ail, écrasées",
+        "2 cm de gingembre, râpé",
+        "Jus de 1 citron",
+        "3 c. à soupe d’huile",
+        "Pili-pili, sel et poivre",
+        "1 cube de bouillon, facultatif"
+      ],
+      "en": [
+        "1.2 kg beef (chuck, blade or rump) in large pieces",
+        "2 onions, one grated",
+        "4 garlic cloves, crushed",
+        "2 cm ginger, grated",
+        "Juice of 1 lemon",
+        "3 tbsp oil",
+        "Chili, salt and pepper",
+        "1 stock cube, optional"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Préparer une marinade avec oignon râpé, ail, gingembre, citron, huile, sel, poivre, pili-pili et cube.",
+        "Enrober le bœuf et mariner au frais au moins 2 heures.",
+        "Précuire à la marmite 15 à 20 minutes avec un fond d’eau et la marinade.",
+        "Égoutter puis griller sur braises moyennes 15 à 20 minutes en badigeonnant du jus.",
+        "Servir avec oignon cru, sauce pili-pili, frites ou chikwangue."
+      ],
+      "en": [
+        "Make a marinade with grated onion, garlic, ginger, lemon, oil, salt, pepper, chili and cube.",
+        "Coat the beef and marinate cold at least 2 hours.",
+        "Par-cook 15–20 minutes with a splash of water and the marinade.",
+        "Drain, then grill over medium coals 15–20 minutes, basting.",
+        "Serve with raw onion, chili sauce, fries or chikwangue."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "soso-ya-kotumba",
+      "kamundele",
+      "viande-ya-sauce"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Fanny Schertzer — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Kamundele.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kamundele.jpg?width=1600",
+    "image_alt": {
+      "fr": "Viande de bœuf grillée servie en portion",
+      "en": "Grilled beef served as a portion"
+    },
+    "image_credit": "Fanny Schertzer — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kamundele.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/boeuf-ya-kotumba/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/boeuf-ya-kotumba/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
     "id": "bouillie-arachide",
     "slug": "bouillie-arachide",
     "names": {
@@ -824,6 +971,147 @@
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/bouillie-mais/",
       "en": "https://mpichi.likeur.xyz/en/recettes/bouillie-mais/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
+    "id": "brochettes-foie",
+    "slug": "brochettes-foie",
+    "names": {
+      "fr": "Brochettes de foie",
+      "en": "Liver skewers",
+      "aliases": [
+        {
+          "name": "foie",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "brochettes",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "grillade",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Kinshasa",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "street food",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette brochettes de foie kinshasa",
+      "en": "Liver skewers recipe Kinshasa"
+    },
+    "description": {
+      "fr": "Recette de brochettes de foie : foie de bœuf en dés, enfilé et grillé rapidement — street food kinshasaise, distincte du foie sauté à la poêle.",
+      "en": "Liver skewers recipe: beef liver cubes threaded and grilled quickly — Kinshasa street food, distinct from pan-sautéed liver."
+    },
+    "body": {
+      "fr": "Les **brochettes de foie** se cuisent vite sur le feu ; le [foie sauté](/recettes/foie-boeuf-saute/) reste le geste à la poêle. Trop cuit, le foie durcit — d’où la braise courte, comme pour beaucoup de grillades de rue à Kinshasa.",
+      "en": "Liver skewers cook fast on the fire; sautéed liver stays the pan version. Overcooked liver turns tough—hence the short grill, like much Kinshasa street meat."
+    },
+    "region": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "plat",
+    "difficulty": "facile",
+    "prep_time": "20 min + 30 min de marinade",
+    "cook_time": "10 min",
+    "prep_time_iso": "PT20M",
+    "cook_time_iso": "PT10M",
+    "servings": 4,
+    "tags": [
+      "foie",
+      "brochettes",
+      "grillade",
+      "Kinshasa",
+      "street food"
+    ],
+    "ingredients": {
+      "fr": [
+        "600 g de foie de bœuf, en dés",
+        "1 oignon, râpé ou très finement émincé",
+        "2 gousses d’ail, écrasées",
+        "2 c. à soupe de jus de citron",
+        "2 c. à soupe d’huile",
+        "Pili-pili, sel et poivre",
+        "Brochettes en bois, trempées dans l’eau"
+      ],
+      "en": [
+        "600 g beef liver, cubed",
+        "1 onion, grated or very finely sliced",
+        "2 garlic cloves, crushed",
+        "2 tbsp lemon juice",
+        "2 tbsp oil",
+        "Chili, salt and pepper",
+        "Wooden skewers, soaked in water"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Mélanger oignon, ail, citron, huile, sel, poivre et pili-pili. Enrober le foie et mariner 30 minutes au frais.",
+        "Enfiler les dés sur les brochettes sans trop serrer.",
+        {
+          "Griller sur braises vives 3 à 4 minutes par côté": "le foie doit rester rosée à l’intérieur."
+        },
+        "Servir aussitôt avec oignon cru, pili-pili et pain ou frites."
+      ],
+      "en": [
+        "Mix onion, garlic, lemon, oil, salt, pepper and chili. Coat the liver and marinate cold 30 minutes.",
+        "Thread the cubes without packing them too tight.",
+        "Grill over hot coals 3–4 minutes per side; the liver should stay slightly pink inside.",
+        "Serve at once with raw onion, chili sauce and bread or fries."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "foie-boeuf-saute",
+      "kamundele",
+      "sauce-pili-pili"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Kritzolina — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Jigar_Uzbek_Shashlik_from_Liver_and_Fat_Tail_Grilled_on_Skewers_on_Mangal_over_Charcoal_Outdoor_barbecue_Newton_Massachusetts.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jigar%20Uzbek%20Shashlik%20from%20Liver%20and%20Fat%20Tail%20Grilled%20on%20Skewers%20on%20Mangal%20over%20Charcoal%20Outdoor%20barbecue%20Newton%20Massachusetts.jpg?width=1600",
+    "image_alt": {
+      "fr": "Brochettes de foie grillées sur braises",
+      "en": "Liver skewers grilled over charcoal"
+    },
+    "image_credit": "Kritzolina — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Jigar_Uzbek_Shashlik_from_Liver_and_Fat_Tail_Grilled_on_Skewers_on_Mangal_over_Charcoal_Outdoor_barbecue_Newton_Massachusetts.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/brochettes-foie/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/brochettes-foie/"
     },
     "featured": false,
     "license": "CC-BY-4.0",
@@ -1102,6 +1390,153 @@
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/bukari-katanga/",
       "en": "https://mpichi.likeur.xyz/en/recettes/bukari-katanga/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
+    "id": "capitaine-braise",
+    "slug": "capitaine-braise",
+    "names": {
+      "fr": "Capitaine braisé",
+      "en": "Grilled capitaine",
+      "aliases": [
+        {
+          "name": "perche du Nil",
+          "lang": "fr"
+        },
+        {
+          "name": "Nile perch",
+          "lang": "en"
+        },
+        {
+          "name": "capitaine",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "braise",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Kinshasa",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "fleuve",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette capitaine braisé — perche du Nil",
+      "en": "Grilled capitaine recipe — Nile perch"
+    },
+    "description": {
+      "fr": "Recette de capitaine braisé : perche du Nil entière marinée aux aromates et grillée jusqu’à la peau fumée — grillade de fleuve, distincte du poisson de Kinkole.",
+      "en": "Grilled capitaine recipe: whole Nile perch marinated with aromatics and grilled until the skin is smoky — river grillade, distinct from generic Kinkole braised fish."
+    },
+    "body": {
+      "fr": "Le **capitaine** désigne surtout la perche du Nil sur les marchés de Kinshasa : pièce plus large que beaucoup de poissons de braise du fleuve. La fiche [poisson braisé à Kinkole](/recettes/poisson-braise-kinkole/) reste le geste de rue générique ; ici l’espèce et la taille guident le temps de cuisson.",
+      "en": "Capitaine usually means Nile perch in Kinshasa markets—a larger piece than many river fish. The Kinkole braised-fish page stays the generic street gesture; here species and size set the cooking time."
+    },
+    "region": "Kinshasa & bassin du Congo",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa",
+      "bassin du Congo"
+    ],
+    "category": "plat",
+    "difficulty": "moyen",
+    "prep_time": "30 min + 1 h de marinade",
+    "cook_time": "35 min",
+    "prep_time_iso": "PT1H30M",
+    "cook_time_iso": "PT35M",
+    "servings": 4,
+    "tags": [
+      "capitaine",
+      "perche du Nil",
+      "braise",
+      "Kinshasa",
+      "fleuve"
+    ],
+    "ingredients": {
+      "fr": [
+        "1 capitaine (perche du Nil) de 1,2 à 1,5 kg, vidé et écaillé",
+        "2 oignons, dont un râpé",
+        "4 gousses d’ail, écrasées",
+        "2 cm de gingembre, râpé",
+        "Jus de 2 citrons",
+        "3 c. à soupe d’huile",
+        "Pili-pili, sel et poivre",
+        "1 cube de bouillon, facultatif"
+      ],
+      "en": [
+        "1 capitaine (Nile perch), 1.2–1.5 kg, cleaned and scaled",
+        "2 onions, one grated",
+        "4 garlic cloves, crushed",
+        "2 cm ginger, grated",
+        "Juice of 2 lemons",
+        "3 tbsp oil",
+        "Chili, salt and pepper",
+        "1 stock cube, optional"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Inciser le poisson de chaque côté. Mélanger oignon râpé, ail, gingembre, citron, huile, sel, poivre, pili-pili et cube émietté.",
+        "Enrober le capitaine, farcir un peu la cavité et mariner au frais au moins 1 heure.",
+        "Précuire à la marmite 10 minutes avec un fond d’eau et le reste de marinade, ou passer directement au grill.",
+        "Braiser sur braises moyennes 20 à 25 minutes en retournant et en badigeonnant du jus.",
+        "Servir avec plantain, chikwangue, oignon cru et sauce pili-pili."
+      ],
+      "en": [
+        "Score the fish on both sides. Mix grated onion, garlic, ginger, lemon, oil, salt, pepper, chili and crumbled cube.",
+        "Coat the fish, stuff a little into the cavity and marinate cold at least 1 hour.",
+        "Par-cook 10 minutes with a splash of water and leftover marinade, or go straight to the grill.",
+        "Grill over medium coals 20–25 minutes, turning and basting.",
+        "Serve with plantain, chikwangue, raw onion and chili sauce."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "poisson-braise-kinkole",
+      "mbisi-ya-kokalinga",
+      "sauce-pili-pili"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Gra2mb — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Poisson_brais%C3%A9_%C3%A0_Kinkole.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Poisson%20brais%C3%A9%20%C3%A0%20Kinkole.jpg?width=1400",
+    "image_alt": {
+      "fr": "Gros poisson braisé servi avec accompagnements",
+      "en": "Large grilled fish served with sides"
+    },
+    "image_credit": "Gra2mb — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Poisson_brais%C3%A9_%C3%A0_Kinkole.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/capitaine-braise/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/capitaine-braise/"
     },
     "featured": false,
     "license": "CC-BY-4.0",
@@ -1601,7 +2036,11 @@
       ]
     },
     "variants": [],
-    "related_recipes": [],
+    "related_recipes": [
+      "brochettes-foie",
+      "kamundele",
+      "sauce-pili-pili"
+    ],
     "sources": [
       {
         "type": "editorial",
@@ -3800,6 +4239,155 @@
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/lituma/",
       "en": "https://mpichi.likeur.xyz/en/recettes/lituma/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
+    "id": "loso-mayonnaise",
+    "slug": "loso-mayonnaise",
+    "names": {
+      "fr": "Loso mayonnaise",
+      "en": "Loso mayonnaise",
+      "aliases": [
+        {
+          "name": "riz mayonnaise",
+          "lang": "fr"
+        },
+        {
+          "name": "loso mayo",
+          "lang": "ln"
+        },
+        {
+          "name": "loso",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "riz",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "mayonnaise",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Kinshasa",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "street food",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette loso mayonnaise — riz mayo kinshasa",
+      "en": "Loso mayonnaise recipe — Kinshasa mayo rice"
+    },
+    "description": {
+      "fr": "Recette de loso mayonnaise : riz nature mélangé ou nappé d’une mayonnaise relevée — accompagnement et street food très courant à Kinshasa.",
+      "en": "Loso mayonnaise recipe: plain rice mixed or topped with seasoned mayonnaise — everyday Kinshasa side and street plate."
+    },
+    "body": {
+      "fr": "Le **loso mayonnaise** n’est pas un riz sauté : c’est le riz nature + la liaison froide à la mayo, cousin du [pain mayonnaise](/recettes/pain-mayonnaise/) et du [poulet mayo](/recettes/poulet-mayo/). À Kinshasa on le trouve autant en portion de rue qu’à table.",
+      "en": "Loso mayonnaise is not fried rice—it is plain rice plus a cold mayo dressing, cousin to pain mayonnaise and chicken mayo. In Kinshasa it shows up as street portions and table sides alike."
+    },
+    "region": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "accompagnement",
+    "difficulty": "facile",
+    "prep_time": "10 min",
+    "cook_time": "25 min",
+    "prep_time_iso": "PT10M",
+    "cook_time_iso": "PT25M",
+    "servings": 4,
+    "tags": [
+      "loso",
+      "riz",
+      "mayonnaise",
+      "Kinshasa",
+      "street food"
+    ],
+    "ingredients": {
+      "fr": [
+        "400 g de riz long",
+        "750 ml d’eau",
+        "1 c. à café de sel",
+        "150 ml de mayonnaise",
+        "1 gousse d’ail, écrasée, facultatif",
+        "1 c. à café de moutarde, facultatif",
+        "Pili-pili et poivre",
+        "1 c. à soupe de jus de citron, facultatif"
+      ],
+      "en": [
+        "400 g long-grain rice",
+        "750 ml water",
+        "1 tsp salt",
+        "150 ml mayonnaise",
+        "1 garlic clove, crushed, optional",
+        "1 tsp mustard, optional",
+        "Chili and pepper",
+        "1 tbsp lemon juice, optional"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Rincer le riz. Le cuire à l’eau salée jusqu’à absorption (environ 18 minutes). Égrener et laisser tiédir légèrement.",
+        "Mélanger mayonnaise, ail, moutarde, citron, pili-pili et poivre.",
+        "Incorporer la sauce au riz encore chaud, ou servir le riz et napper au dernier moment.",
+        "Goûter et ajuster le sel. Servir avec poulet, poisson, brochettes ou seul."
+      ],
+      "en": [
+        "Rinse the rice. Cook in salted water until absorbed (about 18 minutes). Fluff and let it cool slightly.",
+        "Mix mayonnaise, garlic, mustard, lemon, chili and pepper.",
+        "Fold the sauce into the warm rice, or plate the rice and spoon the mayo on top.",
+        "Taste and adjust salt. Serve with chicken, fish, skewers or on its own."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "pain-mayonnaise",
+      "poulet-mayo",
+      "loso-petits-pois"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Takeaway — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Salad_and_Rice.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Salad%20and%20Rice.jpg?width=1600",
+    "image_alt": {
+      "fr": "Assiette de riz servi avec sauce crémeuse",
+      "en": "Plate of rice served with a creamy sauce"
+    },
+    "image_credit": "Takeaway — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Salad_and_Rice.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/loso-mayonnaise/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/loso-mayonnaise/"
     },
     "featured": false,
     "license": "CC-BY-4.0",
@@ -6881,6 +7469,155 @@
     "updated_at": "2026-10-22"
   },
   {
+    "id": "ngulu-ya-sauce",
+    "slug": "ngulu-ya-sauce",
+    "names": {
+      "fr": "Ngulu ya sauce",
+      "en": "Ngulu in sauce",
+      "aliases": [
+        {
+          "name": "ngulu",
+          "lang": "ln",
+          "note": "Lingala for pork"
+        },
+        {
+          "name": "porc en sauce",
+          "lang": "fr"
+        },
+        {
+          "name": "porc",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "sauce tomate",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Kinshasa",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "mijoté",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette ngulu ya sauce — porc en sauce",
+      "en": "Ngulu ya sauce recipe — pork stew"
+    },
+    "description": {
+      "fr": "Recette de ngulu ya sauce : porc mijoté dans une sauce tomate-oignon jusqu’à fondre — plat de table kinshasaise, distinct du porc braisé sur braises.",
+      "en": "Ngulu ya sauce recipe: pork simmered in tomato-onion sauce until tender — Kinshasa table dish, distinct from charcoal-braised pork."
+    },
+    "body": {
+      "fr": "**Ngulu** désigne le porc en lingala. Ici la cuisson est **en sauce**, pas sur les braises : pour la grillade, voir [porc braisé](/recettes/porc-braise/). Les pieds de porc ont leur propre fiche : [makoso](/recettes/makoso/).",
+      "en": "Ngulu means pork in Lingala. This page is the sauced stew, not the grill—see braised pork for charcoal. Pig’s trotters have their own page: makoso."
+    },
+    "region": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "plat",
+    "difficulty": "moyen",
+    "prep_time": "25 min",
+    "cook_time": "1 h 15",
+    "prep_time_iso": "PT25M",
+    "cook_time_iso": "PT1H",
+    "servings": 6,
+    "tags": [
+      "ngulu",
+      "porc",
+      "sauce tomate",
+      "Kinshasa",
+      "mijoté"
+    ],
+    "ingredients": {
+      "fr": [
+        "1,2 kg de porc (épaule ou échine) en morceaux",
+        "3 oignons, émincés",
+        "4 gousses d’ail, écrasées",
+        "4 tomates mûres, concassées (ou 400 g de pulpe)",
+        "3 c. à soupe d’huile",
+        "1 cube de bouillon",
+        "Pili-pili, sel et poivre",
+        "400 ml d’eau",
+        "1 feuille de laurier, facultatif"
+      ],
+      "en": [
+        "1.2 kg pork (shoulder or loin) in pieces",
+        "3 onions, sliced",
+        "4 garlic cloves, crushed",
+        "4 ripe tomatoes, crushed (or 400 g pulp)",
+        "3 tbsp oil",
+        "1 stock cube",
+        "Chili, salt and pepper",
+        "400 ml water",
+        "1 bay leaf, optional"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Faire dorer les morceaux de porc dans l’huile. Réserver.",
+        "Faire fondre les oignons, ajouter l’ail puis les tomates. Laisser réduire 8 à 10 minutes.",
+        "Remettre le porc, le cube, le laurier, l’eau, sel, poivre et pili-pili.",
+        "Couvrir et mijoter à feu doux 50 à 60 minutes jusqu’à ce que la viande soit tendre et la sauce liée.",
+        "Rectifier l’assaisonnement. Servir avec riz, fufu, chikwangue ou plantain."
+      ],
+      "en": [
+        "Brown the pork in oil. Set aside.",
+        "Sweat the onions, add garlic then tomatoes. Reduce 8–10 minutes.",
+        "Return the pork with cube, bay leaf, water, salt, pepper and chili.",
+        "Cover and simmer gently 50–60 minutes until tender and the sauce thickens.",
+        "Adjust seasoning. Serve with rice, fufu, chikwangue or plantain."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "porc-braise",
+      "viande-ya-sauce",
+      "makoso"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: WINEUR — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Cochon_en_feu.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cochon%20en%20feu.jpg?width=1600",
+    "image_alt": {
+      "fr": "Porc cuit, prêt à être servi en sauce",
+      "en": "Cooked pork ready to serve in sauce"
+    },
+    "image_credit": "WINEUR — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Cochon_en_feu.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/ngulu-ya-sauce/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/ngulu-ya-sauce/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
     "id": "nsafu-grilles",
     "slug": "nsafu-grilles",
     "names": {
@@ -8014,6 +8751,151 @@
     "updated_at": "2026-10-22"
   },
   {
+    "id": "poisson-mayo",
+    "slug": "poisson-mayo",
+    "names": {
+      "fr": "Poisson mayo",
+      "en": "Fish mayo",
+      "aliases": [
+        {
+          "name": "poisson mayo",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "mayonnaise",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "street food",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Kinshasa",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "frit",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette poisson mayo kinshasa",
+      "en": "Fish mayo recipe Kinshasa"
+    },
+    "description": {
+      "fr": "Recette de poisson mayo : poisson frit ou grillé nappé d’une mayonnaise relevée d’ail et de pili-pili — street food kinshasaise, miroir du poulet mayo.",
+      "en": "Fish mayo recipe: fried or grilled fish finished with garlic-chili mayonnaise — Kinshasa street food, the fish twin of chicken mayo."
+    },
+    "body": {
+      "fr": "Comme le [poulet mayo](/recettes/poulet-mayo/), la mayonnaise arrive **en fin de cuisson** pour ne pas tourner. Le poisson mayo se mange surtout en portion de rue ou de fête à Kinshasa ; le pili-pili se dose sans mesure fixe.",
+      "en": "Like chicken mayo, the mayonnaise goes on at the end so it does not split. Fish mayo is a Kinshasa street and party plate; chili is always to taste."
+    },
+    "region": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "plat",
+    "difficulty": "facile",
+    "prep_time": "20 min",
+    "cook_time": "30 min",
+    "prep_time_iso": "PT20M",
+    "cook_time_iso": "PT30M",
+    "servings": 4,
+    "tags": [
+      "poisson mayo",
+      "mayonnaise",
+      "street food",
+      "Kinshasa",
+      "frit"
+    ],
+    "ingredients": {
+      "fr": [
+        "800 g de poisson en filets ou darnes (tilapia, capitaine…)",
+        "3 c. à soupe d’huile pour frire ou griller",
+        "2 oignons, émincés",
+        "2 gousses d’ail, écrasées",
+        "180 ml de mayonnaise",
+        "1 c. à café de moutarde",
+        "1 c. à soupe de jus de citron",
+        "Pili-pili, sel et poivre",
+        "Farine pour paner légèrement, facultatif"
+      ],
+      "en": [
+        "800 g fish fillets or steaks (tilapia, capitaine…)",
+        "3 tbsp oil for frying or grilling",
+        "2 onions, sliced",
+        "2 garlic cloves, crushed",
+        "180 ml mayonnaise",
+        "1 tsp mustard",
+        "1 tbsp lemon juice",
+        "Chili, salt and pepper",
+        "Flour for a light coating, optional"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Saler, poivrer et citronner le poisson. Fariner légèrement si on veut une croûte.",
+        "Faire dorer le poisson dans l’huile chaude (ou le griller). Réserver au chaud.",
+        "Faire fondre les oignons et l’ail dans un fond d’huile. Déglacer d’un trait d’eau.",
+        "Hors du feu, mélanger mayonnaise, moutarde, citron et pili-pili. Napper le poisson encore chaud.",
+        "Servir aussitôt avec frites, riz ou pain."
+      ],
+      "en": [
+        "Season the fish with salt, pepper and lemon. Dust lightly with flour if you want a crust.",
+        "Brown the fish in hot oil (or grill). Keep warm.",
+        "Sweat onions and garlic in a little oil. Deglaze with a splash of water.",
+        "Off the heat, mix mayonnaise, mustard, lemon and chili. Coat the hot fish.",
+        "Serve at once with fries, rice or bread."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "poulet-mayo",
+      "pain-mayonnaise",
+      "mbisi-ya-kokalinga"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Takeaway — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Fried_Fish_Fillet_with_Mayonnaise.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fried%20Fish%20Fillet%20with%20Mayonnaise.jpg?width=1600",
+    "image_alt": {
+      "fr": "Filet de poisson frit servi avec mayonnaise",
+      "en": "Fried fish fillet served with mayonnaise"
+    },
+    "image_credit": "Takeaway — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Fried_Fish_Fillet_with_Mayonnaise.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/poisson-mayo/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/poisson-mayo/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
     "id": "poisson-moambe",
     "slug": "poisson-moambe",
     "names": {
@@ -8472,7 +9354,11 @@
       ]
     },
     "variants": [],
-    "related_recipes": [],
+    "related_recipes": [
+      "ngulu-ya-sauce",
+      "makoso",
+      "kamundele"
+    ],
     "sources": [
       {
         "type": "editorial",
@@ -8625,9 +9511,9 @@
     },
     "variants": [],
     "related_recipes": [
+      "poisson-mayo",
       "pain-mayonnaise",
-      "soso-ya-kotumba",
-      "moambe-poulet"
+      "loso-mayonnaise"
     ],
     "sources": [
       {
@@ -8667,6 +9553,147 @@
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/poulet-mayo/",
       "en": "https://mpichi.likeur.xyz/en/recettes/poulet-mayo/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
+    "id": "poulet-pane",
+    "slug": "poulet-pane",
+    "names": {
+      "fr": "Poulet pané",
+      "en": "Breaded chicken",
+      "aliases": [
+        {
+          "name": "poulet pané",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "frit",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "street food",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Kinshasa",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "croustillant",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette poulet pané kinshasa",
+      "en": "Breaded chicken recipe Kinshasa"
+    },
+    "description": {
+      "fr": "Recette de poulet pané : morceaux de poulet panés puis frits jusqu’à croustillant — street food et goûter kinshasa, distinct du poulet mayo ou grillé.",
+      "en": "Breaded chicken recipe: chicken pieces coated and fried until crisp — Kinshasa street snack, distinct from mayo or grilled chicken."
+    },
+    "body": {
+      "fr": "Le **poulet pané** est la version croustillante et frite, pas nappée de mayo ([poulet mayo](/recettes/poulet-mayo/)) ni grillée ([soso ya kotumba](/recettes/soso-ya-kotumba/)). À Kinshasa on le croise en snack, fête d’enfants et portion de rue.",
+      "en": "Breaded chicken is the crisp fried version—not mayo-coated and not charcoal-grilled. In Kinshasa it turns up as a snack, kids’ party food and street portion."
+    },
+    "region": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "plat",
+    "difficulty": "facile",
+    "prep_time": "25 min",
+    "cook_time": "25 min",
+    "prep_time_iso": "PT25M",
+    "cook_time_iso": "PT25M",
+    "servings": 4,
+    "tags": [
+      "poulet pané",
+      "frit",
+      "street food",
+      "Kinshasa",
+      "croustillant"
+    ],
+    "ingredients": {
+      "fr": [
+        "800 g de poulet (cuisses désossées ou blancs) en morceaux",
+        "2 œufs, battus",
+        "150 g de farine",
+        "120 g de chapelure ou pain râpé",
+        "1 c. à café de sel",
+        "Poivre et pili-pili",
+        "1 c. à café d’ail en poudre ou 1 gousse écrasée",
+        "Huile pour friture"
+      ],
+      "en": [
+        "800 g chicken (boneless thighs or breasts) in pieces",
+        "2 eggs, beaten",
+        "150 g flour",
+        "120 g breadcrumbs",
+        "1 tsp salt",
+        "Pepper and chili",
+        "1 tsp garlic powder or 1 crushed clove",
+        "Oil for frying"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Assaisonner le poulet avec sel, poivre, pili-pili et ail. Laisser reposer 15 minutes.",
+        "Fariner chaque morceau, passer dans l’œuf, puis dans la chapelure en pressant bien.",
+        "Chauffer l’huile à feu moyen-vif. Frire les morceaux 6 à 8 minutes par côté jusqu’à doré et cuisson à cœur.",
+        "Égoutter sur papier absorbant. Servir chaud avec sauce pili-pili, mayonnaise ou ketchup."
+      ],
+      "en": [
+        "Season the chicken with salt, pepper, chili and garlic. Rest 15 minutes.",
+        "Flour each piece, dip in egg, then press into breadcrumbs.",
+        "Heat oil to medium-high. Fry 6–8 minutes per side until golden and cooked through.",
+        "Drain on paper. Serve hot with chili sauce, mayonnaise or ketchup."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "poulet-mayo",
+      "soso-ya-kotumba",
+      "mikate"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Judgefloro — Wikimedia Commons, public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:09797jfBreaded_fried_chicken_Bulacanfvf_17.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/09797jfBreaded%20fried%20chicken%20Bulacanfvf%2017.jpg?width=1600",
+    "image_alt": {
+      "fr": "Morceaux de poulet pané frits dorés",
+      "en": "Golden breaded fried chicken pieces"
+    },
+    "image_credit": "Judgefloro — Wikimedia Commons, public domain",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:09797jfBreaded_fried_chicken_Bulacanfvf_17.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/poulet-pane/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/poulet-pane/"
     },
     "featured": false,
     "license": "CC-BY-4.0",
@@ -9592,6 +10619,143 @@
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/sauce-pili-pili/",
       "en": "https://mpichi.likeur.xyz/en/recettes/sauce-pili-pili/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
+    "id": "saucisse-frites",
+    "slug": "saucisse-frites",
+    "names": {
+      "fr": "Saucisse-frites",
+      "en": "Sausage and fries",
+      "aliases": [
+        {
+          "name": "saucisse",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "frites",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "street food",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Kinshasa",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "snack",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette saucisse-frites kinshasa",
+      "en": "Sausage and fries recipe Kinshasa"
+    },
+    "description": {
+      "fr": "Recette de saucisse-frites : saucisses dorées servies avec des frites croustillantes — combo street food incontournable de Kinshasa.",
+      "en": "Sausage and fries recipe: browned sausages with crisp fries — a Kinshasa street-food combo."
+    },
+    "body": {
+      "fr": "La **saucisse-frites** est un combo de rue kinshasaise, aussi simple qu’omniprésent. Elle côtoie [kamundele](/recettes/kamundele/) et [pain mayonnaise](/recettes/pain-mayonnaise/) sur les étals du soir.",
+      "en": "Sausage and fries is a simple, everywhere Kinshasa street combo, alongside kamundele and pain mayonnaise on evening stalls."
+    },
+    "region": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "plat",
+    "difficulty": "facile",
+    "prep_time": "15 min",
+    "cook_time": "30 min",
+    "prep_time_iso": "PT15M",
+    "cook_time_iso": "PT30M",
+    "servings": 4,
+    "tags": [
+      "saucisse",
+      "frites",
+      "street food",
+      "Kinshasa",
+      "snack"
+    ],
+    "ingredients": {
+      "fr": [
+        "8 saucisses (type cocktail ou saucisses à griller)",
+        "800 g de pommes de terre",
+        "Huile pour friture",
+        "Sel",
+        "Pili-pili ou ketchup, pour servir",
+        "1 oignon émincé, facultatif"
+      ],
+      "en": [
+        "8 sausages (cocktail or grilling sausages)",
+        "800 g potatoes",
+        "Oil for frying",
+        "Salt",
+        "Chili sauce or ketchup, to serve",
+        "1 sliced onion, optional"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Éplucher les pommes de terre, les couper en frites, rincer et bien sécher.",
+        "Faire chauffer l’huile. Blanchir les frites 5 à 6 minutes à feu moyen, égoutter. Remonter le feu et les redorer 3 à 4 minutes. Saler.",
+        "Dans une poêle ou l’huile, faire dorer les saucisses 8 à 10 minutes en les piquant légèrement.",
+        "Servir saucisses et frites ensemble, avec oignon, pili-pili ou ketchup."
+      ],
+      "en": [
+        "Peel and cut the potatoes into fries; rinse and dry well.",
+        "Heat the oil. Blanch the fries 5–6 minutes over medium heat; drain. Raise the heat and brown 3–4 minutes. Salt.",
+        "In a pan or the oil, brown the sausages 8–10 minutes, pricking them lightly.",
+        "Serve sausages and fries together with onion, chili or ketchup."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "kamundele",
+      "pain-mayonnaise",
+      "poulet-pane"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Infrogmation of New Orleans — Wikimedia Commons, CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Alligator_sausage_po-boy_on_plate_with_french_fries,_New_Orleans_November_2016.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alligator%20sausage%20po-boy%20on%20plate%20with%20french%20fries%2C%20New%20Orleans%20November%202016.jpg?width=1600",
+    "image_alt": {
+      "fr": "Saucisse servie avec des frites",
+      "en": "Sausage served with fries"
+    },
+    "image_credit": "Infrogmation of New Orleans — Wikimedia Commons, CC BY-SA 2.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Alligator_sausage_po-boy_on_plate_with_french_fries,_New_Orleans_November_2016.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/saucisse-frites/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/saucisse-frites/"
     },
     "featured": false,
     "license": "CC-BY-4.0",
