@@ -480,6 +480,86 @@
     "recipe_id": "chikwangue"
   },
   {
+    "id": "chikwangue-grillee-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Chikwangue grillée » (République démocratique du Congo).",
+    "completion": "# Chikwangue grillée\n\nRecette de chikwangue grillée : tranches de kwanga passées sur braises ou poêle jusqu’à croûte fumée — geste à part de la chikwangue vapeur.\n\nRégion : Bassin du Congo & Kinshasa\nPortions : 4\nPréparation : 5 min\nCuisson : 10 min\n\n## Ingrédients\n- 1 à 2 chikwangues cuites (kwanga)\n- 1 c. à soupe d’huile, facultatif\n- Une pincée de sel\n- Sauce pili-pili, pour servir\n\n## Préparation\n1. Déballer la chikwangue et la couper en tranches d’un bon centimètre.\n2. Faire chauffer une poêle ou des braises. Badigeonner légèrement d’huile si besoin.\n3. Griller les tranches 3 à 4 minutes par face jusqu’à marquage et léger croustillant.\n4. Saler très peu. Servir chaud avec pondu, poisson, viande en sauce ou pili-pili.\n\nSource : https://mpichi.likeur.xyz/recettes/chikwangue-grillee/",
+    "recipe_id": "chikwangue-grillee"
+  },
+  {
+    "id": "chikwangue-grillee-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Grilled chikwangue\" (Democratic Republic of the Congo).",
+    "completion": "# Grilled chikwangue\n\nGrilled chikwangue recipe: kwanga slices finished on coals or in a pan until smoky and crusty — a separate gesture from steamed chikwangue.\n\nRegion: Bassin du Congo & Kinshasa\nServings: 4\nPrep: 5 min\nCook: 10 min\n\n## Ingredients\n- 1–2 cooked chikwangue (kwanga)\n- 1 tbsp oil, optional\n- A pinch of salt\n- Chili sauce, to serve\n\n## Steps\n1. Unwrap the chikwangue and cut into slices about 1 cm thick.\n2. Heat a pan or coals. Brush lightly with oil if needed.\n3. Grill the slices 3–4 minutes per side until marked and lightly crisp.\n4. Salt sparingly. Serve hot with pondu, fish, stewed meat or chili sauce.\n\nSource: https://mpichi.likeur.xyz/en/recettes/chikwangue-grillee/",
+    "recipe_id": "chikwangue-grillee"
+  },
+  {
+    "id": "chikwangue-grillee-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Chikwangue grillée ?",
+    "completion": "- 1 à 2 chikwangues cuites (kwanga)\n- 1 c. à soupe d’huile, facultatif\n- Une pincée de sel\n- Sauce pili-pili, pour servir",
+    "recipe_id": "chikwangue-grillee"
+  },
+  {
+    "id": "chikwangue-grillee-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Chikwangue grillée en RDC ?",
+    "completion": "Chikwangue grillée est associé à la région / zone : Bassin du Congo & Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/chikwangue-grillee/",
+    "recipe_id": "chikwangue-grillee"
+  },
+  {
+    "id": "chikwangue-grillee-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Chikwangue grillée ?",
+    "completion": "Chikwangue grillée peut aussi être appelé : kwanga grillée, chikwangue, kwanga, grillade, manioc, accompagnement.",
+    "recipe_id": "chikwangue-grillee"
+  },
+  {
+    "id": "courge-sauce-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Courge en sauce » (République démocratique du Congo).",
+    "completion": "# Courge en sauce\n\nRecette de courge en sauce : courge jaune mijotée avec oignon, tomate et un trait d’huile — plat de légume, distinct des feuilles mujibujibu et de la mbika.\n\nRégion : Kinshasa & Ouest de la RDC\nPortions : 4\nPréparation : 20 min\nCuisson : 40 min\n\n## Ingrédients\n- 800 g de courge jaune ou potiron, en cubes\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 2 gousses d’ail\n- 3 c. à soupe d’huile de palme ou d’huile neutre\n- 200 ml d’eau\n- Sel, pili-pili\n- 80 g d’arachides pilées, facultatif\n\n## Préparation\n1. Faire fondre les oignons dans l’huile, ajouter l’ail et les tomates. Cuire 8 minutes.\n2. Ajouter les cubes de courge, l’eau, sel et pili-pili. Couvrir et mijoter 25 à 30 minutes.\n3. Quand la courge est tendre, écraser légèrement une partie pour lier la sauce.\n4. Incorporer les arachides pilées en option, cuire encore 5 minutes.\n5. Servir avec riz, fufu ou chikwangue.\n\nSource : https://mpichi.likeur.xyz/recettes/courge-sauce/",
+    "recipe_id": "courge-sauce"
+  },
+  {
+    "id": "courge-sauce-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Pumpkin in sauce\" (Democratic Republic of the Congo).",
+    "completion": "# Pumpkin in sauce\n\nPumpkin in sauce recipe: yellow squash simmered with onion, tomato and oil — a vegetable dish, distinct from mujibujibu leaves and mbika seed paste.\n\nRegion: Kinshasa & Ouest de la RDC\nServings: 4\nPrep: 20 min\nCook: 40 min\n\n## Ingredients\n- 800 g yellow squash or pumpkin, cubed\n- 2 onions, sliced\n- 3 tomatoes, crushed\n- 2 garlic cloves\n- 3 tbsp palm oil or neutral oil\n- 200 ml water\n- Salt, chili\n- 80 g pounded peanuts, optional\n\n## Steps\n1. Sweat the onions in oil, add garlic and tomatoes. Cook 8 minutes.\n2. Add the squash cubes, water, salt and chili. Cover and simmer 25–30 minutes.\n3. When tender, mash some cubes lightly to thicken the sauce.\n4. Stir in pounded peanuts if using; cook 5 minutes more.\n5. Serve with rice, fufu or chikwangue.\n\nSource: https://mpichi.likeur.xyz/en/recettes/courge-sauce/",
+    "recipe_id": "courge-sauce"
+  },
+  {
+    "id": "courge-sauce-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Courge en sauce ?",
+    "completion": "- 800 g de courge jaune ou potiron, en cubes\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 2 gousses d’ail\n- 3 c. à soupe d’huile de palme ou d’huile neutre\n- 200 ml d’eau\n- Sel, pili-pili\n- 80 g d’arachides pilées, facultatif",
+    "recipe_id": "courge-sauce"
+  },
+  {
+    "id": "courge-sauce-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Courge en sauce en RDC ?",
+    "completion": "Courge en sauce est associé à la région / zone : Kinshasa & Ouest de la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/courge-sauce/",
+    "recipe_id": "courge-sauce"
+  },
+  {
+    "id": "courge-sauce-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Courge en sauce ?",
+    "completion": "Courge en sauce peut aussi être appelé : courge, potiron, sauce tomate, légumes.",
+    "recipe_id": "courge-sauce"
+  },
+  {
     "id": "croquettes-manioc-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -518,6 +598,46 @@
     "prompt": "Quels autres noms connaît-on pour Croquettes de manioc ?",
     "completion": "Croquettes de manioc peut aussi être appelé : manioc, friture, croquettes.",
     "recipe_id": "croquettes-manioc"
+  },
+  {
+    "id": "dongo-dongo-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Dongo-dongo » (République démocratique du Congo).",
+    "completion": "# Dongo-dongo\n\nRecette de dongo-dongo : gombos mijotés avec poisson fumé jusqu’à une sauce filante et iodée — plat du quotidien, distinct de la sauce gombo sans fumé.\n\nRégion : Kinshasa & bassin du Congo\nPortions : 4\nPréparation : 25 min\nCuisson : 45 min\n\n## Ingrédients\n- 500 g de gombos frais\n- 250 g de poisson fumé (ou séché), dessalé si besoin\n- 2 oignons, émincés\n- 2 tomates, concassées\n- 2 gousses d’ail\n- 3 c. à soupe d’huile de palme ou d’huile neutre\n- Sel, pili-pili et un peu d’eau\n\n## Préparation\n1. Laver les gombos, couper les extrémités et les trancher en rondelles.\n2. Faire tremper brièvement le poisson fumé si trop salé, l’égoutter et le détailler.\n3. Faire revenir oignons et ail dans l’huile, ajouter les tomates 5 minutes.\n4. Incorporer gombos, poisson et un fond d’eau. Mijoter 30 à 35 minutes en remuant.\n5. Saler en fin de cuisson (le fumé sale déjà). Servir avec riz, fufu ou chikwangue.\n\nSource : https://mpichi.likeur.xyz/recettes/dongo-dongo/",
+    "recipe_id": "dongo-dongo"
+  },
+  {
+    "id": "dongo-dongo-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Dongo-dongo\" (Democratic Republic of the Congo).",
+    "completion": "# Dongo-dongo\n\nDongo-dongo recipe: okra simmered with smoked fish into a silky, briny sauce — everyday plate, distinct from plain okra sauce without smoke.\n\nRegion: Kinshasa & bassin du Congo\nServings: 4\nPrep: 25 min\nCook: 45 min\n\n## Ingredients\n- 500 g fresh okra\n- 250 g smoked (or dried) fish, desalinated if needed\n- 2 onions, sliced\n- 2 tomatoes, crushed\n- 2 garlic cloves\n- 3 tbsp palm oil or neutral oil\n- Salt, chili and a little water\n\n## Steps\n1. Wash the okra, trim the ends and slice into rounds.\n2. Soak the smoked fish briefly if too salty, drain and break into pieces.\n3. Sweat onions and garlic in oil, add tomatoes for 5 minutes.\n4. Add okra, fish and a splash of water. Simmer 30–35 minutes, stirring.\n5. Salt at the end (the smoke already seasons). Serve with rice, fufu or chikwangue.\n\nSource: https://mpichi.likeur.xyz/en/recettes/dongo-dongo/",
+    "recipe_id": "dongo-dongo"
+  },
+  {
+    "id": "dongo-dongo-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Dongo-dongo ?",
+    "completion": "- 500 g de gombos frais\n- 250 g de poisson fumé (ou séché), dessalé si besoin\n- 2 oignons, émincés\n- 2 tomates, concassées\n- 2 gousses d’ail\n- 3 c. à soupe d’huile de palme ou d’huile neutre\n- Sel, pili-pili et un peu d’eau",
+    "recipe_id": "dongo-dongo"
+  },
+  {
+    "id": "dongo-dongo-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Dongo-dongo en RDC ?",
+    "completion": "Dongo-dongo est associé à la région / zone : Kinshasa & bassin du Congo. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/dongo-dongo/",
+    "recipe_id": "dongo-dongo"
+  },
+  {
+    "id": "dongo-dongo-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Dongo-dongo ?",
+    "completion": "Dongo-dongo peut aussi être appelé : gombo au poisson fumé, dongo-dongo, gombo, poisson fumé, Kinshasa, sauce.",
+    "recipe_id": "dongo-dongo"
   },
   {
     "id": "escargots-congolaise-recipe-fr",
@@ -718,6 +838,46 @@
     "prompt": "Quels autres noms connaît-on pour Gâteau au manioc ?",
     "completion": "Gâteau au manioc peut aussi être appelé : manioc, gâteau, dessert, goûter.",
     "recipe_id": "gateau-manioc"
+  },
+  {
+    "id": "haricots-verts-palme-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Haricots verts à l’huile de palme » (République démocratique du Congo).",
+    "completion": "# Haricots verts à l’huile de palme\n\nRecette d’haricots verts à l’huile de palme : haricots frais sautés avec oignon et tomate — accompagnement vif, distinct des madesu (haricots secs).\n\nRégion : Kinshasa & Ouest de la RDC\nPortions : 4\nPréparation : 15 min\nCuisson : 20 min\n\n## Ingrédients\n- 500 g de haricots verts frais, équeutés\n- 2 c. à soupe d’huile de palme rouge\n- 1 oignon, émincé\n- 2 tomates, concassées\n- 1 gousse d’ail\n- Sel, pili-pili\n- 50 ml d’eau\n\n## Préparation\n1. Laver les haricots, les couper en tronçons si trop longs. Blanchir 4 minutes dans l’eau bouillante salée, égoutter.\n2. Chauffer l’huile de palme. Faire fondre l’oignon, ajouter l’ail et les tomates 5 minutes.\n3. [object Object]\n4. Saler, pimenter. Servir avec riz, poisson ou viande.\n\nSource : https://mpichi.likeur.xyz/recettes/haricots-verts-palme/",
+    "recipe_id": "haricots-verts-palme"
+  },
+  {
+    "id": "haricots-verts-palme-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Green beans in palm oil\" (Democratic Republic of the Congo).",
+    "completion": "# Green beans in palm oil\n\nGreen beans with palm oil recipe: fresh beans sautéed with onion and tomato — a bright side, distinct from madesu (dried beans).\n\nRegion: Kinshasa & Ouest de la RDC\nServings: 4\nPrep: 15 min\nCook: 20 min\n\n## Ingredients\n- 500 g fresh green beans, trimmed\n- 2 tbsp red palm oil\n- 1 onion, sliced\n- 2 tomatoes, crushed\n- 1 garlic clove\n- Salt, chili\n- 50 ml water\n\n## Steps\n1. Wash the beans; cut into lengths if very long. Blanch 4 minutes in salted boiling water; drain.\n2. Heat the palm oil. Sweat the onion, add garlic and tomatoes for 5 minutes.\n3. Add the beans and water. Cover 8–10 minutes—they should stay slightly crisp.\n4. Season with salt and chili. Serve with rice, fish or meat.\n\nSource: https://mpichi.likeur.xyz/en/recettes/haricots-verts-palme/",
+    "recipe_id": "haricots-verts-palme"
+  },
+  {
+    "id": "haricots-verts-palme-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Haricots verts à l’huile de palme ?",
+    "completion": "- 500 g de haricots verts frais, équeutés\n- 2 c. à soupe d’huile de palme rouge\n- 1 oignon, émincé\n- 2 tomates, concassées\n- 1 gousse d’ail\n- Sel, pili-pili\n- 50 ml d’eau",
+    "recipe_id": "haricots-verts-palme"
+  },
+  {
+    "id": "haricots-verts-palme-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Haricots verts à l’huile de palme en RDC ?",
+    "completion": "Haricots verts à l’huile de palme est associé à la région / zone : Kinshasa & Ouest de la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/haricots-verts-palme/",
+    "recipe_id": "haricots-verts-palme"
+  },
+  {
+    "id": "haricots-verts-palme-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Haricots verts à l’huile de palme ?",
+    "completion": "Haricots verts à l’huile de palme peut aussi être appelé : haricots verts, légumes, rapide, accompagnement.",
+    "recipe_id": "haricots-verts-palme"
   },
   {
     "id": "igname-bouillie-recipe-fr",
@@ -1438,6 +1598,46 @@
     "prompt": "Quels autres noms connaît-on pour Makemba ?",
     "completion": "Makemba peut aussi être appelé : bananes plantains frites, makemba, plantains frits, plantain, friture, rapide.",
     "recipe_id": "makemba"
+  },
+  {
+    "id": "makemba-na-mbisi-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Makemba na mbisi » (République démocratique du Congo).",
+    "completion": "# Makemba na mbisi\n\nRecette de makemba na mbisi : plantains frits servis avec du poisson (frit, braisé ou en sauce) — assiette composée très courante en RDC.\n\nRégion : Toute la RDC\nPortions : 4\nPréparation : 20 min\nCuisson : 35 min\n\n## Ingrédients\n- 4 bananes plantain mûres\n- 600 g de poisson (tilapia, capitaine ou poisson fumé)\n- Huile de friture\n- 1 oignon, émincé\n- 2 tomates, concassées\n- 2 gousses d’ail\n- Jus de 1 citron\n- Sel, pili-pili\n\n## Préparation\n1. Saler, poivrer et citronner le poisson. Le faire dorer à la poêle ou le braiser. Réserver.\n2. Éplucher les plantains, les couper en tranches et les frire jusqu’à doré. Égoutter et saler.\n3. [object Object]\n4. Dresser makemba et mbisi dans la même assiette. Servir aussitôt.\n\nSource : https://mpichi.likeur.xyz/recettes/makemba-na-mbisi/",
+    "recipe_id": "makemba-na-mbisi"
+  },
+  {
+    "id": "makemba-na-mbisi-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Makemba na mbisi\" (Democratic Republic of the Congo).",
+    "completion": "# Makemba na mbisi\n\nMakemba na mbisi recipe: fried plantains served with fish (fried, grilled or in sauce) — a very common composed plate across the DRC.\n\nRegion: Toute la RDC\nServings: 4\nPrep: 20 min\nCook: 35 min\n\n## Ingredients\n- 4 ripe plantains\n- 600 g fish (tilapia, capitaine or smoked fish)\n- Frying oil\n- 1 onion, sliced\n- 2 tomatoes, crushed\n- 2 garlic cloves\n- Juice of 1 lemon\n- Salt, chili\n\n## Steps\n1. Season the fish with salt, pepper and lemon. Brown in a pan or grill. Set aside.\n2. Peel the plantains, slice and fry until golden. Drain and salt.\n3. Optional short sauce: sweat onion and garlic, add tomatoes and a splash of water, 8 minutes. Spoon over the fish.\n4. Plate makemba and mbisi together. Serve at once.\n\nSource: https://mpichi.likeur.xyz/en/recettes/makemba-na-mbisi/",
+    "recipe_id": "makemba-na-mbisi"
+  },
+  {
+    "id": "makemba-na-mbisi-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Makemba na mbisi ?",
+    "completion": "- 4 bananes plantain mûres\n- 600 g de poisson (tilapia, capitaine ou poisson fumé)\n- Huile de friture\n- 1 oignon, émincé\n- 2 tomates, concassées\n- 2 gousses d’ail\n- Jus de 1 citron\n- Sel, pili-pili",
+    "recipe_id": "makemba-na-mbisi"
+  },
+  {
+    "id": "makemba-na-mbisi-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Makemba na mbisi en RDC ?",
+    "completion": "Makemba na mbisi est associé à la région / zone : Toute la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/makemba-na-mbisi/",
+    "recipe_id": "makemba-na-mbisi"
+  },
+  {
+    "id": "makemba-na-mbisi-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Makemba na mbisi ?",
+    "completion": "Makemba na mbisi peut aussi être appelé : plantains et poisson, makemba, mbisi, plantain, assiette.",
+    "recipe_id": "makemba-na-mbisi"
   },
   {
     "id": "makoso-recipe-fr",
@@ -2760,6 +2960,46 @@
     "recipe_id": "sambaza"
   },
   {
+    "id": "sauce-arachide-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Sauce d’arachide » (République démocratique du Congo).",
+    "completion": "# Sauce d’arachide\n\nRecette de sauce d’arachide (nguba) : pâte d’arachide diluée et mijotée avec oignon et tomate — sauce autonome, distincte du fumbwa aux arachides.\n\nRégion : Toute la RDC\nPortions : 4\nPréparation : 15 min\nCuisson : 35 min\n\n## Ingrédients\n- 200 g de pâte d’arachide non sucrée (ou arachides grillées pilées)\n- 2 oignons, émincés\n- 2 tomates, concassées\n- 2 gousses d’ail\n- 2 c. à soupe d’huile\n- 400 ml d’eau chaude\n- Sel, pili-pili\n- 100 g de poisson fumé ou de viande, facultatif\n\n## Préparation\n1. Faire fondre les oignons dans l’huile, ajouter l’ail et les tomates. Cuire 8 minutes.\n2. Délayer la pâte d’arachide avec l’eau chaude jusqu’à obtenir un lait épais, sans grumeaux.\n3. Verser dans la marmite, ajouter le fumé s’il y en a. Mijoter à feu doux 20 à 25 minutes en remuant.\n4. Saler et pimenter. La sauce doit nappe la cuillère sans brûler au fond.\n5. Servir avec riz, fufu, chikwangue, plantain ou légumes.\n\nSource : https://mpichi.likeur.xyz/recettes/sauce-arachide/",
+    "recipe_id": "sauce-arachide"
+  },
+  {
+    "id": "sauce-arachide-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Peanut sauce\" (Democratic Republic of the Congo).",
+    "completion": "# Peanut sauce\n\nPeanut sauce (nguba) recipe: unsweetened peanut paste loosened and simmered with onion and tomato — a standalone sauce, distinct from fumbwa in peanut sauce.\n\nRegion: Toute la RDC\nServings: 4\nPrep: 15 min\nCook: 35 min\n\n## Ingredients\n- 200 g unsweetened peanut paste (or roasted pounded peanuts)\n- 2 onions, sliced\n- 2 tomatoes, crushed\n- 2 garlic cloves\n- 2 tbsp oil\n- 400 ml hot water\n- Salt, chili\n- 100 g smoked fish or meat, optional\n\n## Steps\n1. Sweat the onions in oil, add garlic and tomatoes. Cook 8 minutes.\n2. Loosen the peanut paste with hot water into a thick milk, no lumps.\n3. Pour into the pot, add smoked fish if using. Simmer gently 20–25 minutes, stirring.\n4. Season with salt and chili. The sauce should coat a spoon without scorching.\n5. Serve with rice, fufu, chikwangue, plantain or greens.\n\nSource: https://mpichi.likeur.xyz/en/recettes/sauce-arachide/",
+    "recipe_id": "sauce-arachide"
+  },
+  {
+    "id": "sauce-arachide-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Sauce d’arachide ?",
+    "completion": "- 200 g de pâte d’arachide non sucrée (ou arachides grillées pilées)\n- 2 oignons, émincés\n- 2 tomates, concassées\n- 2 gousses d’ail\n- 2 c. à soupe d’huile\n- 400 ml d’eau chaude\n- Sel, pili-pili\n- 100 g de poisson fumé ou de viande, facultatif",
+    "recipe_id": "sauce-arachide"
+  },
+  {
+    "id": "sauce-arachide-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Sauce d’arachide en RDC ?",
+    "completion": "Sauce d’arachide est associé à la région / zone : Toute la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/sauce-arachide/",
+    "recipe_id": "sauce-arachide"
+  },
+  {
+    "id": "sauce-arachide-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Sauce d’arachide ?",
+    "completion": "Sauce d’arachide peut aussi être appelé : nguba, sauce cacahuète, sauce arachide, sauce.",
+    "recipe_id": "sauce-arachide"
+  },
+  {
     "id": "sauce-gombo-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3164,7 +3404,7 @@
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & Ouest de la RDC » ?",
-    "completion": "- Aubergines africaines en sauce\n- Beignets de banane\n- Jus d’ananas\n- Jus de bissap\n- Jus de mangue\n- Madesu\n- Sauce gombo",
+    "completion": "- Aubergines africaines en sauce\n- Beignets de banane\n- Courge en sauce\n- Haricots verts à l’huile de palme\n- Jus d’ananas\n- Jus de bissap\n- Jus de mangue\n- Madesu\n- Sauce gombo",
     "recipe_id": null
   },
   {
@@ -3172,7 +3412,7 @@
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Toute la RDC » ?",
-    "completion": "- Beignets de manioc\n- Bouillie d’arachide\n- Bouillie de maïs\n- Croquettes de manioc\n- Fufu de manioc\n- Gâteau au manioc\n- Igname bouillie\n- Makemba\n- Manioc grillé\n- Poulet à la moambe\n- Plantains à la vapeur\n- Sauce pili-pili",
+    "completion": "- Beignets de manioc\n- Bouillie d’arachide\n- Bouillie de maïs\n- Croquettes de manioc\n- Fufu de manioc\n- Gâteau au manioc\n- Igname bouillie\n- Makemba\n- Makemba na mbisi\n- Manioc grillé\n- Poulet à la moambe\n- Plantains à la vapeur\n- Sauce d’arachide\n- Sauce pili-pili",
     "recipe_id": null
   },
   {
@@ -3204,7 +3444,7 @@
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & bassin du Congo » ?",
-    "completion": "- Capitaine braisé\n- Kossa-kossa\n- Makayabu aux tomates\n- Poisson fumé aux tomates\n- Poisson à la moambe",
+    "completion": "- Capitaine braisé\n- Dongo-dongo\n- Kossa-kossa\n- Makayabu aux tomates\n- Poisson fumé aux tomates\n- Poisson à la moambe",
     "recipe_id": null
   },
   {

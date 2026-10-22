@@ -56,5 +56,21 @@
   "loso-mayonnaise": [
     { "name": "riz mayonnaise", "lang": "fr" },
     { "name": "loso mayo", "lang": "ln" }
+  ],
+  "sauce-arachide": [
+    { "name": "nguba", "lang": "ln" },
+    { "name": "sauce cacahuète", "lang": "fr" }
+  ],
+  "dongo-dongo": [
+    { "name": "gombo au poisson fumé", "lang": "fr" }
+  ],
+  "chikwangue-grillee": [
+    { "name": "kwanga grillée", "lang": "fr" }
+  ],
+  "makemba-na-mbisi": [
+    { "name": "plantains et poisson", "lang": "fr" }
+  ],
+  "haricots-verts-palme": [
+    { "name": "haricots verts", "lang": "fr" }
   ]
 }

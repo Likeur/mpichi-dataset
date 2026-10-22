@@ -1647,9 +1647,9 @@
     },
     "variants": [],
     "related_recipes": [
+      "chikwangue-grillee",
       "fufu-manioc",
-      "pondu",
-      "liboke-poisson"
+      "pondu"
     ],
     "sources": [
       {
@@ -1689,6 +1689,283 @@
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/chikwangue/",
       "en": "https://mpichi.likeur.xyz/en/recettes/chikwangue/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
+    "id": "chikwangue-grillee",
+    "slug": "chikwangue-grillee",
+    "names": {
+      "fr": "Chikwangue grillée",
+      "en": "Grilled chikwangue",
+      "aliases": [
+        {
+          "name": "kwanga grillée",
+          "lang": "fr"
+        },
+        {
+          "name": "chikwangue",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "kwanga",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "grillade",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "manioc",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "accompagnement",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette chikwangue grillée",
+      "en": "Grilled chikwangue recipe"
+    },
+    "description": {
+      "fr": "Recette de chikwangue grillée : tranches de kwanga passées sur braises ou poêle jusqu’à croûte fumée — geste à part de la chikwangue vapeur.",
+      "en": "Grilled chikwangue recipe: kwanga slices finished on coals or in a pan until smoky and crusty — a separate gesture from steamed chikwangue."
+    },
+    "body": {
+      "fr": "La **chikwangue grillée** repart d’une [chikwangue](/recettes/chikwangue/) déjà cuite à la vapeur : on ne refermente rien, on **ressaisit** les tranches. Le goût fumé et la croûte changent complètement le geste de table.",
+      "en": "Grilled chikwangue starts from chikwangue already steamed—you do not re-ferment, you reseize the slices. The smoky crust changes the table gesture completely."
+    },
+    "region": "Bassin du Congo & Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Bassin du Congo",
+      "Kinshasa"
+    ],
+    "category": "accompagnement",
+    "difficulty": "facile",
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "prep_time_iso": "PT5M",
+    "cook_time_iso": "PT10M",
+    "servings": 4,
+    "tags": [
+      "chikwangue",
+      "kwanga",
+      "grillade",
+      "manioc",
+      "accompagnement"
+    ],
+    "ingredients": {
+      "fr": [
+        "1 à 2 chikwangues cuites (kwanga)",
+        "1 c. à soupe d’huile, facultatif",
+        "Une pincée de sel",
+        "Sauce pili-pili, pour servir"
+      ],
+      "en": [
+        "1–2 cooked chikwangue (kwanga)",
+        "1 tbsp oil, optional",
+        "A pinch of salt",
+        "Chili sauce, to serve"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Déballer la chikwangue et la couper en tranches d’un bon centimètre.",
+        "Faire chauffer une poêle ou des braises. Badigeonner légèrement d’huile si besoin.",
+        "Griller les tranches 3 à 4 minutes par face jusqu’à marquage et léger croustillant.",
+        "Saler très peu. Servir chaud avec pondu, poisson, viande en sauce ou pili-pili."
+      ],
+      "en": [
+        "Unwrap the chikwangue and cut into slices about 1 cm thick.",
+        "Heat a pan or coals. Brush lightly with oil if needed.",
+        "Grill the slices 3–4 minutes per side until marked and lightly crisp.",
+        "Salt sparingly. Serve hot with pondu, fish, stewed meat or chili sauce."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "chikwangue",
+      "manioc-grille",
+      "pondu"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Biejosue — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Kikwanga_(chikwangue)_%C3%A0_la_fa%C3%A7on_de_la_RDC_mais_sans_sauce_et_coup%C3%A9.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kikwanga%20(chikwangue)%20%C3%A0%20la%20fa%C3%A7on%20de%20la%20RDC%20mais%20sans%20sauce%20et%20coup%C3%A9.jpg?width=1600",
+    "image_alt": {
+      "fr": "Chikwangue coupée en tranches",
+      "en": "Chikwangue cut into slices"
+    },
+    "image_credit": "Biejosue — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kikwanga_(chikwangue)_%C3%A0_la_fa%C3%A7on_de_la_RDC_mais_sans_sauce_et_coup%C3%A9.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/chikwangue-grillee/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/chikwangue-grillee/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
+    "id": "courge-sauce",
+    "slug": "courge-sauce",
+    "names": {
+      "fr": "Courge en sauce",
+      "en": "Pumpkin in sauce",
+      "aliases": [
+        {
+          "name": "courge",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "potiron",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "sauce tomate",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "légumes",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette courge jaune en sauce",
+      "en": "Yellow pumpkin in sauce recipe"
+    },
+    "description": {
+      "fr": "Recette de courge en sauce : courge jaune mijotée avec oignon, tomate et un trait d’huile — plat de légume, distinct des feuilles mujibujibu et de la mbika.",
+      "en": "Pumpkin in sauce recipe: yellow squash simmered with onion, tomato and oil — a vegetable dish, distinct from mujibujibu leaves and mbika seed paste."
+    },
+    "body": {
+      "fr": "Ici on cuisine le **fruit** de la courge, pas les feuilles ([mujibujibu](/recettes/mujibujibu/)) ni les graines en pâte ([mbika](/recettes/mbika/)). L’arachide reste facultative pour épaissir sans devenir une sauce nguba complète.",
+      "en": "Here you cook the squash fruit—not the leaves (mujibujibu) and not the seed paste (mbika). Peanuts are optional to thicken without becoming a full nguba sauce."
+    },
+    "region": "Kinshasa & Ouest de la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa",
+      "Ouest de la RDC"
+    ],
+    "category": "plat",
+    "difficulty": "facile",
+    "prep_time": "20 min",
+    "cook_time": "40 min",
+    "prep_time_iso": "PT20M",
+    "cook_time_iso": "PT40M",
+    "servings": 4,
+    "tags": [
+      "courge",
+      "potiron",
+      "sauce tomate",
+      "végétal",
+      "légumes"
+    ],
+    "ingredients": {
+      "fr": [
+        "800 g de courge jaune ou potiron, en cubes",
+        "2 oignons, émincés",
+        "3 tomates, concassées",
+        "2 gousses d’ail",
+        "3 c. à soupe d’huile de palme ou d’huile neutre",
+        "200 ml d’eau",
+        "Sel, pili-pili",
+        "80 g d’arachides pilées, facultatif"
+      ],
+      "en": [
+        "800 g yellow squash or pumpkin, cubed",
+        "2 onions, sliced",
+        "3 tomatoes, crushed",
+        "2 garlic cloves",
+        "3 tbsp palm oil or neutral oil",
+        "200 ml water",
+        "Salt, chili",
+        "80 g pounded peanuts, optional"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Faire fondre les oignons dans l’huile, ajouter l’ail et les tomates. Cuire 8 minutes.",
+        "Ajouter les cubes de courge, l’eau, sel et pili-pili. Couvrir et mijoter 25 à 30 minutes.",
+        "Quand la courge est tendre, écraser légèrement une partie pour lier la sauce.",
+        "Incorporer les arachides pilées en option, cuire encore 5 minutes.",
+        "Servir avec riz, fufu ou chikwangue."
+      ],
+      "en": [
+        "Sweat the onions in oil, add garlic and tomatoes. Cook 8 minutes.",
+        "Add the squash cubes, water, salt and chili. Cover and simmer 25–30 minutes.",
+        "When tender, mash some cubes lightly to thicken the sauce.",
+        "Stir in pounded peanuts if using; cook 5 minutes more.",
+        "Serve with rice, fufu or chikwangue."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "mujibujibu",
+      "mbika",
+      "aubergines-africaines"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Jebulon — Wikimedia Commons, CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Vegetable_Soup_with_diced_Beef.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vegetable%20Soup%20with%20diced%20Beef.jpg?width=1600",
+    "image_alt": {
+      "fr": "Légumes mijotés en sauce dans un plat",
+      "en": "Vegetables simmered in sauce"
+    },
+    "image_credit": "Jebulon — Wikimedia Commons, CC0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Vegetable_Soup_with_diced_Beef.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/courge-sauce/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/courge-sauce/"
     },
     "featured": false,
     "license": "CC-BY-4.0",
@@ -1814,6 +2091,152 @@
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/croquettes-manioc/",
       "en": "https://mpichi.likeur.xyz/en/recettes/croquettes-manioc/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
+    "id": "dongo-dongo",
+    "slug": "dongo-dongo",
+    "names": {
+      "fr": "Dongo-dongo",
+      "en": "Dongo-dongo",
+      "aliases": [
+        {
+          "name": "gombo au poisson fumé",
+          "lang": "fr"
+        },
+        {
+          "name": "dongo-dongo",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "gombo",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "poisson fumé",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Kinshasa",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "sauce",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette dongo-dongo — gombo au poisson fumé",
+      "en": "Dongo-dongo recipe — okra with smoked fish"
+    },
+    "description": {
+      "fr": "Recette de dongo-dongo : gombos mijotés avec poisson fumé jusqu’à une sauce filante et iodée — plat du quotidien, distinct de la sauce gombo sans fumé.",
+      "en": "Dongo-dongo recipe: okra simmered with smoked fish into a silky, briny sauce — everyday plate, distinct from plain okra sauce without smoke."
+    },
+    "body": {
+      "fr": "Le **dongo-dongo** met le **poisson fumé** au centre d’une sauce de gombo filante. La [sauce gombo](/recettes/sauce-gombo/) reste la version plus végétale (fumé optionnel) ; ici le fumé n’est pas un à-côté.",
+      "en": "Dongo-dongo puts smoked fish at the centre of a stretchy okra sauce. Sauce gombo stays the more vegetable-forward version (smoke optional); here the smoke is not a side note."
+    },
+    "region": "Kinshasa & bassin du Congo",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa",
+      "bassin du Congo"
+    ],
+    "category": "plat",
+    "difficulty": "facile",
+    "prep_time": "25 min",
+    "cook_time": "45 min",
+    "prep_time_iso": "PT25M",
+    "cook_time_iso": "PT45M",
+    "servings": 4,
+    "tags": [
+      "dongo-dongo",
+      "gombo",
+      "poisson fumé",
+      "Kinshasa",
+      "sauce"
+    ],
+    "ingredients": {
+      "fr": [
+        "500 g de gombos frais",
+        "250 g de poisson fumé (ou séché), dessalé si besoin",
+        "2 oignons, émincés",
+        "2 tomates, concassées",
+        "2 gousses d’ail",
+        "3 c. à soupe d’huile de palme ou d’huile neutre",
+        "Sel, pili-pili et un peu d’eau"
+      ],
+      "en": [
+        "500 g fresh okra",
+        "250 g smoked (or dried) fish, desalinated if needed",
+        "2 onions, sliced",
+        "2 tomatoes, crushed",
+        "2 garlic cloves",
+        "3 tbsp palm oil or neutral oil",
+        "Salt, chili and a little water"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Laver les gombos, couper les extrémités et les trancher en rondelles.",
+        "Faire tremper brièvement le poisson fumé si trop salé, l’égoutter et le détailler.",
+        "Faire revenir oignons et ail dans l’huile, ajouter les tomates 5 minutes.",
+        "Incorporer gombos, poisson et un fond d’eau. Mijoter 30 à 35 minutes en remuant.",
+        "Saler en fin de cuisson (le fumé sale déjà). Servir avec riz, fufu ou chikwangue."
+      ],
+      "en": [
+        "Wash the okra, trim the ends and slice into rounds.",
+        "Soak the smoked fish briefly if too salty, drain and break into pieces.",
+        "Sweat onions and garlic in oil, add tomatoes for 5 minutes.",
+        "Add okra, fish and a splash of water. Simmer 30–35 minutes, stirring.",
+        "Salt at the end (the smoke already seasons). Serve with rice, fufu or chikwangue."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "sauce-gombo",
+      "poisson-fume-tomates",
+      "kossa-kossa"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Cyriac Gbogou — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Sauce_gombo_aux_crabes_avec_poisson.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sauce%20gombo%20aux%20crabes%20avec%20poisson.jpg?width=1600",
+    "image_alt": {
+      "fr": "Sauce de gombo servie avec du poisson",
+      "en": "Okra sauce served with fish"
+    },
+    "image_credit": "Cyriac Gbogou — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Sauce_gombo_aux_crabes_avec_poisson.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/dongo-dongo/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/dongo-dongo/"
     },
     "featured": false,
     "license": "CC-BY-4.0",
@@ -2420,6 +2843,7 @@
       }
     ],
     "related_recipes": [
+      "sauce-arachide",
       "pondu",
       "chikwangue",
       "matembele-katanga"
@@ -2593,6 +3017,142 @@
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/gateau-manioc/",
       "en": "https://mpichi.likeur.xyz/en/recettes/gateau-manioc/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
+    "id": "haricots-verts-palme",
+    "slug": "haricots-verts-palme",
+    "names": {
+      "fr": "Haricots verts à l’huile de palme",
+      "en": "Green beans in palm oil",
+      "aliases": [
+        {
+          "name": "haricots verts",
+          "lang": "fr"
+        },
+        {
+          "name": "légumes",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "rapide",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "accompagnement",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette haricots verts huile de palme",
+      "en": "Green beans with palm oil recipe"
+    },
+    "description": {
+      "fr": "Recette d’haricots verts à l’huile de palme : haricots frais sautés avec oignon et tomate — accompagnement vif, distinct des madesu (haricots secs).",
+      "en": "Green beans with palm oil recipe: fresh beans sautéed with onion and tomato — a bright side, distinct from madesu (dried beans)."
+    },
+    "body": {
+      "fr": "Les **haricots verts** sont frais et verts : ce ne sont pas les [madesu](/recettes/madesu/) (haricots secs rouges/bruns longuement mijotés). L’huile de palme donne la couleur et le parfum de table congolaise.",
+      "en": "Green beans are fresh and green—not madesu (dried red/brown beans simmered for a long time). Palm oil gives the colour and Congolese table perfume."
+    },
+    "region": "Kinshasa & Ouest de la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa",
+      "Ouest de la RDC"
+    ],
+    "category": "accompagnement",
+    "difficulty": "facile",
+    "prep_time": "15 min",
+    "cook_time": "20 min",
+    "prep_time_iso": "PT15M",
+    "cook_time_iso": "PT20M",
+    "servings": 4,
+    "tags": [
+      "haricots verts",
+      "huile de palme",
+      "légumes",
+      "rapide",
+      "accompagnement"
+    ],
+    "ingredients": {
+      "fr": [
+        "500 g de haricots verts frais, équeutés",
+        "2 c. à soupe d’huile de palme rouge",
+        "1 oignon, émincé",
+        "2 tomates, concassées",
+        "1 gousse d’ail",
+        "Sel, pili-pili",
+        "50 ml d’eau"
+      ],
+      "en": [
+        "500 g fresh green beans, trimmed",
+        "2 tbsp red palm oil",
+        "1 onion, sliced",
+        "2 tomatoes, crushed",
+        "1 garlic clove",
+        "Salt, chili",
+        "50 ml water"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Laver les haricots, les couper en tronçons si trop longs. Blanchir 4 minutes dans l’eau bouillante salée, égoutter.",
+        "Chauffer l’huile de palme. Faire fondre l’oignon, ajouter l’ail et les tomates 5 minutes.",
+        {
+          "Incorporer les haricots et l’eau. Couvrir 8 à 10 minutes": "ils doivent rester un peu croquants."
+        },
+        "Saler, pimenter. Servir avec riz, poisson ou viande."
+      ],
+      "en": [
+        "Wash the beans; cut into lengths if very long. Blanch 4 minutes in salted boiling water; drain.",
+        "Heat the palm oil. Sweat the onion, add garlic and tomatoes for 5 minutes.",
+        "Add the beans and water. Cover 8–10 minutes—they should stay slightly crisp.",
+        "Season with salt and chili. Serve with rice, fish or meat."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "madesu",
+      "ndunda",
+      "aubergines-africaines"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Judgefloro — Wikimedia Commons, public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:9747Cuisine_food_of_Bulacan_during_Pandemic_12.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/9747Cuisine%20food%20of%20Bulacan%20during%20Pandemic%2012.jpg?width=1600",
+    "image_alt": {
+      "fr": "Haricots verts cuits à la poêle",
+      "en": "Green beans cooked in a pan"
+    },
+    "image_credit": "Judgefloro — Wikimedia Commons, public domain",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:9747Cuisine_food_of_Bulacan_during_Pandemic_12.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/haricots-verts-palme/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/haricots-verts-palme/"
     },
     "featured": false,
     "license": "CC-BY-4.0",
@@ -4859,9 +5419,9 @@
       }
     ],
     "related_recipes": [
+      "haricots-verts-palme",
       "loso-na-madesu",
-      "saka-madesu",
-      "chikwangue"
+      "saka-madesu"
     ],
     "sources": [
       {
@@ -5253,9 +5813,9 @@
     },
     "variants": [],
     "related_recipes": [
+      "makemba-na-mbisi",
       "plantains-vapeur",
-      "lituma",
-      "poisson-braise-kinkole"
+      "lituma"
     ],
     "sources": [
       {
@@ -5295,6 +5855,148 @@
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/makemba/",
       "en": "https://mpichi.likeur.xyz/en/recettes/makemba/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
+    "id": "makemba-na-mbisi",
+    "slug": "makemba-na-mbisi",
+    "names": {
+      "fr": "Makemba na mbisi",
+      "en": "Makemba na mbisi",
+      "aliases": [
+        {
+          "name": "plantains et poisson",
+          "lang": "fr"
+        },
+        {
+          "name": "makemba",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "mbisi",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "plantain",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "assiette",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette makemba na mbisi — plantains et poisson",
+      "en": "Makemba na mbisi recipe — plantains and fish"
+    },
+    "description": {
+      "fr": "Recette de makemba na mbisi : plantains frits servis avec du poisson (frit, braisé ou en sauce) — assiette composée très courante en RDC.",
+      "en": "Makemba na mbisi recipe: fried plantains served with fish (fried, grilled or in sauce) — a very common composed plate across the DRC."
+    },
+    "body": {
+      "fr": "**Makemba na mbisi** n’est pas une nouvelle technique : c’est le **mariage d’assiette** entre [makemba](/recettes/makemba/) et un poisson (braisé, frit ou fumé). À Kinshasa comme en province, c’est l’une des compositions les plus demandées.",
+      "en": "Makemba na mbisi is not a new technique—it is the plate pairing of fried plantains and fish (grilled, fried or smoked). In Kinshasa and across the provinces it is one of the most requested compositions."
+    },
+    "region": "Toute la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Toute la RDC"
+    ],
+    "category": "plat",
+    "difficulty": "facile",
+    "prep_time": "20 min",
+    "cook_time": "35 min",
+    "prep_time_iso": "PT20M",
+    "cook_time_iso": "PT35M",
+    "servings": 4,
+    "tags": [
+      "makemba",
+      "mbisi",
+      "plantain",
+      "poisson",
+      "assiette"
+    ],
+    "ingredients": {
+      "fr": [
+        "4 bananes plantain mûres",
+        "600 g de poisson (tilapia, capitaine ou poisson fumé)",
+        "Huile de friture",
+        "1 oignon, émincé",
+        "2 tomates, concassées",
+        "2 gousses d’ail",
+        "Jus de 1 citron",
+        "Sel, pili-pili"
+      ],
+      "en": [
+        "4 ripe plantains",
+        "600 g fish (tilapia, capitaine or smoked fish)",
+        "Frying oil",
+        "1 onion, sliced",
+        "2 tomatoes, crushed",
+        "2 garlic cloves",
+        "Juice of 1 lemon",
+        "Salt, chili"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Saler, poivrer et citronner le poisson. Le faire dorer à la poêle ou le braiser. Réserver.",
+        "Éplucher les plantains, les couper en tranches et les frire jusqu’à doré. Égoutter et saler.",
+        {
+          "Option sauce courte": "faire revenir oignon et ail, ajouter tomates et un fond d’eau, 8 minutes. Napper le poisson."
+        },
+        "Dresser makemba et mbisi dans la même assiette. Servir aussitôt."
+      ],
+      "en": [
+        "Season the fish with salt, pepper and lemon. Brown in a pan or grill. Set aside.",
+        "Peel the plantains, slice and fry until golden. Drain and salt.",
+        "Optional short sauce: sweat onion and garlic, add tomatoes and a splash of water, 8 minutes. Spoon over the fish.",
+        "Plate makemba and mbisi together. Serve at once."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "makemba",
+      "poisson-braise-kinkole",
+      "mbisi-ya-kokalinga"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Precious654 — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:FRIED_PLANTAIN_FISH.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FRIED%20PLANTAIN%20FISH.jpg?width=1600",
+    "image_alt": {
+      "fr": "Plantains frits servis avec du poisson",
+      "en": "Fried plantains served with fish"
+    },
+    "image_credit": "Precious654 — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:FRIED_PLANTAIN_FISH.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/makemba-na-mbisi/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/makemba-na-mbisi/"
     },
     "featured": false,
     "license": "CC-BY-4.0",
@@ -10344,6 +11046,142 @@
     "updated_at": "2026-10-22"
   },
   {
+    "id": "sauce-arachide",
+    "slug": "sauce-arachide",
+    "names": {
+      "fr": "Sauce d’arachide",
+      "en": "Peanut sauce",
+      "aliases": [
+        {
+          "name": "nguba",
+          "lang": "ln"
+        },
+        {
+          "name": "sauce cacahuète",
+          "lang": "fr"
+        },
+        {
+          "name": "sauce arachide",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "sauce",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette sauce d’arachide congolaise (nguba)",
+      "en": "Congolese peanut sauce recipe (nguba)"
+    },
+    "description": {
+      "fr": "Recette de sauce d’arachide (nguba) : pâte d’arachide diluée et mijotée avec oignon et tomate — sauce autonome, distincte du fumbwa aux arachides.",
+      "en": "Peanut sauce (nguba) recipe: unsweetened peanut paste loosened and simmered with onion and tomato — a standalone sauce, distinct from fumbwa in peanut sauce."
+    },
+    "body": {
+      "fr": "Cette **sauce d’arachide** (souvent appelée **nguba**) est une base seule : pas de feuilles de fumbwa. Pour les feuilles dans l’arachide, voir [fumbwa aux arachides](/recettes/fumbwa-arachides/) ou [matembele](/recettes/matembele-katanga/). La [mbika](/recettes/mbika/) utilise des graines de courge, pas l’arachide.",
+      "en": "This peanut sauce (often called nguba) is a base on its own—no fumbwa leaves. For leaves in peanut, see fumbwa with peanuts or matembele. Mbika uses squash seeds, not peanut."
+    },
+    "region": "Toute la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Toute la RDC"
+    ],
+    "category": "plat",
+    "difficulty": "facile",
+    "prep_time": "15 min",
+    "cook_time": "35 min",
+    "prep_time_iso": "PT15M",
+    "cook_time_iso": "PT35M",
+    "servings": 4,
+    "tags": [
+      "sauce arachide",
+      "nguba",
+      "arachide",
+      "végétal",
+      "sauce"
+    ],
+    "ingredients": {
+      "fr": [
+        "200 g de pâte d’arachide non sucrée (ou arachides grillées pilées)",
+        "2 oignons, émincés",
+        "2 tomates, concassées",
+        "2 gousses d’ail",
+        "2 c. à soupe d’huile",
+        "400 ml d’eau chaude",
+        "Sel, pili-pili",
+        "100 g de poisson fumé ou de viande, facultatif"
+      ],
+      "en": [
+        "200 g unsweetened peanut paste (or roasted pounded peanuts)",
+        "2 onions, sliced",
+        "2 tomatoes, crushed",
+        "2 garlic cloves",
+        "2 tbsp oil",
+        "400 ml hot water",
+        "Salt, chili",
+        "100 g smoked fish or meat, optional"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Faire fondre les oignons dans l’huile, ajouter l’ail et les tomates. Cuire 8 minutes.",
+        "Délayer la pâte d’arachide avec l’eau chaude jusqu’à obtenir un lait épais, sans grumeaux.",
+        "Verser dans la marmite, ajouter le fumé s’il y en a. Mijoter à feu doux 20 à 25 minutes en remuant.",
+        "Saler et pimenter. La sauce doit nappe la cuillère sans brûler au fond.",
+        "Servir avec riz, fufu, chikwangue, plantain ou légumes."
+      ],
+      "en": [
+        "Sweat the onions in oil, add garlic and tomatoes. Cook 8 minutes.",
+        "Loosen the peanut paste with hot water into a thick milk, no lumps.",
+        "Pour into the pot, add smoked fish if using. Simmer gently 20–25 minutes, stirring.",
+        "Season with salt and chili. The sauce should coat a spoon without scorching.",
+        "Serve with rice, fufu, chikwangue, plantain or greens."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "fumbwa-arachides",
+      "matembele-katanga",
+      "mbika"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Benoît Prieur — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Sauce_d%27Arachide_02.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sauce%20d%27Arachide%2002.jpg?width=1600",
+    "image_alt": {
+      "fr": "Sauce d’arachide onctueuse dans un plat",
+      "en": "Creamy peanut sauce in a dish"
+    },
+    "image_credit": "Benoît Prieur — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Sauce_d%27Arachide_02.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/sauce-arachide/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/sauce-arachide/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-22"
+  },
+  {
     "id": "sauce-gombo",
     "slug": "sauce-gombo",
     "names": {
@@ -10432,8 +11270,8 @@
     },
     "variants": [],
     "related_recipes": [
+      "dongo-dongo",
       "aubergines-africaines",
-      "ndunda",
       "poisson-fume-tomates"
     ],
     "sources": [
