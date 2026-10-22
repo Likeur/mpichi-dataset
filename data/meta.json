@@ -1,0 +1,20 @@
+{
+  "name": "mpichi-dataset",
+  "version": "1.0.0",
+  "updated_at": "2026-10-22",
+  "recipe_count": 72,
+  "instruction_pair_count": 372,
+  "splits": {
+    "train": 65,
+    "valid": 7
+  },
+  "source_site": "https://mpichi.likeur.xyz",
+  "source_repo": "https://github.com/Likeur/mpichi",
+  "data_license": "CC-BY-4.0",
+  "code_license": "MIT",
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "country": "CD"
+}

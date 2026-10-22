@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Mpichi Dataset — Congolese (DRC) recipes"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: Likeur
+    website: https://likeur.xyz
+repository-code: https://github.com/Likeur/mpichi-dataset
+url: https://mpichi.likeur.xyz
+license: CC-BY-4.0
+version: 1.0.0
+date-released: "2026-10-22"
+abstract: >-
+  Bilingual (French / English) open dataset of Congolese recipes from the
+  Democratic Republic of the Congo, curated for Mpichi. Intended for culinary
+  research, NLP, and local LLM fine-tuning. Text under CC BY 4.0; scripts under MIT.
+keywords:
+  - Congo
+  - DRC
+  - recipes
+  - cuisine
+  - French
+  - English
+  - LLM
+  - fine-tuning
+  - open data

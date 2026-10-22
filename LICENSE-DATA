@@ -1,0 +1,26 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The textual recipe data in this repository (JSON, JSONL, and derived instruction
+pairs) is licensed under CC BY 4.0.
+
+You are free to:
+  Share — copy and redistribute the material in any medium or format
+  Adapt — remix, transform, and build upon the material for any purpose,
+           even commercially
+
+Under the following terms:
+  Attribution — You must give appropriate credit, provide a link to the
+                 license, and indicate if changes were made.
+
+Full legal code:
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+Suggested attribution:
+  Mpichi Dataset — Congolese recipes (DRC), by Likeur.
+  https://github.com/Likeur/mpichi-dataset
+  Source site: https://mpichi.likeur.xyz
+  License: CC BY 4.0
+
+Image binaries are NOT included. Image URLs and credit fields point to
+third-party works (often Wikimedia Commons) under their own licenses.
+Do not assume CC BY 4.0 applies to those images.

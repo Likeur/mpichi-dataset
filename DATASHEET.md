@@ -1,0 +1,73 @@
+# Dataset Datasheet — Mpichi Congolese Recipes
+
+Following the spirit of *Datasheets for Datasets* (Gebru et al.).
+
+## Motivation
+
+**For what purpose was the dataset created?**  
+To openly document Congolese (DRC) culinary heritage in a machine-readable, bilingual form usable by researchers and developers training or evaluating local language models.
+
+**Who created it?**  
+Likeur ([likeur.xyz](https://likeur.xyz)), as part of the [Mpichi](https://mpichi.likeur.xyz) editorial project.
+
+**Funding**  
+Independent / community project (no dedicated grant at v1.0.0).
+
+## Composition
+
+**What do the instances represent?**  
+Each instance is one dish/recipe with bilingual text (French primary, English when available), timing, region, tags, optional variants, and provenance fields.
+
+**How many instances?**  
+See `data/meta.json` after export (dozens of curated recipes; grows with the site).
+
+**What data does each instance consist of?**  
+Structured JSON fields described in `schema/recipe.schema.json`. No audio/video binaries; optional YouTube links and third-party image URLs only.
+
+**Is any information missing?**  
+Yes: structured ingredient quantities (`name`/`unit`/`amount`), complete coverage of all DRC ethnolinguistic names, and verified historical sources beyond editorial notes.
+
+**Are there recommended data splits?**  
+`data/splits/train.jsonl` and `valid.jsonl` (~90/10 by deterministic hash, grouped by category).
+
+**Does the dataset contain confidential data?**  
+No personal data of living private individuals beyond public photo credits.
+
+## Collection process
+
+**How was data acquired?**  
+Editorial documentation of transmitted culinary practices, cross-checked with available public sources, published as Markdown on Mpichi then exported.
+
+**Who was involved?**  
+Editor (Likeur). Community corrections are welcome.
+
+**Over what timeframe?**  
+Ongoing since the Mpichi site launch (2026+).
+
+## Preprocessing
+
+Markdown front matter + body and English overrides (`recipes-en.ts`) are merged. ISO-8601 durations are derived from human time strings. Aliases are merged from `enrichment/aliases.json` and editorial tags. Instruction pairs are **generated** from recipe fields (not human chat logs).
+
+## Uses
+
+**Suitable for**  
+Recipe QA, bilingual generation, retrieval, cultural NLP benchmarks, continued pretraining / SFT of local models with attribution.
+
+**Unsuitable for**  
+Medical/nutrition claims; claiming exhaustive coverage of Congolese cuisine; redistributing third-party images without checking their licenses.
+
+## Distribution
+
+**Where?**  
+https://github.com/Likeur/mpichi-dataset (intended). Companion site: https://mpichi.likeur.xyz
+
+**License**  
+Textual data: CC BY 4.0 (`LICENSE-DATA`). Scripts: MIT (`LICENSE`).
+
+## Maintenance
+
+**Who will maintain it?**  
+Likeur / Mpichi maintainers.
+
+**How can errors be reported?**  
+GitHub issues on the dataset or site repository; contact via likeur.xyz.

@@ -1,0 +1,33 @@
+{
+  "name": "mpichi-dataset",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Open bilingual dataset of Congolese (DRC) recipes from Mpichi — for research and local AI fine-tuning",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "export": "node scripts/export-from-mpichi.mjs",
+    "build": "npm run export",
+    "validate": "node scripts/validate.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Likeur/mpichi-dataset.git"
+  },
+  "keywords": [
+    "congo",
+    "drc",
+    "recipes",
+    "dataset",
+    "nlp",
+    "llm",
+    "fine-tuning",
+    "open-data",
+    "cuisine"
+  ],
+  "author": "Likeur",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "tsx": "^4.19.3"
+  }
+}

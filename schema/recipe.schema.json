@@ -1,0 +1,223 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Likeur/mpichi-dataset/schema/recipe.schema.json",
+  "title": "MpichiRecipe",
+  "description": "One Congolese (DRC) recipe record from the Mpichi open dataset.",
+  "type": "object",
+  "required": [
+    "id",
+    "slug",
+    "names",
+    "country",
+    "category",
+    "difficulty",
+    "servings",
+    "description",
+    "ingredients",
+    "steps",
+    "license",
+    "attribution",
+    "version"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable identifier (same as slug)."
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "names": {
+      "type": "object",
+      "required": ["fr"],
+      "properties": {
+        "fr": { "type": "string" },
+        "en": { "type": "string" },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name"],
+            "properties": {
+              "name": { "type": "string" },
+              "lang": {
+                "type": "string",
+                "description": "BCP-47-ish or ISO 639-1/3 hint (fr, en, ln, sw, kg, lua…)."
+              },
+              "note": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "seo_title": {
+      "type": "object",
+      "properties": {
+        "fr": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "description": {
+      "type": "object",
+      "required": ["fr"],
+      "properties": {
+        "fr": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "body": {
+      "type": "object",
+      "description": "Editorial narrative (markdown/plain).",
+      "properties": {
+        "fr": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "region": { "type": "string" },
+    "country": {
+      "type": "string",
+      "const": "CD",
+      "description": "ISO 3166-1 alpha-2 (Democratic Republic of the Congo)."
+    },
+    "geo_tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "category": {
+      "type": "string",
+      "enum": ["plat", "accompagnement", "boisson", "dessert"]
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": ["facile", "moyen", "avancé"]
+    },
+    "prep_time": { "type": "string" },
+    "cook_time": { "type": "string" },
+    "prep_time_iso": {
+      "type": "string",
+      "description": "ISO-8601 duration (e.g. PT30M)."
+    },
+    "cook_time_iso": {
+      "type": "string",
+      "description": "ISO-8601 duration (e.g. PT1H30M)."
+    },
+    "servings": { "type": "integer", "minimum": 1 },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "ingredients": {
+      "type": "object",
+      "required": ["fr"],
+      "properties": {
+        "fr": { "type": "array", "items": { "type": "string" } },
+        "en": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "steps": {
+      "type": "object",
+      "required": ["fr"],
+      "properties": {
+        "fr": { "type": "array", "items": { "type": "string" } },
+        "en": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "variants": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "ingredients", "steps"],
+        "properties": {
+          "id": { "type": "string" },
+          "title": {
+            "type": "object",
+            "properties": {
+              "fr": { "type": "string" },
+              "en": { "type": "string" }
+            }
+          },
+          "description": {
+            "type": "object",
+            "properties": {
+              "fr": { "type": "string" },
+              "en": { "type": "string" }
+            }
+          },
+          "ingredients": {
+            "type": "object",
+            "properties": {
+              "fr": { "type": "array", "items": { "type": "string" } },
+              "en": { "type": "array", "items": { "type": "string" } }
+            }
+          },
+          "steps": {
+            "type": "object",
+            "properties": {
+              "fr": { "type": "array", "items": { "type": "string" } },
+              "en": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    "related_recipes": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["editorial", "transmission", "url", "video"]
+          },
+          "label": { "type": "string" },
+          "url": { "type": "string", "format": "uri" }
+        }
+      }
+    },
+    "image_url": { "type": "string" },
+    "image_alt": {
+      "type": "object",
+      "properties": {
+        "fr": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "image_credit": { "type": "string" },
+    "image_credit_url": { "type": "string" },
+    "image_license_note": {
+      "type": "string",
+      "description": "Reminder that image binaries are third-party licensed."
+    },
+    "video": {
+      "type": "object",
+      "properties": {
+        "youtube": { "type": "string" },
+        "title": { "type": "string" },
+        "credit": { "type": "string" },
+        "credit_url": { "type": "string" }
+      }
+    },
+    "urls": {
+      "type": "object",
+      "properties": {
+        "fr": { "type": "string", "format": "uri" },
+        "en": { "type": "string", "format": "uri" }
+      }
+    },
+    "featured": { "type": "boolean" },
+    "license": {
+      "type": "string",
+      "const": "CC-BY-4.0"
+    },
+    "attribution": { "type": "string" },
+    "version": { "type": "string" },
+    "updated_at": { "type": "string", "format": "date" }
+  },
+  "additionalProperties": false
+}

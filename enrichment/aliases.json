@@ -1,0 +1,43 @@
+{
+  "biteku-teku-kasai": [
+    { "name": "lenga-lenga", "lang": "ln", "note": "Common name in Kinshasa / West for amaranth greens" },
+    { "name": "biteku-teku", "lang": "fr", "note": "Kasai form" }
+  ],
+  "fumbwa-arachides": [
+    { "name": "koko", "lang": "ln" },
+    { "name": "okazi", "lang": "en", "note": "Name used in Nigeria / diaspora for Gnetum leaves" },
+    { "name": "eru", "lang": "en", "note": "Cameroonian name for related Gnetum dishes" }
+  ],
+  "pondu": [
+    { "name": "saka-saka", "lang": "ln" },
+    { "name": "sombe", "lang": "sw", "note": "Related cassava-leaf preparation in the Great Lakes region" }
+  ],
+  "chikwangue": [
+    { "name": "kwanga", "lang": "ln" },
+    { "name": "bobolo", "lang": "fr", "note": "Related fermented cassava stick" }
+  ],
+  "moambe-poulet": [
+    { "name": "poulet à la moambe", "lang": "fr" },
+    { "name": "mwambe", "lang": "ln" },
+    { "name": "muamba", "lang": "pt", "note": "Angolan / diaspora spelling" }
+  ],
+  "liboke-poisson": [
+    { "name": "liboké", "lang": "fr" },
+    { "name": "en papillote congolaise", "lang": "fr" }
+  ],
+  "mikate": [
+    { "name": "beignets congolais", "lang": "fr" },
+    { "name": "puff-puff", "lang": "en", "note": "Related West African doughnut; not identical" }
+  ],
+  "ndunda": [
+    { "name": "ndúnda", "lang": "ln" },
+    { "name": "lenga-lenga", "lang": "ln", "note": "Sometimes used loosely for everyday greens in Kinshasa" }
+  ],
+  "makemba": [
+    { "name": "bananes plantains frites", "lang": "fr" }
+  ],
+  "bukari-katanga": [
+    { "name": "bidia", "lang": "fr", "note": "Related stiff porridge; see also bidia recipe" },
+    { "name": "fufu", "lang": "en", "note": "Generic diaspora term for stiff starch balls" }
+  ]
+}
