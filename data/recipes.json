@@ -419,154 +419,6 @@
     "updated_at": "2026-10-22"
   },
   {
-    "id": "bidia",
-    "slug": "bidia",
-    "names": {
-      "fr": "Bidia",
-      "en": "Bidia",
-      "aliases": [
-        {
-          "name": "bidia",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "fufu",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "maïs",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "Grand Kasaï",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "accompagnement",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        }
-      ]
-    },
-    "seo_title": {
-      "fr": "Recette bidia — pâte de maïs et manioc",
-      "en": "Bidia recipe — maize and cassava dough"
-    },
-    "description": {
-      "fr": "Recette de bidia : pâte dense de farine de maïs (parfois mélangée au manioc) travaillée à l’eau chaude — accompagnement du Kasaï, cousin du bukari et du fufu.",
-      "en": "Bidia recipe: a dense maize-flour dough (sometimes mixed with cassava) worked with hot water — Kasai staple side, cousin to bukari and fufu."
-    },
-    "body": {
-      "fr": "La **bidia** (Kasaï) est la pâte qu’on pince pour ramasser la sauce — souvent maïs, parfois maïs + manioc selon le foyer. Au Katanga on parlera plutôt de [bukari](/recettes/bukari-katanga/) ; à l’Ouest, de [fufu de manioc](/recettes/fufu-manioc/) ou de [chikwangue](/recettes/chikwangue/).\n\nPlat typique à côté : [biteku-teku](/recettes/biteku-teku-kasai/).",
-      "en": "Bidia (Kasai) is the dough you pinch to scoop sauce—often maize, sometimes maize plus cassava. In Katanga people say bukari; in the West, cassava fufu or chikwangue."
-    },
-    "region": "Grand Kasaï",
-    "country": "CD",
-    "geo_tags": [
-      "Grand Kasaï"
-    ],
-    "category": "accompagnement",
-    "difficulty": "moyen",
-    "prep_time": "5 min",
-    "cook_time": "20 min",
-    "prep_time_iso": "PT5M",
-    "cook_time_iso": "PT20M",
-    "servings": 6,
-    "tags": [
-      "bidia",
-      "fufu",
-      "maïs",
-      "Grand Kasaï",
-      "accompagnement"
-    ],
-    "ingredients": {
-      "fr": [
-        "400 g de farine fine de maïs blanc",
-        "100 g de farine de manioc, facultatif (mélange maison)",
-        "1,2 l d’eau",
-        "1 pincée de sel, facultative"
-      ],
-      "en": [
-        "400 g fine white maize flour",
-        "100 g cassava flour, optional (home mix)",
-        "1.2 l water",
-        "A pinch of salt, optional"
-      ]
-    },
-    "steps": {
-      "fr": [
-        "Porter environ un litre d’eau à ébullition dans une marmite à fond épais.",
-        "Mélanger les farines. Délayer une petite partie dans l’eau restante froide, puis verser dans la marmite en remuant.",
-        "Laisser épaissir quelques minutes en bouillie homogène.",
-        "Ajouter le reste de farine progressivement tout en travaillant vivement avec une spatule solide.",
-        "Retourner et écraser la pâte jusqu’à ce qu’elle soit lisse, dense et se détache de la marmite.",
-        "Façonner en portions. Servir aussitôt avec une sauce ou des légumes."
-      ],
-      "en": [
-        "Bring about one litre of water to a boil in a heavy pot.",
-        "Mix the flours. Loosen a little in the remaining cold water, then pour into the pot while stirring.",
-        "Let it thicken a few minutes into an even porridge.",
-        "Add the rest of the flour gradually while working hard with a sturdy spatula.",
-        "Turn and press until the dough is smooth, dense and leaves the pot.",
-        "Shape into portions. Serve at once with a sauce or greens."
-      ]
-    },
-    "variants": [],
-    "related_recipes": [
-      "bukari-katanga",
-      "fufu-manioc",
-      "biteku-teku-kasai"
-    ],
-    "sources": [
-      {
-        "type": "editorial",
-        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
-        "url": "https://mpichi.likeur.xyz/"
-      },
-      {
-        "type": "transmission",
-        "label": "Household transmission notes — quantities are starting points"
-      },
-      {
-        "type": "video",
-        "label": "Fufu / bidia congolais — geste de la pâte",
-        "url": "https://www.youtube.com/watch?v=pv5yJ1A6pzA"
-      },
-      {
-        "type": "url",
-        "label": "Photo credit: Olbyabc — Wikimedia Commons, CC BY-SA 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Ugali.jpg"
-      }
-    ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ugali.jpg?width=1600",
-    "image_alt": {
-      "fr": "Boule de pâte de maïs type ugali / bidia",
-      "en": "Ball of maize dough like ugali / bidia"
-    },
-    "image_credit": "Olbyabc — Wikimedia Commons, CC BY-SA 3.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Ugali.jpg",
-    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
-    "video": {
-      "youtube": "https://www.youtube.com/watch?v=pv5yJ1A6pzA",
-      "title": "Fufu / bidia congolais — geste de la pâte",
-      "credit": "Cook with Nahima",
-      "credit_url": "https://www.youtube.com/@CookwithNahima"
-    },
-    "urls": {
-      "fr": "https://mpichi.likeur.xyz/recettes/bidia/",
-      "en": "https://mpichi.likeur.xyz/en/recettes/bidia/"
-    },
-    "featured": false,
-    "license": "CC-BY-4.0",
-    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.0.0",
-    "updated_at": "2026-10-22"
-  },
-  {
     "id": "biteku-teku-kasai",
     "slug": "biteku-teku-kasai",
     "names": {
@@ -609,8 +461,8 @@
       "en": "Biteku-teku recipe: amaranth simmered with onion, tomato and peanut — Greater Kasai dish, also called lenga-lenga in Kinshasa."
     },
     "body": {
-      "fr": "Le **biteku-teku** est populaire au Kasaï. À Kinshasa, les légumes verts du quotidien s’appellent plutôt [ndunda](/recettes/ndunda/) ; la même amarante est aussi dite **lenga-lenga**. On le mange avec la [bidia](/recettes/bidia/) ; on peut omettre les arachides.\n\nAutres feuilles : [matembele](/recettes/matembele-katanga/), [pondu](/recettes/pondu/). Contexte marché : [guide du marché](/guides/marche/).",
-      "en": "Biteku-teku is popular in Kasai. In Kinshasa and the West, the same amaranth is often called lenga-lenga, more commonly simmered with tomato and palm oil. Eat with bidia; peanuts are optional."
+      "fr": "Le **biteku-teku** est populaire au Kasaï. À Kinshasa, les légumes verts du quotidien s’appellent plutôt [ndunda](/recettes/ndunda/) ; la même amarante est aussi dite **lenga-lenga**. On le mange avec le [bukari](/recettes/bukari-katanga/) (bidia au Kasaï) ; on peut omettre les arachides.\n\nAutres feuilles : [matembele](/recettes/matembele-katanga/), [pondu](/recettes/pondu/). Contexte marché : [guide du marché](/guides/marche/).",
+      "en": "Biteku-teku is popular in Kasai. In Kinshasa and the West, the same amaranth is often called lenga-lenga, more commonly simmered with tomato and palm oil. Eat with bukari (also called bidia in Kasai); peanuts are optional."
     },
     "region": "Grand Kasaï",
     "country": "CD",
@@ -675,7 +527,7 @@
     "related_recipes": [
       "ndunda",
       "matembele-katanga",
-      "bidia"
+      "bukari-katanga"
     ],
     "sources": [
       {
@@ -1112,7 +964,11 @@
         {
           "name": "bidia",
           "lang": "fr",
-          "note": "Related stiff porridge; see also bidia recipe"
+          "note": "Kasai name for the same maize dough (no separate page)"
+        },
+        {
+          "name": "fufu de maïs",
+          "lang": "fr"
         },
         {
           "name": "fufu",
@@ -1150,8 +1006,8 @@
       "en": "Bukari recipe: hot-worked maize flour dough until smooth and dense—the central starch of Greater Katanga (Lubumbashi)."
     },
     "body": {
-      "fr": "Le **bukari** (parfois rapproché du bidia / fufu de maïs) occupe le centre de la table au Grand Katanga : légumes-feuilles, poisson et viandes en sauce s’y accrochent. À l’Ouest, l’équivalent fermenté de manioc est plutôt la [chikwangue](/recettes/chikwangue/).\n\nSauces de la région : [matembele aux arachides](/recettes/matembele-katanga/), [kapenta aux tomates](/recettes/kapenta-tomates/).",
-      "en": "Bukari (sometimes linked to bidia / maize fufu) anchors meals in Greater Katanga: leafy greens, fish and stewed meats cling to it. In the West, fermented cassava “bread” is more often chikwangue."
+      "fr": "Le **bukari** (pâte de maïs, aussi appelée *bidia* au Kasaï) occupe le centre de la table au Grand Katanga : légumes-feuilles, poisson et viandes en sauce s’y accrochent. À l’Ouest, l’équivalent fermenté de manioc est plutôt la [chikwangue](/recettes/chikwangue/) ; le [fufu de manioc](/recettes/fufu-manioc/) reste l’autre grand geste de pâte.\n\nSauces de la région : [matembele aux arachides](/recettes/matembele-katanga/), [kapenta aux tomates](/recettes/kapenta-tomates/).",
+      "en": "Bukari (maize dough, also called bidia in Kasai) anchors meals in Greater Katanga: leafy greens, fish and stewed meats cling to it. In the West, fermented cassava “bread” is more often chikwangue; cassava fufu is the other main dough."
     },
     "region": "Grand Katanga",
     "country": "CD",
@@ -1204,8 +1060,8 @@
     },
     "variants": [],
     "related_recipes": [
-      "bidia",
       "fufu-manioc",
+      "chikwangue",
       "sambaza"
     ],
     "sources": [
@@ -6407,7 +6263,7 @@
       "en": "Pumpkin leaves slowly simmered with freshly ground peanuts and smoked fish."
     },
     "body": {
-      "fr": "Plat transmis dans les familles luba du Kasaï, le mujibujibu est servi avec le bidia, du riz ou de la chikwangue.",
+      "fr": "Plat transmis dans les familles luba du Kasaï, le mujibujibu est servi avec le [bukari](/recettes/bukari-katanga/) (bidia), du riz ou de la [chikwangue](/recettes/chikwangue/).",
       "en": "Mujibujibu is a Kasai green dish where peanut and smoke do most of the talking."
     },
     "region": "Kasaï-Central",
@@ -6463,7 +6319,7 @@
         "Sweat the onion, add the leaves and water; cook covered.",
         "Stir in the peanuts and smoked fish.",
         "Simmer until tender and creamy.",
-        "Season and serve with bidia or fufu."
+        "Season and serve with bukari or fufu."
       ]
     },
     "variants": [],
@@ -10023,7 +9879,7 @@
       "en": "Kasai chicken simmered in a fresh, highly fragrant African basil sauce."
     },
     "body": {
-      "fr": "Aussi appelé tshiluabenyi, ce poulet parfumé au lumba-lumba est associé aux cuisines du Kasaï. Le bidia est son accompagnement naturel.",
+      "fr": "Aussi appelé tshiluabenyi, ce poulet parfumé au lumba-lumba est associé aux cuisines du Kasaï. Le [bukari](/recettes/bukari-katanga/) (bidia) est son accompagnement naturel.",
       "en": "Lumba-lumba gives this Kasai chicken its unmistakable perfume."
     },
     "region": "Grand Kasaï",
@@ -10080,7 +9936,7 @@
         "Sweat onions and garlic, add tomatoes.",
         "Return the chicken with water and simmer until tender.",
         "Add the chopped lumba-lumba near the end so it stays fragrant.",
-        "Season and serve with bidia or fufu."
+        "Season and serve with bukari or fufu."
       ]
     },
     "variants": [],

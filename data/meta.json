@@ -2,10 +2,10 @@
   "name": "mpichi-dataset",
   "version": "1.0.0",
   "updated_at": "2026-10-22",
-  "recipe_count": 72,
-  "instruction_pair_count": 372,
+  "recipe_count": 71,
+  "instruction_pair_count": 367,
   "splits": {
-    "train": 65,
+    "train": 64,
     "valid": 7
   },
   "source_site": "https://mpichi.likeur.xyz",

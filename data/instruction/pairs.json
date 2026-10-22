@@ -120,46 +120,6 @@
     "recipe_id": "beignets-manioc"
   },
   {
-    "id": "bidia-recipe-fr",
-    "lang": "fr",
-    "task": "recipe_full",
-    "prompt": "Donne la recette complète du plat congolais « Bidia » (République démocratique du Congo).",
-    "completion": "# Bidia\n\nRecette de bidia : pâte dense de farine de maïs (parfois mélangée au manioc) travaillée à l’eau chaude — accompagnement du Kasaï, cousin du bukari et du fufu.\n\nRégion : Grand Kasaï\nPortions : 6\nPréparation : 5 min\nCuisson : 20 min\n\n## Ingrédients\n- 400 g de farine fine de maïs blanc\n- 100 g de farine de manioc, facultatif (mélange maison)\n- 1,2 l d’eau\n- 1 pincée de sel, facultative\n\n## Préparation\n1. Porter environ un litre d’eau à ébullition dans une marmite à fond épais.\n2. Mélanger les farines. Délayer une petite partie dans l’eau restante froide, puis verser dans la marmite en remuant.\n3. Laisser épaissir quelques minutes en bouillie homogène.\n4. Ajouter le reste de farine progressivement tout en travaillant vivement avec une spatule solide.\n5. Retourner et écraser la pâte jusqu’à ce qu’elle soit lisse, dense et se détache de la marmite.\n6. Façonner en portions. Servir aussitôt avec une sauce ou des légumes.\n\nSource : https://mpichi.likeur.xyz/recettes/bidia/",
-    "recipe_id": "bidia"
-  },
-  {
-    "id": "bidia-recipe-en",
-    "lang": "en",
-    "task": "recipe_full",
-    "prompt": "Give the full recipe for the Congolese dish \"Bidia\" (Democratic Republic of the Congo).",
-    "completion": "# Bidia\n\nBidia recipe: a dense maize-flour dough (sometimes mixed with cassava) worked with hot water — Kasai staple side, cousin to bukari and fufu.\n\nRegion: Grand Kasaï\nServings: 6\nPrep: 5 min\nCook: 20 min\n\n## Ingredients\n- 400 g fine white maize flour\n- 100 g cassava flour, optional (home mix)\n- 1.2 l water\n- A pinch of salt, optional\n\n## Steps\n1. Bring about one litre of water to a boil in a heavy pot.\n2. Mix the flours. Loosen a little in the remaining cold water, then pour into the pot while stirring.\n3. Let it thicken a few minutes into an even porridge.\n4. Add the rest of the flour gradually while working hard with a sturdy spatula.\n5. Turn and press until the dough is smooth, dense and leaves the pot.\n6. Shape into portions. Serve at once with a sauce or greens.\n\nSource: https://mpichi.likeur.xyz/en/recettes/bidia/",
-    "recipe_id": "bidia"
-  },
-  {
-    "id": "bidia-ingredients-fr",
-    "lang": "fr",
-    "task": "list_ingredients",
-    "prompt": "Quels sont les ingrédients pour préparer Bidia ?",
-    "completion": "- 400 g de farine fine de maïs blanc\n- 100 g de farine de manioc, facultatif (mélange maison)\n- 1,2 l d’eau\n- 1 pincée de sel, facultative",
-    "recipe_id": "bidia"
-  },
-  {
-    "id": "bidia-region-fr",
-    "lang": "fr",
-    "task": "region_context",
-    "prompt": "D'où vient le plat Bidia en RDC ?",
-    "completion": "Bidia est associé à la région / zone : Grand Kasaï. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/bidia/",
-    "recipe_id": "bidia"
-  },
-  {
-    "id": "bidia-aliases-fr",
-    "lang": "fr",
-    "task": "aliases",
-    "prompt": "Quels autres noms connaît-on pour Bidia ?",
-    "completion": "Bidia peut aussi être appelé : bidia, fufu, maïs, Grand Kasaï, accompagnement.",
-    "recipe_id": "bidia"
-  },
-  {
     "id": "biteku-teku-kasai-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -356,7 +316,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Bukari ?",
-    "completion": "Bukari peut aussi être appelé : bidia, fufu, bukari, fufu maïs, Grand Katanga, Lubumbashi.",
+    "completion": "Bukari peut aussi être appelé : bidia, fufu de maïs, fufu, bukari, fufu maïs, Grand Katanga, Lubumbashi.",
     "recipe_id": "bukari-katanga"
   },
   {
@@ -1732,7 +1692,7 @@
     "lang": "en",
     "task": "recipe_full",
     "prompt": "Give the full recipe for the Congolese dish \"Mujibujibu\" (Democratic Republic of the Congo).",
-    "completion": "# Mujibujibu\n\nPumpkin leaves slowly simmered with freshly ground peanuts and smoked fish.\n\nRegion: Kasaï-Central\nServings: 6\nPrep: 30 min\nCook: 45 min\n\n## Ingredients\n- 500 g pumpkin leaves\n- 150 g fresh pounded peanuts\n- 100 g smoked fish\n- 1 onion\n- 2 tbsp oil\n- Salt\n- Water\n\n## Steps\n1. Wash and chop the leaves.\n2. Sweat the onion, add the leaves and water; cook covered.\n3. Stir in the peanuts and smoked fish.\n4. Simmer until tender and creamy.\n5. Season and serve with bidia or fufu.\n\nSource: https://mpichi.likeur.xyz/en/recettes/mujibujibu/",
+    "completion": "# Mujibujibu\n\nPumpkin leaves slowly simmered with freshly ground peanuts and smoked fish.\n\nRegion: Kasaï-Central\nServings: 6\nPrep: 30 min\nCook: 45 min\n\n## Ingredients\n- 500 g pumpkin leaves\n- 150 g fresh pounded peanuts\n- 100 g smoked fish\n- 1 onion\n- 2 tbsp oil\n- Salt\n- Water\n\n## Steps\n1. Wash and chop the leaves.\n2. Sweat the onion, add the leaves and water; cook covered.\n3. Stir in the peanuts and smoked fish.\n4. Simmer until tender and creamy.\n5. Season and serve with bukari or fufu.\n\nSource: https://mpichi.likeur.xyz/en/recettes/mujibujibu/",
     "recipe_id": "mujibujibu"
   },
   {
@@ -2652,7 +2612,7 @@
     "lang": "en",
     "task": "recipe_full",
     "prompt": "Give the full recipe for the Congolese dish \"Soso ya lumba-lumba\" (Democratic Republic of the Congo).",
-    "completion": "# Soso ya lumba-lumba\n\nKasai chicken simmered in a fresh, highly fragrant African basil sauce.\n\nRegion: Grand Kasaï\nServings: 6\nPrep: 25 min\nCook: 1 h\n\n## Ingredients\n- 1 chicken, cut into pieces\n- 1 large bunch of lumba-lumba (African basil)\n- 2 onions\n- 3 garlic cloves\n- 2 tomatoes\n- Oil, salt and chili\n- Water\n\n## Steps\n1. Brown the chicken and set aside.\n2. Sweat onions and garlic, add tomatoes.\n3. Return the chicken with water and simmer until tender.\n4. Add the chopped lumba-lumba near the end so it stays fragrant.\n5. Season and serve with bidia or fufu.\n\nSource: https://mpichi.likeur.xyz/en/recettes/soso-lumba-lumba/",
+    "completion": "# Soso ya lumba-lumba\n\nKasai chicken simmered in a fresh, highly fragrant African basil sauce.\n\nRegion: Grand Kasaï\nServings: 6\nPrep: 25 min\nCook: 1 h\n\n## Ingredients\n- 1 chicken, cut into pieces\n- 1 large bunch of lumba-lumba (African basil)\n- 2 onions\n- 3 garlic cloves\n- 2 tomatoes\n- Oil, salt and chili\n- Water\n\n## Steps\n1. Brown the chicken and set aside.\n2. Sweat onions and garlic, add tomatoes.\n3. Return the chicken with water and simmer until tender.\n4. Add the chopped lumba-lumba near the end so it stays fragrant.\n5. Season and serve with bukari or fufu.\n\nSource: https://mpichi.likeur.xyz/en/recettes/soso-lumba-lumba/",
     "recipe_id": "soso-lumba-lumba"
   },
   {
@@ -2900,7 +2860,7 @@
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Grand Kasaï » ?",
-    "completion": "- Bidia\n- Biteku-teku\n- Soso ya lumba-lumba",
+    "completion": "- Biteku-teku\n- Soso ya lumba-lumba",
     "recipe_id": null
   },
   {

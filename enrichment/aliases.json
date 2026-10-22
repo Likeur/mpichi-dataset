@@ -37,7 +37,8 @@
     { "name": "bananes plantains frites", "lang": "fr" }
   ],
   "bukari-katanga": [
-    { "name": "bidia", "lang": "fr", "note": "Related stiff porridge; see also bidia recipe" },
+    { "name": "bidia", "lang": "fr", "note": "Kasai name for the same maize dough (no separate page)" },
+    { "name": "fufu de maïs", "lang": "fr" },
     { "name": "fufu", "lang": "en", "note": "Generic diaspora term for stiff starch balls" }
   ]
 }
