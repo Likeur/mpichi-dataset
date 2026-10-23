@@ -72,5 +72,25 @@
   ],
   "haricots-verts-palme": [
     { "name": "haricots verts", "lang": "fr" }
+  ],
+  "ndagala-tomates": [
+    { "name": "ndagala", "lang": "sw", "note": "Lake Kivu small fish" }
+  ],
+  "kabambale": [
+    { "name": "poisson séché", "lang": "fr" }
+  ],
+  "missole": [
+    { "name": "misolè", "lang": "fr" },
+    { "name": "poisson séché en lamelles", "lang": "fr" }
+  ],
+  "mbala": [
+    { "name": "patate douce", "lang": "fr" },
+    { "name": "sweet potato", "lang": "en" }
+  ],
+  "beignets-igname": [
+    { "name": "galettes d’igname", "lang": "fr" }
+  ],
+  "bananes-douces-vapeur": [
+    { "name": "bananes dessert", "lang": "fr" }
   ]
 }

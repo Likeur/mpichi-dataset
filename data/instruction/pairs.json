@@ -40,6 +40,46 @@
     "recipe_id": "aubergines-africaines"
   },
   {
+    "id": "bananes-douces-vapeur-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Bananes douces à la vapeur » (République démocratique du Congo).",
+    "completion": "# Bananes douces à la vapeur\n\nRecette de bananes douces à la vapeur : bananes dessert cuites à la vapeur jusqu’à fondre — goûter simple, distinct des plantains (makemba / vapeur).\n\nRégion : Toute la RDC\nPortions : 4\nPréparation : 5 min\nCuisson : 20 min\n\n## Ingrédients\n- 6 bananes douces bien mûres mais fermes\n- Eau pour la vapeur\n- 1 pincée de sel, facultative\n- Une noix de beurre ou un filet d’huile, facultatif\n\n## Préparation\n1. Laver les bananes. Les cuire en robe (peau) ou épluchées, selon l’habitude du foyer.\n2. Disposer dans un panier vapeur au-dessus d’une eau frémissante.\n3. Cuire 15 à 20 minutes jusqu’à ce qu’elles soient tendres.\n4. Éplucher si cuites en robe. Servir tièdes, nature ou avec un peu de beurre / sucre.\n\nSource : https://mpichi.likeur.xyz/recettes/bananes-douces-vapeur/",
+    "recipe_id": "bananes-douces-vapeur"
+  },
+  {
+    "id": "bananes-douces-vapeur-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Steamed sweet bananas\" (Democratic Republic of the Congo).",
+    "completion": "# Steamed sweet bananas\n\nSteamed sweet bananas recipe: dessert bananas steamed until soft — a simple treat, distinct from plantains (makemba / steamed).\n\nRegion: Toute la RDC\nServings: 4\nPrep: 5 min\nCook: 20 min\n\n## Ingredients\n- 6 sweet bananas, ripe but firm\n- Water for steaming\n- A pinch of salt, optional\n- A knob of butter or a little oil, optional\n\n## Steps\n1. Wash the bananas. Cook in the skin or peeled, according to household habit.\n2. Place in a steamer basket over simmering water.\n3. Cook 15–20 minutes until tender.\n4. Peel if cooked in the skin. Serve warm, plain or with a little butter / sugar.\n\nSource: https://mpichi.likeur.xyz/en/recettes/bananes-douces-vapeur/",
+    "recipe_id": "bananes-douces-vapeur"
+  },
+  {
+    "id": "bananes-douces-vapeur-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Bananes douces à la vapeur ?",
+    "completion": "- 6 bananes douces bien mûres mais fermes\n- Eau pour la vapeur\n- 1 pincée de sel, facultative\n- Une noix de beurre ou un filet d’huile, facultatif",
+    "recipe_id": "bananes-douces-vapeur"
+  },
+  {
+    "id": "bananes-douces-vapeur-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Bananes douces à la vapeur en RDC ?",
+    "completion": "Bananes douces à la vapeur est associé à la région / zone : Toute la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/bananes-douces-vapeur/",
+    "recipe_id": "bananes-douces-vapeur"
+  },
+  {
+    "id": "bananes-douces-vapeur-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Bananes douces à la vapeur ?",
+    "completion": "Bananes douces à la vapeur peut aussi être appelé : bananes dessert, banane douce, vapeur, goûter, dessert, simple.",
+    "recipe_id": "bananes-douces-vapeur"
+  },
+  {
     "id": "beignets-banane-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -78,6 +118,46 @@
     "prompt": "Quels autres noms connaît-on pour Beignets de banane ?",
     "completion": "Beignets de banane peut aussi être appelé : banane, beignet, goûter, friture.",
     "recipe_id": "beignets-banane"
+  },
+  {
+    "id": "beignets-igname-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Beignets d’igname » (République démocratique du Congo).",
+    "completion": "# Beignets d’igname\n\nRecette de beignets d’igname : igname râpée ou écrasée, assaisonnée et frite en galettes — goûter distinct de l’igname bouillie et des beignets de manioc.\n\nRégion : Toute la RDC\nPortions : 4\nPréparation : 25 min\nCuisson : 20 min\n\n## Ingrédients\n- 800 g d’igname, épluchée\n- 1 œuf\n- 2 c. à soupe de farine, si la pâte est trop liquide\n- 1 oignon râpé, facultatif (version salée)\n- 1 c. à soupe de sucre, facultatif (version douce)\n- Sel (ou sucre selon la version)\n- Huile de friture\n\n## Préparation\n1. Râper l’igname finement ou la cuire à demi puis l’écraser. Essorer légèrement si très humide.\n2. Mélanger avec l’œuf, la farine si besoin, et soit oignon + sel (salé), soit sucre (doux).\n3. Chauffer l’huile à feu moyen. Déposer des cuillerées de pâte. Aplatir légèrement.\n4. Frire 3 à 4 minutes par face jusqu’à doré. Égoutter sur papier.\n5. Servir chaud, nature ou avec une sauce tomate / pili-pili (version salée).\n\nSource : https://mpichi.likeur.xyz/recettes/beignets-igname/",
+    "recipe_id": "beignets-igname"
+  },
+  {
+    "id": "beignets-igname-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Yam fritters\" (Democratic Republic of the Congo).",
+    "completion": "# Yam fritters\n\nYam fritters recipe: grated or mashed yam seasoned and fried into cakes — a snack distinct from boiled yam and cassava fritters.\n\nRegion: Toute la RDC\nServings: 4\nPrep: 25 min\nCook: 20 min\n\n## Ingredients\n- 800 g yam, peeled\n- 1 egg\n- 2 tbsp flour, if the batter is too loose\n- 1 grated onion, optional (savoury version)\n- 1 tbsp sugar, optional (sweet version)\n- Salt (or sugar depending on version)\n- Frying oil\n\n## Steps\n1. Grate the yam finely or half-cook then mash. Squeeze lightly if very wet.\n2. Mix with the egg, flour if needed, and either onion + salt (savoury) or sugar (sweet).\n3. Heat oil to medium. Drop spoonfuls of batter. Flatten slightly.\n4. Fry 3–4 minutes per side until golden. Drain on paper.\n5. Serve hot, plain or with a tomato / chili sauce (savoury version).\n\nSource: https://mpichi.likeur.xyz/en/recettes/beignets-igname/",
+    "recipe_id": "beignets-igname"
+  },
+  {
+    "id": "beignets-igname-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Beignets d’igname ?",
+    "completion": "- 800 g d’igname, épluchée\n- 1 œuf\n- 2 c. à soupe de farine, si la pâte est trop liquide\n- 1 oignon râpé, facultatif (version salée)\n- 1 c. à soupe de sucre, facultatif (version douce)\n- Sel (ou sucre selon la version)\n- Huile de friture",
+    "recipe_id": "beignets-igname"
+  },
+  {
+    "id": "beignets-igname-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Beignets d’igname en RDC ?",
+    "completion": "Beignets d’igname est associé à la région / zone : Toute la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/beignets-igname/",
+    "recipe_id": "beignets-igname"
+  },
+  {
+    "id": "beignets-igname-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Beignets d’igname ?",
+    "completion": "Beignets d’igname peut aussi être appelé : galettes d’igname, beignets, igname, friture, goûter, snack.",
+    "recipe_id": "beignets-igname"
   },
   {
     "id": "beignets-manioc-recipe-fr",
@@ -284,7 +364,7 @@
     "lang": "fr",
     "task": "recipe_full",
     "prompt": "Donne la recette complète du plat congolais « Brochettes de foie » (République démocratique du Congo).",
-    "completion": "# Brochettes de foie\n\nRecette de brochettes de foie : foie de bœuf en dés, enfilé et grillé rapidement — street food kinshasaise, distincte du foie sauté à la poêle.\n\nRégion : Kinshasa\nPortions : 4\nPréparation : 20 min + 30 min de marinade\nCuisson : 10 min\n\n## Ingrédients\n- 600 g de foie de bœuf, en dés\n- 1 oignon, râpé ou très finement émincé\n- 2 gousses d’ail, écrasées\n- 2 c. à soupe de jus de citron\n- 2 c. à soupe d’huile\n- Pili-pili, sel et poivre\n- Brochettes en bois, trempées dans l’eau\n\n## Préparation\n1. Mélanger oignon, ail, citron, huile, sel, poivre et pili-pili. Enrober le foie et mariner 30 minutes au frais.\n2. Enfiler les dés sur les brochettes sans trop serrer.\n3. [object Object]\n4. Servir aussitôt avec oignon cru, pili-pili et pain ou frites.\n\nSource : https://mpichi.likeur.xyz/recettes/brochettes-foie/",
+    "completion": "# Brochettes de foie\n\nRecette de brochettes de foie : foie de bœuf en dés, enfilé et grillé rapidement — street food kinshasaise, distincte du foie sauté à la poêle.\n\nRégion : Kinshasa\nPortions : 4\nPréparation : 20 min + 30 min de marinade\nCuisson : 10 min\n\n## Ingrédients\n- 600 g de foie de bœuf, en dés\n- 1 oignon, râpé ou très finement émincé\n- 2 gousses d’ail, écrasées\n- 2 c. à soupe de jus de citron\n- 2 c. à soupe d’huile\n- Pili-pili, sel et poivre\n- Brochettes en bois, trempées dans l’eau\n\n## Préparation\n1. Mélanger oignon, ail, citron, huile, sel, poivre et pili-pili. Enrober le foie et mariner 30 minutes au frais.\n2. Enfiler les dés sur les brochettes sans trop serrer.\n3. Griller sur braises vives 3 à 4 minutes par côté : le foie doit rester rosée à l’intérieur.\n4. Servir aussitôt avec oignon cru, pili-pili et pain ou frites.\n\nSource : https://mpichi.likeur.xyz/recettes/brochettes-foie/",
     "recipe_id": "brochettes-foie"
   },
   {
@@ -844,7 +924,7 @@
     "lang": "fr",
     "task": "recipe_full",
     "prompt": "Donne la recette complète du plat congolais « Haricots verts à l’huile de palme » (République démocratique du Congo).",
-    "completion": "# Haricots verts à l’huile de palme\n\nRecette d’haricots verts à l’huile de palme : haricots frais sautés avec oignon et tomate — accompagnement vif, distinct des madesu (haricots secs).\n\nRégion : Kinshasa & Ouest de la RDC\nPortions : 4\nPréparation : 15 min\nCuisson : 20 min\n\n## Ingrédients\n- 500 g de haricots verts frais, équeutés\n- 2 c. à soupe d’huile de palme rouge\n- 1 oignon, émincé\n- 2 tomates, concassées\n- 1 gousse d’ail\n- Sel, pili-pili\n- 50 ml d’eau\n\n## Préparation\n1. Laver les haricots, les couper en tronçons si trop longs. Blanchir 4 minutes dans l’eau bouillante salée, égoutter.\n2. Chauffer l’huile de palme. Faire fondre l’oignon, ajouter l’ail et les tomates 5 minutes.\n3. [object Object]\n4. Saler, pimenter. Servir avec riz, poisson ou viande.\n\nSource : https://mpichi.likeur.xyz/recettes/haricots-verts-palme/",
+    "completion": "# Haricots verts à l’huile de palme\n\nRecette d’haricots verts à l’huile de palme : haricots frais sautés avec oignon et tomate — accompagnement vif, distinct des madesu (haricots secs).\n\nRégion : Kinshasa & Ouest de la RDC\nPortions : 4\nPréparation : 15 min\nCuisson : 20 min\n\n## Ingrédients\n- 500 g de haricots verts frais, équeutés\n- 2 c. à soupe d’huile de palme rouge\n- 1 oignon, émincé\n- 2 tomates, concassées\n- 1 gousse d’ail\n- Sel, pili-pili\n- 50 ml d’eau\n\n## Préparation\n1. Laver les haricots, les couper en tronçons si trop longs. Blanchir 4 minutes dans l’eau bouillante salée, égoutter.\n2. Chauffer l’huile de palme. Faire fondre l’oignon, ajouter l’ail et les tomates 5 minutes.\n3. Incorporer les haricots et l’eau. Couvrir 8 à 10 minutes : ils doivent rester un peu croquants.\n4. Saler, pimenter. Servir avec riz, poisson ou viande.\n\nSource : https://mpichi.likeur.xyz/recettes/haricots-verts-palme/",
     "recipe_id": "haricots-verts-palme"
   },
   {
@@ -1118,6 +1198,46 @@
     "prompt": "Quels autres noms connaît-on pour Jus de safou ?",
     "completion": "Jus de safou peut aussi être appelé : safou, nsafu, jus, saison, boisson.",
     "recipe_id": "jus-safou"
+  },
+  {
+    "id": "kabambale-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Kabambale » (République démocratique du Congo).",
+    "completion": "# Kabambale\n\nRecette de kabambale : poisson séché réhydraté puis mijoté avec oignon et tomate — conserve de bassin, distincte du poisson fumé frais en sauce.\n\nRégion : Bassin du Congo & Cuvette\nPortions : 4\nPréparation : 30 min + 1 h de trempage\nCuisson : 40 min\n\n## Ingrédients\n- 300 g de kabambale (poisson séché)\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 2 gousses d’ail\n- 3 c. à soupe d’huile de palme ou neutre\n- Pili-pili, sel\n- 250 ml d’eau\n\n## Préparation\n1. Faire tremper le kabambale 45 à 60 minutes dans l’eau tiède, changer l’eau une fois. Égoutter et détailler.\n2. Faire fondre les oignons dans l’huile, ajouter l’ail et les tomates. Cuire 8 minutes.\n3. Incorporer le poisson et l’eau. Mijoter 25 à 30 minutes à feu doux.\n4. Goûter avant de saler (le séché est souvent déjà salé). Pimenter. Servir avec riz, fufu ou chikwangue.\n\nSource : https://mpichi.likeur.xyz/recettes/kabambale/",
+    "recipe_id": "kabambale"
+  },
+  {
+    "id": "kabambale-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Kabambale\" (Democratic Republic of the Congo).",
+    "completion": "# Kabambale\n\nKabambale recipe: dried fish soaked then simmered with onion and tomato — Congo Basin store cupboard fish, distinct from softer smoked fish in sauce.\n\nRegion: Bassin du Congo & Cuvette\nServings: 4\nPrep: 30 min + 1 h de trempage\nCook: 40 min\n\n## Ingredients\n- 300 g kabambale (dried fish)\n- 2 onions, sliced\n- 3 tomatoes, crushed\n- 2 garlic cloves\n- 3 tbsp palm oil or neutral oil\n- Chili, salt\n- 250 ml water\n\n## Steps\n1. Soak the kabambale 45–60 minutes in lukewarm water, changing once. Drain and break into pieces.\n2. Sweat the onions in oil, add garlic and tomatoes. Cook 8 minutes.\n3. Add the fish and water. Simmer gently 25–30 minutes.\n4. Taste before salting (dried fish is often already salty). Add chili. Serve with rice, fufu or chikwangue.\n\nSource: https://mpichi.likeur.xyz/en/recettes/kabambale/",
+    "recipe_id": "kabambale"
+  },
+  {
+    "id": "kabambale-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Kabambale ?",
+    "completion": "- 300 g de kabambale (poisson séché)\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 2 gousses d’ail\n- 3 c. à soupe d’huile de palme ou neutre\n- Pili-pili, sel\n- 250 ml d’eau",
+    "recipe_id": "kabambale"
+  },
+  {
+    "id": "kabambale-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Kabambale en RDC ?",
+    "completion": "Kabambale est associé à la région / zone : Bassin du Congo & Cuvette. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/kabambale/",
+    "recipe_id": "kabambale"
+  },
+  {
+    "id": "kabambale-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Kabambale ?",
+    "completion": "Kabambale peut aussi être appelé : poisson séché, kabambale, conserve, bassin du Congo, sauce tomate.",
+    "recipe_id": "kabambale"
   },
   {
     "id": "kamundele-recipe-fr",
@@ -1604,7 +1724,7 @@
     "lang": "fr",
     "task": "recipe_full",
     "prompt": "Donne la recette complète du plat congolais « Makemba na mbisi » (République démocratique du Congo).",
-    "completion": "# Makemba na mbisi\n\nRecette de makemba na mbisi : plantains frits servis avec du poisson (frit, braisé ou en sauce) — assiette composée très courante en RDC.\n\nRégion : Toute la RDC\nPortions : 4\nPréparation : 20 min\nCuisson : 35 min\n\n## Ingrédients\n- 4 bananes plantain mûres\n- 600 g de poisson (tilapia, capitaine ou poisson fumé)\n- Huile de friture\n- 1 oignon, émincé\n- 2 tomates, concassées\n- 2 gousses d’ail\n- Jus de 1 citron\n- Sel, pili-pili\n\n## Préparation\n1. Saler, poivrer et citronner le poisson. Le faire dorer à la poêle ou le braiser. Réserver.\n2. Éplucher les plantains, les couper en tranches et les frire jusqu’à doré. Égoutter et saler.\n3. [object Object]\n4. Dresser makemba et mbisi dans la même assiette. Servir aussitôt.\n\nSource : https://mpichi.likeur.xyz/recettes/makemba-na-mbisi/",
+    "completion": "# Makemba na mbisi\n\nRecette de makemba na mbisi : plantains frits servis avec du poisson (frit, braisé ou en sauce) — assiette composée très courante en RDC.\n\nRégion : Toute la RDC\nPortions : 4\nPréparation : 20 min\nCuisson : 35 min\n\n## Ingrédients\n- 4 bananes plantain mûres\n- 600 g de poisson (tilapia, capitaine ou poisson fumé)\n- Huile de friture\n- 1 oignon, émincé\n- 2 tomates, concassées\n- 2 gousses d’ail\n- Jus de 1 citron\n- Sel, pili-pili\n\n## Préparation\n1. Saler, poivrer et citronner le poisson. Le faire dorer à la poêle ou le braiser. Réserver.\n2. Éplucher les plantains, les couper en tranches et les frire jusqu’à doré. Égoutter et saler.\n3. Option sauce courte : faire revenir oignon et ail, ajouter tomates et un fond d’eau, 8 minutes. Napper le poisson.\n4. Dresser makemba et mbisi dans la même assiette. Servir aussitôt.\n\nSource : https://mpichi.likeur.xyz/recettes/makemba-na-mbisi/",
     "recipe_id": "makemba-na-mbisi"
   },
   {
@@ -1798,6 +1918,46 @@
     "prompt": "Quels autres noms connaît-on pour Mayebo aux tomates ?",
     "completion": "Mayebo aux tomates peut aussi être appelé : champignons, forêt.",
     "recipe_id": "mayebo"
+  },
+  {
+    "id": "mbala-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Mbala » (République démocratique du Congo).",
+    "completion": "# Mbala\n\nRecette de mbala : patates douces bouillies ou rôties jusqu’à fondre — tubercule du quotidien, distinct des feuilles matembele.\n\nRégion : Toute la RDC\nPortions : 4\nPréparation : 10 min\nCuisson : 30 min\n\n## Ingrédients\n- 1 kg de patates douces (mbala)\n- Eau\n- 1 c. à café de sel\n- 1 c. à soupe d’huile ou un noix de beurre, facultatif\n\n## Préparation\n1. Laver les patates douces. Les cuire entières en robe des champs ou épluchées et coupées en gros morceaux.\n2. Couvrir d’eau froide salée, porter à ébullition et cuire 25 à 35 minutes jusqu’à tendreté.\n3. Égoutter. Servir nature, avec un filet d’huile, ou en accompagnement de poisson et sauces.\n4. [object Object]\n\nSource : https://mpichi.likeur.xyz/recettes/mbala/",
+    "recipe_id": "mbala"
+  },
+  {
+    "id": "mbala-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Mbala\" (Democratic Republic of the Congo).",
+    "completion": "# Mbala\n\nMbala recipe: sweet potatoes boiled or roasted until soft — everyday tuber, distinct from matembele leaves.\n\nRegion: Toute la RDC\nServings: 4\nPrep: 10 min\nCook: 30 min\n\n## Ingredients\n- 1 kg sweet potatoes (mbala)\n- Water\n- 1 tsp salt\n- 1 tbsp oil or a knob of butter, optional\n\n## Steps\n1. Wash the sweet potatoes. Cook whole in their skins or peeled and cut into large pieces.\n2. Cover with cold salted water, bring to a boil and cook 25–35 minutes until tender.\n3. Drain. Serve plain, with a little oil, or beside fish and sauces.\n4. Variant: roast in the oven or on coals about 40 minutes for a caramelised skin.\n\nSource: https://mpichi.likeur.xyz/en/recettes/mbala/",
+    "recipe_id": "mbala"
+  },
+  {
+    "id": "mbala-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Mbala ?",
+    "completion": "- 1 kg de patates douces (mbala)\n- Eau\n- 1 c. à café de sel\n- 1 c. à soupe d’huile ou un noix de beurre, facultatif",
+    "recipe_id": "mbala"
+  },
+  {
+    "id": "mbala-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Mbala en RDC ?",
+    "completion": "Mbala est associé à la région / zone : Toute la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/mbala/",
+    "recipe_id": "mbala"
+  },
+  {
+    "id": "mbala-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Mbala ?",
+    "completion": "Mbala peut aussi être appelé : patate douce, sweet potato, mbala, tubercule, bouilli, accompagnement.",
+    "recipe_id": "mbala"
   },
   {
     "id": "mbika-recipe-fr",
@@ -2000,6 +2160,46 @@
     "recipe_id": "mikila"
   },
   {
+    "id": "missole-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Missole » (République démocratique du Congo).",
+    "completion": "# Missole\n\nRecette de missole (misolè) : lamelles de poisson séché réhydratées puis mijotées en sauce courte — produit de conserve du quotidien, distinct du kabambale en pièces.\n\nRégion : Kinshasa & bassin du Congo\nPortions : 4\nPréparation : 25 min + 45 min de trempage\nCuisson : 35 min\n\n## Ingrédients\n- 250 g de missole (lamelles de poisson séché)\n- 2 oignons, émincés\n- 2 tomates, concassées\n- 2 gousses d’ail\n- 3 c. à soupe d’huile\n- Pili-pili, sel\n- 200 ml d’eau\n- 1 c. à soupe de jus de citron, facultatif\n\n## Préparation\n1. Faire tremper le missole 30 à 45 minutes, rincer et égoutter. Citronner légèrement si le goût est très fort.\n2. Faire revenir oignons et ail dans l’huile, ajouter les tomates 6 à 8 minutes.\n3. Incorporer le missole et l’eau. Mijoter 20 à 25 minutes à feu doux.\n4. Rectifier le sel en dernier. Servir avec riz, fufu, plantain ou chikwangue.\n\nSource : https://mpichi.likeur.xyz/recettes/missole/",
+    "recipe_id": "missole"
+  },
+  {
+    "id": "missole-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Missole\" (Democratic Republic of the Congo).",
+    "completion": "# Missole\n\nMissole (misolè) recipe: dried fish strips soaked then simmered in a short sauce — everyday preserve, distinct from kabambale in larger pieces.\n\nRegion: Kinshasa & bassin du Congo\nServings: 4\nPrep: 25 min + 45 min de trempage\nCook: 35 min\n\n## Ingredients\n- 250 g missole (dried fish strips)\n- 2 onions, sliced\n- 2 tomatoes, crushed\n- 2 garlic cloves\n- 3 tbsp oil\n- Chili, salt\n- 200 ml water\n- 1 tbsp lemon juice, optional\n\n## Steps\n1. Soak the missole 30–45 minutes, rinse and drain. Lemon lightly if the taste is very strong.\n2. Sweat onions and garlic in oil, add tomatoes 6–8 minutes.\n3. Add the missole and water. Simmer gently 20–25 minutes.\n4. Adjust salt last. Serve with rice, fufu, plantain or chikwangue.\n\nSource: https://mpichi.likeur.xyz/en/recettes/missole/",
+    "recipe_id": "missole"
+  },
+  {
+    "id": "missole-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Missole ?",
+    "completion": "- 250 g de missole (lamelles de poisson séché)\n- 2 oignons, émincés\n- 2 tomates, concassées\n- 2 gousses d’ail\n- 3 c. à soupe d’huile\n- Pili-pili, sel\n- 200 ml d’eau\n- 1 c. à soupe de jus de citron, facultatif",
+    "recipe_id": "missole"
+  },
+  {
+    "id": "missole-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Missole en RDC ?",
+    "completion": "Missole est associé à la région / zone : Kinshasa & bassin du Congo. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/missole/",
+    "recipe_id": "missole"
+  },
+  {
+    "id": "missole-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Missole ?",
+    "completion": "Missole peut aussi être appelé : misolè, poisson séché en lamelles, missole, poisson séché, Kinshasa, conserve.",
+    "recipe_id": "missole"
+  },
+  {
     "id": "moambe-poulet-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2118,6 +2318,46 @@
     "prompt": "Quels autres noms connaît-on pour Munkoyo ?",
     "completion": "Munkoyo peut aussi être appelé : maïs, fermentation, boisson, Haut-Katanga.",
     "recipe_id": "munkoyo"
+  },
+  {
+    "id": "ndagala-tomates-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Ndagala aux tomates » (République démocratique du Congo).",
+    "completion": "# Ndagala aux tomates\n\nRecette de ndagala aux tomates : petits poissons du lac Kivu (frais ou séchés) poêlés puis mijotés dans une sauce tomate — classique de l’Est, distinct du kapenta / sambaza du Katanga.\n\nRégion : Nord-Kivu & Sud-Kivu\nPortions : 4\nPréparation : 20 min\nCuisson : 30 min\n\n## Ingrédients\n- 400 g de ndagala frais ou séchés\n- 4 tomates mûres, concassées\n- 2 oignons, émincés\n- 2 gousses d’ail, hachées\n- 4 c. à soupe d’huile\n- 1 petit piment\n- Sel et poivre\n- 100 ml d’eau\n\n## Préparation\n1. Si les ndagala sont séchés, les rincer rapidement deux ou trois fois puis bien les égoutter. Saler très peu.\n2. Chauffer la moitié de l’huile et faire revenir les poissons 5 à 8 minutes. Réserver.\n3. Ajouter le reste d’huile, faire fondre les oignons, puis incorporer l’ail, les tomates et le piment.\n4. Cuire la sauce 10 minutes, verser l’eau et remettre délicatement les ndagala.\n5. Mijoter à découvert 5 minutes. Servir avec bukari, riz, plantain ou fufu.\n\nSource : https://mpichi.likeur.xyz/recettes/ndagala-tomates/",
+    "recipe_id": "ndagala-tomates"
+  },
+  {
+    "id": "ndagala-tomates-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Ndagala with tomatoes\" (Democratic Republic of the Congo).",
+    "completion": "# Ndagala with tomatoes\n\nNdagala with tomatoes recipe: Lake Kivu small fish (fresh or dried) fried then simmered in tomato sauce — Eastern classic, distinct from Katanga kapenta / sambaza.\n\nRegion: Nord-Kivu & Sud-Kivu\nServings: 4\nPrep: 20 min\nCook: 30 min\n\n## Ingredients\n- 400 g fresh or dried ndagala\n- 4 ripe tomatoes, crushed\n- 2 onions, sliced\n- 2 garlic cloves, chopped\n- 4 tbsp oil\n- 1 small chili\n- Salt and pepper\n- 100 ml water\n\n## Steps\n1. If dried, rinse the ndagala quickly two or three times and drain well. Salt sparingly.\n2. Heat half the oil and fry the fish 5–8 minutes. Set aside.\n3. Add the rest of the oil, sweat the onions, then add garlic, tomatoes and chili.\n4. Cook the sauce 10 minutes, add water and return the ndagala gently.\n5. Simmer uncovered 5 minutes. Serve with bukari, rice, plantain or fufu.\n\nSource: https://mpichi.likeur.xyz/en/recettes/ndagala-tomates/",
+    "recipe_id": "ndagala-tomates"
+  },
+  {
+    "id": "ndagala-tomates-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Ndagala aux tomates ?",
+    "completion": "- 400 g de ndagala frais ou séchés\n- 4 tomates mûres, concassées\n- 2 oignons, émincés\n- 2 gousses d’ail, hachées\n- 4 c. à soupe d’huile\n- 1 petit piment\n- Sel et poivre\n- 100 ml d’eau",
+    "recipe_id": "ndagala-tomates"
+  },
+  {
+    "id": "ndagala-tomates-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Ndagala aux tomates en RDC ?",
+    "completion": "Ndagala aux tomates est associé à la région / zone : Nord-Kivu & Sud-Kivu. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/ndagala-tomates/",
+    "recipe_id": "ndagala-tomates"
+  },
+  {
+    "id": "ndagala-tomates-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Ndagala aux tomates ?",
+    "completion": "Ndagala aux tomates peut aussi être appelé : ndagala, Kivu, petits poissons, Est.",
+    "recipe_id": "ndagala-tomates"
   },
   {
     "id": "ndunda-recipe-fr",
@@ -2558,6 +2798,46 @@
     "prompt": "Quels autres noms connaît-on pour Poisson fumé aux tomates ?",
     "completion": "Poisson fumé aux tomates peut aussi être appelé : poisson fumé, fleuve Congo, quotidien, sauce.",
     "recipe_id": "poisson-fume-tomates"
+  },
+  {
+    "id": "poisson-kivu-grille-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Poisson du Kivu grillé » (République démocratique du Congo).",
+    "completion": "# Poisson du Kivu grillé\n\nRecette de poisson du lac Kivu grillé : poisson entier mariné aux aromates puis grillé jusqu’à peau fumée — grillade de l’Est, distincte du braise de Kinkole.\n\nRégion : Nord-Kivu & Sud-Kivu\nPortions : 4\nPréparation : 25 min + 1 h de marinade\nCuisson : 30 min\n\n## Ingrédients\n- 1 poisson de lac (tilapia ou espèce locale) de 1 à 1,2 kg, vidé\n- 2 oignons, dont un râpé\n- 3 gousses d’ail, écrasées\n- 2 cm de gingembre, râpé\n- Jus de 2 citrons\n- 3 c. à soupe d’huile\n- Pili-pili, sel et poivre\n\n## Préparation\n1. Inciser le poisson. Mélanger oignon râpé, ail, gingembre, citron, huile, sel, poivre et pili-pili.\n2. Enrober le poisson, farcir un peu la cavité et mariner au frais au moins 1 heure.\n3. Griller sur braises moyennes 25 à 30 minutes en retournant et en badigeonnant du jus.\n4. Servir avec plantain, frites, riz ou ndagala en accompagnement de sauce.\n\nSource : https://mpichi.likeur.xyz/recettes/poisson-kivu-grille/",
+    "recipe_id": "poisson-kivu-grille"
+  },
+  {
+    "id": "poisson-kivu-grille-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Grilled Lake Kivu fish\" (Democratic Republic of the Congo).",
+    "completion": "# Grilled Lake Kivu fish\n\nGrilled Lake Kivu fish recipe: whole lake fish marinated with aromatics then grilled until the skin is smoky — Eastern grillade, distinct from Kinkole river braise.\n\nRegion: Nord-Kivu & Sud-Kivu\nServings: 4\nPrep: 25 min + 1 h de marinade\nCook: 30 min\n\n## Ingredients\n- 1 lake fish (tilapia or local species), 1–1.2 kg, cleaned\n- 2 onions, one grated\n- 3 garlic cloves, crushed\n- 2 cm ginger, grated\n- Juice of 2 lemons\n- 3 tbsp oil\n- Chili, salt and pepper\n\n## Steps\n1. Score the fish. Mix grated onion, garlic, ginger, lemon, oil, salt, pepper and chili.\n2. Coat the fish, stuff a little into the cavity and marinate cold at least 1 hour.\n3. Grill over medium coals 25–30 minutes, turning and basting.\n4. Serve with plantain, fries, rice or ndagala as a sauced side.\n\nSource: https://mpichi.likeur.xyz/en/recettes/poisson-kivu-grille/",
+    "recipe_id": "poisson-kivu-grille"
+  },
+  {
+    "id": "poisson-kivu-grille-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Poisson du Kivu grillé ?",
+    "completion": "- 1 poisson de lac (tilapia ou espèce locale) de 1 à 1,2 kg, vidé\n- 2 oignons, dont un râpé\n- 3 gousses d’ail, écrasées\n- 2 cm de gingembre, râpé\n- Jus de 2 citrons\n- 3 c. à soupe d’huile\n- Pili-pili, sel et poivre",
+    "recipe_id": "poisson-kivu-grille"
+  },
+  {
+    "id": "poisson-kivu-grille-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Poisson du Kivu grillé en RDC ?",
+    "completion": "Poisson du Kivu grillé est associé à la région / zone : Nord-Kivu & Sud-Kivu. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/poisson-kivu-grille/",
+    "recipe_id": "poisson-kivu-grille"
+  },
+  {
+    "id": "poisson-kivu-grille-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Poisson du Kivu grillé ?",
+    "completion": "Poisson du Kivu grillé peut aussi être appelé : lac Kivu, poisson grillé, Est, braise, Goma.",
+    "recipe_id": "poisson-kivu-grille"
   },
   {
     "id": "poisson-mayo-recipe-fr",
@@ -3412,7 +3692,7 @@
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Toute la RDC » ?",
-    "completion": "- Beignets de manioc\n- Bouillie d’arachide\n- Bouillie de maïs\n- Croquettes de manioc\n- Fufu de manioc\n- Gâteau au manioc\n- Igname bouillie\n- Makemba\n- Makemba na mbisi\n- Manioc grillé\n- Poulet à la moambe\n- Plantains à la vapeur\n- Sauce d’arachide\n- Sauce pili-pili",
+    "completion": "- Bananes douces à la vapeur\n- Beignets d’igname\n- Beignets de manioc\n- Bouillie d’arachide\n- Bouillie de maïs\n- Croquettes de manioc\n- Fufu de manioc\n- Gâteau au manioc\n- Igname bouillie\n- Makemba\n- Makemba na mbisi\n- Manioc grillé\n- Mbala\n- Poulet à la moambe\n- Plantains à la vapeur\n- Sauce d’arachide\n- Sauce pili-pili",
     "recipe_id": null
   },
   {
@@ -3444,7 +3724,7 @@
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & bassin du Congo » ?",
-    "completion": "- Capitaine braisé\n- Dongo-dongo\n- Kossa-kossa\n- Makayabu aux tomates\n- Poisson fumé aux tomates\n- Poisson à la moambe",
+    "completion": "- Capitaine braisé\n- Dongo-dongo\n- Kossa-kossa\n- Makayabu aux tomates\n- Missole\n- Poisson fumé aux tomates\n- Poisson à la moambe",
     "recipe_id": null
   },
   {
@@ -3483,12 +3763,20 @@
     "id": "region-list-10",
     "lang": "fr",
     "task": "region_list",
+    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Nord-Kivu & Sud-Kivu » ?",
+    "completion": "- Ndagala aux tomates\n- Poisson du Kivu grillé",
+    "recipe_id": null
+  },
+  {
+    "id": "region-list-11",
+    "lang": "fr",
+    "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & Kongo-Central » ?",
     "completion": "- Ngai-ngai au poisson fumé\n- Ntaba (chèvre grillée)\n- Ntaba en sauce",
     "recipe_id": null
   },
   {
-    "id": "region-list-11",
+    "id": "region-list-12",
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & Cuvette » ?",

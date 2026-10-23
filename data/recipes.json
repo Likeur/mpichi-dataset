@@ -136,7 +136,144 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
+  },
+  {
+    "id": "bananes-douces-vapeur",
+    "slug": "bananes-douces-vapeur",
+    "names": {
+      "fr": "Bananes douces à la vapeur",
+      "en": "Steamed sweet bananas",
+      "aliases": [
+        {
+          "name": "bananes dessert",
+          "lang": "fr"
+        },
+        {
+          "name": "banane douce",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "vapeur",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "goûter",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "dessert",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "simple",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette bananes douces à la vapeur",
+      "en": "Steamed sweet bananas recipe"
+    },
+    "description": {
+      "fr": "Recette de bananes douces à la vapeur : bananes dessert cuites à la vapeur jusqu’à fondre — goûter simple, distinct des plantains (makemba / vapeur).",
+      "en": "Steamed sweet bananas recipe: dessert bananas steamed until soft — a simple treat, distinct from plantains (makemba / steamed)."
+    },
+    "body": {
+      "fr": "Les **bananes douces** ne sont pas des plantains : plus sucrées, plus tendres. Les [plantains à la vapeur](/recettes/plantains-vapeur/) et les [makemba](/recettes/makemba/) restent du côté féculent salé ; ici c’est le goûter ou le dessert léger.",
+      "en": "Sweet bananas are not plantains: sweeter and softer. Steamed plantains and makemba stay on the savoury starch side; this is the light snack or dessert."
+    },
+    "region": "Toute la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Toute la RDC"
+    ],
+    "category": "dessert",
+    "difficulty": "facile",
+    "prep_time": "5 min",
+    "cook_time": "20 min",
+    "prep_time_iso": "PT5M",
+    "cook_time_iso": "PT20M",
+    "servings": 4,
+    "tags": [
+      "banane douce",
+      "vapeur",
+      "goûter",
+      "dessert",
+      "simple"
+    ],
+    "ingredients": {
+      "fr": [
+        "6 bananes douces bien mûres mais fermes",
+        "Eau pour la vapeur",
+        "1 pincée de sel, facultative",
+        "Une noix de beurre ou un filet d’huile, facultatif"
+      ],
+      "en": [
+        "6 sweet bananas, ripe but firm",
+        "Water for steaming",
+        "A pinch of salt, optional",
+        "A knob of butter or a little oil, optional"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Laver les bananes. Les cuire en robe (peau) ou épluchées, selon l’habitude du foyer.",
+        "Disposer dans un panier vapeur au-dessus d’une eau frémissante.",
+        "Cuire 15 à 20 minutes jusqu’à ce qu’elles soient tendres.",
+        "Éplucher si cuites en robe. Servir tièdes, nature ou avec un peu de beurre / sucre."
+      ],
+      "en": [
+        "Wash the bananas. Cook in the skin or peeled, according to household habit.",
+        "Place in a steamer basket over simmering water.",
+        "Cook 15–20 minutes until tender.",
+        "Peel if cooked in the skin. Serve warm, plain or with a little butter / sugar."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "plantains-vapeur",
+      "makemba",
+      "beignets-banane"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Black Lyn — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Koki_and_ripe_plantains.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Koki%20and%20ripe%20plantains.jpg?width=1600",
+    "image_alt": {
+      "fr": "Bananes mûres cuites, servies en accompagnement",
+      "en": "Ripe cooked bananas served as a side"
+    },
+    "image_credit": "Black Lyn — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Koki_and_ripe_plantains.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/bananes-douces-vapeur/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/bananes-douces-vapeur/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-23"
   },
   {
     "id": "beignets-banane",
@@ -281,7 +418,152 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
+  },
+  {
+    "id": "beignets-igname",
+    "slug": "beignets-igname",
+    "names": {
+      "fr": "Beignets d’igname",
+      "en": "Yam fritters",
+      "aliases": [
+        {
+          "name": "galettes d’igname",
+          "lang": "fr"
+        },
+        {
+          "name": "beignets",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "igname",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "friture",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "goûter",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "snack",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette beignets d’igname",
+      "en": "Yam fritters recipe"
+    },
+    "description": {
+      "fr": "Recette de beignets d’igname : igname râpée ou écrasée, assaisonnée et frite en galettes — goûter distinct de l’igname bouillie et des beignets de manioc.",
+      "en": "Yam fritters recipe: grated or mashed yam seasoned and fried into cakes — a snack distinct from boiled yam and cassava fritters."
+    },
+    "body": {
+      "fr": "Les **beignets d’igname** transforment le tubercule en snack croustillant — ce n’est plus l’[igname bouillie](/recettes/igname-bouillie/). Plus fermes que les [mikate](/recettes/mikate/), moins « manioc » que les [beignets de manioc](/recettes/beignets-manioc/).",
+      "en": "Yam fritters turn the tuber into a crisp snack—no longer boiled yam. Firmer than mikate, less “cassava” than cassava fritters."
+    },
+    "region": "Toute la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Toute la RDC"
+    ],
+    "category": "dessert",
+    "difficulty": "moyen",
+    "prep_time": "25 min",
+    "cook_time": "20 min",
+    "prep_time_iso": "PT25M",
+    "cook_time_iso": "PT20M",
+    "servings": 4,
+    "tags": [
+      "beignets",
+      "igname",
+      "friture",
+      "goûter",
+      "snack"
+    ],
+    "ingredients": {
+      "fr": [
+        "800 g d’igname, épluchée",
+        "1 œuf",
+        "2 c. à soupe de farine, si la pâte est trop liquide",
+        "1 oignon râpé, facultatif (version salée)",
+        "1 c. à soupe de sucre, facultatif (version douce)",
+        "Sel (ou sucre selon la version)",
+        "Huile de friture"
+      ],
+      "en": [
+        "800 g yam, peeled",
+        "1 egg",
+        "2 tbsp flour, if the batter is too loose",
+        "1 grated onion, optional (savoury version)",
+        "1 tbsp sugar, optional (sweet version)",
+        "Salt (or sugar depending on version)",
+        "Frying oil"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Râper l’igname finement ou la cuire à demi puis l’écraser. Essorer légèrement si très humide.",
+        "Mélanger avec l’œuf, la farine si besoin, et soit oignon + sel (salé), soit sucre (doux).",
+        "Chauffer l’huile à feu moyen. Déposer des cuillerées de pâte. Aplatir légèrement.",
+        "Frire 3 à 4 minutes par face jusqu’à doré. Égoutter sur papier.",
+        "Servir chaud, nature ou avec une sauce tomate / pili-pili (version salée)."
+      ],
+      "en": [
+        "Grate the yam finely or half-cook then mash. Squeeze lightly if very wet.",
+        "Mix with the egg, flour if needed, and either onion + salt (savoury) or sugar (sweet).",
+        "Heat oil to medium. Drop spoonfuls of batter. Flatten slightly.",
+        "Fry 3–4 minutes per side until golden. Drain on paper.",
+        "Serve hot, plain or with a tomato / chili sauce (savoury version)."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "igname-bouillie",
+      "beignets-manioc",
+      "mikate"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Ask4ugo — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:YAMARITA.JPG"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/YAMARITA.JPG?width=1600",
+    "image_alt": {
+      "fr": "Beignets d’igname dorés",
+      "en": "Golden yam fritters"
+    },
+    "image_credit": "Ask4ugo — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:YAMARITA.JPG",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/beignets-igname/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/beignets-igname/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-23"
   },
   {
     "id": "beignets-manioc",
@@ -416,7 +698,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "biteku-teku-kasai",
@@ -572,7 +854,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "boeuf-ya-kotumba",
@@ -719,7 +1001,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "bouillie-arachide",
@@ -843,7 +1125,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "bouillie-mais",
@@ -976,7 +1258,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "brochettes-foie",
@@ -1067,9 +1349,7 @@
       "fr": [
         "Mélanger oignon, ail, citron, huile, sel, poivre et pili-pili. Enrober le foie et mariner 30 minutes au frais.",
         "Enfiler les dés sur les brochettes sans trop serrer.",
-        {
-          "Griller sur braises vives 3 à 4 minutes par côté": "le foie doit rester rosée à l’intérieur."
-        },
+        "Griller sur braises vives 3 à 4 minutes par côté : le foie doit rester rosée à l’intérieur.",
         "Servir aussitôt avec oignon cru, pili-pili et pain ou frites."
       ],
       "en": [
@@ -1117,7 +1397,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "brochettes-grillons",
@@ -1240,7 +1520,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "bukari-katanga",
@@ -1395,7 +1675,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "capitaine-braise",
@@ -1542,7 +1822,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "chikwangue",
@@ -1694,7 +1974,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "chikwangue-grillee",
@@ -1812,17 +2092,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Biejosue — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Kikwanga_(chikwangue)_%C3%A0_la_fa%C3%A7on_de_la_RDC_mais_sans_sauce_et_coup%C3%A9.jpg"
+        "label": "Photo credit: OussamaHamama — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Kwanga.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kikwanga%20(chikwangue)%20%C3%A0%20la%20fa%C3%A7on%20de%20la%20RDC%20mais%20sans%20sauce%20et%20coup%C3%A9.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kwanga.jpg?width=1600",
     "image_alt": {
-      "fr": "Chikwangue coupée en tranches",
+      "fr": "Chikwangue (kwanga) prête à trancher et griller",
       "en": "Chikwangue cut into slices"
     },
-    "image_credit": "Biejosue — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kikwanga_(chikwangue)_%C3%A0_la_fa%C3%A7on_de_la_RDC_mais_sans_sauce_et_coup%C3%A9.jpg",
+    "image_credit": "OussamaHamama — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kwanga.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/chikwangue-grillee/",
@@ -1832,7 +2112,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "courge-sauce",
@@ -1971,7 +2251,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "croquettes-manioc",
@@ -2096,7 +2376,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "dongo-dongo",
@@ -2242,7 +2522,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "escargots-congolaise",
@@ -2367,7 +2647,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "foie-boeuf-saute",
@@ -2496,7 +2776,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "fufu-manioc",
@@ -2642,7 +2922,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "fumbwa-arachides",
@@ -2891,7 +3171,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "gateau-manioc",
@@ -3022,7 +3302,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "haricots-verts-palme",
@@ -3108,9 +3388,7 @@
       "fr": [
         "Laver les haricots, les couper en tronçons si trop longs. Blanchir 4 minutes dans l’eau bouillante salée, égoutter.",
         "Chauffer l’huile de palme. Faire fondre l’oignon, ajouter l’ail et les tomates 5 minutes.",
-        {
-          "Incorporer les haricots et l’eau. Couvrir 8 à 10 minutes": "ils doivent rester un peu croquants."
-        },
+        "Incorporer les haricots et l’eau. Couvrir 8 à 10 minutes : ils doivent rester un peu croquants.",
         "Saler, pimenter. Servir avec riz, poisson ou viande."
       ],
       "en": [
@@ -3158,7 +3436,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "igname-bouillie",
@@ -3255,9 +3533,9 @@
     },
     "variants": [],
     "related_recipes": [
-      "plantains-vapeur",
-      "poisson-fume-tomates",
-      "sauce-pili-pili"
+      "beignets-igname",
+      "mbala",
+      "plantains-vapeur"
     ],
     "sources": [
       {
@@ -3291,7 +3569,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "jus-ananas",
@@ -3420,7 +3698,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "jus-bissap",
@@ -3559,7 +3837,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "jus-mangue",
@@ -3694,7 +3972,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "jus-passion",
@@ -3818,7 +4096,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "jus-safou",
@@ -3953,7 +4231,146 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
+  },
+  {
+    "id": "kabambale",
+    "slug": "kabambale",
+    "names": {
+      "fr": "Kabambale",
+      "en": "Kabambale",
+      "aliases": [
+        {
+          "name": "poisson séché",
+          "lang": "fr"
+        },
+        {
+          "name": "kabambale",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "conserve",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "bassin du Congo",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "sauce tomate",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette kabambale — poisson séché",
+      "en": "Kabambale recipe — dried fish"
+    },
+    "description": {
+      "fr": "Recette de kabambale : poisson séché réhydraté puis mijoté avec oignon et tomate — conserve de bassin, distincte du poisson fumé frais en sauce.",
+      "en": "Kabambale recipe: dried fish soaked then simmered with onion and tomato — Congo Basin store cupboard fish, distinct from softer smoked fish in sauce."
+    },
+    "body": {
+      "fr": "Le **kabambale** est une forme de **poisson séché** du bassin, utilisée comme réserve de marché. Il se distingue du [poisson fumé aux tomates](/recettes/poisson-fume-tomates/) (fumé, plus souple) et du [makayabu](/recettes/makayabu/) (morue salée d’importation). Cousin proche : [missole](/recettes/missole/).",
+      "en": "Kabambale is a dried fish form from the basin, used as a market store. It differs from smoked fish with tomatoes (smoked, softer) and makayabu (imported salted cod). Close cousin: missole."
+    },
+    "region": "Bassin du Congo & Cuvette",
+    "country": "CD",
+    "geo_tags": [
+      "Bassin du Congo",
+      "Cuvette"
+    ],
+    "category": "plat",
+    "difficulty": "moyen",
+    "prep_time": "30 min + 1 h de trempage",
+    "cook_time": "40 min",
+    "prep_time_iso": "PT1H30M",
+    "cook_time_iso": "PT40M",
+    "servings": 4,
+    "tags": [
+      "kabambale",
+      "poisson séché",
+      "conserve",
+      "bassin du Congo",
+      "sauce tomate"
+    ],
+    "ingredients": {
+      "fr": [
+        "300 g de kabambale (poisson séché)",
+        "2 oignons, émincés",
+        "3 tomates, concassées",
+        "2 gousses d’ail",
+        "3 c. à soupe d’huile de palme ou neutre",
+        "Pili-pili, sel",
+        "250 ml d’eau"
+      ],
+      "en": [
+        "300 g kabambale (dried fish)",
+        "2 onions, sliced",
+        "3 tomatoes, crushed",
+        "2 garlic cloves",
+        "3 tbsp palm oil or neutral oil",
+        "Chili, salt",
+        "250 ml water"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Faire tremper le kabambale 45 à 60 minutes dans l’eau tiède, changer l’eau une fois. Égoutter et détailler.",
+        "Faire fondre les oignons dans l’huile, ajouter l’ail et les tomates. Cuire 8 minutes.",
+        "Incorporer le poisson et l’eau. Mijoter 25 à 30 minutes à feu doux.",
+        "Goûter avant de saler (le séché est souvent déjà salé). Pimenter. Servir avec riz, fufu ou chikwangue."
+      ],
+      "en": [
+        "Soak the kabambale 45–60 minutes in lukewarm water, changing once. Drain and break into pieces.",
+        "Sweat the onions in oil, add garlic and tomatoes. Cook 8 minutes.",
+        "Add the fish and water. Simmer gently 25–30 minutes.",
+        "Taste before salting (dried fish is often already salty). Add chili. Serve with rice, fufu or chikwangue."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "missole",
+      "poisson-fume-tomates",
+      "makayabu"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: CharlesPoterai — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Dried_fish_for_sale_at_the_market_01.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dried%20fish%20for%20sale%20at%20the%20market%2001.jpg?width=1600",
+    "image_alt": {
+      "fr": "Poisson séché exposé au marché",
+      "en": "Dried fish displayed at a market"
+    },
+    "image_credit": "CharlesPoterai — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Dried_fish_for_sale_at_the_market_01.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/kabambale/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/kabambale/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-23"
   },
   {
     "id": "kamundele",
@@ -4106,7 +4523,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "kapenta-tomates",
@@ -4204,8 +4621,8 @@
     "variants": [],
     "related_recipes": [
       "sambaza",
-      "bukari-katanga",
-      "matembele-katanga"
+      "ndagala-tomates",
+      "bukari-katanga"
     ],
     "sources": [
       {
@@ -4250,7 +4667,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "kossa-kossa",
@@ -4373,7 +4790,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "liboke-poisson",
@@ -4531,7 +4948,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "liboke-viande",
@@ -4660,7 +5077,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "lituma",
@@ -4804,7 +5221,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "loso-mayonnaise",
@@ -4953,7 +5370,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "loso-na-madesu",
@@ -5100,7 +5517,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "loso-petits-pois",
@@ -5223,7 +5640,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "madesu",
@@ -5466,7 +5883,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "makayabu",
@@ -5711,7 +6128,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "makemba",
@@ -5860,7 +6277,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "makemba-na-mbisi",
@@ -5952,9 +6369,7 @@
       "fr": [
         "Saler, poivrer et citronner le poisson. Le faire dorer à la poêle ou le braiser. Réserver.",
         "Éplucher les plantains, les couper en tranches et les frire jusqu’à doré. Égoutter et saler.",
-        {
-          "Option sauce courte": "faire revenir oignon et ail, ajouter tomates et un fond d’eau, 8 minutes. Napper le poisson."
-        },
+        "Option sauce courte : faire revenir oignon et ail, ajouter tomates et un fond d’eau, 8 minutes. Napper le poisson.",
         "Dresser makemba et mbisi dans la même assiette. Servir aussitôt."
       ],
       "en": [
@@ -5982,16 +6397,16 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Precious654 — Wikimedia Commons, CC BY-SA 4.0",
+        "label": "Photo credit: Offordile234 — Wikimedia Commons, CC BY-SA 4.0",
         "url": "https://commons.wikimedia.org/wiki/File:FRIED_PLANTAIN_FISH.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FRIED%20PLANTAIN%20FISH.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FRIED_PLANTAIN_FISH.jpg?width=1600",
     "image_alt": {
       "fr": "Plantains frits servis avec du poisson",
       "en": "Fried plantains served with fish"
     },
-    "image_credit": "Precious654 — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit": "Offordile234 — Wikimedia Commons, CC BY-SA 4.0",
     "image_credit_url": "https://commons.wikimedia.org/wiki/File:FRIED_PLANTAIN_FISH.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
@@ -6002,7 +6417,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "makoso",
@@ -6164,7 +6579,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "manioc-grille",
@@ -6279,7 +6694,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "matembele-katanga",
@@ -6386,6 +6801,7 @@
     },
     "variants": [],
     "related_recipes": [
+      "mbala",
       "bukari-katanga",
       "kapenta-tomates",
       "fumbwa-arachides"
@@ -6433,7 +6849,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "mayebo",
@@ -6560,7 +6976,145 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
+  },
+  {
+    "id": "mbala",
+    "slug": "mbala",
+    "names": {
+      "fr": "Mbala",
+      "en": "Mbala",
+      "aliases": [
+        {
+          "name": "patate douce",
+          "lang": "fr"
+        },
+        {
+          "name": "sweet potato",
+          "lang": "en"
+        },
+        {
+          "name": "mbala",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "tubercule",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "bouilli",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "accompagnement",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette mbala — patate douce",
+      "en": "Mbala recipe — sweet potato"
+    },
+    "description": {
+      "fr": "Recette de mbala : patates douces bouillies ou rôties jusqu’à fondre — tubercule du quotidien, distinct des feuilles matembele.",
+      "en": "Mbala recipe: sweet potatoes boiled or roasted until soft — everyday tuber, distinct from matembele leaves."
+    },
+    "body": {
+      "fr": "**Mbala** désigne la **patate douce** (le tubercule). Les [matembele](/recettes/matembele-katanga/) sont les **feuilles** de la même plante — autre geste, autre fiche. Cousins féculents : [igname bouillie](/recettes/igname-bouillie/), [plantains à la vapeur](/recettes/plantains-vapeur/).",
+      "en": "Mbala means the sweet potato tuber. Matembele are the leaves of the same plant—another gesture, another page. Feculent cousins: boiled yam, steamed plantains."
+    },
+    "region": "Toute la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Toute la RDC"
+    ],
+    "category": "accompagnement",
+    "difficulty": "facile",
+    "prep_time": "10 min",
+    "cook_time": "30 min",
+    "prep_time_iso": "PT10M",
+    "cook_time_iso": "PT30M",
+    "servings": 4,
+    "tags": [
+      "mbala",
+      "patate douce",
+      "tubercule",
+      "bouilli",
+      "accompagnement"
+    ],
+    "ingredients": {
+      "fr": [
+        "1 kg de patates douces (mbala)",
+        "Eau",
+        "1 c. à café de sel",
+        "1 c. à soupe d’huile ou un noix de beurre, facultatif"
+      ],
+      "en": [
+        "1 kg sweet potatoes (mbala)",
+        "Water",
+        "1 tsp salt",
+        "1 tbsp oil or a knob of butter, optional"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Laver les patates douces. Les cuire entières en robe des champs ou épluchées et coupées en gros morceaux.",
+        "Couvrir d’eau froide salée, porter à ébullition et cuire 25 à 35 minutes jusqu’à tendreté.",
+        "Égoutter. Servir nature, avec un filet d’huile, ou en accompagnement de poisson et sauces.",
+        {
+          "Variante": "rôtir au four ou sur braises 40 minutes pour une peau caramélisée."
+        }
+      ],
+      "en": [
+        "Wash the sweet potatoes. Cook whole in their skins or peeled and cut into large pieces.",
+        "Cover with cold salted water, bring to a boil and cook 25–35 minutes until tender.",
+        "Drain. Serve plain, with a little oil, or beside fish and sauces.",
+        "Variant: roast in the oven or on coals about 40 minutes for a caramelised skin."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "matembele-katanga",
+      "igname-bouillie",
+      "plantains-vapeur"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Precious654 — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Boiled_pumpkin_with_roasted_sweet_potato_and_vegetables.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Boiled%20pumpkin%20with%20roasted%20sweet%20potato%20and%20vegetables.jpg?width=1600",
+    "image_alt": {
+      "fr": "Patates douces rôties / bouillies dans un plat",
+      "en": "Boiled sweet potatoes served in a dish"
+    },
+    "image_credit": "Precious654 — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Boiled_pumpkin_with_roasted_sweet_potato_and_vegetables.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/mbala/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/mbala/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-23"
   },
   {
     "id": "mbika",
@@ -6692,7 +7246,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "mbinzo-tomates",
@@ -6819,7 +7373,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "mbisi-ya-kokalinga",
@@ -6939,7 +7493,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "mikate",
@@ -7096,7 +7650,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "mikila",
@@ -7258,7 +7812,152 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
+  },
+  {
+    "id": "missole",
+    "slug": "missole",
+    "names": {
+      "fr": "Missole",
+      "en": "Missole",
+      "aliases": [
+        {
+          "name": "misolè",
+          "lang": "fr"
+        },
+        {
+          "name": "poisson séché en lamelles",
+          "lang": "fr"
+        },
+        {
+          "name": "missole",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "poisson séché",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Kinshasa",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "conserve",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette missole — poisson séché congolais",
+      "en": "Missole recipe — Congolese dried fish"
+    },
+    "description": {
+      "fr": "Recette de missole (misolè) : lamelles de poisson séché réhydratées puis mijotées en sauce courte — produit de conserve du quotidien, distinct du kabambale en pièces.",
+      "en": "Missole (misolè) recipe: dried fish strips soaked then simmered in a short sauce — everyday preserve, distinct from kabambale in larger pieces."
+    },
+    "body": {
+      "fr": "**Missole** / **misolè** désigne souvent des **lamelles** de poisson séché plus fines que le [kabambale](/recettes/kabambale/). Sur les marchés de Kinshasa, le mot varie selon les vendeurs ; le geste reste : tremper, rincer, mijoter sans trop saler.",
+      "en": "Missole / misolè often means thinner dried fish strips than kabambale. On Kinshasa markets the word varies by seller; the gesture stays: soak, rinse, simmer without over-salting."
+    },
+    "region": "Kinshasa & bassin du Congo",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa",
+      "bassin du Congo"
+    ],
+    "category": "plat",
+    "difficulty": "facile",
+    "prep_time": "25 min + 45 min de trempage",
+    "cook_time": "35 min",
+    "prep_time_iso": "PT25M",
+    "cook_time_iso": "PT35M",
+    "servings": 4,
+    "tags": [
+      "missole",
+      "misolè",
+      "poisson séché",
+      "Kinshasa",
+      "conserve"
+    ],
+    "ingredients": {
+      "fr": [
+        "250 g de missole (lamelles de poisson séché)",
+        "2 oignons, émincés",
+        "2 tomates, concassées",
+        "2 gousses d’ail",
+        "3 c. à soupe d’huile",
+        "Pili-pili, sel",
+        "200 ml d’eau",
+        "1 c. à soupe de jus de citron, facultatif"
+      ],
+      "en": [
+        "250 g missole (dried fish strips)",
+        "2 onions, sliced",
+        "2 tomatoes, crushed",
+        "2 garlic cloves",
+        "3 tbsp oil",
+        "Chili, salt",
+        "200 ml water",
+        "1 tbsp lemon juice, optional"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Faire tremper le missole 30 à 45 minutes, rincer et égoutter. Citronner légèrement si le goût est très fort.",
+        "Faire revenir oignons et ail dans l’huile, ajouter les tomates 6 à 8 minutes.",
+        "Incorporer le missole et l’eau. Mijoter 20 à 25 minutes à feu doux.",
+        "Rectifier le sel en dernier. Servir avec riz, fufu, plantain ou chikwangue."
+      ],
+      "en": [
+        "Soak the missole 30–45 minutes, rinse and drain. Lemon lightly if the taste is very strong.",
+        "Sweat onions and garlic in oil, add tomatoes 6–8 minutes.",
+        "Add the missole and water. Simmer gently 20–25 minutes.",
+        "Adjust salt last. Serve with rice, fufu, plantain or chikwangue."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "kabambale",
+      "poisson-fume-tomates",
+      "makayabu"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Icem4n — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Dried_fish_on_sale_at_Monday_Market,_Kaduna_02.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dried%20fish%20on%20sale%20at%20Monday%20Market%2C%20Kaduna%2002.jpg?width=1600",
+    "image_alt": {
+      "fr": "Poisson séché en vente au marché",
+      "en": "Small dried fish like a market preserve"
+    },
+    "image_credit": "Icem4n — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Dried_fish_on_sale_at_Monday_Market,_Kaduna_02.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/missole/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/missole/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-23"
   },
   {
     "id": "moambe-poulet",
@@ -7517,7 +8216,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "mujibujibu",
@@ -7646,7 +8345,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "munkoyo",
@@ -7767,7 +8466,146 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
+  },
+  {
+    "id": "ndagala-tomates",
+    "slug": "ndagala-tomates",
+    "names": {
+      "fr": "Ndagala aux tomates",
+      "en": "Ndagala with tomatoes",
+      "aliases": [
+        {
+          "name": "ndagala",
+          "lang": "sw",
+          "note": "Lake Kivu small fish"
+        },
+        {
+          "name": "Kivu",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "petits poissons",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Est",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette ndagala aux tomates — petits poissons du Kivu",
+      "en": "Ndagala with tomatoes recipe — Lake Kivu small fish"
+    },
+    "description": {
+      "fr": "Recette de ndagala aux tomates : petits poissons du lac Kivu (frais ou séchés) poêlés puis mijotés dans une sauce tomate — classique de l’Est, distinct du kapenta / sambaza du Katanga.",
+      "en": "Ndagala with tomatoes recipe: Lake Kivu small fish (fresh or dried) fried then simmered in tomato sauce — Eastern classic, distinct from Katanga kapenta / sambaza."
+    },
+    "body": {
+      "fr": "Les **ndagala** sont les petits poissons associés surtout au **lac Kivu** et à l’Est. Le geste ressemble au [kapenta](/recettes/kapenta-tomates/) ou aux [sambaza](/recettes/sambaza/) du Tanganyika, mais le nom, le marché et l’ancrage régional changent.",
+      "en": "Ndagala are the small fish tied especially to Lake Kivu and the East. The gesture resembles Kapenta or Tanganyika sambaza, but the name, market and regional anchor differ."
+    },
+    "region": "Nord-Kivu & Sud-Kivu",
+    "country": "CD",
+    "geo_tags": [
+      "Nord-Kivu",
+      "Sud-Kivu"
+    ],
+    "category": "plat",
+    "difficulty": "facile",
+    "prep_time": "20 min",
+    "cook_time": "30 min",
+    "prep_time_iso": "PT20M",
+    "cook_time_iso": "PT30M",
+    "servings": 4,
+    "tags": [
+      "ndagala",
+      "Kivu",
+      "petits poissons",
+      "tomate",
+      "Est"
+    ],
+    "ingredients": {
+      "fr": [
+        "400 g de ndagala frais ou séchés",
+        "4 tomates mûres, concassées",
+        "2 oignons, émincés",
+        "2 gousses d’ail, hachées",
+        "4 c. à soupe d’huile",
+        "1 petit piment",
+        "Sel et poivre",
+        "100 ml d’eau"
+      ],
+      "en": [
+        "400 g fresh or dried ndagala",
+        "4 ripe tomatoes, crushed",
+        "2 onions, sliced",
+        "2 garlic cloves, chopped",
+        "4 tbsp oil",
+        "1 small chili",
+        "Salt and pepper",
+        "100 ml water"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Si les ndagala sont séchés, les rincer rapidement deux ou trois fois puis bien les égoutter. Saler très peu.",
+        "Chauffer la moitié de l’huile et faire revenir les poissons 5 à 8 minutes. Réserver.",
+        "Ajouter le reste d’huile, faire fondre les oignons, puis incorporer l’ail, les tomates et le piment.",
+        "Cuire la sauce 10 minutes, verser l’eau et remettre délicatement les ndagala.",
+        "Mijoter à découvert 5 minutes. Servir avec bukari, riz, plantain ou fufu."
+      ],
+      "en": [
+        "If dried, rinse the ndagala quickly two or three times and drain well. Salt sparingly.",
+        "Heat half the oil and fry the fish 5–8 minutes. Set aside.",
+        "Add the rest of the oil, sweat the onions, then add garlic, tomatoes and chili.",
+        "Cook the sauce 10 minutes, add water and return the ndagala gently.",
+        "Simmer uncovered 5 minutes. Serve with bukari, rice, plantain or fufu."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "kapenta-tomates",
+      "sambaza",
+      "poisson-kivu-grille"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Erasmus Kamugisha — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Kigoma%27s_small_dried_sardines_-_fish_in_a_local_market.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kigoma%27s%20small%20dried%20sardines%20-%20fish%20in%20a%20local%20market.jpg?width=1600",
+    "image_alt": {
+      "fr": "Petits poissons séchés de lac type ndagala",
+      "en": "Small dried lake fish like ndagala"
+    },
+    "image_credit": "Erasmus Kamugisha — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kigoma%27s_small_dried_sardines_-_fish_in_a_local_market.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/ndagala-tomates/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/ndagala-tomates/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-23"
   },
   {
     "id": "ndunda",
@@ -7930,7 +8768,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "ngai-ngai",
@@ -8168,7 +9006,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "ngulu-ya-sauce",
@@ -8317,7 +9155,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "nsafu-grilles",
@@ -8432,7 +9270,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "ntaba",
@@ -8587,7 +9425,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "ntaba-sauce",
@@ -8719,7 +9557,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "pain-mayonnaise",
@@ -8860,7 +9698,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "pepe-soupe-ya-ngolo",
@@ -9014,7 +9852,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "plantains-vapeur",
@@ -9147,7 +9985,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "poisson-braise-kinkole",
@@ -9298,7 +10136,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "poisson-fume-tomates",
@@ -9450,7 +10288,147 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
+  },
+  {
+    "id": "poisson-kivu-grille",
+    "slug": "poisson-kivu-grille",
+    "names": {
+      "fr": "Poisson du Kivu grillé",
+      "en": "Grilled Lake Kivu fish",
+      "aliases": [
+        {
+          "name": "lac Kivu",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "poisson grillé",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Est",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "braise",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Goma",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette poisson du lac Kivu grillé",
+      "en": "Grilled Lake Kivu fish recipe"
+    },
+    "description": {
+      "fr": "Recette de poisson du lac Kivu grillé : poisson entier mariné aux aromates puis grillé jusqu’à peau fumée — grillade de l’Est, distincte du braise de Kinkole.",
+      "en": "Grilled Lake Kivu fish recipe: whole lake fish marinated with aromatics then grilled until the skin is smoky — Eastern grillade, distinct from Kinkole river braise."
+    },
+    "body": {
+      "fr": "Autour de **Goma** et de Bukavu, le poisson de lac se grille souvent entier, avec une marinade citron-ail proche des grillades de Kinshasa. La fiche [poisson braisé à Kinkole](/recettes/poisson-braise-kinkole/) documente le geste fluvial de la capitale ; ici l’ancrage est **lacustre, Est**.",
+      "en": "Around Goma and Bukavu, lake fish is often grilled whole with a lemon-garlic marinade close to Kinshasa grillades. The Kinkole page documents the capital’s river gesture; here the anchor is lacustrine and Eastern."
+    },
+    "region": "Nord-Kivu & Sud-Kivu",
+    "country": "CD",
+    "geo_tags": [
+      "Nord-Kivu",
+      "Sud-Kivu"
+    ],
+    "category": "plat",
+    "difficulty": "facile",
+    "prep_time": "25 min + 1 h de marinade",
+    "cook_time": "30 min",
+    "prep_time_iso": "PT1H25M",
+    "cook_time_iso": "PT30M",
+    "servings": 4,
+    "tags": [
+      "lac Kivu",
+      "poisson grillé",
+      "Est",
+      "braise",
+      "Goma"
+    ],
+    "ingredients": {
+      "fr": [
+        "1 poisson de lac (tilapia ou espèce locale) de 1 à 1,2 kg, vidé",
+        "2 oignons, dont un râpé",
+        "3 gousses d’ail, écrasées",
+        "2 cm de gingembre, râpé",
+        "Jus de 2 citrons",
+        "3 c. à soupe d’huile",
+        "Pili-pili, sel et poivre"
+      ],
+      "en": [
+        "1 lake fish (tilapia or local species), 1–1.2 kg, cleaned",
+        "2 onions, one grated",
+        "3 garlic cloves, crushed",
+        "2 cm ginger, grated",
+        "Juice of 2 lemons",
+        "3 tbsp oil",
+        "Chili, salt and pepper"
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Inciser le poisson. Mélanger oignon râpé, ail, gingembre, citron, huile, sel, poivre et pili-pili.",
+        "Enrober le poisson, farcir un peu la cavité et mariner au frais au moins 1 heure.",
+        "Griller sur braises moyennes 25 à 30 minutes en retournant et en badigeonnant du jus.",
+        "Servir avec plantain, frites, riz ou ndagala en accompagnement de sauce."
+      ],
+      "en": [
+        "Score the fish. Mix grated onion, garlic, ginger, lemon, oil, salt, pepper and chili.",
+        "Coat the fish, stuff a little into the cavity and marinate cold at least 1 hour.",
+        "Grill over medium coals 25–30 minutes, turning and basting.",
+        "Serve with plantain, fries, rice or ndagala as a sauced side."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "ndagala-tomates",
+      "poisson-braise-kinkole",
+      "capitaine-braise"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Gra2mb — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Poisson_brais%C3%A9_%C3%A0_Kinkole.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Poisson%20brais%C3%A9%20%C3%A0%20Kinkole.jpg?width=1400",
+    "image_alt": {
+      "fr": "Poisson entier grillé, peau dorée",
+      "en": "Whole grilled fish with golden skin"
+    },
+    "image_credit": "Gra2mb — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Poisson_brais%C3%A9_%C3%A0_Kinkole.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/poisson-kivu-grille/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/poisson-kivu-grille/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.0.0",
+    "updated_at": "2026-10-23"
   },
   {
     "id": "poisson-mayo",
@@ -9595,7 +10573,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "poisson-moambe",
@@ -9718,7 +10696,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "pondu",
@@ -9962,7 +10940,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "porc-braise",
@@ -10104,7 +11082,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "poulet-mayo",
@@ -10260,7 +11238,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "poulet-pane",
@@ -10401,7 +11379,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "riz-moambe",
@@ -10529,7 +11507,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "saka-madesu",
@@ -10773,7 +11751,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "salade-kisangani",
@@ -10893,7 +11871,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "sambaza",
@@ -10997,8 +11975,8 @@
     "variants": [],
     "related_recipes": [
       "kapenta-tomates",
-      "bukari-katanga",
-      "matembele-katanga"
+      "ndagala-tomates",
+      "bukari-katanga"
     ],
     "sources": [
       {
@@ -11043,7 +12021,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "sauce-arachide",
@@ -11179,7 +12157,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "sauce-gombo",
@@ -11317,7 +12295,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "sauce-pili-pili",
@@ -11462,7 +12440,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "saucisse-frites",
@@ -11599,7 +12577,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "sombe",
@@ -11845,7 +12823,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "soso-lumba-lumba",
@@ -11975,7 +12953,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "soso-ya-kotumba",
@@ -12131,7 +13109,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "soso-ya-sauce",
@@ -12253,7 +13231,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "tangawisi",
@@ -12400,7 +13378,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "taro-mijote",
@@ -12543,7 +13521,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   },
   {
     "id": "viande-ya-sauce",
@@ -12680,6 +13658,6 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.0.0",
-    "updated_at": "2026-10-22"
+    "updated_at": "2026-10-23"
   }
 ]
