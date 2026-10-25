@@ -1,6 +1,6 @@
 {
   "name": "mpichi-dataset",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "updated_at": "2026-10-25",
   "recipe_count": 110,
   "instruction_pair_count": 563,
@@ -16,5 +16,30 @@
     "fr",
     "en"
   ],
-  "country": "CD"
+  "country": "CD",
+  "region_taxonomy_version": 1,
+  "region_counts": {
+    "haut_katanga_tanganyika": 6,
+    "kinshasa_west": 9,
+    "nationwide": 17,
+    "grand_kasai": 9,
+    "kinshasa": 25,
+    "grand_katanga": 7,
+    "kinshasa_basin": 9,
+    "bassin_congo": 4,
+    "kivu": 8,
+    "cuvette": 3,
+    "kongo_central": 1,
+    "ouest": 3,
+    "bandundu": 3,
+    "kinshasa_kongo": 3,
+    "kinshasa_cuvette": 2,
+    "kisangani": 1
+  },
+  "ingredients_structured": {
+    "total_lines": 781,
+    "structured_lines": 627,
+    "structured_ratio": 0.8028,
+    "raw_coverage": 1
+  }
 }

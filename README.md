@@ -42,9 +42,19 @@ scripts/
 
 Image **binaries are not shipped**. Records keep `image_url` + credits; respect third-party licenses (often Wikimedia).
 
+## Regions & structured ingredients (Lot 3)
+
+Each recipe carries:
+
+- `region` — legacy editorial string
+- `region_id` + `region_label.{fr,en}` — canonical taxonomy (shared with the Mpichi site)
+- `ingredients_structured` — parallel to `ingredients`, with `raw` always and `amount` / `unit` / `name` when the line parses (≥80 % structured coverage)
+
+See `data/meta.json` for `region_counts` and parse coverage after export.
+
 ## Alias coverage (Lot 2)
 
-Curated names in `enrichment/aliases.json` aim for **≥70 %** of recipe slugs (v1.2.0: **100 %** of site slugs). Export merges curated rows first, then tag/title fallbacks (`lang: und`). See [enrichment/README.md](enrichment/README.md).
+Curated names in `enrichment/aliases.json` aim for **≥70 %** of recipe slugs (v1.2.0+: **100 %** of site slugs). Export merges curated rows first, then tag/title fallbacks (`lang: und`). See [enrichment/README.md](enrichment/README.md).
 
 Approximate **alias token** counts by `lang` (one name can appear on several dishes):
 
@@ -123,7 +133,8 @@ Each recipe record includes:
 
 - `names.fr` / `names.en` + `names.aliases[]` (local / regional names)
 - bilingual `description`, `ingredients`, `steps`, optional `body`
-- `region`, `country: "CD"`, `geo_tags`
+- `region`, `region_id`, `region_label`, `country: "CD"`, `geo_tags`
+- `ingredients` + `ingredients_structured` (parsed amount/unit/name + raw)
 - `prep_time` / `cook_time` (human) + `prep_time_iso` / `cook_time_iso` (ISO-8601)
 - `variants`, `related_recipes`, `sources`
 - `urls.fr` / `urls.en` pointing to Mpichi

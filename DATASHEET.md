@@ -25,7 +25,7 @@ See `data/meta.json` after export (dozens of curated recipes; grows with the sit
 Structured JSON fields described in `schema/recipe.schema.json`. No audio/video binaries; optional YouTube links and third-party image URLs only.
 
 **Is any information missing?**  
-Yes: structured ingredient quantities (`name`/`unit`/`amount`), complete coverage of all DRC ethnolinguistic names, and verified historical sources beyond editorial notes.
+Partial: structured ingredient quantities (`ingredients_structured` with `raw` always and `amount`/`unit`/`name` when parseable — ≥80 % structured as of v1.3.0). Still incomplete for all DRC ethnolinguistic names and verified historical sources beyond editorial notes.
 
 **Are there recommended data splits?**  
 `data/splits/train.jsonl` and `valid.jsonl` (~90/10 by deterministic hash, grouped by category).
@@ -46,7 +46,7 @@ Ongoing since the Mpichi site launch (2026+).
 
 ## Preprocessing
 
-Markdown front matter + body and English overrides (`recipes-en.ts`) are merged. ISO-8601 durations are derived from human time strings. Aliases are merged from `enrichment/aliases.json` (**curated first**: `name`, `lang`, optional `note` / `region_hint` / `script`) then editorial tag/title fallbacks (`lang: und`). See `enrichment/README.md`. Instruction pairs are **generated** from recipe fields (not human chat logs).
+Markdown front matter + body and English overrides (`recipes-en.ts`) are merged. ISO-8601 durations are derived from human time strings. Free-text `region` is mapped to `region_id` + bilingual `region_label` via the shared taxonomy (`src/lib/taxonomy/regions.json`). Ingredient lines are copied as strings and also parsed into `ingredients_structured` (best-effort). Aliases are merged from `enrichment/aliases.json` (**curated first**: `name`, `lang`, optional `note` / `region_hint` / `script`) then editorial tag/title fallbacks (`lang: und`). See `enrichment/README.md`. Instruction pairs are **generated** from recipe fields (not human chat logs).
 
 ## Uses
 

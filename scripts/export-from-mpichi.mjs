@@ -16,6 +16,14 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATASET_ROOT = path.resolve(__dirname, '..');
 const require = createRequire(import.meta.url);
 
+const TAXONOMY_DIR = path.resolve(DATASET_ROOT, '../src/lib/taxonomy');
+const { normalizeRegion, loadRegionsCatalog } = await import(
+  pathToFileURL(path.join(TAXONOMY_DIR, 'normalize-region.mjs')).href
+);
+const { parseIngredientList, structuredCoverage } = await import(
+  pathToFileURL(path.join(TAXONOMY_DIR, 'parse-ingredient.mjs')).href
+);
+
 function parseArgs(argv) {
   const out = { mpichiRoot: path.resolve(DATASET_ROOT, '..') };
   for (let i = 0; i < argv.length; i++) {
@@ -156,6 +164,12 @@ function mergeAliases(enriched = [], derived = []) {
   return out;
 }
 
+function structuredIngredients(frLines = [], enLines = []) {
+  const fr = parseIngredientList(frLines);
+  const en = enLines.length ? parseIngredientList(enLines) : undefined;
+  return { fr, ...(en ? { en } : {}) };
+}
+
 function mapVariant(frV, enV) {
   return {
     id: frV.id,
@@ -172,6 +186,7 @@ function mapVariant(frV, enV) {
       fr: frV.ingredients || [],
       ...(enV?.ingredients ? { en: enV.ingredients } : {}),
     },
+    ingredients_structured: structuredIngredients(frV.ingredients || [], enV?.ingredients || []),
     steps: {
       fr: frV.steps || [],
       ...(enV?.steps ? { en: enV.steps } : {}),
@@ -208,10 +223,11 @@ function buildSources(data) {
   return sources;
 }
 
-function buildRecord(slug, data, bodyFr, en, aliasMap, version, updatedAt) {
+function buildRecord(slug, data, bodyFr, en, aliasMap, version, updatedAt, regionsCatalog) {
   const enVarById = Object.fromEntries((en?.variants || []).map((v) => [v.id, v]));
   const enrichedAliases = aliasMap[slug] || [];
   const derived = aliasesFromTags(data.tags, data.title);
+  const regionNorm = normalizeRegion(data.region, { catalog: regionsCatalog });
 
   return {
     id: slug,
@@ -242,6 +258,9 @@ function buildRecord(slug, data, bodyFr, en, aliasMap, version, updatedAt) {
         }
       : {}),
     region: data.region || undefined,
+    region_id: regionNorm.region_id,
+    region_label: regionNorm.region_label,
+    region_legacy: regionNorm.region_legacy,
     country: 'CD',
     geo_tags: geoTagsFromRegion(data.region),
     category: data.category,
@@ -256,6 +275,7 @@ function buildRecord(slug, data, bodyFr, en, aliasMap, version, updatedAt) {
       fr: data.ingredients || [],
       ...(en?.ingredients ? { en: en.ingredients } : {}),
     },
+    ingredients_structured: structuredIngredients(data.ingredients || [], en?.ingredients || []),
     steps: {
       fr: data.steps || [],
       ...(en?.steps ? { en: en.steps } : {}),
@@ -430,6 +450,7 @@ function main() {
   const aliasMap = JSON.parse(
     fs.readFileSync(path.join(DATASET_ROOT, 'enrichment/aliases.json'), 'utf8'),
   );
+  const regionsCatalog = loadRegionsCatalog(path.join(TAXONOMY_DIR, 'regions.json'));
   const enMap = loadEnTranslations(mpichiRoot);
 
   const files = fs.readdirSync(recettesDir).filter((f) => f.endsWith('.md')).sort();
@@ -440,7 +461,9 @@ function main() {
     const raw = fs.readFileSync(path.join(recettesDir, file), 'utf8');
     const { data, content } = matter(raw);
     const bodyFr = content.replace(/\r\n/g, '\n').trim();
-    records.push(buildRecord(slug, data, bodyFr, enMap[slug], aliasMap, version, updatedAt));
+    records.push(
+      buildRecord(slug, data, bodyFr, enMap[slug], aliasMap, version, updatedAt, regionsCatalog),
+    );
   }
 
   records.sort((a, b) => a.slug.localeCompare(b.slug));
@@ -466,6 +489,15 @@ function main() {
     'utf8',
   );
 
+  // Coverage gate matches validate.mjs: French primary ingredient lines only.
+  const ingredientStats = structuredCoverage(records.map((r) => r.ingredients_structured?.fr || []));
+
+  const regionCounts = {};
+  for (const r of records) {
+    const id = r.region_id || 'other';
+    regionCounts[id] = (regionCounts[id] || 0) + 1;
+  }
+
   const meta = {
     name: 'mpichi-dataset',
     version,
@@ -479,13 +511,22 @@ function main() {
     code_license: 'MIT',
     languages: ['fr', 'en'],
     country: 'CD',
+    region_taxonomy_version: regionsCatalog.version || 1,
+    region_counts: regionCounts,
+    ingredients_structured: {
+      total_lines: ingredientStats.total,
+      structured_lines: ingredientStats.structured,
+      structured_ratio: Number(ingredientStats.structured_ratio.toFixed(4)),
+      raw_coverage: Number(ingredientStats.raw_or_structured_ratio.toFixed(4)),
+    },
   };
-  // fix typo
-  meta.recipe_count = records.length;
   fs.writeFileSync(path.join(dataDir, 'meta.json'), JSON.stringify(meta, null, 2) + '\n', 'utf8');
 
   console.log(`Exported ${records.length} recipes → data/`);
   console.log(`  train=${train.length} valid=${valid.length} instruction_pairs=${pairs.length}`);
+  console.log(
+    `  ingredients_structured=${ingredientStats.structured}/${ingredientStats.total} (${(ingredientStats.structured_ratio * 100).toFixed(1)}%)`,
+  );
 }
 
 main();

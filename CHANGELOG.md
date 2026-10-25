@@ -10,6 +10,19 @@ GitHub releases / Hugging Face revisions.
 
 ## [Unreleased]
 
+## [1.3.0] — 2026-10-25
+
+### Added
+
+- Lot 3 region normalization: `region_id`, bilingual `region_label`, `region_legacy` (shared catalog `src/lib/taxonomy/regions.json` on the Mpichi site)
+- Lot 3 structured ingredients: `ingredients_structured` (`raw` always; `amount` / `unit` / `name` when parseable) on recipes and variants
+- Export meta: `region_counts`, `ingredients_structured` coverage stats
+- Validate gates: required Lot 3 fields + ≥80 % structured ingredient coverage
+
+### Changed
+
+- JSON Schema additive fields for regions and structured ingredients (v1.3.0)
+
 ## [1.2.0] — 2026-10-25
 
 ### Added
@@ -43,7 +56,8 @@ GitHub releases / Hugging Face revisions.
 - Curated alias enrichment seed (`enrichment/aliases.json`)
 - Export + validate scripts from the Mpichi site content
 
-[Unreleased]: https://github.com/Likeur/mpichi-dataset/compare/v1.2.0...HEAD
+[Unreleased]: https://github.com/Likeur/mpichi-dataset/compare/v1.3.0...HEAD
+[1.3.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/Likeur/mpichi-dataset/compare/v1.0.0...v1.0.1

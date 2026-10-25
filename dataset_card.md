@@ -61,7 +61,10 @@ See `schema/recipe.schema.json`. Core fields:
 | `names` | object | `fr`, `en`, `aliases[]` |
 | `description` | object | Bilingual summary |
 | `ingredients` / `steps` | object | Bilingual string lists |
-| `region` / `geo_tags` | string / list | Geography in DRC |
+| `ingredients_structured` | object | Parsed lines: `raw` + optional `amount`/`unit`/`name` |
+| `region` | string | Legacy free-text region |
+| `region_id` / `region_label` | string / object | Canonical id + FR/EN labels |
+| `geo_tags` | list | Geography tokens in DRC |
 | `prep_time_iso` / `cook_time_iso` | string | ISO-8601 durations |
 | `sources` | list | Provenance |
 | `urls` | object | Canonical Mpichi pages |

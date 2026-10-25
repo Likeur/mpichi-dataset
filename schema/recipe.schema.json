@@ -84,7 +84,28 @@
         "en": { "type": "string" }
       }
     },
-    "region": { "type": "string" },
+    "region": {
+      "type": "string",
+      "description": "Legacy free-text region from editorial front matter (kept for compatibility)."
+    },
+    "region_id": {
+      "type": "string",
+      "description": "Canonical region id from the shared Mpichi taxonomy (src/lib/taxonomy/regions.json)."
+    },
+    "region_label": {
+      "type": "object",
+      "description": "Bilingual display labels for region_id.",
+      "required": ["fr", "en"],
+      "properties": {
+        "fr": { "type": "string" },
+        "en": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "region_legacy": {
+      "type": ["string", "null"],
+      "description": "Original front-matter region string before normalization."
+    },
     "country": {
       "type": "string",
       "const": "CD",
@@ -125,6 +146,22 @@
         "en": { "type": "array", "items": { "type": "string" } }
       }
     },
+    "ingredients_structured": {
+      "type": "object",
+      "description": "Best-effort parse of ingredient lines (amount / unit / name / raw). Always keep `raw`; structured fields when confident.",
+      "required": ["fr"],
+      "properties": {
+        "fr": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/structuredIngredient" }
+        },
+        "en": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/structuredIngredient" }
+        }
+      },
+      "additionalProperties": false
+    },
     "steps": {
       "type": "object",
       "required": ["fr"],
@@ -159,6 +196,19 @@
             "properties": {
               "fr": { "type": "array", "items": { "type": "string" } },
               "en": { "type": "array", "items": { "type": "string" } }
+            }
+          },
+          "ingredients_structured": {
+            "type": "object",
+            "properties": {
+              "fr": {
+                "type": "array",
+                "items": { "$ref": "#/$defs/structuredIngredient" }
+              },
+              "en": {
+                "type": "array",
+                "items": { "$ref": "#/$defs/structuredIngredient" }
+              }
             }
           },
           "steps": {
@@ -229,5 +279,32 @@
     "version": { "type": "string" },
     "updated_at": { "type": "string", "format": "date" }
   },
-  "additionalProperties": false
+  "additionalProperties": false,
+  "$defs": {
+    "structuredIngredient": {
+      "type": "object",
+      "required": ["raw", "parse_status"],
+      "properties": {
+        "raw": {
+          "type": "string",
+          "description": "Original ingredient line (always present)."
+        },
+        "amount": { "type": "number" },
+        "amount_max": {
+          "type": "number",
+          "description": "Upper bound when the line uses a range (e.g. 60 à 80 g)."
+        },
+        "unit": {
+          "type": "string",
+          "description": "Canonical unit (g, kg, ml, l, tbsp, tsp, piece, clove, …)."
+        },
+        "name": { "type": "string" },
+        "parse_status": {
+          "type": "string",
+          "enum": ["structured", "raw_only"]
+        }
+      },
+      "additionalProperties": false
+    }
+  }
 }
