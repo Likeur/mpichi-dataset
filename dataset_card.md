@@ -47,7 +47,7 @@ Each row is a structured recipe (ingredients, steps, region, difficulty, aliases
 
 - French (`fr`) — primary editorial language
 - English (`en`) — translations
-- Alias hints may include Lingala (`ln`), Swahili (`sw`), etc.
+- Alias hints may include Lingala (`ln`), Swahili (`sw`), Kikongo (`kg`), Tshiluba (`lua`), French/English glosses, optional `region_hint`. Curated file covers **all** current site slugs (Lot 2); export merge rules in `enrichment/README.md`.
 
 ## Dataset Structure
 

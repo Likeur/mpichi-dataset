@@ -10,6 +10,15 @@ GitHub releases / Hugging Face revisions.
 
 ## [Unreleased]
 
+## [1.2.0] — 2026-10-25
+
+### Added
+
+- Lot 2 linguistic enrichment: curated `enrichment/aliases.json` for **100 %** of recipe slugs (ln / sw / kg / lua / fr / en…)
+- Optional alias fields `region_hint`, `script` in JSON Schema
+- `enrichment/README.md` documenting export merge (curated → tag fallbacks)
+- README language-coverage table
+
 ## [1.1.0] — 2026-10-25
 
 ### Added
@@ -34,7 +43,8 @@ GitHub releases / Hugging Face revisions.
 - Curated alias enrichment seed (`enrichment/aliases.json`)
 - Export + validate scripts from the Mpichi site content
 
-[Unreleased]: https://github.com/Likeur/mpichi-dataset/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/Likeur/mpichi-dataset/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/Likeur/mpichi-dataset/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/Likeur/mpichi-dataset/releases/tag/v1.0.0

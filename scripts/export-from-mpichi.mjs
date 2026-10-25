@@ -134,6 +134,11 @@ function aliasesFromTags(tags = [], title = '') {
   return [...fromTitle, ...fromTags];
 }
 
+/**
+ * Merge curated enrichment aliases first, then tag/title-derived fallbacks.
+ * Curated entries may include lang, note, region_hint, script.
+ * Derived entries use lang "und" and are skipped when the name already exists.
+ */
 function mergeAliases(enriched = [], derived = []) {
   const seen = new Set();
   const out = [];
@@ -141,7 +146,12 @@ function mergeAliases(enriched = [], derived = []) {
     const key = (a.name || '').toLowerCase().normalize('NFC');
     if (!a.name || seen.has(key)) continue;
     seen.add(key);
-    out.push(a);
+    const row = { name: a.name };
+    if (a.lang) row.lang = a.lang;
+    if (a.note) row.note = a.note;
+    if (a.region_hint) row.region_hint = a.region_hint;
+    if (a.script) row.script = a.script;
+    out.push(row);
   }
   return out;
 }

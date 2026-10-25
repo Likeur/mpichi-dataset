@@ -7,14 +7,14 @@
       "en": "Tanganyika andazi",
       "aliases": [
         {
-          "name": "andazi",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "mandazi",
+          "lang": "sw",
+          "note": "Swahili plural/common form",
+          "region_hint": "Tanganyika / East Africa"
         },
         {
-          "name": "mandazi",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "andazi",
+          "lang": "sw"
         },
         {
           "name": "beignets",
@@ -144,7 +144,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -155,12 +155,20 @@
       "en": "African eggplants in sauce",
       "aliases": [
         {
-          "name": "aubergines africaines",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "garden eggs",
+          "lang": "en"
         },
         {
-          "name": "garden eggs",
+          "name": "aubergine amère",
+          "lang": "fr"
+        },
+        {
+          "name": "ngai-ngolo",
+          "lang": "ln",
+          "note": "Sometimes used loosely for small African eggplants"
+        },
+        {
+          "name": "aubergines africaines",
           "lang": "und",
           "note": "Derived from editorial tags"
         },
@@ -283,7 +291,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -420,7 +428,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -430,6 +438,15 @@
       "fr": "Beignets de banane",
       "en": "Banana fritters",
       "aliases": [
+        {
+          "name": "beignets ya libuma",
+          "lang": "ln",
+          "note": "Banana fritters"
+        },
+        {
+          "name": "banana fritters",
+          "lang": "en"
+        },
         {
           "name": "banane",
           "lang": "und",
@@ -565,7 +582,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -710,7 +727,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -720,6 +737,15 @@
       "fr": "Beignets de manioc",
       "en": "Cassava fritters",
       "aliases": [
+        {
+          "name": "beignets ya sango",
+          "lang": "ln",
+          "note": "Cassava fritters (approx.)"
+        },
+        {
+          "name": "cassava fritters",
+          "lang": "en"
+        },
         {
           "name": "manioc",
           "lang": "und",
@@ -845,7 +871,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -1002,7 +1028,7 @@
     "featured": true,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -1149,7 +1175,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -1159,6 +1185,14 @@
       "fr": "Bouillie d’arachide",
       "en": "Peanut porridge",
       "aliases": [
+        {
+          "name": "bouillie ya nguba",
+          "lang": "ln"
+        },
+        {
+          "name": "peanut porridge",
+          "lang": "en"
+        },
         {
           "name": "bouillie",
           "lang": "und",
@@ -1273,7 +1307,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -1283,6 +1317,20 @@
       "fr": "Bouillie de maïs",
       "en": "Maize porridge",
       "aliases": [
+        {
+          "name": "uji",
+          "lang": "sw",
+          "note": "Maize porridge",
+          "region_hint": "East / Kivu"
+        },
+        {
+          "name": "bouillie de farine de maïs",
+          "lang": "fr"
+        },
+        {
+          "name": "maize porridge",
+          "lang": "en"
+        },
         {
           "name": "maïs",
           "lang": "und",
@@ -1387,17 +1435,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Jessica Sagou — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Bouillie_de_ma%C3%AFs_1.JPG"
+        "label": "Photo credit: Gakuro — Wikimedia Commons, CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Uji.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bouillie%20de%20ma%C3%AFs%201.JPG?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Uji.jpg?width=1600",
     "image_alt": {
-      "fr": "Bol de bouillie de maïs",
-      "en": "Bowl of maize porridge"
+      "fr": "Bol de bouillie de maïs (uji) crémeuse",
+      "en": "Bowl of creamy maize porridge (uji)"
     },
-    "image_credit": "Jessica Sagou — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Bouillie_de_ma%C3%AFs_1.JPG",
+    "image_credit": "Gakuro — Wikimedia Commons, CC BY-SA 3.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Uji.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/bouillie-mais/",
@@ -1406,7 +1454,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -1416,6 +1464,15 @@
       "fr": "Brochettes de foie",
       "en": "Liver skewers",
       "aliases": [
+        {
+          "name": "brochettes ya libolo",
+          "lang": "ln",
+          "note": "Liver skewers"
+        },
+        {
+          "name": "liver skewers",
+          "lang": "en"
+        },
         {
           "name": "foie",
           "lang": "und",
@@ -1545,7 +1602,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -1555,6 +1612,15 @@
       "fr": "Brochettes de grillons",
       "en": "Cricket skewers",
       "aliases": [
+        {
+          "name": "makelele",
+          "lang": "ln",
+          "note": "Often used for grasshoppers / edible insects broadly"
+        },
+        {
+          "name": "grillons grillés",
+          "lang": "fr"
+        },
         {
           "name": "grillons",
           "lang": "und",
@@ -1668,7 +1734,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -1680,8 +1746,19 @@
       "aliases": [
         {
           "name": "brochettes",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr",
+          "region_hint": "Lubumbashi"
+        },
+        {
+          "name": "mishikaki",
+          "lang": "sw",
+          "note": "Swahili skewers",
+          "region_hint": "Katanga / East"
+        },
+        {
+          "name": "kamundele",
+          "lang": "ln",
+          "note": "Kinshasa cousin name; same skewering gesture"
         },
         {
           "name": "Lubumbashi",
@@ -1811,143 +1888,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
-    "updated_at": "2026-10-25"
-  },
-  {
-    "id": "bugali-kivu",
-    "slug": "bugali-kivu",
-    "names": {
-      "fr": "Bugali",
-      "en": "Bugali",
-      "aliases": [
-        {
-          "name": "bugali",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "ugali",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "fufu maïs",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "Kivu",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "accompagnement",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        }
-      ]
-    },
-    "seo_title": {
-      "fr": "Recette bugali — pâte de maïs du Kivu",
-      "en": "Bugali recipe — Kivu maize paste"
-    },
-    "description": {
-      "fr": "Recette de bugali : farine de maïs travaillée à l’eau chaude en pâte ferme — accompagnement de base au Kivu (cousin du bukari katangais et de l’ugali est-africain).",
-      "en": "Bugali recipe: maize flour worked with hot water into a firm paste — staple side in Kivu (cousin of Katanga bukari and East African ugali)."
-    },
-    "body": {
-      "fr": "Le **bugali** (proche de l’*ugali* / *posho* est-africain) est la pâte de maïs du **Kivu**. Au Grand Katanga on dit plutôt [bukari](/recettes/bukari-katanga/) ; au Kasaï, *bidia*. Le geste est le même : eau, farine, force du poignet.\n\nLégume fréquent à côté : [chou mijoté](/recettes/chou-mijote-est/), [sukuma](/recettes/sukuma-est/).",
-      "en": "Bugali (close to East African ugali / posho) is Kivu’s maize paste. In Greater Katanga people more often say [bukari](/en/recettes/bukari-katanga/); in Kasai, bidia. Same gesture: water, flour, wrist strength.\n\nCommon greens beside it: [simmered cabbage](/en/recettes/chou-mijote-est/), [sukuma](/en/recettes/sukuma-est/)."
-    },
-    "region": "Nord-Kivu & Sud-Kivu",
-    "country": "CD",
-    "geo_tags": [
-      "Nord-Kivu",
-      "Sud-Kivu"
-    ],
-    "category": "accompagnement",
-    "difficulty": "moyen",
-    "prep_time": "5 min",
-    "cook_time": "20 min",
-    "prep_time_iso": "PT5M",
-    "cook_time_iso": "PT20M",
-    "servings": 6,
-    "tags": [
-      "bugali",
-      "ugali",
-      "fufu maïs",
-      "Kivu",
-      "accompagnement"
-    ],
-    "ingredients": {
-      "fr": [
-        "500 g de farine fine de maïs blanc",
-        "1,2 l d’eau",
-        "1 pincée de sel, facultative"
-      ],
-      "en": [
-        "500 g fine white maize flour",
-        "1.2 l water",
-        "1 pinch of salt, optional"
-      ]
-    },
-    "steps": {
-      "fr": [
-        "Porter environ un litre d’eau à ébullition dans une marmite à fond épais.",
-        "Délayer une partie de la farine dans l’eau froide restante, verser dans la marmite en remuant.",
-        "Laisser épaissir quelques minutes.",
-        "Ajouter le reste de farine progressivement en travaillant vivement.",
-        "Continuer jusqu’à une pâte lisse qui se détache des parois.",
-        "Former des portions et servir aussitôt avec sauce, poisson ou légumes."
-      ],
-      "en": [
-        "Bring about a litre of water to a boil in a heavy pot.",
-        "Slake some flour in the remaining cold water, pour into the pot while stirring.",
-        "Thicken for a few minutes.",
-        "Add the rest of the flour gradually, working vigorously.",
-        "Continue until a smooth paste pulls from the sides.",
-        "Shape portions and serve at once with sauce, fish or greens."
-      ]
-    },
-    "variants": [],
-    "related_recipes": [
-      "bukari-katanga",
-      "fufu-manioc",
-      "chou-mijote-est"
-    ],
-    "sources": [
-      {
-        "type": "editorial",
-        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
-        "url": "https://mpichi.likeur.xyz/"
-      },
-      {
-        "type": "transmission",
-        "label": "Household transmission notes — quantities are starting points"
-      },
-      {
-        "type": "url",
-        "label": "Photo credit: Mark Skipper — Wikimedia Commons, CC BY 2.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Ugali_and_cabbage.jpg"
-      }
-    ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ugali%20and%20cabbage.jpg?width=1600",
-    "image_alt": {
-      "fr": "Pâte de maïs type bugali / ugali servie avec du chou",
-      "en": "Maize paste like bugali / ugali served with cabbage"
-    },
-    "image_credit": "Mark Skipper — Wikimedia Commons, CC BY 2.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Ugali_and_cabbage.jpg",
-    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
-    "urls": {
-      "fr": "https://mpichi.likeur.xyz/recettes/bugali-kivu/",
-      "en": "https://mpichi.likeur.xyz/en/recettes/bugali-kivu/"
-    },
-    "featured": false,
-    "license": "CC-BY-4.0",
-    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -1957,6 +1898,16 @@
       "fr": "Bukari",
       "en": "Bukari",
       "aliases": [
+        {
+          "name": "bugali",
+          "lang": "sw",
+          "note": "Kivu / Great Lakes name for the same maize dough (redirects to this page)"
+        },
+        {
+          "name": "ugali",
+          "lang": "sw",
+          "note": "East African cousin name; gesture is the same"
+        },
         {
           "name": "bidia",
           "lang": "fr",
@@ -1970,6 +1921,11 @@
           "name": "fufu",
           "lang": "en",
           "note": "Generic diaspora term for stiff starch balls"
+        },
+        {
+          "name": "nshima",
+          "lang": "en",
+          "note": "Southern Africa related maize paste name"
         },
         {
           "name": "bukari",
@@ -1987,23 +1943,23 @@
           "note": "Derived from editorial tags"
         },
         {
-          "name": "Lubumbashi",
+          "name": "Kivu",
           "lang": "und",
           "note": "Derived from editorial tags"
         }
       ]
     },
     "seo_title": {
-      "fr": "Recette bukari — fufu de maïs katanga",
-      "en": "Bukari recipe — Katanga maize fufu"
+      "fr": "Recette bukari / bugali / bidia — fufu de maïs",
+      "en": "Bukari / bugali / bidia recipe — maize fufu"
     },
     "description": {
-      "fr": "Recette de bukari : pâte de farine de maïs travaillée à chaud jusqu’à devenir lisse et dense — accompagnement central du Grand Katanga (Lubumbashi).",
-      "en": "Bukari recipe: hot-worked maize flour dough until smooth and dense—the central starch of Greater Katanga (Lubumbashi)."
+      "fr": "Recette de bukari (aussi bugali, bidia) : pâte de farine de maïs travaillée à chaud jusqu’à devenir lisse et dense — accompagnement central à l’Est et au Sud de la RDC.",
+      "en": "Bukari recipe (also bugali, bidia): hot-worked maize flour dough until smooth and dense — central starch in eastern and southern DRC."
     },
     "body": {
-      "fr": "Le **bukari** (pâte de maïs, aussi appelée *bidia* au Kasaï) occupe le centre de la table au Grand Katanga : légumes-feuilles, poisson et viandes en sauce s’y accrochent. Au Kivu, le cousin proche est le [bugali](/recettes/bugali-kivu/). À l’Ouest, l’équivalent fermenté de manioc est plutôt la [chikwangue](/recettes/chikwangue/) ; le [fufu de manioc](/recettes/fufu-manioc/) reste l’autre grand geste de pâte.\n\nSauces de la région : [matembele aux arachides](/recettes/matembele-katanga/), [kapenta aux tomates](/recettes/kapenta-tomates/).",
-      "en": "Bukari (maize dough, also called bidia in Kasai) anchors meals in Greater Katanga: leafy greens, fish and stewed meats cling to it. In Kivu the close cousin is [bugali](/en/recettes/bugali-kivu/). In the West, fermented cassava “bread” is more often chikwangue; cassava fufu is the other main dough."
+      "fr": "Le **bukari** est la pâte de maïs du Grand Katanga ; au Kivu on dit *bugali*, au Kasaï *bidia* — **un seul geste**, des noms de table différents (voir les variantes). À l’Ouest, l’équivalent fermenté de manioc est plutôt la [chikwangue](/recettes/chikwangue/) ; le [fufu de manioc](/recettes/fufu-manioc/) reste l’autre grand geste de pâte.\n\nSauces de la région : [matembele aux arachides](/recettes/matembele-katanga/), [kapenta aux tomates](/recettes/kapenta-tomates/).",
+      "en": "Bukari is Greater Katanga’s maize paste; in Kivu people say *bugali*, in Kasai *bidia* — **one gesture**, different table names (see variants). In the West, fermented cassava “bread” is more often [chikwangue](/en/recettes/chikwangue/); [cassava fufu](/en/recettes/fufu-manioc/) is the other main dough.\n\nRegional sauces: [matembele with peanuts](/en/recettes/matembele-katanga/), [kapenta with tomatoes](/en/recettes/kapenta-tomates/)."
     },
     "region": "Grand Katanga",
     "country": "CD",
@@ -2019,10 +1975,12 @@
     "servings": 6,
     "tags": [
       "bukari",
-      "fufu maïs",
+      "bugali",
       "bidia",
+      "fufu maïs",
+      "ugali",
       "Grand Katanga",
-      "Lubumbashi"
+      "Kivu"
     ],
     "ingredients": {
       "fr": [
@@ -2055,6 +2013,39 @@
       ]
     },
     "variants": [
+      {
+        "id": "bugali-kivu",
+        "title": {
+          "fr": "Bugali (nom du Kivu)",
+          "en": "Bugali (Kivu name)"
+        },
+        "description": {
+          "fr": "Au Nord-Kivu et Sud-Kivu, la même pâte de maïs s’appelle bugali (proche de l’ugali est-africain) — même geste, autre nom de table.",
+          "en": "In North and South Kivu the same maize paste is called bugali (close to East African ugali) — same gesture, another table name."
+        },
+        "ingredients": {
+          "fr": [
+            "500 g de farine fine de maïs blanc",
+            "1,2 l d’eau",
+            "1 pincée de sel, facultative"
+          ],
+          "en": [
+            "500 g fine white maize flour",
+            "1.2 l water",
+            "1 pinch of salt, optional"
+          ]
+        },
+        "steps": {
+          "fr": [
+            "Suivre les mêmes étapes que le bukari.",
+            "Servir avec légumes de l’Est (chou mijoté, sukuma, maharage) ou poisson de lac."
+          ],
+          "en": [
+            "Follow the same steps as bukari.",
+            "Serve with Eastern greens (simmered cabbage, sukuma, maharage) or lake fish."
+          ]
+        }
+      },
       {
         "id": "bidia-kasai",
         "title": {
@@ -2093,7 +2084,7 @@
       "fufu-manioc",
       "chikwangue",
       "sambaza",
-      "bugali-kivu"
+      "haricots-maharage"
     ],
     "sources": [
       {
@@ -2137,7 +2128,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -2284,7 +2275,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -2411,17 +2402,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Rahul Tilak — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Chikwang-Traditional_Congolese_Food.jpg"
+        "label": "Photo credit: T.K. Naliaka — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Cassava_Bread_-_cassava_cooked_in_leaf_wrap_(Kwanga,_Chikwangue).jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chikwang-Traditional%20Congolese%20Food.jpg?width=1200",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cassava%20Bread%20-%20cassava%20cooked%20in%20leaf%20wrap%20(Kwanga%2C%20Chikwangue).jpg?width=1600",
     "image_alt": {
-      "fr": "Chikwangue congolaise enveloppée dans ses feuilles",
-      "en": "Congolese chikwangue wrapped in its leaves"
+      "fr": "Chikwangue (kwanga) cuite dans ses feuilles, bâtons emballés et déroulés",
+      "en": "Chikwangue (kwanga) cooked in leaf wraps, packets stacked and unwrapped"
     },
-    "image_credit": "Rahul Tilak — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Chikwang-Traditional_Congolese_Food.jpg",
+    "image_credit": "T.K. Naliaka — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Cassava_Bread_-_cassava_cooked_in_leaf_wrap_(Kwanga,_Chikwangue).jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "video": {
       "youtube": "https://www.youtube.com/watch?v=RY8R-3kdUPs",
@@ -2436,7 +2427,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -2486,7 +2477,7 @@
       "en": "Grilled chikwangue recipe: kwanga slices finished on coals or in a pan until smoky and crusty — a separate gesture from steamed chikwangue."
     },
     "body": {
-      "fr": "La **chikwangue grillée** repart d’une [chikwangue](/recettes/chikwangue/) déjà cuite à la vapeur : on ne refermente rien, on **ressaisit** les tranches. Le goût fumé et la croûte changent complètement le geste de table.",
+      "fr": "La **chikwangue grillée** repart d’une [chikwangue](/recettes/chikwangue/) déjà cuite à la vapeur : on ne refermente rien, on **ressaisit** les tranches. Le goût fumé et la croûte changent complètement le geste de table.\n\nPhoto : tranches de kwanga déjà coupées (Commons) — le marquage braise se fait à la maison ; peu d’images libres montrent la croûte grillée.",
       "en": "Grilled chikwangue starts from chikwangue already steamed—you do not re-ferment, you reseize the slices. The smoky crust changes the table gesture completely."
     },
     "region": "Bassin du Congo & Kinshasa",
@@ -2555,17 +2546,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: OussamaHamama — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Kwanga.jpg"
+        "label": "Photo credit: Lyokoï — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Kikwanga_(chikwangue)_%C3%A0_la_fa%C3%A7on_de_la_RDC_mais_sans_sauce_et_coup%C3%A9.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kwanga.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kikwanga%20(chikwangue)%20%C3%A0%20la%20fa%C3%A7on%20de%20la%20RDC%20mais%20sans%20sauce%20et%20coup%C3%A9.jpg?width=1600",
     "image_alt": {
-      "fr": "Chikwangue (kwanga) prête à trancher et griller",
-      "en": "Chikwangue cut into slices"
+      "fr": "Tranches de chikwangue (kwanga) coupées, prêtes à passer sur braises ou poêle",
+      "en": "Sliced chikwangue (kwanga), ready to finish on coals or in a pan"
     },
-    "image_credit": "OussamaHamama — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kwanga.jpg",
+    "image_credit": "Lyokoï — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kikwanga_(chikwangue)_%C3%A0_la_fa%C3%A7on_de_la_RDC_mais_sans_sauce_et_coup%C3%A9.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/chikwangue-grillee/",
@@ -2574,7 +2565,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -2584,6 +2575,15 @@
       "fr": "Chou mijoté de l’Est",
       "en": "Eastern simmered cabbage",
       "aliases": [
+        {
+          "name": "cabbage stew",
+          "lang": "en"
+        },
+        {
+          "name": "sukuma ya chou",
+          "lang": "sw",
+          "note": "Informal"
+        },
         {
           "name": "chou",
           "lang": "und",
@@ -2620,8 +2620,8 @@
       "en": "Simmered cabbage recipe: white cabbage softened with onion and tomato — simple everyday Eastern green, served with bugali or rice."
     },
     "body": {
-      "fr": "Le **chou mijoté** est un légume de table à l’Est, moins chanté que le [pondu](/recettes/pondu/) mais très présent dès que le marché en propose. On le pose à côté du [bugali](/recettes/bugali-kivu/). Autre vert du quotidien swahili : [sukuma](/recettes/sukuma-est/).",
-      "en": "Simmered cabbage is an Eastern table green—less sung than [pondu](/en/recettes/pondu/) but common when the market has it. It sits beside [bugali](/en/recettes/bugali-kivu/). Another everyday Swahili green: [sukuma](/en/recettes/sukuma-est/)."
+      "fr": "Le **chou mijoté** est un légume de table à l’Est, moins chanté que le [pondu](/recettes/pondu/) mais très présent dès que le marché en propose. On le pose à côté du [bugali](/recettes/bukari-katanga/). Autre vert du quotidien swahili : [sukuma](/recettes/sukuma-est/).",
+      "en": "Simmered cabbage is an Eastern table green—less sung than [pondu](/en/recettes/pondu/) but common when the market has it. It sits beside [bugali](/en/recettes/bukari-katanga/). Another everyday Swahili green: [sukuma](/en/recettes/sukuma-est/)."
     },
     "region": "Nord-Kivu & Sud-Kivu",
     "country": "CD",
@@ -2681,7 +2681,7 @@
     },
     "variants": [],
     "related_recipes": [
-      "bugali-kivu",
+      "bukari-katanga",
       "sukuma-est",
       "ndunda"
     ],
@@ -2716,7 +2716,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -2728,8 +2728,11 @@
       "aliases": [
         {
           "name": "courge",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr"
+        },
+        {
+          "name": "pumpkin stew",
+          "lang": "en"
         },
         {
           "name": "potiron",
@@ -2855,7 +2858,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -2865,6 +2868,14 @@
       "fr": "Croquettes de manioc",
       "en": "Cassava croquettes",
       "aliases": [
+        {
+          "name": "croquettes ya sango",
+          "lang": "ln"
+        },
+        {
+          "name": "cassava croquettes",
+          "lang": "en"
+        },
         {
           "name": "manioc",
           "lang": "und",
@@ -2980,7 +2991,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -3126,7 +3137,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -3137,9 +3148,13 @@
       "en": "Snails, Congolese-style",
       "aliases": [
         {
+          "name": "mbembe",
+          "lang": "ln",
+          "note": "Snails"
+        },
+        {
           "name": "escargots",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr"
         },
         {
           "name": "piment",
@@ -3251,7 +3266,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -3261,6 +3276,15 @@
       "fr": "Foie de bœuf sauté",
       "en": "Sautéed beef liver",
       "aliases": [
+        {
+          "name": "libolo ya ngombe",
+          "lang": "ln",
+          "note": "Beef liver"
+        },
+        {
+          "name": "foie sauté",
+          "lang": "fr"
+        },
         {
           "name": "foie",
           "lang": "und",
@@ -3391,7 +3415,7 @@
     "featured": true,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -3403,8 +3427,19 @@
       "aliases": [
         {
           "name": "fufu",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr"
+        },
+        {
+          "name": "foufou",
+          "lang": "fr"
+        },
+        {
+          "name": "fufu ya sango",
+          "lang": "ln"
+        },
+        {
+          "name": "cassava fufu",
+          "lang": "en"
         },
         {
           "name": "fufu manioc",
@@ -3537,7 +3572,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -3786,7 +3821,7 @@
     "featured": true,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -3796,6 +3831,14 @@
       "fr": "Gâteau au manioc",
       "en": "Cassava cake",
       "aliases": [
+        {
+          "name": "gâteau ya sango",
+          "lang": "ln"
+        },
+        {
+          "name": "cassava cake",
+          "lang": "en"
+        },
         {
           "name": "manioc",
           "lang": "und",
@@ -3917,7 +3960,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -3929,8 +3972,17 @@
       "aliases": [
         {
           "name": "maharage",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "sw",
+          "region_hint": "Kivu"
+        },
+        {
+          "name": "mahargwe",
+          "lang": "sw",
+          "note": "Variant spelling"
+        },
+        {
+          "name": "haricots rouges",
+          "lang": "fr"
         },
         {
           "name": "haricots",
@@ -3958,8 +4010,8 @@
       "en": "Maharage recipe: red beans simmered with tomato and onion — everyday Kivu side, often served with bugali."
     },
     "body": {
-      "fr": "**Maharage** (swahili) : les haricots de l’Est, cousins des [madesu](/recettes/madesu/) de l’Ouest. Au Kivu on les colle souvent au [bugali](/recettes/bugali-kivu/). Moins « sauce arachide » que certains plats kasaiens : ici tomate, oignon, patience.",
-      "en": "Maharage (Swahili) are Eastern beans, cousins of Western [madesu](/en/recettes/madesu/). In Kivu they often sit with [bugali](/en/recettes/bugali-kivu/). Less peanut sauce than some Kasai plates: tomato, onion, patience."
+      "fr": "**Maharage** (swahili) : les haricots de l’Est, cousins des [madesu](/recettes/madesu/) de l’Ouest. Au Kivu on les colle souvent au [bugali](/recettes/bukari-katanga/). Moins « sauce arachide » que certains plats kasaiens : ici tomate, oignon, patience.",
+      "en": "Maharage (Swahili) are Eastern beans, cousins of Western [madesu](/en/recettes/madesu/). In Kivu they often sit with [bugali](/en/recettes/bukari-katanga/). Less peanut sauce than some Kasai plates: tomato, onion, patience."
     },
     "region": "Nord-Kivu & Sud-Kivu",
     "country": "CD",
@@ -4022,7 +4074,7 @@
     "variants": [],
     "related_recipes": [
       "madesu",
-      "bugali-kivu",
+      "bukari-katanga",
       "saka-madesu"
     ],
     "sources": [
@@ -4056,7 +4108,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -4066,6 +4118,16 @@
       "fr": "Haricots à la nguba",
       "en": "Beans with nguba",
       "aliases": [
+        {
+          "name": "madesu ya nguba",
+          "lang": "ln",
+          "note": "Beans with peanut"
+        },
+        {
+          "name": "haricots arachide",
+          "lang": "fr",
+          "region_hint": "Kasai"
+        },
         {
           "name": "haricots",
           "lang": "und",
@@ -4198,7 +4260,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -4332,7 +4394,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -4344,8 +4406,11 @@
       "aliases": [
         {
           "name": "igname",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr"
+        },
+        {
+          "name": "yam",
+          "lang": "en"
         },
         {
           "name": "tubercule",
@@ -4465,7 +4530,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -4475,6 +4540,14 @@
       "fr": "Jus d’ananas",
       "en": "Pineapple juice",
       "aliases": [
+        {
+          "name": "mai ya ananas",
+          "lang": "ln"
+        },
+        {
+          "name": "pineapple juice",
+          "lang": "en"
+        },
         {
           "name": "ananas",
           "lang": "und",
@@ -4594,7 +4667,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -4606,8 +4679,16 @@
       "aliases": [
         {
           "name": "bissap",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr"
+        },
+        {
+          "name": "zobo",
+          "lang": "en",
+          "note": "West African hibiscus drink name"
+        },
+        {
+          "name": "jus ya hibiscus",
+          "lang": "fr"
         },
         {
           "name": "hibiscus",
@@ -4733,7 +4814,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -4743,6 +4824,14 @@
       "fr": "Jus de mangue",
       "en": "Mango juice",
       "aliases": [
+        {
+          "name": "mai ya manga",
+          "lang": "ln"
+        },
+        {
+          "name": "mango juice",
+          "lang": "en"
+        },
         {
           "name": "mangue",
           "lang": "und",
@@ -4868,7 +4957,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -4878,6 +4967,14 @@
       "fr": "Jus de fruit de la passion",
       "en": "Passion fruit juice",
       "aliases": [
+        {
+          "name": "jus ya passion",
+          "lang": "fr"
+        },
+        {
+          "name": "passion fruit juice",
+          "lang": "en"
+        },
         {
           "name": "passion",
           "lang": "und",
@@ -4992,7 +5089,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -5003,14 +5100,17 @@
       "en": "Safou juice",
       "aliases": [
         {
-          "name": "safou",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "nsafu",
+          "lang": "kg",
+          "region_hint": "Kongo / West"
         },
         {
-          "name": "nsafu",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "safou",
+          "lang": "fr"
+        },
+        {
+          "name": "bush butter fruit",
+          "lang": "en"
         },
         {
           "name": "jus",
@@ -5127,7 +5227,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -5266,7 +5366,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -5276,6 +5376,15 @@
       "fr": "Kamundele",
       "en": "Kamundele",
       "aliases": [
+        {
+          "name": "brochettes de bœuf",
+          "lang": "fr"
+        },
+        {
+          "name": "mishikaki",
+          "lang": "sw",
+          "note": "Related skewer term in the East"
+        },
         {
           "name": "kamundele",
           "lang": "und",
@@ -5419,7 +5528,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -5431,8 +5540,13 @@
       "aliases": [
         {
           "name": "kapenta",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "sw",
+          "region_hint": "Katanga / lakes"
+        },
+        {
+          "name": "dagaa",
+          "lang": "sw",
+          "note": "Related small dried fish name in East Africa"
         },
         {
           "name": "Haut-Katanga",
@@ -5563,7 +5677,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -5573,6 +5687,14 @@
       "fr": "Kossa-kossa",
       "en": "Kossa-kossa",
       "aliases": [
+        {
+          "name": "crevettes séchées",
+          "lang": "fr"
+        },
+        {
+          "name": "kossa",
+          "lang": "ln"
+        },
         {
           "name": "crevettes",
           "lang": "und",
@@ -5686,7 +5808,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -5701,16 +5823,20 @@
           "lang": "fr"
         },
         {
+          "name": "maboke",
+          "lang": "ln",
+          "note": "Plural"
+        },
+        {
           "name": "en papillote congolaise",
           "lang": "fr"
         },
         {
-          "name": "liboke",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "liboke ya mbisi",
+          "lang": "ln"
         },
         {
-          "name": "maboke",
+          "name": "liboke",
           "lang": "und",
           "note": "Derived from editorial tags"
         },
@@ -5844,7 +5970,7 @@
     "featured": true,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -5854,6 +5980,16 @@
       "fr": "Liboke de viande",
       "en": "Meat liboke",
       "aliases": [
+        {
+          "name": "liboké ya ngulu",
+          "lang": "ln",
+          "note": "Often pork; meat in leaves"
+        },
+        {
+          "name": "maboke",
+          "lang": "ln",
+          "note": "Plural of liboke"
+        },
         {
           "name": "feuille de bananier",
           "lang": "und",
@@ -5973,7 +6109,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -5984,12 +6120,16 @@
       "en": "Lituma",
       "aliases": [
         {
-          "name": "lituma",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "plantain pilé",
+          "lang": "fr"
         },
         {
-          "name": "plantain pilé",
+          "name": "fufu ya makemba",
+          "lang": "ln",
+          "note": "Informal: pounded plantain"
+        },
+        {
+          "name": "lituma",
           "lang": "und",
           "note": "Derived from editorial tags"
         },
@@ -6117,7 +6257,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -6266,7 +6406,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -6277,9 +6417,16 @@
       "en": "Loso na madesu",
       "aliases": [
         {
+          "name": "riz aux haricots",
+          "lang": "fr"
+        },
+        {
           "name": "loso na madesu",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "ln"
+        },
+        {
+          "name": "rice and beans",
+          "lang": "en"
         },
         {
           "name": "riz haricots",
@@ -6413,7 +6560,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -6423,6 +6570,14 @@
       "fr": "Loso na petits pois",
       "en": "Loso with green peas",
       "aliases": [
+        {
+          "name": "riz aux petits pois",
+          "lang": "fr"
+        },
+        {
+          "name": "loso na pois",
+          "lang": "ln"
+        },
         {
           "name": "riz",
           "lang": "und",
@@ -6536,7 +6691,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -6546,6 +6701,20 @@
       "fr": "Loso ya sauce",
       "en": "Loso ya sauce",
       "aliases": [
+        {
+          "name": "riz sauce tomate",
+          "lang": "fr",
+          "region_hint": "Katanga"
+        },
+        {
+          "name": "loso ya sauce",
+          "lang": "ln"
+        },
+        {
+          "name": "wali na mchuzi",
+          "lang": "sw",
+          "note": "Rice with sauce (Swahili descriptive)"
+        },
         {
           "name": "loso",
           "lang": "und",
@@ -6661,17 +6830,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: BamLifa — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Repas_pour_petit_d%C3%A9jeuner.jpg"
+        "label": "Photo credit: Salamisa — Wikimedia Commons, domaine public",
+        "url": "https://commons.wikimedia.org/wiki/File:Jollof_rice.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Repas%20pour%20petit%20d%C3%A9jeuner.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jollof%20rice.jpg?width=1600",
     "image_alt": {
-      "fr": "Assiette congolaise avec fufu, légume et sauce",
-      "en": "Congolese plate with fufu, greens and sauce"
+      "fr": "Assiette de riz en sauce tomate, type loso ya sauce",
+      "en": "Plate of rice in tomato sauce, like loso ya sauce"
     },
-    "image_credit": "BamLifa — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Repas_pour_petit_d%C3%A9jeuner.jpg",
+    "image_credit": "Salamisa — Wikimedia Commons, domaine public",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Jollof_rice.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/loso-sauce-katanga/",
@@ -6680,7 +6849,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -6691,17 +6860,19 @@
       "en": "Madesu",
       "aliases": [
         {
+          "name": "haricots",
+          "lang": "fr"
+        },
+        {
           "name": "madesu",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "ln"
+        },
+        {
+          "name": "beans",
+          "lang": "en"
         },
         {
           "name": "haricots congolais",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "haricots",
           "lang": "und",
           "note": "Derived from editorial tags"
         },
@@ -6923,7 +7094,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -6934,14 +7105,17 @@
       "en": "Makayabu",
       "aliases": [
         {
-          "name": "makayabu",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "poisson salé",
+          "lang": "fr"
         },
         {
-          "name": "poisson salé",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "morue salée",
+          "lang": "fr",
+          "note": "Often salted cod / stockfish style"
+        },
+        {
+          "name": "makayabu",
+          "lang": "ln"
         },
         {
           "name": "oignon",
@@ -7168,7 +7342,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -7317,7 +7491,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -7457,7 +7631,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -7468,12 +7642,16 @@
       "en": "Makoso",
       "aliases": [
         {
-          "name": "makoso",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "pieds de porc",
+          "lang": "fr"
         },
         {
-          "name": "pieds de porc",
+          "name": "makosso",
+          "lang": "ln",
+          "note": "Related / same family name"
+        },
+        {
+          "name": "makoso",
           "lang": "und",
           "note": "Derived from editorial tags"
         },
@@ -7619,7 +7797,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -7629,6 +7807,14 @@
       "fr": "Makosso aux pommes de terre",
       "en": "Makosso with potatoes",
       "aliases": [
+        {
+          "name": "makoso",
+          "lang": "ln"
+        },
+        {
+          "name": "pieds de porc aux pommes de terre",
+          "lang": "fr"
+        },
         {
           "name": "makosso",
           "lang": "und",
@@ -7766,7 +7952,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -7776,6 +7962,15 @@
       "fr": "Manioc grillé",
       "en": "Grilled cassava",
       "aliases": [
+        {
+          "name": "sango ya kotumba",
+          "lang": "ln",
+          "note": "Grilled cassava"
+        },
+        {
+          "name": "manioc braisé",
+          "lang": "fr"
+        },
         {
           "name": "manioc",
           "lang": "und",
@@ -7881,7 +8076,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -7893,13 +8088,16 @@
       "aliases": [
         {
           "name": "matembele",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "sw",
+          "region_hint": "Katanga"
         },
         {
           "name": "feuilles de patate douce",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr"
+        },
+        {
+          "name": "sweet potato leaves",
+          "lang": "en"
         },
         {
           "name": "arachides",
@@ -8036,7 +8234,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -8046,6 +8244,14 @@
       "fr": "Mayebo aux tomates",
       "en": "Mayebo",
       "aliases": [
+        {
+          "name": "champignons de forêt",
+          "lang": "fr"
+        },
+        {
+          "name": "mayebo",
+          "lang": "ln"
+        },
         {
           "name": "champignons",
           "lang": "und",
@@ -8163,7 +8369,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -8212,7 +8418,7 @@
       "en": "Mbala recipe: sweet potatoes boiled or roasted until soft — everyday tuber, distinct from matembele leaves."
     },
     "body": {
-      "fr": "**Mbala** désigne la **patate douce** (le tubercule). Les [matembele](/recettes/matembele-katanga/) sont les **feuilles** de la même plante — autre geste, autre fiche. Cousins féculents : [igname bouillie](/recettes/igname-bouillie/), [plantains à la vapeur](/recettes/plantains-vapeur/).",
+      "fr": "**Mbala** désigne la **patate douce** (le tubercule). Version feu : [mbala grillée](/recettes/mbala-grillee/). Les [matembele](/recettes/matembele-katanga/) sont les **feuilles** de la même plante — autre geste, autre fiche. Cousins féculents : [igname bouillie](/recettes/igname-bouillie/), [plantains à la vapeur](/recettes/plantains-vapeur/).",
       "en": "Mbala means the sweet potato tuber. Matembele are the leaves of the same plant—another gesture, another page. Feculent cousins: boiled yam, steamed plantains."
     },
     "region": "Toute la RDC",
@@ -8286,8 +8492,8 @@
     ],
     "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sweet%20potato.jpg?width=1600",
     "image_alt": {
-      "fr": "Patates douces (mbala) cuites",
-      "en": "Boiled sweet potatoes served in a dish"
+      "fr": "Patates douces (mbala) bouillies, chair jaune",
+      "en": "Boiled sweet potatoes (mbala), yellow flesh"
     },
     "image_credit": "Kwabena — Wikimedia Commons, CC BY 3.0",
     "image_credit_url": "https://commons.wikimedia.org/wiki/File:Sweet_potato.jpg",
@@ -8299,7 +8505,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -8309,6 +8515,14 @@
       "fr": "Mbala grillée",
       "en": "Grilled mbala",
       "aliases": [
+        {
+          "name": "patate douce grillée",
+          "lang": "fr"
+        },
+        {
+          "name": "mbala ya kotumba",
+          "lang": "ln"
+        },
         {
           "name": "mbala",
           "lang": "und",
@@ -8413,17 +8627,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Kwabena — Wikimedia Commons, CC BY 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Sweet_potato.jpg"
+        "label": "Photo credit: Nizil Shah — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Roasted_Sweet_Potato.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sweet%20potato.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Roasted%20Sweet%20Potato.jpg?width=1600",
     "image_alt": {
-      "fr": "Patates douces cuites, type mbala",
-      "en": "Cooked sweet potatoes like mbala"
+      "fr": "Patate douce (mbala) rôtie / grillée, peau caramélisée",
+      "en": "Roasted / grilled sweet potato (mbala) with caramelised skin"
     },
-    "image_credit": "Kwabena — Wikimedia Commons, CC BY 3.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Sweet_potato.jpg",
+    "image_credit": "Nizil Shah — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Roasted_Sweet_Potato.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/mbala-grillee/",
@@ -8432,7 +8646,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -8444,16 +8658,19 @@
       "aliases": [
         {
           "name": "graines de courge",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr"
         },
         {
-          "name": "papillote",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "egusi",
+          "lang": "en",
+          "note": "Related West African name for melon/squash seed paste; not identical"
         },
         {
           "name": "mbika",
+          "lang": "ln"
+        },
+        {
+          "name": "papillote",
           "lang": "und",
           "note": "Derived from editorial tags"
         }
@@ -8564,7 +8781,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -8575,9 +8792,17 @@
       "en": "Grilled mbinzo",
       "aliases": [
         {
+          "name": "chenilles grillées",
+          "lang": "fr"
+        },
+        {
           "name": "mbinzo",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "ln"
+        },
+        {
+          "name": "ngala",
+          "lang": "kg",
+          "note": "Related edible caterpillar name in some regions"
         },
         {
           "name": "chenilles",
@@ -8684,17 +8909,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Serein — Wikimedia Commons, CC BY-SA 1.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Chenilles_cuisine_Congo.jpg"
+        "label": "Photo credit: T.K. Naliaka — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Ngala_-_edible_caterpillars_-_Imbrasia_forda_-_Cirina_forda,_DR_Congo_(cropped).jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chenilles%20cuisine%20Congo.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ngala%20-%20edible%20caterpillars%20-%20Imbrasia%20forda%20-%20Cirina%20forda%2C%20DR%20Congo%20(cropped).jpg?width=1600",
     "image_alt": {
-      "fr": "Assiette congolaise avec chenilles grillées, poisson et foufou",
-      "en": "Congolese plate with grilled caterpillars, fish and fufu"
+      "fr": "Chenilles comestibles (mbinzo / ngala) séchées, prêtes à saisir à la poêle",
+      "en": "Dried edible caterpillars (mbinzo / ngala), ready to sear in a pan"
     },
-    "image_credit": "Serein — Wikimedia Commons, CC BY-SA 1.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Chenilles_cuisine_Congo.jpg",
+    "image_credit": "T.K. Naliaka — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Ngala_-_edible_caterpillars_-_Imbrasia_forda_-_Cirina_forda,_DR_Congo_(cropped).jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/mbinzo-grillees/",
@@ -8703,7 +8928,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -8715,8 +8940,16 @@
       "aliases": [
         {
           "name": "chenilles",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr"
+        },
+        {
+          "name": "mbinzo",
+          "lang": "ln"
+        },
+        {
+          "name": "minzo",
+          "lang": "fr",
+          "note": "Spelling variant"
         },
         {
           "name": "Bandundu",
@@ -8811,7 +9044,7 @@
     ],
     "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/RDC%20plat%20de%20chenilles.jpg?width=1600",
     "image_alt": {
-      "fr": "Plat congolais de chenilles cuisinées",
+      "fr": "Mbinzo (chenilles) mijotées en sauce, plat congolais",
       "en": "Congolese plate of cooked caterpillars"
     },
     "image_credit": "Serein — Wikimedia Commons, CC BY-SA 3.0",
@@ -8830,7 +9063,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -8840,6 +9073,18 @@
       "fr": "Mbisi ya kokalinga",
       "en": "Mbisi ya kokalinga",
       "aliases": [
+        {
+          "name": "poisson frit",
+          "lang": "fr"
+        },
+        {
+          "name": "mbisi ya kokalinga",
+          "lang": "ln"
+        },
+        {
+          "name": "fried fish",
+          "lang": "en"
+        },
         {
           "name": "friture",
           "lang": "und",
@@ -8950,7 +9195,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -9107,7 +9352,7 @@
     "featured": true,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -9118,19 +9363,16 @@
       "en": "Mikila",
       "aliases": [
         {
-          "name": "mikila",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
           "name": "queue de bœuf",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr"
         },
         {
           "name": "oxtail",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "en"
+        },
+        {
+          "name": "mikila",
+          "lang": "ln"
         },
         {
           "name": "sauce tomate",
@@ -9269,7 +9511,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -9414,7 +9656,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -9433,9 +9675,17 @@
           "lang": "ln"
         },
         {
+          "name": "mwamba",
+          "lang": "ln"
+        },
+        {
           "name": "muamba",
           "lang": "pt",
           "note": "Angolan / diaspora spelling"
+        },
+        {
+          "name": "soso ya mwambe",
+          "lang": "ln"
         },
         {
           "name": "moambe",
@@ -9444,11 +9694,6 @@
         },
         {
           "name": "poulet moambe",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "mwamba",
           "lang": "und",
           "note": "Derived from editorial tags"
         },
@@ -9673,7 +9918,7 @@
     "featured": true,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -9684,12 +9929,17 @@
       "en": "Mujibujibu",
       "aliases": [
         {
-          "name": "Kasaï",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "feuilles de courge",
+          "lang": "fr",
+          "region_hint": "Kasai"
         },
         {
-          "name": "feuilles de courge",
+          "name": "mujibujibu",
+          "lang": "lua",
+          "region_hint": "Kasai-Central"
+        },
+        {
+          "name": "Kasaï",
           "lang": "und",
           "note": "Derived from editorial tags"
         },
@@ -9802,7 +10052,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -9814,8 +10064,12 @@
       "aliases": [
         {
           "name": "mukeke",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "sw",
+          "region_hint": "Lake Tanganyika"
+        },
+        {
+          "name": "poisson du Tanganyika",
+          "lang": "fr"
         },
         {
           "name": "Tanganyika",
@@ -9948,7 +10202,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -9958,6 +10212,15 @@
       "fr": "Munkoyo",
       "en": "Munkoyo",
       "aliases": [
+        {
+          "name": "munkoyo",
+          "lang": "sw",
+          "region_hint": "Haut-Katanga"
+        },
+        {
+          "name": "boisson de maïs fermenté",
+          "lang": "fr"
+        },
         {
           "name": "maïs",
           "lang": "und",
@@ -10069,7 +10332,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -10082,7 +10345,11 @@
         {
           "name": "ndagala",
           "lang": "sw",
-          "note": "Lake Kivu small fish"
+          "region_hint": "Lake Kivu"
+        },
+        {
+          "name": "petits poissons du Kivu",
+          "lang": "fr"
         },
         {
           "name": "Kivu",
@@ -10208,7 +10475,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -10371,7 +10638,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -10382,19 +10649,21 @@
       "en": "Ngai-ngai",
       "aliases": [
         {
-          "name": "ngai-ngai",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
           "name": "oseille",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr"
         },
         {
           "name": "oseille de Guinée",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr"
+        },
+        {
+          "name": "ngai-ngai",
+          "lang": "ln"
+        },
+        {
+          "name": "hibiscus leaves",
+          "lang": "en",
+          "note": "Culinary leaf, not the drink"
         },
         {
           "name": "poisson fumé",
@@ -10609,7 +10878,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -10758,7 +11027,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -10769,9 +11038,12 @@
       "en": "Grilled nsafu",
       "aliases": [
         {
+          "name": "safou grillé",
+          "lang": "fr"
+        },
+        {
           "name": "nsafu",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "kg"
         },
         {
           "name": "safou",
@@ -10873,7 +11145,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -10885,8 +11157,16 @@
       "aliases": [
         {
           "name": "chèvre grillée",
-          "lang": "und",
-          "note": "From French title parentheses"
+          "lang": "fr"
+        },
+        {
+          "name": "ntaba ya kotumba",
+          "lang": "ln"
+        },
+        {
+          "name": "mbuzi",
+          "lang": "sw",
+          "note": "Goat (Swahili)"
         },
         {
           "name": "ntaba",
@@ -11028,7 +11308,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -11038,6 +11318,15 @@
       "fr": "Ntaba mijotée",
       "en": "Simmered ntaba",
       "aliases": [
+        {
+          "name": "chèvre en sauce",
+          "lang": "fr",
+          "region_hint": "Kasai"
+        },
+        {
+          "name": "ntaba ya sauce",
+          "lang": "ln"
+        },
         {
           "name": "ntaba",
           "lang": "und",
@@ -11174,7 +11463,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -11184,6 +11473,14 @@
       "fr": "Ntaba en sauce",
       "en": "Ntaba in sauce",
       "aliases": [
+        {
+          "name": "chèvre mijotée",
+          "lang": "fr"
+        },
+        {
+          "name": "ntaba ya sauce",
+          "lang": "ln"
+        },
         {
           "name": "chèvre",
           "lang": "und",
@@ -11306,7 +11603,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -11316,6 +11613,14 @@
       "fr": "Pain mayonnaise",
       "en": "Pain mayonnaise",
       "aliases": [
+        {
+          "name": "sandwich mayonnaise",
+          "lang": "fr"
+        },
+        {
+          "name": "pain mayo",
+          "lang": "ln"
+        },
         {
           "name": "pain mayonnaise",
           "lang": "und",
@@ -11447,7 +11752,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -11458,12 +11763,20 @@
       "en": "Pepe soupe ya ngolo",
       "aliases": [
         {
-          "name": "pepe soupe",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "pepe soup",
+          "lang": "en"
+        },
+        {
+          "name": "soupe de poisson-chat",
+          "lang": "fr"
         },
         {
           "name": "ngolo",
+          "lang": "ln",
+          "note": "Catfish"
+        },
+        {
+          "name": "pepe soupe",
           "lang": "und",
           "note": "Derived from editorial tags"
         },
@@ -11601,7 +11914,7 @@
     "featured": true,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -11612,14 +11925,17 @@
       "en": "Kivu pilau",
       "aliases": [
         {
-          "name": "pilau",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "pilaw",
+          "lang": "sw"
         },
         {
-          "name": "pilaw",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "pilau",
+          "lang": "sw",
+          "region_hint": "Kivu"
+        },
+        {
+          "name": "riz épicé",
+          "lang": "fr"
         },
         {
           "name": "riz",
@@ -11647,8 +11963,8 @@
       "en": "Pilau (pilaw) recipe: rice cooked in a spiced broth with meat or vegetables — East African–influenced dish common in North and South Kivu."
     },
     "body": {
-      "fr": "Le **pilau** (ou *pilaw*) circule dans l’Est swahilophone : épices, riz, viande. Au Kivu il côtoie le [bugali](/recettes/bugali-kivu/) et les plats de lac. Ce n’est pas le [loso mayonnaise](/recettes/loso-mayonnaise/) de Kinshasa : ici le riz boit le bouillon d’épices.\n\nPhoto d’ambiance est-africaine (crédit Commons) — le geste reste celui des foyers de Goma, Bukavu et alentours.",
-      "en": "Pilau (or pilaw) travels the Swahili-speaking East: spices, rice, meat. In Kivu it sits beside [bugali](/en/recettes/bugali-kivu/) and lake dishes. It is not Kinshasa [loso mayonnaise](/en/recettes/loso-mayonnaise/): here the rice drinks the spiced broth.\n\nAtmosphere photo from East Africa (Commons credit)—the gesture remains that of households in Goma, Bukavu and around."
+      "fr": "Le **pilau** (ou *pilaw*) circule dans l’Est swahilophone : épices, riz, viande. Au Kivu il côtoie le [bugali](/recettes/bukari-katanga/) et les plats de lac. Ce n’est pas le [loso mayonnaise](/recettes/loso-mayonnaise/) de Kinshasa : ici le riz boit le bouillon d’épices.\n\nPhoto d’ambiance est-africaine (crédit Commons) — le geste reste celui des foyers de Goma, Bukavu et alentours.",
+      "en": "Pilau (or pilaw) travels the Swahili-speaking East: spices, rice, meat. In Kivu it sits beside [bugali](/en/recettes/bukari-katanga/) and lake dishes. It is not Kinshasa [loso mayonnaise](/en/recettes/loso-mayonnaise/): here the rice drinks the spiced broth.\n\nAtmosphere photo from East Africa (Commons credit)—the gesture remains that of households in Goma, Bukavu and around."
     },
     "region": "Nord-Kivu & Sud-Kivu",
     "country": "CD",
@@ -11755,7 +12071,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -11765,6 +12081,14 @@
       "fr": "Plantains à la vapeur",
       "en": "Steamed plantains",
       "aliases": [
+        {
+          "name": "makemba ya vapeur",
+          "lang": "ln"
+        },
+        {
+          "name": "steamed plantains",
+          "lang": "en"
+        },
         {
           "name": "plantains vapeur",
           "lang": "und",
@@ -11888,7 +12212,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -11899,9 +12223,13 @@
       "en": "Grilled fish",
       "aliases": [
         {
+          "name": "mbisi ya kotumba",
+          "lang": "ln"
+        },
+        {
           "name": "poisson braisé",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr",
+          "region_hint": "Kinkole"
         },
         {
           "name": "Kinkole",
@@ -12039,7 +12367,7 @@
     "featured": true,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -12050,9 +12378,13 @@
       "en": "Smoked fish with bidia",
       "aliases": [
         {
+          "name": "mbisi ya fumé",
+          "lang": "ln"
+        },
+        {
           "name": "poisson fumé",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr",
+          "region_hint": "Kasai"
         },
         {
           "name": "bidia",
@@ -12177,7 +12509,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -12187,6 +12519,14 @@
       "fr": "Poisson fumé aux tomates",
       "en": "Smoked fish with tomatoes",
       "aliases": [
+        {
+          "name": "mbisi ya fumé",
+          "lang": "ln"
+        },
+        {
+          "name": "smoked fish stew",
+          "lang": "en"
+        },
         {
           "name": "poisson fumé",
           "lang": "und",
@@ -12329,7 +12669,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -12340,12 +12680,16 @@
       "en": "Grilled Lake Kivu fish",
       "aliases": [
         {
-          "name": "lac Kivu",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "samaki wa kuchoma",
+          "lang": "sw",
+          "region_hint": "Kivu"
         },
         {
           "name": "poisson grillé",
+          "lang": "fr"
+        },
+        {
+          "name": "lac Kivu",
           "lang": "und",
           "note": "Derived from editorial tags"
         },
@@ -12469,7 +12813,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -12479,6 +12823,14 @@
       "fr": "Poisson mayo",
       "en": "Fish mayo",
       "aliases": [
+        {
+          "name": "mbisi ya mayonnaise",
+          "lang": "ln"
+        },
+        {
+          "name": "poisson mayonnaise",
+          "lang": "fr"
+        },
         {
           "name": "poisson mayo",
           "lang": "und",
@@ -12614,7 +12966,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -12624,6 +12976,14 @@
       "fr": "Poisson à la moambe",
       "en": "Fish moambe",
       "aliases": [
+        {
+          "name": "mbisi ya mwambe",
+          "lang": "ln"
+        },
+        {
+          "name": "poisson moambe",
+          "lang": "fr"
+        },
         {
           "name": "moambe",
           "lang": "und",
@@ -12737,7 +13097,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -12749,8 +13109,13 @@
       "aliases": [
         {
           "name": "pommes de terre",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr",
+          "region_hint": "Katanga"
+        },
+        {
+          "name": "viazi",
+          "lang": "sw",
+          "note": "Potatoes"
         },
         {
           "name": "Katanga",
@@ -12868,7 +13233,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -12880,20 +13245,21 @@
       "aliases": [
         {
           "name": "saka-saka",
-          "lang": "ln"
+          "lang": "ln",
+          "region_hint": "Kinshasa / West"
         },
         {
           "name": "sombe",
           "lang": "sw",
-          "note": "Related cassava-leaf preparation in the Great Lakes region"
-        },
-        {
-          "name": "pondu",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "note": "Eastern cassava-leaf name; see also sombe page",
+          "region_hint": "Katanga / Kivu"
         },
         {
           "name": "feuilles de manioc",
+          "lang": "fr"
+        },
+        {
+          "name": "pondu",
           "lang": "und",
           "note": "Derived from editorial tags"
         }
@@ -13112,7 +13478,7 @@
     "featured": true,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -13122,6 +13488,14 @@
       "fr": "Porc braisé",
       "en": "Braised pork",
       "aliases": [
+        {
+          "name": "ngulu ya kotumba",
+          "lang": "ln"
+        },
+        {
+          "name": "porc grillé",
+          "lang": "fr"
+        },
         {
           "name": "porc",
           "lang": "und",
@@ -13254,7 +13628,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -13264,6 +13638,14 @@
       "fr": "Poulet mayo",
       "en": "Poulet mayo",
       "aliases": [
+        {
+          "name": "soso ya mayonnaise",
+          "lang": "ln"
+        },
+        {
+          "name": "poulet mayonnaise",
+          "lang": "fr"
+        },
         {
           "name": "poulet mayo",
           "lang": "und",
@@ -13410,7 +13792,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -13421,9 +13803,12 @@
       "en": "Breaded chicken",
       "aliases": [
         {
+          "name": "soso ya pané",
+          "lang": "ln"
+        },
+        {
           "name": "poulet pané",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr"
         },
         {
           "name": "frit",
@@ -13551,7 +13936,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -13561,6 +13946,14 @@
       "fr": "Riz à la moambe",
       "en": "Rice with moambe",
       "aliases": [
+        {
+          "name": "loso ya mwambe",
+          "lang": "ln"
+        },
+        {
+          "name": "riz moambe",
+          "lang": "fr"
+        },
         {
           "name": "riz",
           "lang": "und",
@@ -13679,7 +14072,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -13689,6 +14082,14 @@
       "fr": "Saka-madesu",
       "en": "Saka-madesu",
       "aliases": [
+        {
+          "name": "pondu na madesu",
+          "lang": "ln"
+        },
+        {
+          "name": "saka-saka aux haricots",
+          "lang": "fr"
+        },
         {
           "name": "saka-madesu",
           "lang": "und",
@@ -13923,7 +14324,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -13933,6 +14334,15 @@
       "fr": "Salade chou-carotte",
       "en": "Cabbage-carrot salad",
       "aliases": [
+        {
+          "name": "salade chou-carotte",
+          "lang": "fr",
+          "region_hint": "Kisangani"
+        },
+        {
+          "name": "salade ya Kisangani",
+          "lang": "fr"
+        },
         {
           "name": "Kisangani",
           "lang": "und",
@@ -14043,7 +14453,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -14055,16 +14465,15 @@
       "aliases": [
         {
           "name": "sambaza",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "Tanganyika",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "sw",
+          "region_hint": "Lake Tanganyika"
         },
         {
           "name": "petits poissons",
+          "lang": "fr"
+        },
+        {
+          "name": "Tanganyika",
           "lang": "und",
           "note": "Derived from editorial tags"
         },
@@ -14193,7 +14602,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -14204,12 +14613,19 @@
       "en": "Potato sambousa",
       "aliases": [
         {
-          "name": "sambousa",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "samosa",
+          "lang": "sw"
         },
         {
-          "name": "samosa",
+          "name": "sambusa",
+          "lang": "sw"
+        },
+        {
+          "name": "chaussons aux pommes de terre",
+          "lang": "fr"
+        },
+        {
+          "name": "sambousa",
           "lang": "und",
           "note": "Derived from editorial tags"
         },
@@ -14337,7 +14753,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -14473,7 +14889,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -14485,13 +14901,16 @@
       "aliases": [
         {
           "name": "gombo",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr"
         },
         {
           "name": "okra",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "en"
+        },
+        {
+          "name": "dongo-dongo",
+          "lang": "ln",
+          "note": "Related okra dish family; smoked fish version has its own page"
         },
         {
           "name": "sauce",
@@ -14611,7 +15030,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -14623,8 +15042,15 @@
       "aliases": [
         {
           "name": "pili-pili",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "sw"
+        },
+        {
+          "name": "piment",
+          "lang": "fr"
+        },
+        {
+          "name": "hot sauce",
+          "lang": "en"
         },
         {
           "name": "sauce piment",
@@ -14638,11 +15064,6 @@
         },
         {
           "name": "grillade",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "piment",
           "lang": "und",
           "note": "Derived from editorial tags"
         }
@@ -14756,7 +15177,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -14766,6 +15187,14 @@
       "fr": "Saucisse-frites",
       "en": "Sausage and fries",
       "aliases": [
+        {
+          "name": "saucisse frites",
+          "lang": "fr"
+        },
+        {
+          "name": "sausage and fries",
+          "lang": "en"
+        },
         {
           "name": "saucisse",
           "lang": "und",
@@ -14893,7 +15322,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -14904,9 +15333,18 @@
       "en": "Sombe",
       "aliases": [
         {
+          "name": "pondu",
+          "lang": "ln",
+          "note": "Western / Kinshasa name for cassava leaves"
+        },
+        {
+          "name": "saka-saka",
+          "lang": "ln"
+        },
+        {
           "name": "sombe",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "sw",
+          "region_hint": "Katanga / Kivu"
         },
         {
           "name": "feuilles de manioc",
@@ -15139,7 +15577,7 @@
     "featured": true,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -15149,6 +15587,20 @@
       "fr": "Soso ya lumba-lumba",
       "en": "Soso ya lumba-lumba",
       "aliases": [
+        {
+          "name": "tshiluabenyi",
+          "lang": "lua",
+          "note": "Also called tshiluabenyi",
+          "region_hint": "Kasai"
+        },
+        {
+          "name": "poulet au basilic africain",
+          "lang": "fr"
+        },
+        {
+          "name": "soso ya lumba-lumba",
+          "lang": "ln"
+        },
         {
           "name": "Grand Kasaï",
           "lang": "und",
@@ -15272,7 +15724,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -15283,14 +15735,12 @@
       "en": "Soso ya kotumba",
       "aliases": [
         {
-          "name": "soso ya kotumba",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "poulet grillé",
+          "lang": "fr"
         },
         {
-          "name": "poulet grillé",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "soso ya kotumba",
+          "lang": "ln"
         },
         {
           "name": "braise",
@@ -15428,7 +15878,7 @@
     "featured": true,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -15438,6 +15888,14 @@
       "fr": "Soso ya sauce",
       "en": "Soso ya sauce",
       "aliases": [
+        {
+          "name": "poulet en sauce",
+          "lang": "fr"
+        },
+        {
+          "name": "soso ya sauce",
+          "lang": "ln"
+        },
         {
           "name": "poulet",
           "lang": "und",
@@ -15550,7 +16008,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -15561,12 +16019,17 @@
       "en": "Sukuma",
       "aliases": [
         {
-          "name": "sukuma",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "sukuma wiki",
+          "lang": "sw",
+          "region_hint": "Kivu / East Africa"
         },
         {
-          "name": "sukuma wiki",
+          "name": "ndunda",
+          "lang": "ln",
+          "note": "Kinshasa everyday greens cousin"
+        },
+        {
+          "name": "sukuma",
           "lang": "und",
           "note": "Derived from editorial tags"
         },
@@ -15596,8 +16059,8 @@
       "en": "Sukuma (sukuma wiki) recipe: kale-style or market greens quickly sautéed with onion — fast Kivu and Swahili-speaking East vegetable."
     },
     "body": {
-      "fr": "**Sukuma wiki** (« pousser la semaine » en swahili) : le vert bon marché qui allonge les repas. Au Kivu le geste croise l’Est africain ; à Kinshasa on parlerait plutôt de [ndunda](/recettes/ndunda/). Accompagnement naturel : [bugali](/recettes/bugali-kivu/).",
-      "en": "Sukuma wiki (“push the week” in Swahili) is the cheap green that stretches meals. In Kivu the gesture meets East Africa; in Kinshasa people more often say [ndunda](/en/recettes/ndunda/). Natural partner: [bugali](/en/recettes/bugali-kivu/)."
+      "fr": "**Sukuma wiki** (« pousser la semaine » en swahili) : le vert bon marché qui allonge les repas. Au Kivu le geste croise l’Est africain ; à Kinshasa on parlerait plutôt de [ndunda](/recettes/ndunda/). Accompagnement naturel : [bugali](/recettes/bukari-katanga/).",
+      "en": "Sukuma wiki (“push the week” in Swahili) is the cheap green that stretches meals. In Kivu the gesture meets East Africa; in Kinshasa people more often say [ndunda](/en/recettes/ndunda/). Natural partner: [bugali](/en/recettes/bukari-katanga/)."
     },
     "region": "Nord-Kivu & Sud-Kivu",
     "country": "CD",
@@ -15655,7 +16118,7 @@
     },
     "variants": [],
     "related_recipes": [
-      "bugali-kivu",
+      "bukari-katanga",
       "ndunda",
       "chou-mijote-est"
     ],
@@ -15690,7 +16153,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -15701,12 +16164,20 @@
       "en": "Tangawisi",
       "aliases": [
         {
-          "name": "tangawisi",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "jus de gingembre",
+          "lang": "fr"
         },
         {
-          "name": "jus de gingembre",
+          "name": "tangawizi",
+          "lang": "sw",
+          "note": "Ginger"
+        },
+        {
+          "name": "ginger drink",
+          "lang": "en"
+        },
+        {
+          "name": "tangawisi",
           "lang": "und",
           "note": "Derived from editorial tags"
         },
@@ -15837,7 +16308,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -15848,14 +16319,12 @@
       "en": "Simmered taro",
       "aliases": [
         {
-          "name": "taro",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "malanga",
+          "lang": "fr"
         },
         {
-          "name": "malanga",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "name": "taro",
+          "lang": "en"
         },
         {
           "name": "tubercule",
@@ -15980,7 +16449,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -15990,6 +16459,15 @@
       "fr": "Tilapia au bugali",
       "en": "Tilapia with bugali",
       "aliases": [
+        {
+          "name": "tilapia na bugali",
+          "lang": "sw",
+          "region_hint": "Kivu"
+        },
+        {
+          "name": "tilapia au bukari",
+          "lang": "fr"
+        },
         {
           "name": "tilapia",
           "lang": "und",
@@ -16021,8 +16499,8 @@
       "en": "Grilled or pan-fried tilapia served with bugali — lake fish + maize paste duo common in Kivu and around the great lakes."
     },
     "body": {
-      "fr": "**Tilapia + bugali** : assiette type des bords de lac quand le marché propose du frais. Moins « sauce longue » que le [poisson moambe](/recettes/poisson-moambe/) ; plus direct que les [ndagala](/recettes/ndagala-tomates/). Pour la pâte seule : [bugali](/recettes/bugali-kivu/).",
-      "en": "Tilapia + bugali: a lakeside plate when the market has fresh fish. Less “long sauce” than [fish moambe](/en/recettes/poisson-moambe/); more direct than [ndagala](/en/recettes/ndagala-tomates/). For the paste alone: [bugali](/en/recettes/bugali-kivu/)."
+      "fr": "**Tilapia + bugali** : assiette type des bords de lac quand le marché propose du frais. Moins « sauce longue » que le [poisson moambe](/recettes/poisson-moambe/) ; plus direct que les [ndagala](/recettes/ndagala-tomates/). Pour la pâte seule : [bugali](/recettes/bukari-katanga/).",
+      "en": "Tilapia + bugali: a lakeside plate when the market has fresh fish. Less “long sauce” than [fish moambe](/en/recettes/poisson-moambe/); more direct than [ndagala](/en/recettes/ndagala-tomates/). For the paste alone: [bugali](/en/recettes/bukari-katanga/)."
     },
     "region": "Nord-Kivu & Sud-Kivu",
     "country": "CD",
@@ -16082,7 +16560,7 @@
     },
     "variants": [],
     "related_recipes": [
-      "bugali-kivu",
+      "bukari-katanga",
       "poisson-kivu-grille",
       "sambaza"
     ],
@@ -16117,7 +16595,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -16129,8 +16607,13 @@
       "aliases": [
         {
           "name": "viande séchée",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr",
+          "region_hint": "Katanga"
+        },
+        {
+          "name": "biltong-style",
+          "lang": "en",
+          "note": "Descriptive; not South African biltong"
         },
         {
           "name": "Katanga",
@@ -16247,7 +16730,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   },
   {
@@ -16257,6 +16740,14 @@
       "fr": "Viande ya sauce",
       "en": "Viande ya sauce",
       "aliases": [
+        {
+          "name": "nyama ya sauce",
+          "lang": "ln"
+        },
+        {
+          "name": "bœuf en sauce",
+          "lang": "fr"
+        },
         {
           "name": "bœuf",
           "lang": "und",
@@ -16384,7 +16875,7 @@
     "featured": false,
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "updated_at": "2026-10-25"
   }
 ]

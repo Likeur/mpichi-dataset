@@ -46,7 +46,7 @@ Ongoing since the Mpichi site launch (2026+).
 
 ## Preprocessing
 
-Markdown front matter + body and English overrides (`recipes-en.ts`) are merged. ISO-8601 durations are derived from human time strings. Aliases are merged from `enrichment/aliases.json` and editorial tags. Instruction pairs are **generated** from recipe fields (not human chat logs).
+Markdown front matter + body and English overrides (`recipes-en.ts`) are merged. ISO-8601 durations are derived from human time strings. Aliases are merged from `enrichment/aliases.json` (**curated first**: `name`, `lang`, optional `note` / `region_hint` / `script`) then editorial tag/title fallbacks (`lang: und`). See `enrichment/README.md`. Instruction pairs are **generated** from recipe fields (not human chat logs).
 
 ## Uses
 

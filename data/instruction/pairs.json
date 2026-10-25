@@ -36,7 +36,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Andazi du Tanganyika ?",
-    "completion": "Andazi du Tanganyika peut aussi être appelé : andazi, mandazi, beignets, Tanganyika, Kalemie.",
+    "completion": "Andazi du Tanganyika peut aussi être appelé : mandazi, andazi, beignets, Tanganyika, Kalemie.",
     "recipe_id": "andazi-tanganyika"
   },
   {
@@ -76,7 +76,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Aubergines africaines en sauce ?",
-    "completion": "Aubergines africaines en sauce peut aussi être appelé : aubergines africaines, garden eggs, légumes, marché.",
+    "completion": "Aubergines africaines en sauce peut aussi être appelé : garden eggs, aubergine amère, ngai-ngolo, aubergines africaines, légumes, marché.",
     "recipe_id": "aubergines-africaines"
   },
   {
@@ -156,7 +156,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Beignets de banane ?",
-    "completion": "Beignets de banane peut aussi être appelé : banane, beignet, goûter, friture.",
+    "completion": "Beignets de banane peut aussi être appelé : beignets ya libuma, banana fritters, banane, beignet, goûter, friture.",
     "recipe_id": "beignets-banane"
   },
   {
@@ -236,7 +236,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Beignets de manioc ?",
-    "completion": "Beignets de manioc peut aussi être appelé : manioc, beignet, goûter, friture.",
+    "completion": "Beignets de manioc peut aussi être appelé : beignets ya sango, cassava fritters, manioc, beignet, goûter, friture.",
     "recipe_id": "beignets-manioc"
   },
   {
@@ -356,7 +356,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Bouillie d’arachide ?",
-    "completion": "Bouillie d’arachide peut aussi être appelé : bouillie, petit-déjeuner, goûter.",
+    "completion": "Bouillie d’arachide peut aussi être appelé : bouillie ya nguba, peanut porridge, bouillie, petit-déjeuner, goûter.",
     "recipe_id": "bouillie-arachide"
   },
   {
@@ -396,7 +396,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Bouillie de maïs ?",
-    "completion": "Bouillie de maïs peut aussi être appelé : maïs, bouillie, petit-déjeuner, goûter.",
+    "completion": "Bouillie de maïs peut aussi être appelé : uji, bouillie de farine de maïs, maize porridge, maïs, bouillie, petit-déjeuner, goûter.",
     "recipe_id": "bouillie-mais"
   },
   {
@@ -436,7 +436,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Brochettes de foie ?",
-    "completion": "Brochettes de foie peut aussi être appelé : foie, brochettes, grillade, Kinshasa, street food.",
+    "completion": "Brochettes de foie peut aussi être appelé : brochettes ya libolo, liver skewers, foie, brochettes, grillade, Kinshasa, street food.",
     "recipe_id": "brochettes-foie"
   },
   {
@@ -476,7 +476,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Brochettes de grillons ?",
-    "completion": "Brochettes de grillons peut aussi être appelé : grillons, brochette, grillé.",
+    "completion": "Brochettes de grillons peut aussi être appelé : makelele, grillons grillés, grillons, brochette, grillé.",
     "recipe_id": "brochettes-grillons"
   },
   {
@@ -516,55 +516,15 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Brochettes de Lubumbashi ?",
-    "completion": "Brochettes de Lubumbashi peut aussi être appelé : brochettes, Lubumbashi, Katanga, street food, bœuf.",
+    "completion": "Brochettes de Lubumbashi peut aussi être appelé : brochettes, mishikaki, kamundele, Lubumbashi, Katanga, street food, bœuf.",
     "recipe_id": "brochettes-lubumbashi"
-  },
-  {
-    "id": "bugali-kivu-recipe-fr",
-    "lang": "fr",
-    "task": "recipe_full",
-    "prompt": "Donne la recette complète du plat congolais « Bugali » (République démocratique du Congo).",
-    "completion": "# Bugali\n\nRecette de bugali : farine de maïs travaillée à l’eau chaude en pâte ferme — accompagnement de base au Kivu (cousin du bukari katangais et de l’ugali est-africain).\n\nRégion : Nord-Kivu & Sud-Kivu\nPortions : 6\nPréparation : 5 min\nCuisson : 20 min\n\n## Ingrédients\n- 500 g de farine fine de maïs blanc\n- 1,2 l d’eau\n- 1 pincée de sel, facultative\n\n## Préparation\n1. Porter environ un litre d’eau à ébullition dans une marmite à fond épais.\n2. Délayer une partie de la farine dans l’eau froide restante, verser dans la marmite en remuant.\n3. Laisser épaissir quelques minutes.\n4. Ajouter le reste de farine progressivement en travaillant vivement.\n5. Continuer jusqu’à une pâte lisse qui se détache des parois.\n6. Former des portions et servir aussitôt avec sauce, poisson ou légumes.\n\nSource : https://mpichi.likeur.xyz/recettes/bugali-kivu/",
-    "recipe_id": "bugali-kivu"
-  },
-  {
-    "id": "bugali-kivu-recipe-en",
-    "lang": "en",
-    "task": "recipe_full",
-    "prompt": "Give the full recipe for the Congolese dish \"Bugali\" (Democratic Republic of the Congo).",
-    "completion": "# Bugali\n\nBugali recipe: maize flour worked with hot water into a firm paste — staple side in Kivu (cousin of Katanga bukari and East African ugali).\n\nRegion: Nord-Kivu & Sud-Kivu\nServings: 6\nPrep: 5 min\nCook: 20 min\n\n## Ingredients\n- 500 g fine white maize flour\n- 1.2 l water\n- 1 pinch of salt, optional\n\n## Steps\n1. Bring about a litre of water to a boil in a heavy pot.\n2. Slake some flour in the remaining cold water, pour into the pot while stirring.\n3. Thicken for a few minutes.\n4. Add the rest of the flour gradually, working vigorously.\n5. Continue until a smooth paste pulls from the sides.\n6. Shape portions and serve at once with sauce, fish or greens.\n\nSource: https://mpichi.likeur.xyz/en/recettes/bugali-kivu/",
-    "recipe_id": "bugali-kivu"
-  },
-  {
-    "id": "bugali-kivu-ingredients-fr",
-    "lang": "fr",
-    "task": "list_ingredients",
-    "prompt": "Quels sont les ingrédients pour préparer Bugali ?",
-    "completion": "- 500 g de farine fine de maïs blanc\n- 1,2 l d’eau\n- 1 pincée de sel, facultative",
-    "recipe_id": "bugali-kivu"
-  },
-  {
-    "id": "bugali-kivu-region-fr",
-    "lang": "fr",
-    "task": "region_context",
-    "prompt": "D'où vient le plat Bugali en RDC ?",
-    "completion": "Bugali est associé à la région / zone : Nord-Kivu & Sud-Kivu. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/bugali-kivu/",
-    "recipe_id": "bugali-kivu"
-  },
-  {
-    "id": "bugali-kivu-aliases-fr",
-    "lang": "fr",
-    "task": "aliases",
-    "prompt": "Quels autres noms connaît-on pour Bugali ?",
-    "completion": "Bugali peut aussi être appelé : bugali, ugali, fufu maïs, Kivu, accompagnement.",
-    "recipe_id": "bugali-kivu"
   },
   {
     "id": "bukari-katanga-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
     "prompt": "Donne la recette complète du plat congolais « Bukari » (République démocratique du Congo).",
-    "completion": "# Bukari\n\nRecette de bukari : pâte de farine de maïs travaillée à chaud jusqu’à devenir lisse et dense — accompagnement central du Grand Katanga (Lubumbashi).\n\nRégion : Grand Katanga\nPortions : 6\nPréparation : 5 min\nCuisson : 20 min\n\n## Ingrédients\n- 500 g de farine fine de maïs blanc\n- 1,2 l d’eau\n- 1 pincée de sel, facultative\n\n## Préparation\n1. Porter environ un litre d’eau à ébullition dans une marmite à fond épais.\n2. Délayer une petite partie de la farine dans l’eau restante, puis verser ce mélange dans la marmite.\n3. Remuer jusqu’à obtenir une bouillie homogène et laisser frémir quelques minutes.\n4. Ajouter progressivement le reste de farine tout en travaillant vivement avec une cuillère solide.\n5. Continuer à retourner et écraser la pâte contre les parois jusqu’à ce qu’elle soit lisse et se détache de la marmite.\n6. Façonner en portions avec une louche mouillée et servir immédiatement.\n\nSource : https://mpichi.likeur.xyz/recettes/bukari-katanga/",
+    "completion": "# Bukari\n\nRecette de bukari (aussi bugali, bidia) : pâte de farine de maïs travaillée à chaud jusqu’à devenir lisse et dense — accompagnement central à l’Est et au Sud de la RDC.\n\nRégion : Grand Katanga\nPortions : 6\nPréparation : 5 min\nCuisson : 20 min\n\n## Ingrédients\n- 500 g de farine fine de maïs blanc\n- 1,2 l d’eau\n- 1 pincée de sel, facultative\n\n## Préparation\n1. Porter environ un litre d’eau à ébullition dans une marmite à fond épais.\n2. Délayer une petite partie de la farine dans l’eau restante, puis verser ce mélange dans la marmite.\n3. Remuer jusqu’à obtenir une bouillie homogène et laisser frémir quelques minutes.\n4. Ajouter progressivement le reste de farine tout en travaillant vivement avec une cuillère solide.\n5. Continuer à retourner et écraser la pâte contre les parois jusqu’à ce qu’elle soit lisse et se détache de la marmite.\n6. Façonner en portions avec une louche mouillée et servir immédiatement.\n\nSource : https://mpichi.likeur.xyz/recettes/bukari-katanga/",
     "recipe_id": "bukari-katanga"
   },
   {
@@ -572,7 +532,7 @@
     "lang": "en",
     "task": "recipe_full",
     "prompt": "Give the full recipe for the Congolese dish \"Bukari\" (Democratic Republic of the Congo).",
-    "completion": "# Bukari\n\nBukari recipe: hot-worked maize flour dough until smooth and dense—the central starch of Greater Katanga (Lubumbashi).\n\nRegion: Grand Katanga\nServings: 6\nPrep: 5 min\nCook: 20 min\n\n## Ingredients\n- 500 g fine white maize flour\n- 1.2 l water\n- 1 pinch of salt, optional\n\n## Steps\n1. Bring about one litre of water to a boil in a heavy-bottomed pot.\n2. Loosen a little of the flour in the remaining water, then pour the mixture into the pot.\n3. Stir until you have a smooth porridge and let it simmer for a few minutes.\n4. Add the rest of the flour gradually while working vigorously with a sturdy spoon.\n5. Keep turning and pressing the dough against the sides until it is smooth and pulls away from the pot.\n6. Shape portions with a wet ladle and serve immediately.\n\nSource: https://mpichi.likeur.xyz/en/recettes/bukari-katanga/",
+    "completion": "# Bukari\n\nBukari recipe (also bugali, bidia): hot-worked maize flour dough until smooth and dense — central starch in eastern and southern DRC.\n\nRegion: Grand Katanga\nServings: 6\nPrep: 5 min\nCook: 20 min\n\n## Ingredients\n- 500 g fine white maize flour\n- 1.2 l water\n- 1 pinch of salt, optional\n\n## Steps\n1. Bring about one litre of water to a boil in a heavy-bottomed pot.\n2. Loosen a little of the flour in the remaining water, then pour the mixture into the pot.\n3. Stir until you have a smooth porridge and let it simmer for a few minutes.\n4. Add the rest of the flour gradually while working vigorously with a sturdy spoon.\n5. Keep turning and pressing the dough against the sides until it is smooth and pulls away from the pot.\n6. Shape portions with a wet ladle and serve immediately.\n\nSource: https://mpichi.likeur.xyz/en/recettes/bukari-katanga/",
     "recipe_id": "bukari-katanga"
   },
   {
@@ -596,7 +556,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Bukari ?",
-    "completion": "Bukari peut aussi être appelé : bidia, fufu de maïs, fufu, bukari, fufu maïs, Grand Katanga, Lubumbashi.",
+    "completion": "Bukari peut aussi être appelé : bugali, ugali, bidia, fufu de maïs, fufu, nshima, bukari, fufu maïs, Grand Katanga, Kivu.",
     "recipe_id": "bukari-katanga"
   },
   {
@@ -756,7 +716,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Chou mijoté de l’Est ?",
-    "completion": "Chou mijoté de l’Est peut aussi être appelé : chou, légumes, Kivu, Est, accompagnement.",
+    "completion": "Chou mijoté de l’Est peut aussi être appelé : cabbage stew, sukuma ya chou, chou, légumes, Kivu, Est, accompagnement.",
     "recipe_id": "chou-mijote-est"
   },
   {
@@ -796,7 +756,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Courge en sauce ?",
-    "completion": "Courge en sauce peut aussi être appelé : courge, potiron, sauce tomate, légumes.",
+    "completion": "Courge en sauce peut aussi être appelé : courge, pumpkin stew, potiron, sauce tomate, légumes.",
     "recipe_id": "courge-sauce"
   },
   {
@@ -836,7 +796,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Croquettes de manioc ?",
-    "completion": "Croquettes de manioc peut aussi être appelé : manioc, friture, croquettes.",
+    "completion": "Croquettes de manioc peut aussi être appelé : croquettes ya sango, cassava croquettes, manioc, friture, croquettes.",
     "recipe_id": "croquettes-manioc"
   },
   {
@@ -916,7 +876,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Escargots à la congolaise ?",
-    "completion": "Escargots à la congolaise peut aussi être appelé : escargots, piment, mijoté.",
+    "completion": "Escargots à la congolaise peut aussi être appelé : mbembe, escargots, piment, mijoté.",
     "recipe_id": "escargots-congolaise"
   },
   {
@@ -956,7 +916,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Foie de bœuf sauté ?",
-    "completion": "Foie de bœuf sauté peut aussi être appelé : foie, bœuf, poêle, cuisine de rue, Kinshasa.",
+    "completion": "Foie de bœuf sauté peut aussi être appelé : libolo ya ngombe, foie sauté, foie, bœuf, poêle, cuisine de rue, Kinshasa.",
     "recipe_id": "foie-boeuf-saute"
   },
   {
@@ -996,7 +956,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Fufu de manioc ?",
-    "completion": "Fufu de manioc peut aussi être appelé : fufu, fufu manioc, farine de manioc, accompagnement, quotidien.",
+    "completion": "Fufu de manioc peut aussi être appelé : fufu, foufou, fufu ya sango, cassava fufu, fufu manioc, farine de manioc, accompagnement, quotidien.",
     "recipe_id": "fufu-manioc"
   },
   {
@@ -1076,7 +1036,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Gâteau au manioc ?",
-    "completion": "Gâteau au manioc peut aussi être appelé : manioc, gâteau, dessert, goûter.",
+    "completion": "Gâteau au manioc peut aussi être appelé : gâteau ya sango, cassava cake, manioc, gâteau, dessert, goûter.",
     "recipe_id": "gateau-manioc"
   },
   {
@@ -1116,7 +1076,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Maharage aux tomates ?",
-    "completion": "Maharage aux tomates peut aussi être appelé : maharage, haricots, Kivu, Est.",
+    "completion": "Maharage aux tomates peut aussi être appelé : maharage, mahargwe, haricots rouges, haricots, Kivu, Est.",
     "recipe_id": "haricots-maharage"
   },
   {
@@ -1156,7 +1116,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Haricots à la nguba ?",
-    "completion": "Haricots à la nguba peut aussi être appelé : haricots, nguba, arachides, Kasaï, bidia.",
+    "completion": "Haricots à la nguba peut aussi être appelé : madesu ya nguba, haricots arachide, haricots, nguba, arachides, Kasaï, bidia.",
     "recipe_id": "haricots-nguba-kasai"
   },
   {
@@ -1236,7 +1196,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Igname bouillie ?",
-    "completion": "Igname bouillie peut aussi être appelé : igname, tubercule, bouilli, accompagnement, simple.",
+    "completion": "Igname bouillie peut aussi être appelé : igname, yam, tubercule, bouilli, accompagnement, simple.",
     "recipe_id": "igname-bouillie"
   },
   {
@@ -1276,7 +1236,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Jus d’ananas ?",
-    "completion": "Jus d’ananas peut aussi être appelé : ananas, jus, fruit, boisson.",
+    "completion": "Jus d’ananas peut aussi être appelé : mai ya ananas, pineapple juice, ananas, jus, fruit, boisson.",
     "recipe_id": "jus-ananas"
   },
   {
@@ -1316,7 +1276,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Jus de bissap ?",
-    "completion": "Jus de bissap peut aussi être appelé : bissap, hibiscus, jus, boisson.",
+    "completion": "Jus de bissap peut aussi être appelé : bissap, zobo, jus ya hibiscus, hibiscus, jus, boisson.",
     "recipe_id": "jus-bissap"
   },
   {
@@ -1356,7 +1316,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Jus de mangue ?",
-    "completion": "Jus de mangue peut aussi être appelé : mangue, jus, fruit, boisson, saison.",
+    "completion": "Jus de mangue peut aussi être appelé : mai ya manga, mango juice, mangue, jus, fruit, boisson, saison.",
     "recipe_id": "jus-mangue"
   },
   {
@@ -1396,7 +1356,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Jus de fruit de la passion ?",
-    "completion": "Jus de fruit de la passion peut aussi être appelé : passion, jus, fruit, boisson.",
+    "completion": "Jus de fruit de la passion peut aussi être appelé : jus ya passion, passion fruit juice, passion, jus, fruit, boisson.",
     "recipe_id": "jus-passion"
   },
   {
@@ -1436,7 +1396,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Jus de safou ?",
-    "completion": "Jus de safou peut aussi être appelé : safou, nsafu, jus, saison, boisson.",
+    "completion": "Jus de safou peut aussi être appelé : nsafu, safou, bush butter fruit, jus, saison, boisson.",
     "recipe_id": "jus-safou"
   },
   {
@@ -1516,7 +1476,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Kamundele ?",
-    "completion": "Kamundele peut aussi être appelé : kamundele, brochettes, street food kinshasa, bœuf, grillade.",
+    "completion": "Kamundele peut aussi être appelé : brochettes de bœuf, mishikaki, kamundele, brochettes, street food kinshasa, bœuf, grillade.",
     "recipe_id": "kamundele"
   },
   {
@@ -1556,7 +1516,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Kapenta aux tomates ?",
-    "completion": "Kapenta aux tomates peut aussi être appelé : kapenta, Haut-Katanga, Tanganyika.",
+    "completion": "Kapenta aux tomates peut aussi être appelé : kapenta, dagaa, Haut-Katanga, Tanganyika.",
     "recipe_id": "kapenta-tomates"
   },
   {
@@ -1596,7 +1556,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Kossa-kossa ?",
-    "completion": "Kossa-kossa peut aussi être appelé : crevettes, séché, sauce.",
+    "completion": "Kossa-kossa peut aussi être appelé : crevettes séchées, kossa, crevettes, séché, sauce.",
     "recipe_id": "kossa-kossa"
   },
   {
@@ -1636,7 +1596,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Liboke de poisson ?",
-    "completion": "Liboke de poisson peut aussi être appelé : liboké, en papillote congolaise, liboke, maboke, feuille de bananier, vapeur.",
+    "completion": "Liboke de poisson peut aussi être appelé : liboké, maboke, en papillote congolaise, liboke ya mbisi, liboke, feuille de bananier, vapeur.",
     "recipe_id": "liboke-poisson"
   },
   {
@@ -1676,7 +1636,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Liboke de viande ?",
-    "completion": "Liboke de viande peut aussi être appelé : feuille de bananier, vapeur, liboke.",
+    "completion": "Liboke de viande peut aussi être appelé : liboké ya ngulu, maboke, feuille de bananier, vapeur, liboke.",
     "recipe_id": "liboke-viande"
   },
   {
@@ -1716,7 +1676,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Lituma ?",
-    "completion": "Lituma peut aussi être appelé : lituma, plantain pilé, plantain, Équateur, accompagnement.",
+    "completion": "Lituma peut aussi être appelé : plantain pilé, fufu ya makemba, lituma, plantain, Équateur, accompagnement.",
     "recipe_id": "lituma"
   },
   {
@@ -1796,7 +1756,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Loso na madesu ?",
-    "completion": "Loso na madesu peut aussi être appelé : loso na madesu, riz haricots, madesu, Kinshasa, quotidien.",
+    "completion": "Loso na madesu peut aussi être appelé : riz aux haricots, loso na madesu, rice and beans, riz haricots, madesu, Kinshasa, quotidien.",
     "recipe_id": "loso-na-madesu"
   },
   {
@@ -1836,7 +1796,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Loso na petits pois ?",
-    "completion": "Loso na petits pois peut aussi être appelé : riz, petits pois, loso.",
+    "completion": "Loso na petits pois peut aussi être appelé : riz aux petits pois, loso na pois, riz, petits pois, loso.",
     "recipe_id": "loso-petits-pois"
   },
   {
@@ -1876,7 +1836,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Loso ya sauce ?",
-    "completion": "Loso ya sauce peut aussi être appelé : loso, riz, Katanga, Lubumbashi, sauce tomate.",
+    "completion": "Loso ya sauce peut aussi être appelé : riz sauce tomate, loso ya sauce, wali na mchuzi, loso, riz, Katanga, Lubumbashi, sauce tomate.",
     "recipe_id": "loso-sauce-katanga"
   },
   {
@@ -1916,7 +1876,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Madesu ?",
-    "completion": "Madesu peut aussi être appelé : madesu, haricots congolais, haricots, quotidien.",
+    "completion": "Madesu peut aussi être appelé : haricots, madesu, beans, haricots congolais, quotidien.",
     "recipe_id": "madesu"
   },
   {
@@ -1956,7 +1916,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Makayabu aux tomates ?",
-    "completion": "Makayabu aux tomates peut aussi être appelé : makayabu, poisson salé, oignon, morue.",
+    "completion": "Makayabu aux tomates peut aussi être appelé : poisson salé, morue salée, makayabu, oignon, morue.",
     "recipe_id": "makayabu"
   },
   {
@@ -2076,7 +2036,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Makoso ?",
-    "completion": "Makoso peut aussi être appelé : makoso, pieds de porc, pepper soup, Kinshasa, fête.",
+    "completion": "Makoso peut aussi être appelé : pieds de porc, makosso, makoso, pepper soup, Kinshasa, fête.",
     "recipe_id": "makoso"
   },
   {
@@ -2116,7 +2076,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Makosso aux pommes de terre ?",
-    "completion": "Makosso aux pommes de terre peut aussi être appelé : makosso, pieds de porc, pommes de terre, Kasaï, mijoté.",
+    "completion": "Makosso aux pommes de terre peut aussi être appelé : makoso, pieds de porc aux pommes de terre, makosso, pieds de porc, pommes de terre, Kasaï, mijoté.",
     "recipe_id": "makosso-pommes"
   },
   {
@@ -2156,7 +2116,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Manioc grillé ?",
-    "completion": "Manioc grillé peut aussi être appelé : manioc, braises, accompagnement.",
+    "completion": "Manioc grillé peut aussi être appelé : sango ya kotumba, manioc braisé, manioc, braises, accompagnement.",
     "recipe_id": "manioc-grille"
   },
   {
@@ -2196,7 +2156,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Matembele aux arachides ?",
-    "completion": "Matembele aux arachides peut aussi être appelé : matembele, feuilles de patate douce, arachides, Grand Katanga, Lubumbashi.",
+    "completion": "Matembele aux arachides peut aussi être appelé : matembele, feuilles de patate douce, sweet potato leaves, arachides, Grand Katanga, Lubumbashi.",
     "recipe_id": "matembele-katanga"
   },
   {
@@ -2236,7 +2196,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mayebo aux tomates ?",
-    "completion": "Mayebo aux tomates peut aussi être appelé : champignons, forêt.",
+    "completion": "Mayebo aux tomates peut aussi être appelé : champignons de forêt, mayebo, champignons, forêt.",
     "recipe_id": "mayebo"
   },
   {
@@ -2316,7 +2276,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mbala grillée ?",
-    "completion": "Mbala grillée peut aussi être appelé : mbala, patate douce, grillé, Kasaï, tubercule.",
+    "completion": "Mbala grillée peut aussi être appelé : patate douce grillée, mbala ya kotumba, mbala, patate douce, grillé, Kasaï, tubercule.",
     "recipe_id": "mbala-grillee"
   },
   {
@@ -2356,7 +2316,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mbika ?",
-    "completion": "Mbika peut aussi être appelé : graines de courge, papillote, mbika.",
+    "completion": "Mbika peut aussi être appelé : graines de courge, egusi, mbika, papillote.",
     "recipe_id": "mbika"
   },
   {
@@ -2396,7 +2356,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mbinzo grillées ?",
-    "completion": "Mbinzo grillées peut aussi être appelé : mbinzo, chenilles, Kasaï, protéines, saison.",
+    "completion": "Mbinzo grillées peut aussi être appelé : chenilles grillées, mbinzo, ngala, chenilles, Kasaï, protéines, saison.",
     "recipe_id": "mbinzo-grillees"
   },
   {
@@ -2436,7 +2396,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mbinzo aux tomates ?",
-    "completion": "Mbinzo aux tomates peut aussi être appelé : chenilles, Bandundu.",
+    "completion": "Mbinzo aux tomates peut aussi être appelé : chenilles, mbinzo, minzo, Bandundu.",
     "recipe_id": "mbinzo-tomates"
   },
   {
@@ -2476,7 +2436,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mbisi ya kokalinga ?",
-    "completion": "Mbisi ya kokalinga peut aussi être appelé : friture, fleuve, Kinshasa.",
+    "completion": "Mbisi ya kokalinga peut aussi être appelé : poisson frit, mbisi ya kokalinga, fried fish, friture, fleuve, Kinshasa.",
     "recipe_id": "mbisi-ya-kokalinga"
   },
   {
@@ -2556,7 +2516,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mikila ?",
-    "completion": "Mikila peut aussi être appelé : mikila, queue de bœuf, oxtail, sauce tomate, fête.",
+    "completion": "Mikila peut aussi être appelé : queue de bœuf, oxtail, mikila, sauce tomate, fête.",
     "recipe_id": "mikila"
   },
   {
@@ -2636,7 +2596,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Poulet à la moambe ?",
-    "completion": "Poulet à la moambe peut aussi être appelé : poulet à la moambe, mwambe, muamba, moambe, poulet moambe, mwamba, noix de palme, fête.",
+    "completion": "Poulet à la moambe peut aussi être appelé : poulet à la moambe, mwambe, mwamba, muamba, soso ya mwambe, moambe, poulet moambe, noix de palme, fête.",
     "recipe_id": "moambe-poulet"
   },
   {
@@ -2676,7 +2636,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mujibujibu ?",
-    "completion": "Mujibujibu peut aussi être appelé : Kasaï, feuilles de courge, arachides, poisson fumé.",
+    "completion": "Mujibujibu peut aussi être appelé : feuilles de courge, mujibujibu, Kasaï, arachides, poisson fumé.",
     "recipe_id": "mujibujibu"
   },
   {
@@ -2716,7 +2676,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mukeke grillé ?",
-    "completion": "Mukeke grillé peut aussi être appelé : mukeke, Tanganyika, poisson grillé, Est, Kalemie.",
+    "completion": "Mukeke grillé peut aussi être appelé : mukeke, poisson du Tanganyika, Tanganyika, poisson grillé, Est, Kalemie.",
     "recipe_id": "mukeke-grille"
   },
   {
@@ -2756,7 +2716,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Munkoyo ?",
-    "completion": "Munkoyo peut aussi être appelé : maïs, fermentation, boisson, Haut-Katanga.",
+    "completion": "Munkoyo peut aussi être appelé : munkoyo, boisson de maïs fermenté, maïs, fermentation, boisson, Haut-Katanga.",
     "recipe_id": "munkoyo"
   },
   {
@@ -2796,7 +2756,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Ndagala aux tomates ?",
-    "completion": "Ndagala aux tomates peut aussi être appelé : ndagala, Kivu, petits poissons, Est.",
+    "completion": "Ndagala aux tomates peut aussi être appelé : ndagala, petits poissons du Kivu, Kivu, petits poissons, Est.",
     "recipe_id": "ndagala-tomates"
   },
   {
@@ -2876,7 +2836,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Ngai-ngai au poisson fumé ?",
-    "completion": "Ngai-ngai au poisson fumé peut aussi être appelé : ngai-ngai, oseille, oseille de Guinée, poisson fumé.",
+    "completion": "Ngai-ngai au poisson fumé peut aussi être appelé : oseille, oseille de Guinée, ngai-ngai, hibiscus leaves, poisson fumé.",
     "recipe_id": "ngai-ngai"
   },
   {
@@ -2956,7 +2916,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Nsafu grillés ?",
-    "completion": "Nsafu grillés peut aussi être appelé : nsafu, safou, grillé.",
+    "completion": "Nsafu grillés peut aussi être appelé : safou grillé, nsafu, safou, grillé.",
     "recipe_id": "nsafu-grilles"
   },
   {
@@ -2996,7 +2956,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Ntaba (chèvre grillée) ?",
-    "completion": "Ntaba (chèvre grillée) peut aussi être appelé : chèvre grillée, ntaba, chèvre, grillade, Kinshasa.",
+    "completion": "Ntaba (chèvre grillée) peut aussi être appelé : chèvre grillée, ntaba ya kotumba, mbuzi, ntaba, chèvre, grillade, Kinshasa.",
     "recipe_id": "ntaba"
   },
   {
@@ -3036,7 +2996,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Ntaba mijotée ?",
-    "completion": "Ntaba mijotée peut aussi être appelé : ntaba, chèvre, Kasaï, sauce, bidia.",
+    "completion": "Ntaba mijotée peut aussi être appelé : chèvre en sauce, ntaba ya sauce, ntaba, chèvre, Kasaï, sauce, bidia.",
     "recipe_id": "ntaba-mijotee-kasai"
   },
   {
@@ -3076,7 +3036,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Ntaba en sauce ?",
-    "completion": "Ntaba en sauce peut aussi être appelé : chèvre, sauce, mijoté, ntaba.",
+    "completion": "Ntaba en sauce peut aussi être appelé : chèvre mijotée, ntaba ya sauce, chèvre, sauce, mijoté, ntaba.",
     "recipe_id": "ntaba-sauce"
   },
   {
@@ -3116,7 +3076,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Pain mayonnaise ?",
-    "completion": "Pain mayonnaise peut aussi être appelé : pain mayonnaise, sandwich, street food, Kinshasa, mayonnaise.",
+    "completion": "Pain mayonnaise peut aussi être appelé : sandwich mayonnaise, pain mayo, pain mayonnaise, sandwich, street food, Kinshasa, mayonnaise.",
     "recipe_id": "pain-mayonnaise"
   },
   {
@@ -3156,7 +3116,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Pepe soupe ya ngolo ?",
-    "completion": "Pepe soupe ya ngolo peut aussi être appelé : pepe soupe, ngolo, poisson-chat, soupe, Kinshasa.",
+    "completion": "Pepe soupe ya ngolo peut aussi être appelé : pepe soup, soupe de poisson-chat, ngolo, pepe soupe, poisson-chat, soupe, Kinshasa.",
     "recipe_id": "pepe-soupe-ya-ngolo"
   },
   {
@@ -3196,7 +3156,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Pilau du Kivu ?",
-    "completion": "Pilau du Kivu peut aussi être appelé : pilau, pilaw, riz, Kivu, épices.",
+    "completion": "Pilau du Kivu peut aussi être appelé : pilaw, pilau, riz épicé, riz, Kivu, épices.",
     "recipe_id": "pilau-kivu"
   },
   {
@@ -3236,7 +3196,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Plantains à la vapeur ?",
-    "completion": "Plantains à la vapeur peut aussi être appelé : plantains vapeur, plantain, vapeur, accompagnement, rapide.",
+    "completion": "Plantains à la vapeur peut aussi être appelé : makemba ya vapeur, steamed plantains, plantains vapeur, plantain, vapeur, accompagnement, rapide.",
     "recipe_id": "plantains-vapeur"
   },
   {
@@ -3276,7 +3236,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Poisson braisé ?",
-    "completion": "Poisson braisé peut aussi être appelé : poisson braisé, Kinkole, Kinshasa, grill, pili-pili.",
+    "completion": "Poisson braisé peut aussi être appelé : mbisi ya kotumba, poisson braisé, Kinkole, Kinshasa, grill, pili-pili.",
     "recipe_id": "poisson-braise-kinkole"
   },
   {
@@ -3316,7 +3276,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Poisson fumé au bidia ?",
-    "completion": "Poisson fumé au bidia peut aussi être appelé : poisson fumé, bidia, Kasaï, conserve.",
+    "completion": "Poisson fumé au bidia peut aussi être appelé : mbisi ya fumé, poisson fumé, bidia, Kasaï, conserve.",
     "recipe_id": "poisson-fume-bidia"
   },
   {
@@ -3356,7 +3316,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Poisson fumé aux tomates ?",
-    "completion": "Poisson fumé aux tomates peut aussi être appelé : poisson fumé, fleuve Congo, quotidien, sauce.",
+    "completion": "Poisson fumé aux tomates peut aussi être appelé : mbisi ya fumé, smoked fish stew, poisson fumé, fleuve Congo, quotidien, sauce.",
     "recipe_id": "poisson-fume-tomates"
   },
   {
@@ -3396,7 +3356,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Poisson du Kivu grillé ?",
-    "completion": "Poisson du Kivu grillé peut aussi être appelé : lac Kivu, poisson grillé, Est, braise, Goma.",
+    "completion": "Poisson du Kivu grillé peut aussi être appelé : samaki wa kuchoma, poisson grillé, lac Kivu, Est, braise, Goma.",
     "recipe_id": "poisson-kivu-grille"
   },
   {
@@ -3436,7 +3396,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Poisson mayo ?",
-    "completion": "Poisson mayo peut aussi être appelé : poisson mayo, mayonnaise, street food, Kinshasa, frit.",
+    "completion": "Poisson mayo peut aussi être appelé : mbisi ya mayonnaise, poisson mayonnaise, poisson mayo, mayonnaise, street food, Kinshasa, frit.",
     "recipe_id": "poisson-mayo"
   },
   {
@@ -3476,7 +3436,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Poisson à la moambe ?",
-    "completion": "Poisson à la moambe peut aussi être appelé : moambe, noix de palme, fête.",
+    "completion": "Poisson à la moambe peut aussi être appelé : mbisi ya mwambe, poisson moambe, moambe, noix de palme, fête.",
     "recipe_id": "poisson-moambe"
   },
   {
@@ -3516,7 +3476,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Pommes de terre sautées ?",
-    "completion": "Pommes de terre sautées peut aussi être appelé : pommes de terre, Katanga, Lubumbashi, accompagnement.",
+    "completion": "Pommes de terre sautées peut aussi être appelé : pommes de terre, viazi, Katanga, Lubumbashi, accompagnement.",
     "recipe_id": "pommes-sautees-katanga"
   },
   {
@@ -3556,7 +3516,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Pondu (saka-saka) ?",
-    "completion": "Pondu (saka-saka) peut aussi être appelé : saka-saka, sombe, pondu, feuilles de manioc.",
+    "completion": "Pondu (saka-saka) peut aussi être appelé : saka-saka, sombe, feuilles de manioc, pondu.",
     "recipe_id": "pondu"
   },
   {
@@ -3596,7 +3556,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Porc braisé ?",
-    "completion": "Porc braisé peut aussi être appelé : porc, braise, grillade, Kinshasa.",
+    "completion": "Porc braisé peut aussi être appelé : ngulu ya kotumba, porc grillé, porc, braise, grillade, Kinshasa.",
     "recipe_id": "porc-braise"
   },
   {
@@ -3636,7 +3596,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Poulet mayo ?",
-    "completion": "Poulet mayo peut aussi être appelé : poulet mayo, mayonnaise, poulet, Kinshasa, fête.",
+    "completion": "Poulet mayo peut aussi être appelé : soso ya mayonnaise, poulet mayonnaise, poulet mayo, mayonnaise, poulet, Kinshasa, fête.",
     "recipe_id": "poulet-mayo"
   },
   {
@@ -3676,7 +3636,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Poulet pané ?",
-    "completion": "Poulet pané peut aussi être appelé : poulet pané, frit, street food, Kinshasa, croustillant.",
+    "completion": "Poulet pané peut aussi être appelé : soso ya pané, poulet pané, frit, street food, Kinshasa, croustillant.",
     "recipe_id": "poulet-pane"
   },
   {
@@ -3716,7 +3676,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Riz à la moambe ?",
-    "completion": "Riz à la moambe peut aussi être appelé : riz, moambe, noix de palme, accompagnement.",
+    "completion": "Riz à la moambe peut aussi être appelé : loso ya mwambe, riz moambe, riz, moambe, noix de palme, accompagnement.",
     "recipe_id": "riz-moambe"
   },
   {
@@ -3756,7 +3716,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Saka-madesu ?",
-    "completion": "Saka-madesu peut aussi être appelé : saka-madesu, pondu, haricots, feuilles de manioc.",
+    "completion": "Saka-madesu peut aussi être appelé : pondu na madesu, saka-saka aux haricots, saka-madesu, pondu, haricots, feuilles de manioc.",
     "recipe_id": "saka-madesu"
   },
   {
@@ -3796,7 +3756,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Salade chou-carotte ?",
-    "completion": "Salade chou-carotte peut aussi être appelé : Kisangani, chou, carotte.",
+    "completion": "Salade chou-carotte peut aussi être appelé : salade chou-carotte, salade ya Kisangani, Kisangani, chou, carotte.",
     "recipe_id": "salade-kisangani"
   },
   {
@@ -3836,7 +3796,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Sambaza aux tomates ?",
-    "completion": "Sambaza aux tomates peut aussi être appelé : sambaza, Tanganyika, petits poissons, Est.",
+    "completion": "Sambaza aux tomates peut aussi être appelé : sambaza, petits poissons, Tanganyika, Est.",
     "recipe_id": "sambaza"
   },
   {
@@ -3876,7 +3836,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Sambousa aux pommes de terre ?",
-    "completion": "Sambousa aux pommes de terre peut aussi être appelé : sambousa, samosa, pommes de terre, Goma, street food.",
+    "completion": "Sambousa aux pommes de terre peut aussi être appelé : samosa, sambusa, chaussons aux pommes de terre, sambousa, pommes de terre, Goma, street food.",
     "recipe_id": "sambousa-pommes"
   },
   {
@@ -3956,7 +3916,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Sauce gombo ?",
-    "completion": "Sauce gombo peut aussi être appelé : gombo, okra, sauce.",
+    "completion": "Sauce gombo peut aussi être appelé : gombo, okra, dongo-dongo, sauce.",
     "recipe_id": "sauce-gombo"
   },
   {
@@ -3996,7 +3956,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Sauce pili-pili ?",
-    "completion": "Sauce pili-pili peut aussi être appelé : pili-pili, sauce piment, condiment, grillade, piment.",
+    "completion": "Sauce pili-pili peut aussi être appelé : pili-pili, piment, hot sauce, sauce piment, condiment, grillade.",
     "recipe_id": "sauce-pili-pili"
   },
   {
@@ -4036,7 +3996,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Saucisse-frites ?",
-    "completion": "Saucisse-frites peut aussi être appelé : saucisse, frites, street food, Kinshasa, snack.",
+    "completion": "Saucisse-frites peut aussi être appelé : saucisse frites, sausage and fries, saucisse, frites, street food, Kinshasa, snack.",
     "recipe_id": "saucisse-frites"
   },
   {
@@ -4076,7 +4036,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Sombe ?",
-    "completion": "Sombe peut aussi être appelé : sombe, feuilles de manioc, Katanga, Kivu.",
+    "completion": "Sombe peut aussi être appelé : pondu, saka-saka, sombe, feuilles de manioc, Katanga, Kivu.",
     "recipe_id": "sombe"
   },
   {
@@ -4116,7 +4076,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Soso ya lumba-lumba ?",
-    "completion": "Soso ya lumba-lumba peut aussi être appelé : Grand Kasaï, poulet, lumba-lumba, basilic.",
+    "completion": "Soso ya lumba-lumba peut aussi être appelé : tshiluabenyi, poulet au basilic africain, soso ya lumba-lumba, Grand Kasaï, poulet, lumba-lumba, basilic.",
     "recipe_id": "soso-lumba-lumba"
   },
   {
@@ -4156,7 +4116,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Soso ya kotumba ?",
-    "completion": "Soso ya kotumba peut aussi être appelé : soso ya kotumba, poulet grillé, braise, Kinshasa, street food.",
+    "completion": "Soso ya kotumba peut aussi être appelé : poulet grillé, soso ya kotumba, braise, Kinshasa, street food.",
     "recipe_id": "soso-ya-kotumba"
   },
   {
@@ -4196,7 +4156,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Soso ya sauce ?",
-    "completion": "Soso ya sauce peut aussi être appelé : poulet, Kinshasa.",
+    "completion": "Soso ya sauce peut aussi être appelé : poulet en sauce, soso ya sauce, poulet, Kinshasa.",
     "recipe_id": "soso-ya-sauce"
   },
   {
@@ -4236,7 +4196,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Sukuma ?",
-    "completion": "Sukuma peut aussi être appelé : sukuma, sukuma wiki, légumes, Kivu, Est.",
+    "completion": "Sukuma peut aussi être appelé : sukuma wiki, ndunda, sukuma, légumes, Kivu, Est.",
     "recipe_id": "sukuma-est"
   },
   {
@@ -4276,7 +4236,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Tangawisi ?",
-    "completion": "Tangawisi peut aussi être appelé : tangawisi, jus de gingembre, gingembre, boisson, Kinshasa.",
+    "completion": "Tangawisi peut aussi être appelé : jus de gingembre, tangawizi, ginger drink, tangawisi, gingembre, boisson, Kinshasa.",
     "recipe_id": "tangawisi"
   },
   {
@@ -4316,7 +4276,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Taro mijoté ?",
-    "completion": "Taro mijoté peut aussi être appelé : taro, malanga, tubercule, Cuvette, sauce tomate.",
+    "completion": "Taro mijoté peut aussi être appelé : malanga, taro, tubercule, Cuvette, sauce tomate.",
     "recipe_id": "taro-mijote"
   },
   {
@@ -4356,7 +4316,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Tilapia au bugali ?",
-    "completion": "Tilapia au bugali peut aussi être appelé : tilapia, bugali, Kivu, lac.",
+    "completion": "Tilapia au bugali peut aussi être appelé : tilapia na bugali, tilapia au bukari, tilapia, bugali, Kivu, lac.",
     "recipe_id": "tilapia-bugali"
   },
   {
@@ -4396,7 +4356,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Viande séchée aux tomates ?",
-    "completion": "Viande séchée aux tomates peut aussi être appelé : viande séchée, Katanga, conserve.",
+    "completion": "Viande séchée aux tomates peut aussi être appelé : viande séchée, biltong-style, Katanga, conserve.",
     "recipe_id": "viande-sechee-tomates"
   },
   {
@@ -4436,7 +4396,7 @@
     "lang": "fr",
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Viande ya sauce ?",
-    "completion": "Viande ya sauce peut aussi être appelé : bœuf, sauce, quotidien.",
+    "completion": "Viande ya sauce peut aussi être appelé : nyama ya sauce, bœuf en sauce, bœuf, sauce, quotidien.",
     "recipe_id": "viande-ya-sauce"
   },
   {
@@ -4491,24 +4451,24 @@
     "id": "region-list-6",
     "lang": "fr",
     "task": "region_list",
-    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Nord-Kivu & Sud-Kivu » ?",
-    "completion": "- Bugali\n- Chou mijoté de l’Est\n- Maharage aux tomates\n- Ndagala aux tomates\n- Pilau du Kivu\n- Poisson du Kivu grillé\n- Sambousa aux pommes de terre\n- Sukuma\n- Tilapia au bugali",
+    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & bassin du Congo » ?",
+    "completion": "- Capitaine braisé\n- Dongo-dongo\n- Kossa-kossa\n- Makayabu aux tomates\n- Missole\n- Poisson fumé aux tomates\n- Poisson à la moambe",
     "recipe_id": null
   },
   {
     "id": "region-list-7",
     "lang": "fr",
     "task": "region_list",
-    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & bassin du Congo » ?",
-    "completion": "- Capitaine braisé\n- Dongo-dongo\n- Kossa-kossa\n- Makayabu aux tomates\n- Missole\n- Poisson fumé aux tomates\n- Poisson à la moambe",
+    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Bassin du Congo » ?",
+    "completion": "- Chikwangue\n- Mbika",
     "recipe_id": null
   },
   {
     "id": "region-list-8",
     "lang": "fr",
     "task": "region_list",
-    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Bassin du Congo » ?",
-    "completion": "- Chikwangue\n- Mbika",
+    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Nord-Kivu & Sud-Kivu » ?",
+    "completion": "- Chou mijoté de l’Est\n- Maharage aux tomates\n- Ndagala aux tomates\n- Pilau du Kivu\n- Poisson du Kivu grillé\n- Sambousa aux pommes de terre\n- Sukuma\n- Tilapia au bugali",
     "recipe_id": null
   },
   {

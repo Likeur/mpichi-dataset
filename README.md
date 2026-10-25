@@ -33,13 +33,32 @@ data/
 schema/
   recipe.schema.json
 enrichment/
-  aliases.json           # curated linguistic aliases (ln, sw, …)
+  aliases.json           # curated linguistic aliases (ln, sw, kg, lua, …)
+  README.md              # alias schema + export merge rules
 scripts/
   export-from-mpichi.mjs
   validate.mjs
 ```
 
 Image **binaries are not shipped**. Records keep `image_url` + credits; respect third-party licenses (often Wikimedia).
+
+## Alias coverage (Lot 2)
+
+Curated names in `enrichment/aliases.json` aim for **≥70 %** of recipe slugs (v1.2.0: **100 %** of site slugs). Export merges curated rows first, then tag/title fallbacks (`lang: und`). See [enrichment/README.md](enrichment/README.md).
+
+Approximate **alias token** counts by `lang` (one name can appear on several dishes):
+
+| lang | Code | Approx. names |
+| --- | --- | --- |
+| French glosses | `fr` | ~100 |
+| Lingala | `ln` | ~70 |
+| English | `en` | ~40 |
+| Swahili | `sw` | ~30 |
+| Kikongo | `kg` | few |
+| Tshiluba | `lua` | few |
+| Portuguese | `pt` | rare |
+
+Coverage grows with PRs; wrong “local” inventions are worse than a missing alias.
 
 ## Quick start (Python)
 
@@ -135,7 +154,7 @@ Also see [CITATION.cff](CITATION.cff) and [DATASHEET.md](DATASHEET.md).
 ## Ethics & limitations
 
 - Recipes document **living practices**; quantities are starting points, not laboratory standards.
-- Regional names and aliases are incomplete; contributions welcome.
+- Regional names and aliases are curated best-effort (Lot 2); still incomplete for rare dialect forms — contributions welcome.
 - Do not present generated variants as verified tradition without human review.
 - Not medical or nutritional advice.
 
