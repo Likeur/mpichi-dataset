@@ -1,6 +1,6 @@
 {
   "name": "mpichi-dataset",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "private": false,
   "description": "Open bilingual dataset of Congolese (DRC) recipes from Mpichi \u2014 for research and local AI fine-tuning",
   "type": "module",

@@ -1,0 +1,58 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "cr": "http://mlcommons.org/croissant/",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "dct": "http://purl.org/dc/terms/",
+    "sc": "https://schema.org/"
+  },
+  "@type": "sc:Dataset",
+  "name": "mpichi-dataset",
+  "description": "Open bilingual (French / English) dataset of Congolese (DRC) recipes curated for Mpichi: culinary research, RAG, and local LLM fine-tuning.",
+  "url": "https://huggingface.co/datasets/likeur17/mpichi-dataset",
+  "sameAs": [
+    "https://github.com/Likeur/mpichi-dataset",
+    "https://mpichi.likeur.xyz"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {
+    "@type": "Person",
+    "name": "Jack Simba Wa Nkulu",
+    "email": "jacksimba28@gmail.com",
+    "url": "https://likeur.xyz"
+  },
+  "datePublished": "2026-10-25",
+  "version": "1.5.0",
+  "keywords": [
+    "Congo",
+    "DRC",
+    "recipes",
+    "French",
+    "English",
+    "NLP",
+    "LLM",
+    "RAG"
+  ],
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "name": "recipes.jsonl",
+      "contentUrl": "data/recipes.jsonl",
+      "encodingFormat": "application/jsonl"
+    },
+    {
+      "@type": "cr:FileObject",
+      "name": "instruction-pairs.jsonl",
+      "contentUrl": "data/instruction/pairs.jsonl",
+      "encodingFormat": "application/jsonl"
+    },
+    {
+      "@type": "cr:FileObject",
+      "name": "eval-qa.jsonl",
+      "contentUrl": "data/eval/qa.jsonl",
+      "encodingFormat": "application/jsonl"
+    }
+  ],
+  "citeAs": "Simba Wa Nkulu, Jack. (2026). Mpichi Dataset: An Open Bilingual Resource of Congolese (DRC) Recipes. https://huggingface.co/datasets/likeur17/mpichi-dataset"
+}

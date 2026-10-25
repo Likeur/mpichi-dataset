@@ -1,19 +1,23 @@
 cff-version: 1.2.0
-title: "Mpichi Dataset — Congolese (DRC) recipes"
+title: "Mpichi Dataset: An Open Bilingual Resource of Congolese (DRC) Recipes"
 message: "If you use this dataset, please cite it as below."
 type: dataset
 authors:
-  - family-names: Likeur
+  - family-names: "Simba Wa Nkulu"
+    given-names: Jack
+    email: jacksimba28@gmail.com
+    alias: Likeur
     website: https://likeur.xyz
 repository-code: https://github.com/Likeur/mpichi-dataset
 url: https://mpichi.likeur.xyz
 license: CC-BY-4.0
-version: 1.4.0
+version: 1.5.0
 date-released: "2026-10-25"
 abstract: >-
-  Bilingual (French / English) open dataset of Congolese recipes from the
-  Democratic Republic of the Congo, curated for Mpichi. Intended for culinary
-  research, NLP, and local LLM fine-tuning. Text under CC BY 4.0; scripts under MIT.
+  Open bilingual (French / English) dataset of Congolese (DRC) recipes from
+  Mpichi, with multilingual aliases, normalized regions, structured ingredients,
+  instruction pairs, an eval Q/A split, and a documented TF-IDF retrieval
+  baseline. Text under CC BY 4.0; scripts under MIT. Contact: jacksimba28@gmail.com.
 keywords:
   - Congo
   - DRC
@@ -21,6 +25,18 @@ keywords:
   - cuisine
   - French
   - English
+  - Lingala
+  - Swahili
   - LLM
   - fine-tuning
+  - RAG
   - open data
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Simba Wa Nkulu"
+      given-names: Jack
+  title: "Mpichi Dataset: An Open Bilingual Resource of Congolese (DRC) Recipes for Cultural NLP and Local LLM Adaptation"
+  year: 2026
+  url: https://github.com/Likeur/mpichi-dataset/blob/main/paper/mpichi-dataset-preprint.md
+  notes: "Preprint. Dataset: https://huggingface.co/datasets/likeur17/mpichi-dataset"

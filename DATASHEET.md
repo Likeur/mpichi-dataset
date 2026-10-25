@@ -8,7 +8,7 @@ Following the spirit of *Datasheets for Datasets* (Gebru et al.).
 To openly document Congolese (DRC) culinary heritage in a machine-readable, bilingual form usable by researchers and developers training or evaluating local language models.
 
 **Who created it?**  
-Likeur ([likeur.xyz](https://likeur.xyz)), as part of the [Mpichi](https://mpichi.likeur.xyz) editorial project.
+Jack Simba Wa Nkulu (Likeur, [likeur.xyz](https://likeur.xyz)), as part of the [Mpichi](https://mpichi.likeur.xyz) editorial project. Contact: `jacksimba28@gmail.com`.
 
 **Funding**  
 Independent / community project (no dedicated grant at v1.0.0).
@@ -68,7 +68,7 @@ Textual data: CC BY 4.0 (`LICENSE-DATA`). Scripts: MIT (`LICENSE`).
 ## Maintenance
 
 **Who will maintain it?**  
-Likeur / Mpichi maintainers.
+Jack Simba Wa Nkulu / Mpichi maintainers.
 
 **How can errors be reported?**  
 GitHub issues on the dataset or site repository; contact via likeur.xyz.

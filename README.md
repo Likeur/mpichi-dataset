@@ -160,15 +160,21 @@ Each recipe record includes:
 
 Full JSON Schema: [schema/recipe.schema.json](schema/recipe.schema.json).
 
+## Preprint (Lot 5)
+
+English technical note with **EN + FR abstracts**: [paper/mpichi-dataset-preprint.md](paper/mpichi-dataset-preprint.md).  
+Zenodo DOI checklist: [paper/ZENODO.md](paper/ZENODO.md). Croissant: [metadata/croissant.json](metadata/croissant.json).
+
 ## Citation
 
 ```bibtex
-@misc{mpichi_dataset_2026,
-  author       = {Likeur},
-  title        = {Mpichi Dataset — Congolese (DRC) recipes},
+@misc{simba_mpichi_dataset_2026,
+  author       = {Simba Wa Nkulu, Jack},
+  title        = {Mpichi Dataset: An Open Bilingual Resource of Congolese (DRC) Recipes},
   year         = {2026},
-  howpublished = {\url{https://github.com/Likeur/mpichi-dataset}},
-  note         = {CC BY 4.0. Companion site: https://mpichi.likeur.xyz}
+  howpublished = {\url{https://huggingface.co/datasets/likeur17/mpichi-dataset}},
+  note         = {CC BY 4.0. GitHub: https://github.com/Likeur/mpichi-dataset. Preprint: paper/mpichi-dataset-preprint.md},
+  email        = {jacksimba28@gmail.com}
 }
 ```
 
@@ -176,9 +182,9 @@ Also see [CITATION.cff](CITATION.cff) and [DATASHEET.md](DATASHEET.md).
 
 ## Attribution (required for the data)
 
-> Mpichi Dataset — Congolese recipes (DRC), by Likeur.  
+> Mpichi Dataset — Congolese recipes (DRC), by Jack Simba Wa Nkulu (Likeur).  
 > https://github.com/Likeur/mpichi-dataset · https://mpichi.likeur.xyz  
-> License: CC BY 4.0
+> License: CC BY 4.0 · Contact: jacksimba28@gmail.com
 
 ## Ethics & limitations
 

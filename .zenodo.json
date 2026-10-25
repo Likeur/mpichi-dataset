@@ -1,0 +1,48 @@
+{
+  "title": "Mpichi Dataset: An Open Bilingual Resource of Congolese (DRC) Recipes",
+  "description": "Open bilingual (French / English) dataset of curated Congolese (DRC) recipes from Mpichi: aliases, normalized regions, structured ingredients, instruction pairs, eval Q/A, and a TF-IDF retrieval baseline. Text under CC BY 4.0; scripts under MIT. Companion preprint in paper/mpichi-dataset-preprint.md.",
+  "creators": [
+    {
+      "name": "Simba Wa Nkulu, Jack",
+      "affiliation": "Independent researcher / Mpichi (likeur.xyz)",
+      "orcid": ""
+    }
+  ],
+  "keywords": [
+    "Congo",
+    "DRC",
+    "recipes",
+    "cuisine",
+    "French",
+    "English",
+    "Lingala",
+    "Swahili",
+    "NLP",
+    "LLM",
+    "fine-tuning",
+    "open data",
+    "RAG"
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Likeur/mpichi-dataset",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/likeur17/mpichi-dataset",
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://mpichi.likeur.xyz",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ],
+  "communities": [],
+  "version": "1.5.0"
+}

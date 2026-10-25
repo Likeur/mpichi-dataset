@@ -30,7 +30,7 @@ Bilingual open dataset of recipes from the **Democratic Republic of the Congo**,
 - **Repository:** https://github.com/Likeur/mpichi-dataset
 - **Hugging Face:** https://huggingface.co/datasets/likeur17/mpichi-dataset
 - **Paper:** N/A
-- **Point of Contact:** https://likeur.xyz
+- **Point of Contact:** Jack Simba Wa Nkulu · jacksimba28@gmail.com · https://likeur.xyz
 
 ### Dataset Summary
 
@@ -118,16 +118,19 @@ Exported from the Mpichi Astro content collection (`src/content/recettes/*.md`) 
 ### Citation Information
 
 ```bibtex
-@misc{mpichi_dataset_2026,
-  author       = {Likeur},
-  title        = {Mpichi Dataset — Congolese (DRC) recipes},
+@misc{simba_mpichi_dataset_2026,
+  author       = {Simba Wa Nkulu, Jack},
+  title        = {Mpichi Dataset: An Open Bilingual Resource of Congolese (DRC) Recipes},
   year         = {2026},
   howpublished = {\url{https://huggingface.co/datasets/likeur17/mpichi-dataset}},
-  note         = {CC BY 4.0. Also: https://github.com/Likeur/mpichi-dataset}
+  note         = {CC BY 4.0. Also: https://github.com/Likeur/mpichi-dataset. Preprint: paper/mpichi-dataset-preprint.md},
+  email        = {jacksimba28@gmail.com}
 }
 ```
 
+Preprint (EN body, EN+FR abstracts): `paper/mpichi-dataset-preprint.md`.
 
 ### Contributions
 
+Author / maintainer: **Jack Simba Wa Nkulu** (`jacksimba28@gmail.com`).  
 Thanks to everyone transmitting Congolese kitchen knowledge. PRs welcome on aliases and corrections.
