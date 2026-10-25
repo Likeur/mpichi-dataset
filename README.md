@@ -134,6 +134,11 @@ Also see [CITATION.cff](CITATION.cff) and [DATASHEET.md](DATASHEET.md).
 
 ## Contributing
 
+See **[CONTRIBUTING.md](./CONTRIBUTING.md)** for the full guide and the
+**[Code of Conduct](./CODE_OF_CONDUCT.md)**.
+
+In short:
+
 1. Prefer improving source files in the Mpichi site (`src/content/recettes`, `src/i18n/recipes-en.ts`).
 2. Add curated aliases in `enrichment/aliases.json`.
 3. Re-run `npm run export && npm run validate`.
