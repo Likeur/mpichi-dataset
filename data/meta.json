@@ -1,12 +1,12 @@
 {
   "name": "mpichi-dataset",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "updated_at": "2026-10-25",
-  "recipe_count": 92,
-  "instruction_pair_count": 473,
+  "recipe_count": 111,
+  "instruction_pair_count": 568,
   "splits": {
-    "train": 84,
-    "valid": 8
+    "train": 102,
+    "valid": 9
   },
   "source_site": "https://mpichi.likeur.xyz",
   "source_repo": "https://github.com/Likeur/mpichi",
@@ -16,6 +16,5 @@
     "fr",
     "en"
   ],
-  "country": "CD",
-  "huggingface": "https://huggingface.co/datasets/likeur17/mpichi-dataset"
+  "country": "CD"
 }

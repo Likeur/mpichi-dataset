@@ -10,6 +10,13 @@ GitHub releases / Hugging Face revisions.
 
 ## [Unreleased]
 
+## [1.1.0] — 2026-10-25
+
+### Added
+
+- Lot 1 editorial wave: **111** bilingual recipes (was 92) — Est/Kivu, Kasaï, Katanga coverage
+- Bidia variant on `bukari-katanga`; new regional plates (bugali, maharage, makosso, brochettes Lubumbashi, etc.)
+
 ## [1.0.1] — 2026-10-25
 
 ### Added
@@ -27,6 +34,7 @@ GitHub releases / Hugging Face revisions.
 - Curated alias enrichment seed (`enrichment/aliases.json`)
 - Export + validate scripts from the Mpichi site content
 
-[Unreleased]: https://github.com/Likeur/mpichi-dataset/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/Likeur/mpichi-dataset/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/Likeur/mpichi-dataset/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/Likeur/mpichi-dataset/releases/tag/v1.0.0
