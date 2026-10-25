@@ -1,9 +1,20 @@
 {
   "name": "mpichi-dataset",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "updated_at": "2026-10-25",
   "recipe_count": 110,
-  "instruction_pair_count": 563,
+  "instruction_pair_count": 1017,
+  "instruction_task_counts": {
+    "recipe_full": 220,
+    "list_ingredients": 110,
+    "region_context": 110,
+    "aliases": 110,
+    "alias_to_dish": 330,
+    "structured_ingredients": 110,
+    "region_list": 13,
+    "region_dishes": 14
+  },
+  "eval_qa_count": 95,
   "splits": {
     "train": 101,
     "valid": 9

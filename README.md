@@ -30,6 +30,10 @@ data/
   instruction/
     pairs.jsonl          # prompt / completion for SFT
     pairs.json
+  eval/
+    qa.jsonl             # Lot 4 Q/A eval (aliases, régions, ingredients…)
+examples/
+  rag_demo.py            # TF-IDF retrieval demo + baseline metrics
 schema/
   recipe.schema.json
 enrichment/
@@ -70,7 +74,48 @@ Approximate **alias token** counts by `lang` (one name can appear on several dis
 
 Coverage grows with PRs; wrong “local” inventions are worse than a missing alias.
 
-## Quick start (Python)
+## Quickstart ML
+
+### 1. Load from Hugging Face
+
+```python
+from datasets import load_dataset
+
+ds = load_dataset(
+    "likeur17/mpichi-dataset",
+    data_files="data/recipes.jsonl",
+    split="train",
+)
+print(len(ds), ds[0]["names"]["fr"], ds[0]["region_id"])
+```
+
+### 2. SFT instruction pairs
+
+```python
+from datasets import load_dataset
+
+pairs = load_dataset(
+    "likeur17/mpichi-dataset",
+    data_files="data/instruction/pairs.jsonl",
+    split="train",
+)
+# tasks include recipe_full, alias_to_dish, region_dishes, structured_ingredients, …
+print(pairs[0]["task"], pairs[0]["prompt"][:120])
+```
+
+### 3. RAG / retrieval
+
+```bash
+python3 examples/rag_demo.py --query "accompagnement pour moambe" --k 5
+python3 examples/rag_demo.py --eval   # Hit@1 / Hit@3 / MRR on data/eval/qa.jsonl
+```
+
+See [examples/README.md](examples/README.md) and [examples/BASELINE.md](examples/BASELINE.md).
+
+Dataset page: [likeur17/mpichi-dataset](https://huggingface.co/datasets/likeur17/mpichi-dataset).  
+See [dataset_card.md](dataset_card.md) for the full card.
+
+## Quick start (local JSONL)
 
 ```python
 import json
@@ -82,33 +127,6 @@ with open("data/recipes.jsonl", encoding="utf-8") as f:
 
 print(len(recipes), recipes[0]["names"]["fr"])
 ```
-
-Instruction fine-tuning:
-
-```python
-import json
-
-with open("data/instruction/pairs.jsonl", encoding="utf-8") as f:
-    pairs = [json.loads(line) for line in f]
-
-print(pairs[0]["prompt"])
-print(pairs[0]["completion"][:200])
-```
-
-Hugging Face:
-
-```python
-from datasets import load_dataset
-
-ds = load_dataset(
-    "likeur17/mpichi-dataset",
-    data_files="data/recipes.jsonl",
-    split="train",
-)
-```
-
-Dataset page: [likeur17/mpichi-dataset](https://huggingface.co/datasets/likeur17/mpichi-dataset).  
-See [dataset_card.md](dataset_card.md) for the full card.
 
 ## Regenerate from the Mpichi site
 

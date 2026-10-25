@@ -403,10 +403,44 @@ function instructionPairs(records) {
         completion: `${nameFr} peut aussi être appelé : ${aliasList}.`,
         recipe_id: r.slug,
       });
+
+      // Lot 4 — alias → dish (cap to keep SFT size sane)
+      for (const [ai, alias] of r.names.aliases.slice(0, 3).entries()) {
+        if (!alias?.name) continue;
+        pairs.push({
+          id: `${r.slug}-alias-to-dish-${ai}`,
+          lang: 'fr',
+          task: 'alias_to_dish',
+          prompt: `Quel plat congolais du catalogue Mpichi correspond au nom « ${alias.name} » ?`,
+          completion: `« ${alias.name} » désigne notamment ${nameFr} (slug: ${r.slug}${alias.lang ? `, lang: ${alias.lang}` : ''}).`,
+          recipe_id: r.slug,
+        });
+      }
+    }
+
+    // Lot 4 — structured ingredients
+    const structured = r.ingredients_structured?.fr || [];
+    if (structured.length) {
+      const lines = structured.map((item) => {
+        if (item.parse_status === 'structured' && item.amount != null && item.unit) {
+          const range =
+            item.amount_max != null ? `${item.amount}–${item.amount_max}` : String(item.amount);
+          return `- ${range} ${item.unit} ${item.name || ''}`.trim();
+        }
+        return `- ${item.raw || ''}`.trim();
+      });
+      pairs.push({
+        id: `${r.slug}-structured-ingredients-fr`,
+        lang: 'fr',
+        task: 'structured_ingredients',
+        prompt: `Liste les ingrédients structurés (quantité / unité / nom) pour ${nameFr}.`,
+        completion: lines.join('\n'),
+        recipe_id: r.slug,
+      });
     }
   }
 
-  // Region aggregate questions
+  // Region aggregate questions (legacy free-text region)
   const byRegion = new Map();
   for (const r of records) {
     if (!r.region) continue;
@@ -423,6 +457,28 @@ function instructionPairs(records) {
       task: 'region_list',
       prompt: `Quels plats congolais du dataset Mpichi sont liés à « ${region} » ?`,
       completion: names.map((n) => `- ${n}`).join('\n'),
+      recipe_id: null,
+    });
+  }
+
+  // Lot 4 — region_dishes by canonical region_id
+  const byRegionId = new Map();
+  for (const r of records) {
+    if (!r.region_id) continue;
+    const list = byRegionId.get(r.region_id) || [];
+    list.push(r);
+    byRegionId.set(r.region_id, list);
+  }
+  let ri = 0;
+  for (const [regionId, list] of byRegionId) {
+    if (list.length < 2) continue;
+    const label = list[0].region_label?.fr || regionId;
+    pairs.push({
+      id: `region-dishes-${ri++}`,
+      lang: 'fr',
+      task: 'region_dishes',
+      prompt: `Quels plats Mpichi sont associés à la région « ${label} » (region_id=${regionId}) ?`,
+      completion: list.map((r) => `- ${r.names.fr} (${r.slug})`).join('\n'),
       recipe_id: null,
     });
   }
@@ -498,12 +554,25 @@ function main() {
     regionCounts[id] = (regionCounts[id] || 0) + 1;
   }
 
+  const taskCounts = {};
+  for (const p of pairs) {
+    taskCounts[p.task] = (taskCounts[p.task] || 0) + 1;
+  }
+
+  let evalCount = 0;
+  const evalPath = path.join(dataDir, 'eval/qa.jsonl');
+  if (fs.existsSync(evalPath)) {
+    evalCount = fs.readFileSync(evalPath, 'utf8').trim().split('\n').filter(Boolean).length;
+  }
+
   const meta = {
     name: 'mpichi-dataset',
     version,
     updated_at: updatedAt,
     recipe_count: records.length,
     instruction_pair_count: pairs.length,
+    instruction_task_counts: taskCounts,
+    eval_qa_count: evalCount,
     splits: { train: train.length, valid: valid.length },
     source_site: 'https://mpichi.likeur.xyz',
     source_repo: 'https://github.com/Likeur/mpichi',

@@ -8,7 +8,7 @@ authors:
 repository-code: https://github.com/Likeur/mpichi-dataset
 url: https://mpichi.likeur.xyz
 license: CC-BY-4.0
-version: 1.3.0
+version: 1.4.0
 date-released: "2026-10-25"
 abstract: >-
   Bilingual (French / English) open dataset of Congolese recipes from the

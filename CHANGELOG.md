@@ -10,6 +10,16 @@ GitHub releases / Hugging Face revisions.
 
 ## [Unreleased]
 
+## [1.4.0] — 2026-10-25
+
+### Added
+
+- Lot 4 ML examples: `examples/rag_demo.py` (TF-IDF retrieval + optional sentence-transformers)
+- Eval split `data/eval/qa.jsonl` (~95 Q/A: aliases, régions, ingredients, pairing, category)
+- SFT tasks `alias_to_dish`, `region_dishes`, `structured_ingredients` in instruction pairs
+- README Quickstart ML + `examples/BASELINE.md` retrieval metrics
+- Validate gate: eval file present with ≥50 rows
+
 ## [1.3.0] — 2026-10-25
 
 ### Added
@@ -56,7 +66,8 @@ GitHub releases / Hugging Face revisions.
 - Curated alias enrichment seed (`enrichment/aliases.json`)
 - Export + validate scripts from the Mpichi site content
 
-[Unreleased]: https://github.com/Likeur/mpichi-dataset/compare/v1.3.0...HEAD
+[Unreleased]: https://github.com/Likeur/mpichi-dataset/compare/v1.4.0...HEAD
+[1.4.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.0.1...v1.1.0

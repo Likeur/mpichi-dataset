@@ -28,7 +28,8 @@ Structured JSON fields described in `schema/recipe.schema.json`. No audio/video 
 Partial: structured ingredient quantities (`ingredients_structured` with `raw` always and `amount`/`unit`/`name` when parseable — ≥80 % structured as of v1.3.0). Still incomplete for all DRC ethnolinguistic names and verified historical sources beyond editorial notes.
 
 **Are there recommended data splits?**  
-`data/splits/train.jsonl` and `valid.jsonl` (~90/10 by deterministic hash, grouped by category).
+`data/splits/train.jsonl` and `valid.jsonl` (~90/10 by deterministic hash, grouped by category).  
+Lot 4 also ships `data/eval/qa.jsonl` (~95 French Q/A for retrieval / grounding eval) and enriched instruction tasks (`alias_to_dish`, `region_dishes`, `structured_ingredients`).
 
 **Does the dataset contain confidential data?**  
 No personal data of living private individuals beyond public photo credits.

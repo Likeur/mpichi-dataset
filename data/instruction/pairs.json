@@ -40,6 +40,38 @@
     "recipe_id": "andazi-tanganyika"
   },
   {
+    "id": "andazi-tanganyika-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mandazi » ?",
+    "completion": "« mandazi » désigne notamment Andazi du Tanganyika (slug: andazi-tanganyika, lang: sw).",
+    "recipe_id": "andazi-tanganyika"
+  },
+  {
+    "id": "andazi-tanganyika-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « andazi » ?",
+    "completion": "« andazi » désigne notamment Andazi du Tanganyika (slug: andazi-tanganyika, lang: sw).",
+    "recipe_id": "andazi-tanganyika"
+  },
+  {
+    "id": "andazi-tanganyika-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « beignets » ?",
+    "completion": "« beignets » désigne notamment Andazi du Tanganyika (slug: andazi-tanganyika, lang: und).",
+    "recipe_id": "andazi-tanganyika"
+  },
+  {
+    "id": "andazi-tanganyika-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Andazi du Tanganyika.",
+    "completion": "- 500 g farine de blé\n- 80 g sucre\n- 1 packet levure boulangère (7 g) ou 1 c. à café de baking powder\n- 1 piece œuf, facultatif\n- 250 ml lait tiède ou d’eau tiède\n- 2 tbsp huile dans la pâte\n- 1 pinch sel\n- 1/2 c. à café de cardamome ou vanille, facultatif\n- Huile de friture",
+    "recipe_id": "andazi-tanganyika"
+  },
+  {
     "id": "aubergines-africaines-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -77,6 +109,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Aubergines africaines en sauce ?",
     "completion": "Aubergines africaines en sauce peut aussi être appelé : garden eggs, aubergine amère, ngai-ngolo, aubergines africaines, légumes, marché.",
+    "recipe_id": "aubergines-africaines"
+  },
+  {
+    "id": "aubergines-africaines-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « garden eggs » ?",
+    "completion": "« garden eggs » désigne notamment Aubergines africaines en sauce (slug: aubergines-africaines, lang: en).",
+    "recipe_id": "aubergines-africaines"
+  },
+  {
+    "id": "aubergines-africaines-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « aubergine amère » ?",
+    "completion": "« aubergine amère » désigne notamment Aubergines africaines en sauce (slug: aubergines-africaines, lang: fr).",
+    "recipe_id": "aubergines-africaines"
+  },
+  {
+    "id": "aubergines-africaines-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ngai-ngolo » ?",
+    "completion": "« ngai-ngolo » désigne notamment Aubergines africaines en sauce (slug: aubergines-africaines, lang: ln).",
+    "recipe_id": "aubergines-africaines"
+  },
+  {
+    "id": "aubergines-africaines-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Aubergines africaines en sauce.",
+    "completion": "- 600 g aubergines africaines (garden eggs), lavées\n- 3 piece tomates mûres, concassées\n- 2 piece oignons, émincés\n- 2 clove ail, hachées\n- 3 tbsp huile de palme ou d’huile neutre\n- 1 piece petit piment, facultatif\n- Sel\n- 150 ml eau",
     "recipe_id": "aubergines-africaines"
   },
   {
@@ -120,6 +184,38 @@
     "recipe_id": "bananes-douces-vapeur"
   },
   {
+    "id": "bananes-douces-vapeur-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bananes dessert » ?",
+    "completion": "« bananes dessert » désigne notamment Bananes douces à la vapeur (slug: bananes-douces-vapeur, lang: fr).",
+    "recipe_id": "bananes-douces-vapeur"
+  },
+  {
+    "id": "bananes-douces-vapeur-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « banane douce » ?",
+    "completion": "« banane douce » désigne notamment Bananes douces à la vapeur (slug: bananes-douces-vapeur, lang: und).",
+    "recipe_id": "bananes-douces-vapeur"
+  },
+  {
+    "id": "bananes-douces-vapeur-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « vapeur » ?",
+    "completion": "« vapeur » désigne notamment Bananes douces à la vapeur (slug: bananes-douces-vapeur, lang: und).",
+    "recipe_id": "bananes-douces-vapeur"
+  },
+  {
+    "id": "bananes-douces-vapeur-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Bananes douces à la vapeur.",
+    "completion": "- 6 piece bananes douces bien mûres mais fermes\n- Eau pour la vapeur\n- 1 pinch sel, facultative\n- Une noix de beurre ou un filet d’huile, facultatif",
+    "recipe_id": "bananes-douces-vapeur"
+  },
+  {
     "id": "beignets-banane-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -157,6 +253,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Beignets de banane ?",
     "completion": "Beignets de banane peut aussi être appelé : beignets ya libuma, banana fritters, banane, beignet, goûter, friture.",
+    "recipe_id": "beignets-banane"
+  },
+  {
+    "id": "beignets-banane-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « beignets ya libuma » ?",
+    "completion": "« beignets ya libuma » désigne notamment Beignets de banane (slug: beignets-banane, lang: ln).",
+    "recipe_id": "beignets-banane"
+  },
+  {
+    "id": "beignets-banane-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « banana fritters » ?",
+    "completion": "« banana fritters » désigne notamment Beignets de banane (slug: beignets-banane, lang: en).",
+    "recipe_id": "beignets-banane"
+  },
+  {
+    "id": "beignets-banane-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « banane » ?",
+    "completion": "« banane » désigne notamment Beignets de banane (slug: beignets-banane, lang: und).",
+    "recipe_id": "beignets-banane"
+  },
+  {
+    "id": "beignets-banane-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Beignets de banane.",
+    "completion": "- 4 piece bananes douces bien mûres\n- 150 g farine\n- 40 g sucre\n- 1 piece œuf\n- 1 tsp levure chimique\n- 1 pinch sel\n- 1 tsp vanille ou muscade, facultatif\n- Huile de friture",
     "recipe_id": "beignets-banane"
   },
   {
@@ -200,6 +328,38 @@
     "recipe_id": "beignets-igname"
   },
   {
+    "id": "beignets-igname-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « galettes d’igname » ?",
+    "completion": "« galettes d’igname » désigne notamment Beignets d’igname (slug: beignets-igname, lang: fr).",
+    "recipe_id": "beignets-igname"
+  },
+  {
+    "id": "beignets-igname-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « beignets » ?",
+    "completion": "« beignets » désigne notamment Beignets d’igname (slug: beignets-igname, lang: und).",
+    "recipe_id": "beignets-igname"
+  },
+  {
+    "id": "beignets-igname-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « igname » ?",
+    "completion": "« igname » désigne notamment Beignets d’igname (slug: beignets-igname, lang: und).",
+    "recipe_id": "beignets-igname"
+  },
+  {
+    "id": "beignets-igname-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Beignets d’igname.",
+    "completion": "- 800 g igname, épluchée\n- 1 piece œuf\n- 2 tbsp farine, si la pâte est trop liquide\n- 1 piece oignon râpé, facultatif (version salée)\n- 1 tbsp sucre, facultatif (version douce)\n- Sel (ou sucre selon la version)\n- Huile de friture",
+    "recipe_id": "beignets-igname"
+  },
+  {
     "id": "beignets-manioc-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -237,6 +397,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Beignets de manioc ?",
     "completion": "Beignets de manioc peut aussi être appelé : beignets ya sango, cassava fritters, manioc, beignet, goûter, friture.",
+    "recipe_id": "beignets-manioc"
+  },
+  {
+    "id": "beignets-manioc-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « beignets ya sango » ?",
+    "completion": "« beignets ya sango » désigne notamment Beignets de manioc (slug: beignets-manioc, lang: ln).",
+    "recipe_id": "beignets-manioc"
+  },
+  {
+    "id": "beignets-manioc-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « cassava fritters » ?",
+    "completion": "« cassava fritters » désigne notamment Beignets de manioc (slug: beignets-manioc, lang: en).",
+    "recipe_id": "beignets-manioc"
+  },
+  {
+    "id": "beignets-manioc-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « manioc » ?",
+    "completion": "« manioc » désigne notamment Beignets de manioc (slug: beignets-manioc, lang: und).",
+    "recipe_id": "beignets-manioc"
+  },
+  {
+    "id": "beignets-manioc-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Beignets de manioc.",
+    "completion": "- 600 g manioc doux, pelé et râpé finement\n- 80 g farine\n- 40 g sucre\n- 1 piece œuf\n- 1 tsp levure chimique\n- 1 pinch sel\n- Huile de friture",
     "recipe_id": "beignets-manioc"
   },
   {
@@ -280,6 +472,38 @@
     "recipe_id": "biteku-teku-kasai"
   },
   {
+    "id": "biteku-teku-kasai-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « lenga-lenga » ?",
+    "completion": "« lenga-lenga » désigne notamment Biteku-teku (slug: biteku-teku-kasai, lang: ln).",
+    "recipe_id": "biteku-teku-kasai"
+  },
+  {
+    "id": "biteku-teku-kasai-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « biteku-teku » ?",
+    "completion": "« biteku-teku » désigne notamment Biteku-teku (slug: biteku-teku-kasai, lang: fr).",
+    "recipe_id": "biteku-teku-kasai"
+  },
+  {
+    "id": "biteku-teku-kasai-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « amarante » ?",
+    "completion": "« amarante » désigne notamment Biteku-teku (slug: biteku-teku-kasai, lang: und).",
+    "recipe_id": "biteku-teku-kasai"
+  },
+  {
+    "id": "biteku-teku-kasai-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Biteku-teku.",
+    "completion": "- 3 bunch feuilles d’amarante\n- 2 piece tomates mûres, concassées\n- 1 piece gros oignon, émincé\n- 80 g arachides grillées et pilées\n- 2 tbsp huile\n- 1 piece petit piment, facultatif\n- Sel\n- 150 ml eau",
+    "recipe_id": "biteku-teku-kasai"
+  },
+  {
     "id": "boeuf-ya-kotumba-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -317,6 +541,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Bœuf ya kotumba ?",
     "completion": "Bœuf ya kotumba peut aussi être appelé : bœuf grillé, kotumba, bœuf, grillade, Kinshasa, braise.",
+    "recipe_id": "boeuf-ya-kotumba"
+  },
+  {
+    "id": "boeuf-ya-kotumba-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bœuf grillé » ?",
+    "completion": "« bœuf grillé » désigne notamment Bœuf ya kotumba (slug: boeuf-ya-kotumba, lang: fr).",
+    "recipe_id": "boeuf-ya-kotumba"
+  },
+  {
+    "id": "boeuf-ya-kotumba-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « kotumba » ?",
+    "completion": "« kotumba » désigne notamment Bœuf ya kotumba (slug: boeuf-ya-kotumba, lang: ln).",
+    "recipe_id": "boeuf-ya-kotumba"
+  },
+  {
+    "id": "boeuf-ya-kotumba-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bœuf » ?",
+    "completion": "« bœuf » désigne notamment Bœuf ya kotumba (slug: boeuf-ya-kotumba, lang: und).",
+    "recipe_id": "boeuf-ya-kotumba"
+  },
+  {
+    "id": "boeuf-ya-kotumba-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Bœuf ya kotumba.",
+    "completion": "- 1.2 kg bœuf (basse côte, paleron ou rumsteck) en gros morceaux\n- 2 piece oignons, dont un râpé\n- 4 clove ail, écrasées\n- 2 piece cm de gingembre, râpé\n- Jus de 1 citron\n- 3 tbsp huile\n- Pili-pili, sel et poivre\n- 1 cube bouillon, facultatif",
     "recipe_id": "boeuf-ya-kotumba"
   },
   {
@@ -360,6 +616,38 @@
     "recipe_id": "bouillie-arachide"
   },
   {
+    "id": "bouillie-arachide-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bouillie ya nguba » ?",
+    "completion": "« bouillie ya nguba » désigne notamment Bouillie d’arachide (slug: bouillie-arachide, lang: ln).",
+    "recipe_id": "bouillie-arachide"
+  },
+  {
+    "id": "bouillie-arachide-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « peanut porridge » ?",
+    "completion": "« peanut porridge » désigne notamment Bouillie d’arachide (slug: bouillie-arachide, lang: en).",
+    "recipe_id": "bouillie-arachide"
+  },
+  {
+    "id": "bouillie-arachide-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bouillie » ?",
+    "completion": "« bouillie » désigne notamment Bouillie d’arachide (slug: bouillie-arachide, lang: und).",
+    "recipe_id": "bouillie-arachide"
+  },
+  {
+    "id": "bouillie-arachide-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Bouillie d’arachide.",
+    "completion": "- 120 g farine de maïs (ou de manioc)\n- 80 g pâte d’arachide lisse\n- 1 l eau\n- 60–80 g sucre\n- 1 pinch sel\n- 1 tsp vanille ou zeste de citron, facultatif",
+    "recipe_id": "bouillie-arachide"
+  },
+  {
     "id": "bouillie-mais-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -397,6 +685,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Bouillie de maïs ?",
     "completion": "Bouillie de maïs peut aussi être appelé : uji, bouillie de farine de maïs, maize porridge, maïs, bouillie, petit-déjeuner, goûter.",
+    "recipe_id": "bouillie-mais"
+  },
+  {
+    "id": "bouillie-mais-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « uji » ?",
+    "completion": "« uji » désigne notamment Bouillie de maïs (slug: bouillie-mais, lang: sw).",
+    "recipe_id": "bouillie-mais"
+  },
+  {
+    "id": "bouillie-mais-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bouillie de farine de maïs » ?",
+    "completion": "« bouillie de farine de maïs » désigne notamment Bouillie de maïs (slug: bouillie-mais, lang: fr).",
+    "recipe_id": "bouillie-mais"
+  },
+  {
+    "id": "bouillie-mais-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « maize porridge » ?",
+    "completion": "« maize porridge » désigne notamment Bouillie de maïs (slug: bouillie-mais, lang: en).",
+    "recipe_id": "bouillie-mais"
+  },
+  {
+    "id": "bouillie-mais-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Bouillie de maïs.",
+    "completion": "- 150 g farine de maïs fine\n- 1 l eau\n- 60–80 g sucre\n- 1 pinch sel\n- 1 tsp vanille ou zeste de citron, facultatif\n- Lait, pour servir, facultatif",
     "recipe_id": "bouillie-mais"
   },
   {
@@ -440,6 +760,38 @@
     "recipe_id": "brochettes-foie"
   },
   {
+    "id": "brochettes-foie-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « brochettes ya libolo » ?",
+    "completion": "« brochettes ya libolo » désigne notamment Brochettes de foie (slug: brochettes-foie, lang: ln).",
+    "recipe_id": "brochettes-foie"
+  },
+  {
+    "id": "brochettes-foie-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « liver skewers » ?",
+    "completion": "« liver skewers » désigne notamment Brochettes de foie (slug: brochettes-foie, lang: en).",
+    "recipe_id": "brochettes-foie"
+  },
+  {
+    "id": "brochettes-foie-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « foie » ?",
+    "completion": "« foie » désigne notamment Brochettes de foie (slug: brochettes-foie, lang: und).",
+    "recipe_id": "brochettes-foie"
+  },
+  {
+    "id": "brochettes-foie-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Brochettes de foie.",
+    "completion": "- 600 g foie de bœuf, en dés\n- 1 piece oignon, râpé ou très finement émincé\n- 2 clove ail, écrasées\n- 2 tbsp jus de citron\n- 2 tbsp huile\n- Pili-pili, sel et poivre\n- Brochettes en bois, trempées dans l’eau",
+    "recipe_id": "brochettes-foie"
+  },
+  {
     "id": "brochettes-grillons-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -477,6 +829,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Brochettes de grillons ?",
     "completion": "Brochettes de grillons peut aussi être appelé : makelele, grillons grillés, grillons, brochette, grillé.",
+    "recipe_id": "brochettes-grillons"
+  },
+  {
+    "id": "brochettes-grillons-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « makelele » ?",
+    "completion": "« makelele » désigne notamment Brochettes de grillons (slug: brochettes-grillons, lang: ln).",
+    "recipe_id": "brochettes-grillons"
+  },
+  {
+    "id": "brochettes-grillons-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « grillons grillés » ?",
+    "completion": "« grillons grillés » désigne notamment Brochettes de grillons (slug: brochettes-grillons, lang: fr).",
+    "recipe_id": "brochettes-grillons"
+  },
+  {
+    "id": "brochettes-grillons-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « grillons » ?",
+    "completion": "« grillons » désigne notamment Brochettes de grillons (slug: brochettes-grillons, lang: und).",
+    "recipe_id": "brochettes-grillons"
+  },
+  {
+    "id": "brochettes-grillons-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Brochettes de grillons.",
+    "completion": "- 300 g grillons comestibles préparés\n- 2 clove ail\n- 1 tsp gingembre râpé\n- 1 tbsp jus de citron\n- 2 tbsp huile\n- Pili-pili, sel et poivre\n- Petites brochettes en bois",
     "recipe_id": "brochettes-grillons"
   },
   {
@@ -520,6 +904,38 @@
     "recipe_id": "brochettes-lubumbashi"
   },
   {
+    "id": "brochettes-lubumbashi-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « brochettes » ?",
+    "completion": "« brochettes » désigne notamment Brochettes de Lubumbashi (slug: brochettes-lubumbashi, lang: fr).",
+    "recipe_id": "brochettes-lubumbashi"
+  },
+  {
+    "id": "brochettes-lubumbashi-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mishikaki » ?",
+    "completion": "« mishikaki » désigne notamment Brochettes de Lubumbashi (slug: brochettes-lubumbashi, lang: sw).",
+    "recipe_id": "brochettes-lubumbashi"
+  },
+  {
+    "id": "brochettes-lubumbashi-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « kamundele » ?",
+    "completion": "« kamundele » désigne notamment Brochettes de Lubumbashi (slug: brochettes-lubumbashi, lang: ln).",
+    "recipe_id": "brochettes-lubumbashi"
+  },
+  {
+    "id": "brochettes-lubumbashi-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Brochettes de Lubumbashi.",
+    "completion": "- 700 g bœuf (tranche à brochettes)\n- 1 piece oignon, râpé\n- 3 clove ail\n- 1 tsp gingembre râpé\n- 2 tbsp huile\n- 1 tbsp jus de citron\n- Sel, poivre, pili-pili\n- Brochettes en bois",
+    "recipe_id": "brochettes-lubumbashi"
+  },
+  {
     "id": "bukari-katanga-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -557,6 +973,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Bukari ?",
     "completion": "Bukari peut aussi être appelé : bugali, ugali, bidia, fufu de maïs, fufu, nshima, bukari, fufu maïs, Grand Katanga, Kivu.",
+    "recipe_id": "bukari-katanga"
+  },
+  {
+    "id": "bukari-katanga-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bugali » ?",
+    "completion": "« bugali » désigne notamment Bukari (slug: bukari-katanga, lang: sw).",
+    "recipe_id": "bukari-katanga"
+  },
+  {
+    "id": "bukari-katanga-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ugali » ?",
+    "completion": "« ugali » désigne notamment Bukari (slug: bukari-katanga, lang: sw).",
+    "recipe_id": "bukari-katanga"
+  },
+  {
+    "id": "bukari-katanga-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bidia » ?",
+    "completion": "« bidia » désigne notamment Bukari (slug: bukari-katanga, lang: fr).",
+    "recipe_id": "bukari-katanga"
+  },
+  {
+    "id": "bukari-katanga-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Bukari.",
+    "completion": "- 500 g farine fine de maïs blanc\n- 1.2 l eau\n- 1 pinch sel, facultative",
     "recipe_id": "bukari-katanga"
   },
   {
@@ -600,6 +1048,38 @@
     "recipe_id": "capitaine-braise"
   },
   {
+    "id": "capitaine-braise-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « perche du Nil » ?",
+    "completion": "« perche du Nil » désigne notamment Capitaine braisé (slug: capitaine-braise, lang: fr).",
+    "recipe_id": "capitaine-braise"
+  },
+  {
+    "id": "capitaine-braise-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « Nile perch » ?",
+    "completion": "« Nile perch » désigne notamment Capitaine braisé (slug: capitaine-braise, lang: en).",
+    "recipe_id": "capitaine-braise"
+  },
+  {
+    "id": "capitaine-braise-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « capitaine » ?",
+    "completion": "« capitaine » désigne notamment Capitaine braisé (slug: capitaine-braise, lang: und).",
+    "recipe_id": "capitaine-braise"
+  },
+  {
+    "id": "capitaine-braise-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Capitaine braisé.",
+    "completion": "- 1 piece capitaine (perche du Nil) de 1,2 à 1,5 kg, vidé et écaillé\n- 2 piece oignons, dont un râpé\n- 4 clove ail, écrasées\n- 2 piece cm de gingembre, râpé\n- Jus de 2 citrons\n- 3 tbsp huile\n- Pili-pili, sel et poivre\n- 1 cube bouillon, facultatif",
+    "recipe_id": "capitaine-braise"
+  },
+  {
     "id": "chikwangue-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -637,6 +1117,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Chikwangue ?",
     "completion": "Chikwangue peut aussi être appelé : kwanga, bobolo, chikwangue, manioc, fufu, fermentation.",
+    "recipe_id": "chikwangue"
+  },
+  {
+    "id": "chikwangue-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « kwanga » ?",
+    "completion": "« kwanga » désigne notamment Chikwangue (slug: chikwangue, lang: ln).",
+    "recipe_id": "chikwangue"
+  },
+  {
+    "id": "chikwangue-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bobolo » ?",
+    "completion": "« bobolo » désigne notamment Chikwangue (slug: chikwangue, lang: fr).",
+    "recipe_id": "chikwangue"
+  },
+  {
+    "id": "chikwangue-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « chikwangue » ?",
+    "completion": "« chikwangue » désigne notamment Chikwangue (slug: chikwangue, lang: und).",
+    "recipe_id": "chikwangue"
+  },
+  {
+    "id": "chikwangue-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Chikwangue.",
+    "completion": "- 1 kg pâte de manioc fermentée prête à cuire\n- Grandes feuilles de bananier ou feuilles adaptées à la cuisson\n- Ficelle de cuisine\n- Eau pour la cuisson vapeur",
     "recipe_id": "chikwangue"
   },
   {
@@ -680,6 +1192,38 @@
     "recipe_id": "chikwangue-grillee"
   },
   {
+    "id": "chikwangue-grillee-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « kwanga grillée » ?",
+    "completion": "« kwanga grillée » désigne notamment Chikwangue grillée (slug: chikwangue-grillee, lang: fr).",
+    "recipe_id": "chikwangue-grillee"
+  },
+  {
+    "id": "chikwangue-grillee-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « chikwangue » ?",
+    "completion": "« chikwangue » désigne notamment Chikwangue grillée (slug: chikwangue-grillee, lang: und).",
+    "recipe_id": "chikwangue-grillee"
+  },
+  {
+    "id": "chikwangue-grillee-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « kwanga » ?",
+    "completion": "« kwanga » désigne notamment Chikwangue grillée (slug: chikwangue-grillee, lang: und).",
+    "recipe_id": "chikwangue-grillee"
+  },
+  {
+    "id": "chikwangue-grillee-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Chikwangue grillée.",
+    "completion": "- 1 piece à 2 chikwangues cuites (kwanga)\n- 1 tbsp huile, facultatif\n- Une pincée de sel\n- Sauce pili-pili, pour servir",
+    "recipe_id": "chikwangue-grillee"
+  },
+  {
     "id": "chou-mijote-est-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -717,6 +1261,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Chou mijoté de l’Est ?",
     "completion": "Chou mijoté de l’Est peut aussi être appelé : cabbage stew, sukuma ya chou, chou, légumes, Kivu, Est, accompagnement.",
+    "recipe_id": "chou-mijote-est"
+  },
+  {
+    "id": "chou-mijote-est-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « cabbage stew » ?",
+    "completion": "« cabbage stew » désigne notamment Chou mijoté de l’Est (slug: chou-mijote-est, lang: en).",
+    "recipe_id": "chou-mijote-est"
+  },
+  {
+    "id": "chou-mijote-est-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sukuma ya chou » ?",
+    "completion": "« sukuma ya chou » désigne notamment Chou mijoté de l’Est (slug: chou-mijote-est, lang: sw).",
+    "recipe_id": "chou-mijote-est"
+  },
+  {
+    "id": "chou-mijote-est-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « chou » ?",
+    "completion": "« chou » désigne notamment Chou mijoté de l’Est (slug: chou-mijote-est, lang: und).",
+    "recipe_id": "chou-mijote-est"
+  },
+  {
+    "id": "chou-mijote-est-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Chou mijoté de l’Est.",
+    "completion": "- 1 piece petit chou blanc, émincé\n- 2 piece oignons, émincés\n- 2 piece tomates, concassées\n- 2 clove ail\n- 3 tbsp huile\n- Sel, poivre, pili-pili\n- 80 ml eau",
     "recipe_id": "chou-mijote-est"
   },
   {
@@ -760,6 +1336,38 @@
     "recipe_id": "courge-sauce"
   },
   {
+    "id": "courge-sauce-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « courge » ?",
+    "completion": "« courge » désigne notamment Courge en sauce (slug: courge-sauce, lang: fr).",
+    "recipe_id": "courge-sauce"
+  },
+  {
+    "id": "courge-sauce-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pumpkin stew » ?",
+    "completion": "« pumpkin stew » désigne notamment Courge en sauce (slug: courge-sauce, lang: en).",
+    "recipe_id": "courge-sauce"
+  },
+  {
+    "id": "courge-sauce-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « potiron » ?",
+    "completion": "« potiron » désigne notamment Courge en sauce (slug: courge-sauce, lang: und).",
+    "recipe_id": "courge-sauce"
+  },
+  {
+    "id": "courge-sauce-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Courge en sauce.",
+    "completion": "- 800 g courge jaune ou potiron, en cubes\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 2 clove ail\n- 3 tbsp huile de palme ou d’huile neutre\n- 200 ml eau\n- Sel, pili-pili\n- 80 g arachides pilées, facultatif",
+    "recipe_id": "courge-sauce"
+  },
+  {
     "id": "croquettes-manioc-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -797,6 +1405,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Croquettes de manioc ?",
     "completion": "Croquettes de manioc peut aussi être appelé : croquettes ya sango, cassava croquettes, manioc, friture, croquettes.",
+    "recipe_id": "croquettes-manioc"
+  },
+  {
+    "id": "croquettes-manioc-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « croquettes ya sango » ?",
+    "completion": "« croquettes ya sango » désigne notamment Croquettes de manioc (slug: croquettes-manioc, lang: ln).",
+    "recipe_id": "croquettes-manioc"
+  },
+  {
+    "id": "croquettes-manioc-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « cassava croquettes » ?",
+    "completion": "« cassava croquettes » désigne notamment Croquettes de manioc (slug: croquettes-manioc, lang: en).",
+    "recipe_id": "croquettes-manioc"
+  },
+  {
+    "id": "croquettes-manioc-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « manioc » ?",
+    "completion": "« manioc » désigne notamment Croquettes de manioc (slug: croquettes-manioc, lang: und).",
+    "recipe_id": "croquettes-manioc"
+  },
+  {
+    "id": "croquettes-manioc-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Croquettes de manioc.",
+    "completion": "- 800 g manioc doux\n- 1 piece petit oignon, râpé\n- 1 clove ail, pilée\n- 2 tbsp ciboulette ciselée\n- 1 piece œuf\n- 2 tbsp farine\n- Sel et poivre\n- Huile pour la friture",
     "recipe_id": "croquettes-manioc"
   },
   {
@@ -840,6 +1480,38 @@
     "recipe_id": "dongo-dongo"
   },
   {
+    "id": "dongo-dongo-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « gombo au poisson fumé » ?",
+    "completion": "« gombo au poisson fumé » désigne notamment Dongo-dongo (slug: dongo-dongo, lang: fr).",
+    "recipe_id": "dongo-dongo"
+  },
+  {
+    "id": "dongo-dongo-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « dongo-dongo » ?",
+    "completion": "« dongo-dongo » désigne notamment Dongo-dongo (slug: dongo-dongo, lang: und).",
+    "recipe_id": "dongo-dongo"
+  },
+  {
+    "id": "dongo-dongo-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « gombo » ?",
+    "completion": "« gombo » désigne notamment Dongo-dongo (slug: dongo-dongo, lang: und).",
+    "recipe_id": "dongo-dongo"
+  },
+  {
+    "id": "dongo-dongo-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Dongo-dongo.",
+    "completion": "- 500 g gombos frais\n- 250 g poisson fumé (ou séché), dessalé si besoin\n- 2 piece oignons, émincés\n- 2 piece tomates, concassées\n- 2 clove ail\n- 3 tbsp huile de palme ou d’huile neutre\n- Sel, pili-pili et un peu d’eau",
+    "recipe_id": "dongo-dongo"
+  },
+  {
     "id": "escargots-congolaise-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -877,6 +1549,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Escargots à la congolaise ?",
     "completion": "Escargots à la congolaise peut aussi être appelé : mbembe, escargots, piment, mijoté.",
+    "recipe_id": "escargots-congolaise"
+  },
+  {
+    "id": "escargots-congolaise-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbembe » ?",
+    "completion": "« mbembe » désigne notamment Escargots à la congolaise (slug: escargots-congolaise, lang: ln).",
+    "recipe_id": "escargots-congolaise"
+  },
+  {
+    "id": "escargots-congolaise-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « escargots » ?",
+    "completion": "« escargots » désigne notamment Escargots à la congolaise (slug: escargots-congolaise, lang: fr).",
+    "recipe_id": "escargots-congolaise"
+  },
+  {
+    "id": "escargots-congolaise-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « piment » ?",
+    "completion": "« piment » désigne notamment Escargots à la congolaise (slug: escargots-congolaise, lang: und).",
+    "recipe_id": "escargots-congolaise"
+  },
+  {
+    "id": "escargots-congolaise-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Escargots à la congolaise.",
+    "completion": "- 800 g chair d’escargot comestible, nettoyée par un professionnel\n- 4 piece tomates mûres, concassées\n- 2 piece oignons, émincés\n- 1 piece poivron vert, coupé en lanières\n- 3 clove ail, hachées\n- 4 tbsp huile\n- 1 piece petit piment\n- Sel, poivre et eau",
     "recipe_id": "escargots-congolaise"
   },
   {
@@ -920,6 +1624,38 @@
     "recipe_id": "foie-boeuf-saute"
   },
   {
+    "id": "foie-boeuf-saute-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « libolo ya ngombe » ?",
+    "completion": "« libolo ya ngombe » désigne notamment Foie de bœuf sauté (slug: foie-boeuf-saute, lang: ln).",
+    "recipe_id": "foie-boeuf-saute"
+  },
+  {
+    "id": "foie-boeuf-saute-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « foie sauté » ?",
+    "completion": "« foie sauté » désigne notamment Foie de bœuf sauté (slug: foie-boeuf-saute, lang: fr).",
+    "recipe_id": "foie-boeuf-saute"
+  },
+  {
+    "id": "foie-boeuf-saute-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « foie » ?",
+    "completion": "« foie » désigne notamment Foie de bœuf sauté (slug: foie-boeuf-saute, lang: und).",
+    "recipe_id": "foie-boeuf-saute"
+  },
+  {
+    "id": "foie-boeuf-saute-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Foie de bœuf sauté.",
+    "completion": "- 600 g foie de bœuf, en tranches\n- 2 piece oignons, émincés\n- 2 clove ail, hachées\n- 2 tbsp huile\n- 1 tbsp jus de citron\n- Piment, sel et poivre",
+    "recipe_id": "foie-boeuf-saute"
+  },
+  {
     "id": "fufu-manioc-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -957,6 +1693,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Fufu de manioc ?",
     "completion": "Fufu de manioc peut aussi être appelé : fufu, foufou, fufu ya sango, cassava fufu, fufu manioc, farine de manioc, accompagnement, quotidien.",
+    "recipe_id": "fufu-manioc"
+  },
+  {
+    "id": "fufu-manioc-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « fufu » ?",
+    "completion": "« fufu » désigne notamment Fufu de manioc (slug: fufu-manioc, lang: fr).",
+    "recipe_id": "fufu-manioc"
+  },
+  {
+    "id": "fufu-manioc-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « foufou » ?",
+    "completion": "« foufou » désigne notamment Fufu de manioc (slug: fufu-manioc, lang: fr).",
+    "recipe_id": "fufu-manioc"
+  },
+  {
+    "id": "fufu-manioc-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « fufu ya sango » ?",
+    "completion": "« fufu ya sango » désigne notamment Fufu de manioc (slug: fufu-manioc, lang: ln).",
+    "recipe_id": "fufu-manioc"
+  },
+  {
+    "id": "fufu-manioc-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Fufu de manioc.",
+    "completion": "- 500 g farine de manioc (fufu / cossette moulue)\n- 1.2 l eau\n- 1 pinch sel, facultative",
     "recipe_id": "fufu-manioc"
   },
   {
@@ -1000,6 +1768,38 @@
     "recipe_id": "fumbwa-arachides"
   },
   {
+    "id": "fumbwa-arachides-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « koko » ?",
+    "completion": "« koko » désigne notamment Fumbwa aux arachides (slug: fumbwa-arachides, lang: ln).",
+    "recipe_id": "fumbwa-arachides"
+  },
+  {
+    "id": "fumbwa-arachides-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « okazi » ?",
+    "completion": "« okazi » désigne notamment Fumbwa aux arachides (slug: fumbwa-arachides, lang: en).",
+    "recipe_id": "fumbwa-arachides"
+  },
+  {
+    "id": "fumbwa-arachides-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « eru » ?",
+    "completion": "« eru » désigne notamment Fumbwa aux arachides (slug: fumbwa-arachides, lang: en).",
+    "recipe_id": "fumbwa-arachides"
+  },
+  {
+    "id": "fumbwa-arachides-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Fumbwa aux arachides.",
+    "completion": "- 500 g feuilles de fumbwa émincées\n- 200 g pâte d’arachide non sucrée\n- 2 piece oignons, finement hachés\n- 2 piece tomates mûres, concassées\n- 2 clove ail\n- 3 tbsp huile de palme\n- 150 g poisson fumé (optionnel)\n- Sel, piment et eau",
+    "recipe_id": "fumbwa-arachides"
+  },
+  {
     "id": "gateau-manioc-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1037,6 +1837,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Gâteau au manioc ?",
     "completion": "Gâteau au manioc peut aussi être appelé : gâteau ya sango, cassava cake, manioc, gâteau, dessert, goûter.",
+    "recipe_id": "gateau-manioc"
+  },
+  {
+    "id": "gateau-manioc-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « gâteau ya sango » ?",
+    "completion": "« gâteau ya sango » désigne notamment Gâteau au manioc (slug: gateau-manioc, lang: ln).",
+    "recipe_id": "gateau-manioc"
+  },
+  {
+    "id": "gateau-manioc-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « cassava cake » ?",
+    "completion": "« cassava cake » désigne notamment Gâteau au manioc (slug: gateau-manioc, lang: en).",
+    "recipe_id": "gateau-manioc"
+  },
+  {
+    "id": "gateau-manioc-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « manioc » ?",
+    "completion": "« manioc » désigne notamment Gâteau au manioc (slug: gateau-manioc, lang: und).",
+    "recipe_id": "gateau-manioc"
+  },
+  {
+    "id": "gateau-manioc-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Gâteau au manioc.",
+    "completion": "- 400 g manioc doux râpé (ou 280 g de farine de manioc)\n- 3 piece œufs\n- 150 g sucre\n- 100 ml huile ou de beurre fondu\n- 150 ml lait (ou lait de coco)\n- 1 packet levure chimique (11 g)\n- 1 pinch sel\n- 1 tsp vanille",
     "recipe_id": "gateau-manioc"
   },
   {
@@ -1080,6 +1912,38 @@
     "recipe_id": "haricots-maharage"
   },
   {
+    "id": "haricots-maharage-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « maharage » ?",
+    "completion": "« maharage » désigne notamment Maharage aux tomates (slug: haricots-maharage, lang: sw).",
+    "recipe_id": "haricots-maharage"
+  },
+  {
+    "id": "haricots-maharage-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mahargwe » ?",
+    "completion": "« mahargwe » désigne notamment Maharage aux tomates (slug: haricots-maharage, lang: sw).",
+    "recipe_id": "haricots-maharage"
+  },
+  {
+    "id": "haricots-maharage-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « haricots rouges » ?",
+    "completion": "« haricots rouges » désigne notamment Maharage aux tomates (slug: haricots-maharage, lang: fr).",
+    "recipe_id": "haricots-maharage"
+  },
+  {
+    "id": "haricots-maharage-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Maharage aux tomates.",
+    "completion": "- 400 g haricots rouges secs (trempés une nuit) ou 800 g cuits\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 3 clove ail\n- 3 tbsp huile\n- 1 leaf laurier, facultatif\n- Sel, poivre, pili-pili\n- Eau ou bouillon",
+    "recipe_id": "haricots-maharage"
+  },
+  {
     "id": "haricots-nguba-kasai-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1117,6 +1981,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Haricots à la nguba ?",
     "completion": "Haricots à la nguba peut aussi être appelé : madesu ya nguba, haricots arachide, haricots, nguba, arachides, Kasaï, bidia.",
+    "recipe_id": "haricots-nguba-kasai"
+  },
+  {
+    "id": "haricots-nguba-kasai-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « madesu ya nguba » ?",
+    "completion": "« madesu ya nguba » désigne notamment Haricots à la nguba (slug: haricots-nguba-kasai, lang: ln).",
+    "recipe_id": "haricots-nguba-kasai"
+  },
+  {
+    "id": "haricots-nguba-kasai-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « haricots arachide » ?",
+    "completion": "« haricots arachide » désigne notamment Haricots à la nguba (slug: haricots-nguba-kasai, lang: fr).",
+    "recipe_id": "haricots-nguba-kasai"
+  },
+  {
+    "id": "haricots-nguba-kasai-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « haricots » ?",
+    "completion": "« haricots » désigne notamment Haricots à la nguba (slug: haricots-nguba-kasai, lang: und).",
+    "recipe_id": "haricots-nguba-kasai"
+  },
+  {
+    "id": "haricots-nguba-kasai-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Haricots à la nguba.",
+    "completion": "- 400 g haricots secs (trempés une nuit) ou 800 g cuits\n- 120 g arachides grillées et pilées (nguba)\n- 2 piece oignons, émincés\n- 2 piece tomates, concassées\n- 3 tbsp huile\n- Sel, pili-pili\n- Eau",
     "recipe_id": "haricots-nguba-kasai"
   },
   {
@@ -1160,6 +2056,38 @@
     "recipe_id": "haricots-verts-palme"
   },
   {
+    "id": "haricots-verts-palme-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « haricots verts » ?",
+    "completion": "« haricots verts » désigne notamment Haricots verts à l’huile de palme (slug: haricots-verts-palme, lang: fr).",
+    "recipe_id": "haricots-verts-palme"
+  },
+  {
+    "id": "haricots-verts-palme-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « légumes » ?",
+    "completion": "« légumes » désigne notamment Haricots verts à l’huile de palme (slug: haricots-verts-palme, lang: und).",
+    "recipe_id": "haricots-verts-palme"
+  },
+  {
+    "id": "haricots-verts-palme-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « rapide » ?",
+    "completion": "« rapide » désigne notamment Haricots verts à l’huile de palme (slug: haricots-verts-palme, lang: und).",
+    "recipe_id": "haricots-verts-palme"
+  },
+  {
+    "id": "haricots-verts-palme-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Haricots verts à l’huile de palme.",
+    "completion": "- 500 g haricots verts frais, équeutés\n- 2 tbsp huile de palme rouge\n- 1 piece oignon, émincé\n- 2 piece tomates, concassées\n- 1 clove ail\n- Sel, pili-pili\n- 50 ml eau",
+    "recipe_id": "haricots-verts-palme"
+  },
+  {
     "id": "igname-bouillie-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1197,6 +2125,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Igname bouillie ?",
     "completion": "Igname bouillie peut aussi être appelé : igname, yam, tubercule, bouilli, accompagnement, simple.",
+    "recipe_id": "igname-bouillie"
+  },
+  {
+    "id": "igname-bouillie-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « igname » ?",
+    "completion": "« igname » désigne notamment Igname bouillie (slug: igname-bouillie, lang: fr).",
+    "recipe_id": "igname-bouillie"
+  },
+  {
+    "id": "igname-bouillie-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « yam » ?",
+    "completion": "« yam » désigne notamment Igname bouillie (slug: igname-bouillie, lang: en).",
+    "recipe_id": "igname-bouillie"
+  },
+  {
+    "id": "igname-bouillie-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « tubercule » ?",
+    "completion": "« tubercule » désigne notamment Igname bouillie (slug: igname-bouillie, lang: und).",
+    "recipe_id": "igname-bouillie"
+  },
+  {
+    "id": "igname-bouillie-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Igname bouillie.",
+    "completion": "- 1 kg igname\n- Eau\n- 1 tsp sel\n- Jus de ½ citron, facultatif (eau de cuisson)",
     "recipe_id": "igname-bouillie"
   },
   {
@@ -1240,6 +2200,38 @@
     "recipe_id": "jus-ananas"
   },
   {
+    "id": "jus-ananas-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mai ya ananas » ?",
+    "completion": "« mai ya ananas » désigne notamment Jus d’ananas (slug: jus-ananas, lang: ln).",
+    "recipe_id": "jus-ananas"
+  },
+  {
+    "id": "jus-ananas-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pineapple juice » ?",
+    "completion": "« pineapple juice » désigne notamment Jus d’ananas (slug: jus-ananas, lang: en).",
+    "recipe_id": "jus-ananas"
+  },
+  {
+    "id": "jus-ananas-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ananas » ?",
+    "completion": "« ananas » désigne notamment Jus d’ananas (slug: jus-ananas, lang: und).",
+    "recipe_id": "jus-ananas"
+  },
+  {
+    "id": "jus-ananas-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Jus d’ananas.",
+    "completion": "- 1 piece ananas mûr (environ 1 kg)\n- 500 ml eau froide\n- 30–50 g sucre, facultatif\n- Jus d’½ citron, facultatif",
+    "recipe_id": "jus-ananas"
+  },
+  {
     "id": "jus-bissap-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1277,6 +2269,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Jus de bissap ?",
     "completion": "Jus de bissap peut aussi être appelé : bissap, zobo, jus ya hibiscus, hibiscus, jus, boisson.",
+    "recipe_id": "jus-bissap"
+  },
+  {
+    "id": "jus-bissap-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bissap » ?",
+    "completion": "« bissap » désigne notamment Jus de bissap (slug: jus-bissap, lang: fr).",
+    "recipe_id": "jus-bissap"
+  },
+  {
+    "id": "jus-bissap-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « zobo » ?",
+    "completion": "« zobo » désigne notamment Jus de bissap (slug: jus-bissap, lang: en).",
+    "recipe_id": "jus-bissap"
+  },
+  {
+    "id": "jus-bissap-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « jus ya hibiscus » ?",
+    "completion": "« jus ya hibiscus » désigne notamment Jus de bissap (slug: jus-bissap, lang: fr).",
+    "recipe_id": "jus-bissap"
+  },
+  {
+    "id": "jus-bissap-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Jus de bissap.",
+    "completion": "- 80 g fleurs de bissap (hibiscus) séchées\n- 2 l eau\n- 150–200 g sucre\n- Jus d’1 citron, facultatif\n- Quelques feuilles de menthe ou un bâton de vanille, facultatif",
     "recipe_id": "jus-bissap"
   },
   {
@@ -1320,6 +2344,38 @@
     "recipe_id": "jus-mangue"
   },
   {
+    "id": "jus-mangue-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mai ya manga » ?",
+    "completion": "« mai ya manga » désigne notamment Jus de mangue (slug: jus-mangue, lang: ln).",
+    "recipe_id": "jus-mangue"
+  },
+  {
+    "id": "jus-mangue-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mango juice » ?",
+    "completion": "« mango juice » désigne notamment Jus de mangue (slug: jus-mangue, lang: en).",
+    "recipe_id": "jus-mangue"
+  },
+  {
+    "id": "jus-mangue-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mangue » ?",
+    "completion": "« mangue » désigne notamment Jus de mangue (slug: jus-mangue, lang: und).",
+    "recipe_id": "jus-mangue"
+  },
+  {
+    "id": "jus-mangue-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Jus de mangue.",
+    "completion": "- 4 piece mangues bien mûres\n- 600 ml eau froide\n- 40–60 g sucre, selon la douceur des fruits\n- Jus d’½ citron, facultatif",
+    "recipe_id": "jus-mangue"
+  },
+  {
     "id": "jus-passion-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1357,6 +2413,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Jus de fruit de la passion ?",
     "completion": "Jus de fruit de la passion peut aussi être appelé : jus ya passion, passion fruit juice, passion, jus, fruit, boisson.",
+    "recipe_id": "jus-passion"
+  },
+  {
+    "id": "jus-passion-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « jus ya passion » ?",
+    "completion": "« jus ya passion » désigne notamment Jus de fruit de la passion (slug: jus-passion, lang: fr).",
+    "recipe_id": "jus-passion"
+  },
+  {
+    "id": "jus-passion-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « passion fruit juice » ?",
+    "completion": "« passion fruit juice » désigne notamment Jus de fruit de la passion (slug: jus-passion, lang: en).",
+    "recipe_id": "jus-passion"
+  },
+  {
+    "id": "jus-passion-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « passion » ?",
+    "completion": "« passion » désigne notamment Jus de fruit de la passion (slug: jus-passion, lang: und).",
+    "recipe_id": "jus-passion"
+  },
+  {
+    "id": "jus-passion-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Jus de fruit de la passion.",
+    "completion": "- 12 piece fruits de la passion bien mûrs\n- 600 ml eau froide\n- 60–80 g sucre\n- Jus d’½ citron, facultatif",
     "recipe_id": "jus-passion"
   },
   {
@@ -1400,6 +2488,38 @@
     "recipe_id": "jus-safou"
   },
   {
+    "id": "jus-safou-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « nsafu » ?",
+    "completion": "« nsafu » désigne notamment Jus de safou (slug: jus-safou, lang: kg).",
+    "recipe_id": "jus-safou"
+  },
+  {
+    "id": "jus-safou-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « safou » ?",
+    "completion": "« safou » désigne notamment Jus de safou (slug: jus-safou, lang: fr).",
+    "recipe_id": "jus-safou"
+  },
+  {
+    "id": "jus-safou-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bush butter fruit » ?",
+    "completion": "« bush butter fruit » désigne notamment Jus de safou (slug: jus-safou, lang: en).",
+    "recipe_id": "jus-safou"
+  },
+  {
+    "id": "jus-safou-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Jus de safou.",
+    "completion": "- 10 piece nsafu (safou) bien mûrs\n- 700 ml eau\n- 50–80 g sucre\n- 1 pinch sel, facultatif",
+    "recipe_id": "jus-safou"
+  },
+  {
     "id": "kabambale-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1437,6 +2557,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Kabambale ?",
     "completion": "Kabambale peut aussi être appelé : poisson séché, kabambale, conserve, bassin du Congo, sauce tomate.",
+    "recipe_id": "kabambale"
+  },
+  {
+    "id": "kabambale-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson séché » ?",
+    "completion": "« poisson séché » désigne notamment Kabambale (slug: kabambale, lang: fr).",
+    "recipe_id": "kabambale"
+  },
+  {
+    "id": "kabambale-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « kabambale » ?",
+    "completion": "« kabambale » désigne notamment Kabambale (slug: kabambale, lang: und).",
+    "recipe_id": "kabambale"
+  },
+  {
+    "id": "kabambale-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « conserve » ?",
+    "completion": "« conserve » désigne notamment Kabambale (slug: kabambale, lang: und).",
+    "recipe_id": "kabambale"
+  },
+  {
+    "id": "kabambale-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Kabambale.",
+    "completion": "- 300 g kabambale (poisson séché)\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 2 clove ail\n- 3 tbsp huile de palme ou neutre\n- Pili-pili, sel\n- 250 ml eau",
     "recipe_id": "kabambale"
   },
   {
@@ -1480,6 +2632,38 @@
     "recipe_id": "kamundele"
   },
   {
+    "id": "kamundele-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « brochettes de bœuf » ?",
+    "completion": "« brochettes de bœuf » désigne notamment Kamundele (slug: kamundele, lang: fr).",
+    "recipe_id": "kamundele"
+  },
+  {
+    "id": "kamundele-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mishikaki » ?",
+    "completion": "« mishikaki » désigne notamment Kamundele (slug: kamundele, lang: sw).",
+    "recipe_id": "kamundele"
+  },
+  {
+    "id": "kamundele-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « kamundele » ?",
+    "completion": "« kamundele » désigne notamment Kamundele (slug: kamundele, lang: und).",
+    "recipe_id": "kamundele"
+  },
+  {
+    "id": "kamundele-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Kamundele.",
+    "completion": "- 700 g bœuf tendre\n- 1 piece oignon, râpé\n- 2 clove ail, écrasées\n- 1 tsp gingembre râpé\n- 1 tbsp jus de citron\n- 2 tbsp huile\n- Piment moulu, selon le goût\n- Sel et poivre",
+    "recipe_id": "kamundele"
+  },
+  {
     "id": "kapenta-tomates-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1517,6 +2701,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Kapenta aux tomates ?",
     "completion": "Kapenta aux tomates peut aussi être appelé : kapenta, dagaa, Haut-Katanga, Tanganyika.",
+    "recipe_id": "kapenta-tomates"
+  },
+  {
+    "id": "kapenta-tomates-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « kapenta » ?",
+    "completion": "« kapenta » désigne notamment Kapenta aux tomates (slug: kapenta-tomates, lang: sw).",
+    "recipe_id": "kapenta-tomates"
+  },
+  {
+    "id": "kapenta-tomates-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « dagaa » ?",
+    "completion": "« dagaa » désigne notamment Kapenta aux tomates (slug: kapenta-tomates, lang: sw).",
+    "recipe_id": "kapenta-tomates"
+  },
+  {
+    "id": "kapenta-tomates-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « Haut-Katanga » ?",
+    "completion": "« Haut-Katanga » désigne notamment Kapenta aux tomates (slug: kapenta-tomates, lang: und).",
+    "recipe_id": "kapenta-tomates"
+  },
+  {
+    "id": "kapenta-tomates-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Kapenta aux tomates.",
+    "completion": "- 400 g kapenta frais ou séchés\n- 4 piece tomates mûres, concassées\n- 2 piece oignons, émincés\n- 2 clove ail, hachées\n- 4 tbsp huile\n- 1 piece petit piment\n- Sel et poivre\n- 100 ml eau",
     "recipe_id": "kapenta-tomates"
   },
   {
@@ -1560,6 +2776,38 @@
     "recipe_id": "kossa-kossa"
   },
   {
+    "id": "kossa-kossa-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « crevettes séchées » ?",
+    "completion": "« crevettes séchées » désigne notamment Kossa-kossa (slug: kossa-kossa, lang: fr).",
+    "recipe_id": "kossa-kossa"
+  },
+  {
+    "id": "kossa-kossa-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « kossa » ?",
+    "completion": "« kossa » désigne notamment Kossa-kossa (slug: kossa-kossa, lang: ln).",
+    "recipe_id": "kossa-kossa"
+  },
+  {
+    "id": "kossa-kossa-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « crevettes » ?",
+    "completion": "« crevettes » désigne notamment Kossa-kossa (slug: kossa-kossa, lang: und).",
+    "recipe_id": "kossa-kossa"
+  },
+  {
+    "id": "kossa-kossa-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Kossa-kossa.",
+    "completion": "- 200 g kossa-kossa (crevettes séchées)\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 2 clove ail\n- 2 tbsp huile de palme\n- 1 piece petit piment\n- Sel et eau",
+    "recipe_id": "kossa-kossa"
+  },
+  {
     "id": "liboke-poisson-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1597,6 +2845,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Liboke de poisson ?",
     "completion": "Liboke de poisson peut aussi être appelé : liboké, maboke, en papillote congolaise, liboke ya mbisi, liboke, feuille de bananier, vapeur.",
+    "recipe_id": "liboke-poisson"
+  },
+  {
+    "id": "liboke-poisson-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « liboké » ?",
+    "completion": "« liboké » désigne notamment Liboke de poisson (slug: liboke-poisson, lang: fr).",
+    "recipe_id": "liboke-poisson"
+  },
+  {
+    "id": "liboke-poisson-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « maboke » ?",
+    "completion": "« maboke » désigne notamment Liboke de poisson (slug: liboke-poisson, lang: ln).",
+    "recipe_id": "liboke-poisson"
+  },
+  {
+    "id": "liboke-poisson-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « en papillote congolaise » ?",
+    "completion": "« en papillote congolaise » désigne notamment Liboke de poisson (slug: liboke-poisson, lang: fr).",
+    "recipe_id": "liboke-poisson"
+  },
+  {
+    "id": "liboke-poisson-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Liboke de poisson.",
+    "completion": "- 4 piece filets ou darnes de capitaine / tilapia\n- 2 piece oignons, en rondelles\n- 2 piece tomates, en tranches\n- 1 piece poivron, en lanières\n- 3 tbsp huile de palme\n- 1 tbsp poudre de piment doux (ou pili-pili selon goût)\n- Sel, poivre, cube de bouillon\n- 4 piece grandes feuilles de bananier (ou papier cuisson + papier alu)",
     "recipe_id": "liboke-poisson"
   },
   {
@@ -1640,6 +2920,38 @@
     "recipe_id": "liboke-viande"
   },
   {
+    "id": "liboke-viande-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « liboké ya ngulu » ?",
+    "completion": "« liboké ya ngulu » désigne notamment Liboke de viande (slug: liboke-viande, lang: ln).",
+    "recipe_id": "liboke-viande"
+  },
+  {
+    "id": "liboke-viande-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « maboke » ?",
+    "completion": "« maboke » désigne notamment Liboke de viande (slug: liboke-viande, lang: ln).",
+    "recipe_id": "liboke-viande"
+  },
+  {
+    "id": "liboke-viande-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « feuille de bananier » ?",
+    "completion": "« feuille de bananier » désigne notamment Liboke de viande (slug: liboke-viande, lang: und).",
+    "recipe_id": "liboke-viande"
+  },
+  {
+    "id": "liboke-viande-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Liboke de viande.",
+    "completion": "- 800 g bœuf ou de chèvre en morceaux\n- 2 piece oignons, en rondelles\n- 2 piece tomates, en tranches\n- 1 piece poivron, en lanières\n- 3 tbsp huile de palme\n- 2 clove ail, écrasées\n- 1 tsp gingembre râpé\n- Sel, piment, cube de bouillon\n- 4 piece grandes feuilles de bananier",
+    "recipe_id": "liboke-viande"
+  },
+  {
     "id": "lituma-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1677,6 +2989,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Lituma ?",
     "completion": "Lituma peut aussi être appelé : plantain pilé, fufu ya makemba, lituma, plantain, Équateur, accompagnement.",
+    "recipe_id": "lituma"
+  },
+  {
+    "id": "lituma-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « plantain pilé » ?",
+    "completion": "« plantain pilé » désigne notamment Lituma (slug: lituma, lang: fr).",
+    "recipe_id": "lituma"
+  },
+  {
+    "id": "lituma-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « fufu ya makemba » ?",
+    "completion": "« fufu ya makemba » désigne notamment Lituma (slug: lituma, lang: ln).",
+    "recipe_id": "lituma"
+  },
+  {
+    "id": "lituma-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « lituma » ?",
+    "completion": "« lituma » désigne notamment Lituma (slug: lituma, lang: und).",
+    "recipe_id": "lituma"
+  },
+  {
+    "id": "lituma-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Lituma.",
+    "completion": "- 6 piece bananes plantains vertes\n- Eau\n- 1 pinch sel, facultative\n- 1 tsp huile pour façonner",
     "recipe_id": "lituma"
   },
   {
@@ -1720,6 +3064,38 @@
     "recipe_id": "loso-mayonnaise"
   },
   {
+    "id": "loso-mayonnaise-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « riz mayonnaise » ?",
+    "completion": "« riz mayonnaise » désigne notamment Loso mayonnaise (slug: loso-mayonnaise, lang: fr).",
+    "recipe_id": "loso-mayonnaise"
+  },
+  {
+    "id": "loso-mayonnaise-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « loso mayo » ?",
+    "completion": "« loso mayo » désigne notamment Loso mayonnaise (slug: loso-mayonnaise, lang: ln).",
+    "recipe_id": "loso-mayonnaise"
+  },
+  {
+    "id": "loso-mayonnaise-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « loso » ?",
+    "completion": "« loso » désigne notamment Loso mayonnaise (slug: loso-mayonnaise, lang: und).",
+    "recipe_id": "loso-mayonnaise"
+  },
+  {
+    "id": "loso-mayonnaise-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Loso mayonnaise.",
+    "completion": "- 400 g riz long\n- 750 ml eau\n- 1 tsp sel\n- 150 ml mayonnaise\n- 1 clove ail, écrasée, facultatif\n- 1 tsp moutarde, facultatif\n- Pili-pili et poivre\n- 1 tbsp jus de citron, facultatif",
+    "recipe_id": "loso-mayonnaise"
+  },
+  {
     "id": "loso-na-madesu-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1757,6 +3133,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Loso na madesu ?",
     "completion": "Loso na madesu peut aussi être appelé : riz aux haricots, loso na madesu, rice and beans, riz haricots, madesu, Kinshasa, quotidien.",
+    "recipe_id": "loso-na-madesu"
+  },
+  {
+    "id": "loso-na-madesu-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « riz aux haricots » ?",
+    "completion": "« riz aux haricots » désigne notamment Loso na madesu (slug: loso-na-madesu, lang: fr).",
+    "recipe_id": "loso-na-madesu"
+  },
+  {
+    "id": "loso-na-madesu-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « loso na madesu » ?",
+    "completion": "« loso na madesu » désigne notamment Loso na madesu (slug: loso-na-madesu, lang: ln).",
+    "recipe_id": "loso-na-madesu"
+  },
+  {
+    "id": "loso-na-madesu-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « rice and beans » ?",
+    "completion": "« rice and beans » désigne notamment Loso na madesu (slug: loso-na-madesu, lang: en).",
+    "recipe_id": "loso-na-madesu"
+  },
+  {
+    "id": "loso-na-madesu-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Loso na madesu.",
+    "completion": "- 400 g haricots rouges ou bruns secs\n- 400 g riz\n- 2 piece oignons, émincés\n- 2 piece tomates, concassées\n- 3 tbsp huile de palme rouge (ou huile neutre)\n- 2 clove ail, hachées\n- 1 leaf laurier\n- Sel\n- Eau",
     "recipe_id": "loso-na-madesu"
   },
   {
@@ -1800,6 +3208,38 @@
     "recipe_id": "loso-petits-pois"
   },
   {
+    "id": "loso-petits-pois-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « riz aux petits pois » ?",
+    "completion": "« riz aux petits pois » désigne notamment Loso na petits pois (slug: loso-petits-pois, lang: fr).",
+    "recipe_id": "loso-petits-pois"
+  },
+  {
+    "id": "loso-petits-pois-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « loso na pois » ?",
+    "completion": "« loso na pois » désigne notamment Loso na petits pois (slug: loso-petits-pois, lang: ln).",
+    "recipe_id": "loso-petits-pois"
+  },
+  {
+    "id": "loso-petits-pois-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « riz » ?",
+    "completion": "« riz » désigne notamment Loso na petits pois (slug: loso-petits-pois, lang: und).",
+    "recipe_id": "loso-petits-pois"
+  },
+  {
+    "id": "loso-petits-pois-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Loso na petits pois.",
+    "completion": "- 500 g riz long\n- 250 g petits pois\n- 1 piece oignon, finement haché\n- 1 piece carotte, coupée en petits dés\n- 2 tbsp huile\n- 900 ml bouillon léger\n- 1 leaf laurier\n- Sel et poivre",
+    "recipe_id": "loso-petits-pois"
+  },
+  {
     "id": "loso-sauce-katanga-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1837,6 +3277,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Loso ya sauce ?",
     "completion": "Loso ya sauce peut aussi être appelé : riz sauce tomate, loso ya sauce, wali na mchuzi, loso, riz, Katanga, Lubumbashi, sauce tomate.",
+    "recipe_id": "loso-sauce-katanga"
+  },
+  {
+    "id": "loso-sauce-katanga-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « riz sauce tomate » ?",
+    "completion": "« riz sauce tomate » désigne notamment Loso ya sauce (slug: loso-sauce-katanga, lang: fr).",
+    "recipe_id": "loso-sauce-katanga"
+  },
+  {
+    "id": "loso-sauce-katanga-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « loso ya sauce » ?",
+    "completion": "« loso ya sauce » désigne notamment Loso ya sauce (slug: loso-sauce-katanga, lang: ln).",
+    "recipe_id": "loso-sauce-katanga"
+  },
+  {
+    "id": "loso-sauce-katanga-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « wali na mchuzi » ?",
+    "completion": "« wali na mchuzi » désigne notamment Loso ya sauce (slug: loso-sauce-katanga, lang: sw).",
+    "recipe_id": "loso-sauce-katanga"
+  },
+  {
+    "id": "loso-sauce-katanga-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Loso ya sauce.",
+    "completion": "- 400 g riz\n- 500 g bœuf ou de poulet en morceaux\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 3 clove ail\n- 3 tbsp huile\n- Sel, poivre, pili-pili\n- 300 ml eau pour la sauce",
     "recipe_id": "loso-sauce-katanga"
   },
   {
@@ -1880,6 +3352,38 @@
     "recipe_id": "madesu"
   },
   {
+    "id": "madesu-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « haricots » ?",
+    "completion": "« haricots » désigne notamment Madesu (slug: madesu, lang: fr).",
+    "recipe_id": "madesu"
+  },
+  {
+    "id": "madesu-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « madesu » ?",
+    "completion": "« madesu » désigne notamment Madesu (slug: madesu, lang: ln).",
+    "recipe_id": "madesu"
+  },
+  {
+    "id": "madesu-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « beans » ?",
+    "completion": "« beans » désigne notamment Madesu (slug: madesu, lang: en).",
+    "recipe_id": "madesu"
+  },
+  {
+    "id": "madesu-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Madesu.",
+    "completion": "- 500 g haricots rouges ou bruns secs\n- 2 piece oignons, émincés\n- 3 piece tomates mûres, concassées\n- 3 tbsp huile de palme rouge\n- 2 clove ail, hachées\n- 1 leaf laurier\n- 1 piece petit piment entier, facultatif\n- Sel et eau",
+    "recipe_id": "madesu"
+  },
+  {
     "id": "makayabu-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1917,6 +3421,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Makayabu aux tomates ?",
     "completion": "Makayabu aux tomates peut aussi être appelé : poisson salé, morue salée, makayabu, oignon, morue.",
+    "recipe_id": "makayabu"
+  },
+  {
+    "id": "makayabu-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson salé » ?",
+    "completion": "« poisson salé » désigne notamment Makayabu aux tomates (slug: makayabu, lang: fr).",
+    "recipe_id": "makayabu"
+  },
+  {
+    "id": "makayabu-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « morue salée » ?",
+    "completion": "« morue salée » désigne notamment Makayabu aux tomates (slug: makayabu, lang: fr).",
+    "recipe_id": "makayabu"
+  },
+  {
+    "id": "makayabu-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « makayabu » ?",
+    "completion": "« makayabu » désigne notamment Makayabu aux tomates (slug: makayabu, lang: ln).",
+    "recipe_id": "makayabu"
+  },
+  {
+    "id": "makayabu-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Makayabu aux tomates.",
+    "completion": "- 600 g poisson salé séché\n- 4 piece tomates mûres, concassées\n- 2 piece gros oignons, émincés\n- 2 clove ail, hachées\n- 3 tbsp huile\n- 1 piece petit piment, facultatif\n- Poivre noir\n- Eau",
     "recipe_id": "makayabu"
   },
   {
@@ -1960,6 +3496,38 @@
     "recipe_id": "makemba"
   },
   {
+    "id": "makemba-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bananes plantains frites » ?",
+    "completion": "« bananes plantains frites » désigne notamment Makemba (slug: makemba, lang: fr).",
+    "recipe_id": "makemba"
+  },
+  {
+    "id": "makemba-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « makemba » ?",
+    "completion": "« makemba » désigne notamment Makemba (slug: makemba, lang: und).",
+    "recipe_id": "makemba"
+  },
+  {
+    "id": "makemba-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « plantains frits » ?",
+    "completion": "« plantains frits » désigne notamment Makemba (slug: makemba, lang: und).",
+    "recipe_id": "makemba"
+  },
+  {
+    "id": "makemba-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Makemba.",
+    "completion": "- 4 piece bananes plantain mûres\n- Huile de friture\n- 1 pinch sel",
+    "recipe_id": "makemba"
+  },
+  {
     "id": "makemba-na-mbisi-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1997,6 +3565,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Makemba na mbisi ?",
     "completion": "Makemba na mbisi peut aussi être appelé : plantains et poisson, makemba, mbisi, plantain, assiette.",
+    "recipe_id": "makemba-na-mbisi"
+  },
+  {
+    "id": "makemba-na-mbisi-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « plantains et poisson » ?",
+    "completion": "« plantains et poisson » désigne notamment Makemba na mbisi (slug: makemba-na-mbisi, lang: fr).",
+    "recipe_id": "makemba-na-mbisi"
+  },
+  {
+    "id": "makemba-na-mbisi-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « makemba » ?",
+    "completion": "« makemba » désigne notamment Makemba na mbisi (slug: makemba-na-mbisi, lang: und).",
+    "recipe_id": "makemba-na-mbisi"
+  },
+  {
+    "id": "makemba-na-mbisi-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbisi » ?",
+    "completion": "« mbisi » désigne notamment Makemba na mbisi (slug: makemba-na-mbisi, lang: und).",
+    "recipe_id": "makemba-na-mbisi"
+  },
+  {
+    "id": "makemba-na-mbisi-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Makemba na mbisi.",
+    "completion": "- 4 piece bananes plantain mûres\n- 600 g poisson (tilapia, capitaine ou poisson fumé)\n- Huile de friture\n- 1 piece oignon, émincé\n- 2 piece tomates, concassées\n- 2 clove ail\n- Jus de 1 citron\n- Sel, pili-pili",
     "recipe_id": "makemba-na-mbisi"
   },
   {
@@ -2040,6 +3640,38 @@
     "recipe_id": "makoso"
   },
   {
+    "id": "makoso-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pieds de porc » ?",
+    "completion": "« pieds de porc » désigne notamment Makoso (slug: makoso, lang: fr).",
+    "recipe_id": "makoso"
+  },
+  {
+    "id": "makoso-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « makosso » ?",
+    "completion": "« makosso » désigne notamment Makoso (slug: makoso, lang: ln).",
+    "recipe_id": "makoso"
+  },
+  {
+    "id": "makoso-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « makoso » ?",
+    "completion": "« makoso » désigne notamment Makoso (slug: makoso, lang: und).",
+    "recipe_id": "makoso"
+  },
+  {
+    "id": "makoso-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Makoso.",
+    "completion": "- 1.5 kg pieds de porc, coupés et bien nettoyés\n- 2 piece oignons, émincés\n- 4 clove ail\n- 3 piece cm de gingembre\n- 2 piece tomates, concassées, facultatif\n- 2 tbsp huile\n- 1 piece bouquet garni (céleri, laurier, thym)\n- 1 piece à 2 piments selon le goût\n- 1 cube bouillon\n- Sel et poivre\n- Eau",
+    "recipe_id": "makoso"
+  },
+  {
     "id": "makosso-pommes-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2077,6 +3709,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Makosso aux pommes de terre ?",
     "completion": "Makosso aux pommes de terre peut aussi être appelé : makoso, pieds de porc aux pommes de terre, makosso, pieds de porc, pommes de terre, Kasaï, mijoté.",
+    "recipe_id": "makosso-pommes"
+  },
+  {
+    "id": "makosso-pommes-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « makoso » ?",
+    "completion": "« makoso » désigne notamment Makosso aux pommes de terre (slug: makosso-pommes, lang: ln).",
+    "recipe_id": "makosso-pommes"
+  },
+  {
+    "id": "makosso-pommes-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pieds de porc aux pommes de terre » ?",
+    "completion": "« pieds de porc aux pommes de terre » désigne notamment Makosso aux pommes de terre (slug: makosso-pommes, lang: fr).",
+    "recipe_id": "makosso-pommes"
+  },
+  {
+    "id": "makosso-pommes-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « makosso » ?",
+    "completion": "« makosso » désigne notamment Makosso aux pommes de terre (slug: makosso-pommes, lang: und).",
+    "recipe_id": "makosso-pommes"
+  },
+  {
+    "id": "makosso-pommes-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Makosso aux pommes de terre.",
+    "completion": "- 1.5 kg pieds de porc, coupés et bien nettoyés\n- 1 kg pommes de terre\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 4 clove ail\n- 2 tbsp huile\n- 1 leaf laurier, facultatif\n- Sel, poivre, pili-pili\n- Eau",
     "recipe_id": "makosso-pommes"
   },
   {
@@ -2120,6 +3784,38 @@
     "recipe_id": "manioc-grille"
   },
   {
+    "id": "manioc-grille-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sango ya kotumba » ?",
+    "completion": "« sango ya kotumba » désigne notamment Manioc grillé (slug: manioc-grille, lang: ln).",
+    "recipe_id": "manioc-grille"
+  },
+  {
+    "id": "manioc-grille-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « manioc braisé » ?",
+    "completion": "« manioc braisé » désigne notamment Manioc grillé (slug: manioc-grille, lang: fr).",
+    "recipe_id": "manioc-grille"
+  },
+  {
+    "id": "manioc-grille-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « manioc » ?",
+    "completion": "« manioc » désigne notamment Manioc grillé (slug: manioc-grille, lang: und).",
+    "recipe_id": "manioc-grille"
+  },
+  {
+    "id": "manioc-grille-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Manioc grillé.",
+    "completion": "- 1 kg manioc doux\n- 1 tbsp huile\n- Sel\n- Pili-pili pour servir",
+    "recipe_id": "manioc-grille"
+  },
+  {
     "id": "matembele-katanga-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2157,6 +3853,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Matembele aux arachides ?",
     "completion": "Matembele aux arachides peut aussi être appelé : matembele, feuilles de patate douce, sweet potato leaves, arachides, Grand Katanga, Lubumbashi.",
+    "recipe_id": "matembele-katanga"
+  },
+  {
+    "id": "matembele-katanga-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « matembele » ?",
+    "completion": "« matembele » désigne notamment Matembele aux arachides (slug: matembele-katanga, lang: sw).",
+    "recipe_id": "matembele-katanga"
+  },
+  {
+    "id": "matembele-katanga-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « feuilles de patate douce » ?",
+    "completion": "« feuilles de patate douce » désigne notamment Matembele aux arachides (slug: matembele-katanga, lang: fr).",
+    "recipe_id": "matembele-katanga"
+  },
+  {
+    "id": "matembele-katanga-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sweet potato leaves » ?",
+    "completion": "« sweet potato leaves » désigne notamment Matembele aux arachides (slug: matembele-katanga, lang: en).",
+    "recipe_id": "matembele-katanga"
+  },
+  {
+    "id": "matembele-katanga-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Matembele aux arachides.",
+    "completion": "- 3 bunch feuilles de patate douce\n- 100 g arachides grillées et pilées\n- 3 piece tomates mûres, concassées\n- 1 piece gros oignon, émincé\n- 2 tbsp huile de palme ou d’huile végétale\n- 1 piece petit piment, selon le goût\n- Sel\n- 250 ml eau",
     "recipe_id": "matembele-katanga"
   },
   {
@@ -2200,6 +3928,38 @@
     "recipe_id": "mayebo"
   },
   {
+    "id": "mayebo-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « champignons de forêt » ?",
+    "completion": "« champignons de forêt » désigne notamment Mayebo aux tomates (slug: mayebo, lang: fr).",
+    "recipe_id": "mayebo"
+  },
+  {
+    "id": "mayebo-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mayebo » ?",
+    "completion": "« mayebo » désigne notamment Mayebo aux tomates (slug: mayebo, lang: ln).",
+    "recipe_id": "mayebo"
+  },
+  {
+    "id": "mayebo-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « champignons » ?",
+    "completion": "« champignons » désigne notamment Mayebo aux tomates (slug: mayebo, lang: und).",
+    "recipe_id": "mayebo"
+  },
+  {
+    "id": "mayebo-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Mayebo aux tomates.",
+    "completion": "- 700 g champignons comestibles fermes\n- 3 piece tomates mûres, concassées\n- 1 piece gros oignon, émincé\n- 2 clove ail, hachées\n- 3 tbsp huile de palme rouge\n- 1 piece petit piment, facultatif\n- Sel et poivre",
+    "recipe_id": "mayebo"
+  },
+  {
     "id": "mbala-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2237,6 +3997,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mbala ?",
     "completion": "Mbala peut aussi être appelé : patate douce, sweet potato, mbala, tubercule, bouilli, accompagnement.",
+    "recipe_id": "mbala"
+  },
+  {
+    "id": "mbala-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « patate douce » ?",
+    "completion": "« patate douce » désigne notamment Mbala (slug: mbala, lang: fr).",
+    "recipe_id": "mbala"
+  },
+  {
+    "id": "mbala-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sweet potato » ?",
+    "completion": "« sweet potato » désigne notamment Mbala (slug: mbala, lang: en).",
+    "recipe_id": "mbala"
+  },
+  {
+    "id": "mbala-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbala » ?",
+    "completion": "« mbala » désigne notamment Mbala (slug: mbala, lang: und).",
+    "recipe_id": "mbala"
+  },
+  {
+    "id": "mbala-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Mbala.",
+    "completion": "- 1 kg patates douces (mbala)\n- Eau\n- 1 tsp sel\n- 1 tbsp huile ou un noix de beurre, facultatif",
     "recipe_id": "mbala"
   },
   {
@@ -2280,6 +4072,38 @@
     "recipe_id": "mbala-grillee"
   },
   {
+    "id": "mbala-grillee-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « patate douce grillée » ?",
+    "completion": "« patate douce grillée » désigne notamment Mbala grillée (slug: mbala-grillee, lang: fr).",
+    "recipe_id": "mbala-grillee"
+  },
+  {
+    "id": "mbala-grillee-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbala ya kotumba » ?",
+    "completion": "« mbala ya kotumba » désigne notamment Mbala grillée (slug: mbala-grillee, lang: ln).",
+    "recipe_id": "mbala-grillee"
+  },
+  {
+    "id": "mbala-grillee-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbala » ?",
+    "completion": "« mbala » désigne notamment Mbala grillée (slug: mbala-grillee, lang: und).",
+    "recipe_id": "mbala-grillee"
+  },
+  {
+    "id": "mbala-grillee-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Mbala grillée.",
+    "completion": "- 1 kg patates douces (mbala), lavées\n- 1 pinch sel, facultatif\n- 1 tbsp huile, facultatif",
+    "recipe_id": "mbala-grillee"
+  },
+  {
     "id": "mbika-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2317,6 +4141,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mbika ?",
     "completion": "Mbika peut aussi être appelé : graines de courge, egusi, mbika, papillote.",
+    "recipe_id": "mbika"
+  },
+  {
+    "id": "mbika-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « graines de courge » ?",
+    "completion": "« graines de courge » désigne notamment Mbika (slug: mbika, lang: fr).",
+    "recipe_id": "mbika"
+  },
+  {
+    "id": "mbika-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « egusi » ?",
+    "completion": "« egusi » désigne notamment Mbika (slug: mbika, lang: en).",
+    "recipe_id": "mbika"
+  },
+  {
+    "id": "mbika-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbika » ?",
+    "completion": "« mbika » désigne notamment Mbika (slug: mbika, lang: ln).",
+    "recipe_id": "mbika"
+  },
+  {
+    "id": "mbika-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Mbika.",
+    "completion": "- 400 g graines de courge décortiquées\n- 1 piece oignon, finement haché\n- 2 clove ail\n- 1 piece petit piment, selon le goût\n- 3 tbsp huile de palme rouge\n- 150 ml eau tiède\n- Sel\n- Feuilles de bananier propres et assouplies",
     "recipe_id": "mbika"
   },
   {
@@ -2360,6 +4216,38 @@
     "recipe_id": "mbinzo-grillees"
   },
   {
+    "id": "mbinzo-grillees-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « chenilles grillées » ?",
+    "completion": "« chenilles grillées » désigne notamment Mbinzo grillées (slug: mbinzo-grillees, lang: fr).",
+    "recipe_id": "mbinzo-grillees"
+  },
+  {
+    "id": "mbinzo-grillees-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbinzo » ?",
+    "completion": "« mbinzo » désigne notamment Mbinzo grillées (slug: mbinzo-grillees, lang: ln).",
+    "recipe_id": "mbinzo-grillees"
+  },
+  {
+    "id": "mbinzo-grillees-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ngala » ?",
+    "completion": "« ngala » désigne notamment Mbinzo grillées (slug: mbinzo-grillees, lang: kg).",
+    "recipe_id": "mbinzo-grillees"
+  },
+  {
+    "id": "mbinzo-grillees-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Mbinzo grillées.",
+    "completion": "- 300 g mbinzo (chenilles comestibles) déjà nettoyées\n- 1 piece oignon, émincé\n- 2 clove ail\n- 2 tbsp huile\n- Sel, poivre, pili-pili\n- Jus d’un demi-citron, facultatif",
+    "recipe_id": "mbinzo-grillees"
+  },
+  {
     "id": "mbinzo-tomates-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2397,6 +4285,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mbinzo aux tomates ?",
     "completion": "Mbinzo aux tomates peut aussi être appelé : chenilles, mbinzo, minzo, Bandundu.",
+    "recipe_id": "mbinzo-tomates"
+  },
+  {
+    "id": "mbinzo-tomates-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « chenilles » ?",
+    "completion": "« chenilles » désigne notamment Mbinzo aux tomates (slug: mbinzo-tomates, lang: fr).",
+    "recipe_id": "mbinzo-tomates"
+  },
+  {
+    "id": "mbinzo-tomates-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbinzo » ?",
+    "completion": "« mbinzo » désigne notamment Mbinzo aux tomates (slug: mbinzo-tomates, lang: ln).",
+    "recipe_id": "mbinzo-tomates"
+  },
+  {
+    "id": "mbinzo-tomates-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « minzo » ?",
+    "completion": "« minzo » désigne notamment Mbinzo aux tomates (slug: mbinzo-tomates, lang: fr).",
+    "recipe_id": "mbinzo-tomates"
+  },
+  {
+    "id": "mbinzo-tomates-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Mbinzo aux tomates.",
+    "completion": "- 300 g chenilles séchées comestibles\n- 3 piece tomates mûres, concassées\n- 2 piece oignons, émincés\n- 2 clove ail\n- 3 tbsp huile de palme ou d’huile végétale\n- Pili-pili, sel et poivre\n- Eau",
     "recipe_id": "mbinzo-tomates"
   },
   {
@@ -2440,6 +4360,38 @@
     "recipe_id": "mbisi-ya-kokalinga"
   },
   {
+    "id": "mbisi-ya-kokalinga-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson frit » ?",
+    "completion": "« poisson frit » désigne notamment Mbisi ya kokalinga (slug: mbisi-ya-kokalinga, lang: fr).",
+    "recipe_id": "mbisi-ya-kokalinga"
+  },
+  {
+    "id": "mbisi-ya-kokalinga-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbisi ya kokalinga » ?",
+    "completion": "« mbisi ya kokalinga » désigne notamment Mbisi ya kokalinga (slug: mbisi-ya-kokalinga, lang: ln).",
+    "recipe_id": "mbisi-ya-kokalinga"
+  },
+  {
+    "id": "mbisi-ya-kokalinga-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « fried fish » ?",
+    "completion": "« fried fish » désigne notamment Mbisi ya kokalinga (slug: mbisi-ya-kokalinga, lang: en).",
+    "recipe_id": "mbisi-ya-kokalinga"
+  },
+  {
+    "id": "mbisi-ya-kokalinga-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Mbisi ya kokalinga.",
+    "completion": "- 2 piece poissons entiers nettoyés d’environ 500 g chacun\n- 2 clove ail, écrasées\n- 1 tbsp jus de citron\n- 2 tbsp farine de manioc ou de blé\n- 1 tsp gingembre râpé\n- Huile pour friture\n- Sel et poivre\n- Pili-pili pour servir",
+    "recipe_id": "mbisi-ya-kokalinga"
+  },
+  {
     "id": "mikate-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2477,6 +4429,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mikate ?",
     "completion": "Mikate peut aussi être appelé : beignets congolais, puff-puff, mikate, beignet, levure, Kinshasa.",
+    "recipe_id": "mikate"
+  },
+  {
+    "id": "mikate-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « beignets congolais » ?",
+    "completion": "« beignets congolais » désigne notamment Mikate (slug: mikate, lang: fr).",
+    "recipe_id": "mikate"
+  },
+  {
+    "id": "mikate-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « puff-puff » ?",
+    "completion": "« puff-puff » désigne notamment Mikate (slug: mikate, lang: en).",
+    "recipe_id": "mikate"
+  },
+  {
+    "id": "mikate-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mikate » ?",
+    "completion": "« mikate » désigne notamment Mikate (slug: mikate, lang: und).",
+    "recipe_id": "mikate"
+  },
+  {
+    "id": "mikate-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Mikate.",
+    "completion": "- 500 g farine\n- 80 g sucre\n- 7 g levure boulangère sèche\n- 350 ml eau tiède\n- 1 pinch sel\n- Huile de friture\n- Pâte d’arachide pour accompagner (optionnel)",
     "recipe_id": "mikate"
   },
   {
@@ -2520,6 +4504,38 @@
     "recipe_id": "mikila"
   },
   {
+    "id": "mikila-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « queue de bœuf » ?",
+    "completion": "« queue de bœuf » désigne notamment Mikila (slug: mikila, lang: fr).",
+    "recipe_id": "mikila"
+  },
+  {
+    "id": "mikila-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « oxtail » ?",
+    "completion": "« oxtail » désigne notamment Mikila (slug: mikila, lang: en).",
+    "recipe_id": "mikila"
+  },
+  {
+    "id": "mikila-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mikila » ?",
+    "completion": "« mikila » désigne notamment Mikila (slug: mikila, lang: ln).",
+    "recipe_id": "mikila"
+  },
+  {
+    "id": "mikila-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Mikila.",
+    "completion": "- 1.5 kg queue de bœuf, coupée en tronçons\n- 3 piece oignons, émincés\n- 4 piece tomates mûres, concassées (ou 400 g de tomates concassées)\n- 4 clove ail, écrasées\n- 2 piece cm de gingembre, râpé\n- 2 tbsp concentré de tomate\n- 3 tbsp huile\n- 2 leaf laurier\n- 1 cube bouillon\n- Sel, poivre et pili-pili\n- Eau",
+    "recipe_id": "mikila"
+  },
+  {
     "id": "missole-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2557,6 +4573,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Missole ?",
     "completion": "Missole peut aussi être appelé : misolè, poisson séché en lamelles, missole, poisson séché, Kinshasa, conserve.",
+    "recipe_id": "missole"
+  },
+  {
+    "id": "missole-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « misolè » ?",
+    "completion": "« misolè » désigne notamment Missole (slug: missole, lang: fr).",
+    "recipe_id": "missole"
+  },
+  {
+    "id": "missole-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson séché en lamelles » ?",
+    "completion": "« poisson séché en lamelles » désigne notamment Missole (slug: missole, lang: fr).",
+    "recipe_id": "missole"
+  },
+  {
+    "id": "missole-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « missole » ?",
+    "completion": "« missole » désigne notamment Missole (slug: missole, lang: und).",
+    "recipe_id": "missole"
+  },
+  {
+    "id": "missole-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Missole.",
+    "completion": "- 250 g missole (lamelles de poisson séché)\n- 2 piece oignons, émincés\n- 2 piece tomates, concassées\n- 2 clove ail\n- 3 tbsp huile\n- Pili-pili, sel\n- 200 ml eau\n- 1 tbsp jus de citron, facultatif",
     "recipe_id": "missole"
   },
   {
@@ -2600,6 +4648,38 @@
     "recipe_id": "moambe-poulet"
   },
   {
+    "id": "moambe-poulet-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poulet à la moambe » ?",
+    "completion": "« poulet à la moambe » désigne notamment Poulet à la moambe (slug: moambe-poulet, lang: fr).",
+    "recipe_id": "moambe-poulet"
+  },
+  {
+    "id": "moambe-poulet-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mwambe » ?",
+    "completion": "« mwambe » désigne notamment Poulet à la moambe (slug: moambe-poulet, lang: ln).",
+    "recipe_id": "moambe-poulet"
+  },
+  {
+    "id": "moambe-poulet-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mwamba » ?",
+    "completion": "« mwamba » désigne notamment Poulet à la moambe (slug: moambe-poulet, lang: ln).",
+    "recipe_id": "moambe-poulet"
+  },
+  {
+    "id": "moambe-poulet-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Poulet à la moambe.",
+    "completion": "- 1 piece poulet coupé en morceaux\n- 400 ml crème / pulpe de noix de palme (moambe)\n- 2 piece oignons\n- 3 piece tomates\n- 2 clove ail\n- 1 stalk céleri ou feuilles de basilic congolais (optionnel)\n- Huile, sel, cube de bouillon, piment",
+    "recipe_id": "moambe-poulet"
+  },
+  {
     "id": "mujibujibu-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2637,6 +4717,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Mujibujibu ?",
     "completion": "Mujibujibu peut aussi être appelé : feuilles de courge, mujibujibu, Kasaï, arachides, poisson fumé.",
+    "recipe_id": "mujibujibu"
+  },
+  {
+    "id": "mujibujibu-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « feuilles de courge » ?",
+    "completion": "« feuilles de courge » désigne notamment Mujibujibu (slug: mujibujibu, lang: fr).",
+    "recipe_id": "mujibujibu"
+  },
+  {
+    "id": "mujibujibu-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mujibujibu » ?",
+    "completion": "« mujibujibu » désigne notamment Mujibujibu (slug: mujibujibu, lang: lua).",
+    "recipe_id": "mujibujibu"
+  },
+  {
+    "id": "mujibujibu-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « Kasaï » ?",
+    "completion": "« Kasaï » désigne notamment Mujibujibu (slug: mujibujibu, lang: und).",
+    "recipe_id": "mujibujibu"
+  },
+  {
+    "id": "mujibujibu-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Mujibujibu.",
+    "completion": "- 3 bunch jeunes feuilles de courge\n- 150 g arachides fraîches moulues\n- 250 g poisson fumé\n- 1 piece oignon, émincé\n- 2 tbsp huile de palme\n- 1 piece petit piment\n- Sel\n- 400 ml eau",
     "recipe_id": "mujibujibu"
   },
   {
@@ -2680,6 +4792,38 @@
     "recipe_id": "mukeke-grille"
   },
   {
+    "id": "mukeke-grille-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mukeke » ?",
+    "completion": "« mukeke » désigne notamment Mukeke grillé (slug: mukeke-grille, lang: sw).",
+    "recipe_id": "mukeke-grille"
+  },
+  {
+    "id": "mukeke-grille-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson du Tanganyika » ?",
+    "completion": "« poisson du Tanganyika » désigne notamment Mukeke grillé (slug: mukeke-grille, lang: fr).",
+    "recipe_id": "mukeke-grille"
+  },
+  {
+    "id": "mukeke-grille-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « Tanganyika » ?",
+    "completion": "« Tanganyika » désigne notamment Mukeke grillé (slug: mukeke-grille, lang: und).",
+    "recipe_id": "mukeke-grille"
+  },
+  {
+    "id": "mukeke-grille-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Mukeke grillé.",
+    "completion": "- 1 piece mukeke (ou autre gros poisson de lac), 1,2 à 1,5 kg, vidé et ouvert en portefeuille\n- Jus de 2 citrons\n- 4 clove ail, écrasées\n- 1 piece oignon, émincé\n- 2 tbsp huile\n- 1 tsp gingembre râpé, facultatif\n- Sel, poivre, pili-pili\n- Quelques brins de persil ou coriandre, facultatif",
+    "recipe_id": "mukeke-grille"
+  },
+  {
     "id": "munkoyo-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2717,6 +4861,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Munkoyo ?",
     "completion": "Munkoyo peut aussi être appelé : munkoyo, boisson de maïs fermenté, maïs, fermentation, boisson, Haut-Katanga.",
+    "recipe_id": "munkoyo"
+  },
+  {
+    "id": "munkoyo-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « munkoyo » ?",
+    "completion": "« munkoyo » désigne notamment Munkoyo (slug: munkoyo, lang: sw).",
+    "recipe_id": "munkoyo"
+  },
+  {
+    "id": "munkoyo-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « boisson de maïs fermenté » ?",
+    "completion": "« boisson de maïs fermenté » désigne notamment Munkoyo (slug: munkoyo, lang: fr).",
+    "recipe_id": "munkoyo"
+  },
+  {
+    "id": "munkoyo-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « maïs » ?",
+    "completion": "« maïs » désigne notamment Munkoyo (slug: munkoyo, lang: und).",
+    "recipe_id": "munkoyo"
+  },
+  {
+    "id": "munkoyo-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Munkoyo.",
+    "completion": "- 300 g farine de maïs\n- 2.5 l eau potable\n- 20 g racines de munkoyo séchées de qualité alimentaire\n- 60 g sucre, facultatif",
     "recipe_id": "munkoyo"
   },
   {
@@ -2760,6 +4936,38 @@
     "recipe_id": "ndagala-tomates"
   },
   {
+    "id": "ndagala-tomates-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ndagala » ?",
+    "completion": "« ndagala » désigne notamment Ndagala aux tomates (slug: ndagala-tomates, lang: sw).",
+    "recipe_id": "ndagala-tomates"
+  },
+  {
+    "id": "ndagala-tomates-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « petits poissons du Kivu » ?",
+    "completion": "« petits poissons du Kivu » désigne notamment Ndagala aux tomates (slug: ndagala-tomates, lang: fr).",
+    "recipe_id": "ndagala-tomates"
+  },
+  {
+    "id": "ndagala-tomates-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « Kivu » ?",
+    "completion": "« Kivu » désigne notamment Ndagala aux tomates (slug: ndagala-tomates, lang: und).",
+    "recipe_id": "ndagala-tomates"
+  },
+  {
+    "id": "ndagala-tomates-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Ndagala aux tomates.",
+    "completion": "- 400 g ndagala frais ou séchés\n- 4 piece tomates mûres, concassées\n- 2 piece oignons, émincés\n- 2 clove ail, hachées\n- 4 tbsp huile\n- 1 piece petit piment\n- Sel et poivre\n- 100 ml eau",
+    "recipe_id": "ndagala-tomates"
+  },
+  {
     "id": "ndunda-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2797,6 +5005,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Ndunda ?",
     "completion": "Ndunda peut aussi être appelé : ndúnda, lenga-lenga, ndunda, légumes verts, épinard, Kinshasa, quotidien.",
+    "recipe_id": "ndunda"
+  },
+  {
+    "id": "ndunda-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ndúnda » ?",
+    "completion": "« ndúnda » désigne notamment Ndunda (slug: ndunda, lang: ln).",
+    "recipe_id": "ndunda"
+  },
+  {
+    "id": "ndunda-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « lenga-lenga » ?",
+    "completion": "« lenga-lenga » désigne notamment Ndunda (slug: ndunda, lang: ln).",
+    "recipe_id": "ndunda"
+  },
+  {
+    "id": "ndunda-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ndunda » ?",
+    "completion": "« ndunda » désigne notamment Ndunda (slug: ndunda, lang: und).",
+    "recipe_id": "ndunda"
+  },
+  {
+    "id": "ndunda-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Ndunda.",
+    "completion": "- 800 g feuilles vertes (épinard, amarante ou mélange)\n- 2 piece tomates mûres, concassées\n- 1 piece gros oignon, émincé\n- 2 clove ail, hachées\n- 3 tbsp huile (palme ou neutre)\n- 1 piece petit piment, facultatif\n- Sel\n- 150 ml eau",
     "recipe_id": "ndunda"
   },
   {
@@ -2840,6 +5080,38 @@
     "recipe_id": "ngai-ngai"
   },
   {
+    "id": "ngai-ngai-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « oseille » ?",
+    "completion": "« oseille » désigne notamment Ngai-ngai au poisson fumé (slug: ngai-ngai, lang: fr).",
+    "recipe_id": "ngai-ngai"
+  },
+  {
+    "id": "ngai-ngai-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « oseille de Guinée » ?",
+    "completion": "« oseille de Guinée » désigne notamment Ngai-ngai au poisson fumé (slug: ngai-ngai, lang: fr).",
+    "recipe_id": "ngai-ngai"
+  },
+  {
+    "id": "ngai-ngai-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ngai-ngai » ?",
+    "completion": "« ngai-ngai » désigne notamment Ngai-ngai au poisson fumé (slug: ngai-ngai, lang: ln).",
+    "recipe_id": "ngai-ngai"
+  },
+  {
+    "id": "ngai-ngai-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Ngai-ngai au poisson fumé.",
+    "completion": "- 500 g feuilles de ngai-ngai\n- 250 g poisson fumé\n- 2 piece tomates, concassées\n- 1 piece oignon, émincé\n- 3 tbsp huile de palme ou d’huile neutre\n- 1 piece petit piment, facultatif\n- Sel\n- 300 ml eau",
+    "recipe_id": "ngai-ngai"
+  },
+  {
     "id": "ngulu-ya-sauce-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2877,6 +5149,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Ngulu ya sauce ?",
     "completion": "Ngulu ya sauce peut aussi être appelé : ngulu, porc en sauce, porc, sauce tomate, Kinshasa, mijoté.",
+    "recipe_id": "ngulu-ya-sauce"
+  },
+  {
+    "id": "ngulu-ya-sauce-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ngulu » ?",
+    "completion": "« ngulu » désigne notamment Ngulu ya sauce (slug: ngulu-ya-sauce, lang: ln).",
+    "recipe_id": "ngulu-ya-sauce"
+  },
+  {
+    "id": "ngulu-ya-sauce-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « porc en sauce » ?",
+    "completion": "« porc en sauce » désigne notamment Ngulu ya sauce (slug: ngulu-ya-sauce, lang: fr).",
+    "recipe_id": "ngulu-ya-sauce"
+  },
+  {
+    "id": "ngulu-ya-sauce-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « porc » ?",
+    "completion": "« porc » désigne notamment Ngulu ya sauce (slug: ngulu-ya-sauce, lang: und).",
+    "recipe_id": "ngulu-ya-sauce"
+  },
+  {
+    "id": "ngulu-ya-sauce-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Ngulu ya sauce.",
+    "completion": "- 1.2 kg porc (épaule ou échine) en morceaux\n- 3 piece oignons, émincés\n- 4 clove ail, écrasées\n- 4 piece tomates mûres, concassées (ou 400 g de pulpe)\n- 3 tbsp huile\n- 1 cube bouillon\n- Pili-pili, sel et poivre\n- 400 ml eau\n- 1 leaf laurier, facultatif",
     "recipe_id": "ngulu-ya-sauce"
   },
   {
@@ -2920,6 +5224,38 @@
     "recipe_id": "nsafu-grilles"
   },
   {
+    "id": "nsafu-grilles-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « safou grillé » ?",
+    "completion": "« safou grillé » désigne notamment Nsafu grillés (slug: nsafu-grilles, lang: fr).",
+    "recipe_id": "nsafu-grilles"
+  },
+  {
+    "id": "nsafu-grilles-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « nsafu » ?",
+    "completion": "« nsafu » désigne notamment Nsafu grillés (slug: nsafu-grilles, lang: kg).",
+    "recipe_id": "nsafu-grilles"
+  },
+  {
+    "id": "nsafu-grilles-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « safou » ?",
+    "completion": "« safou » désigne notamment Nsafu grillés (slug: nsafu-grilles, lang: und).",
+    "recipe_id": "nsafu-grilles"
+  },
+  {
+    "id": "nsafu-grilles-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Nsafu grillés.",
+    "completion": "- 8 piece nsafu mûrs\n- Sel fin",
+    "recipe_id": "nsafu-grilles"
+  },
+  {
     "id": "ntaba-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2957,6 +5293,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Ntaba (chèvre grillée) ?",
     "completion": "Ntaba (chèvre grillée) peut aussi être appelé : chèvre grillée, ntaba ya kotumba, mbuzi, ntaba, chèvre, grillade, Kinshasa.",
+    "recipe_id": "ntaba"
+  },
+  {
+    "id": "ntaba-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « chèvre grillée » ?",
+    "completion": "« chèvre grillée » désigne notamment Ntaba (chèvre grillée) (slug: ntaba, lang: fr).",
+    "recipe_id": "ntaba"
+  },
+  {
+    "id": "ntaba-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ntaba ya kotumba » ?",
+    "completion": "« ntaba ya kotumba » désigne notamment Ntaba (chèvre grillée) (slug: ntaba, lang: ln).",
+    "recipe_id": "ntaba"
+  },
+  {
+    "id": "ntaba-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbuzi » ?",
+    "completion": "« mbuzi » désigne notamment Ntaba (chèvre grillée) (slug: ntaba, lang: sw).",
+    "recipe_id": "ntaba"
+  },
+  {
+    "id": "ntaba-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Ntaba (chèvre grillée).",
+    "completion": "- 1.5 kg chèvre avec quelques morceaux sur l’os\n- 2 piece oignons, dont un râpé\n- 4 clove ail, écrasées\n- 2 piece cm de gingembre frais, râpé\n- 2 tbsp jus de citron\n- 2 tbsp huile\n- 1 piece petit piment, selon le goût\n- Sel et poivre",
     "recipe_id": "ntaba"
   },
   {
@@ -3000,6 +5368,38 @@
     "recipe_id": "ntaba-mijotee-kasai"
   },
   {
+    "id": "ntaba-mijotee-kasai-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « chèvre en sauce » ?",
+    "completion": "« chèvre en sauce » désigne notamment Ntaba mijotée (slug: ntaba-mijotee-kasai, lang: fr).",
+    "recipe_id": "ntaba-mijotee-kasai"
+  },
+  {
+    "id": "ntaba-mijotee-kasai-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ntaba ya sauce » ?",
+    "completion": "« ntaba ya sauce » désigne notamment Ntaba mijotée (slug: ntaba-mijotee-kasai, lang: ln).",
+    "recipe_id": "ntaba-mijotee-kasai"
+  },
+  {
+    "id": "ntaba-mijotee-kasai-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ntaba » ?",
+    "completion": "« ntaba » désigne notamment Ntaba mijotée (slug: ntaba-mijotee-kasai, lang: und).",
+    "recipe_id": "ntaba-mijotee-kasai"
+  },
+  {
+    "id": "ntaba-mijotee-kasai-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Ntaba mijotée.",
+    "completion": "- 1.5 kg chèvre découpée (avec os)\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 4 clove ail\n- 2 piece cm de gingembre\n- 3 tbsp huile\n- 400 ml eau\n- Sel, poivre, pili-pili",
+    "recipe_id": "ntaba-mijotee-kasai"
+  },
+  {
     "id": "ntaba-sauce-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3037,6 +5437,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Ntaba en sauce ?",
     "completion": "Ntaba en sauce peut aussi être appelé : chèvre mijotée, ntaba ya sauce, chèvre, sauce, mijoté, ntaba.",
+    "recipe_id": "ntaba-sauce"
+  },
+  {
+    "id": "ntaba-sauce-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « chèvre mijotée » ?",
+    "completion": "« chèvre mijotée » désigne notamment Ntaba en sauce (slug: ntaba-sauce, lang: fr).",
+    "recipe_id": "ntaba-sauce"
+  },
+  {
+    "id": "ntaba-sauce-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ntaba ya sauce » ?",
+    "completion": "« ntaba ya sauce » désigne notamment Ntaba en sauce (slug: ntaba-sauce, lang: ln).",
+    "recipe_id": "ntaba-sauce"
+  },
+  {
+    "id": "ntaba-sauce-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « chèvre » ?",
+    "completion": "« chèvre » désigne notamment Ntaba en sauce (slug: ntaba-sauce, lang: und).",
+    "recipe_id": "ntaba-sauce"
+  },
+  {
+    "id": "ntaba-sauce-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Ntaba en sauce.",
+    "completion": "- 1.5 kg chèvre coupée en morceaux\n- 3 piece oignons, émincés\n- 4 piece tomates mûres, concassées\n- 4 clove ail, écrasées\n- 2 piece cm de gingembre, râpé\n- 3 tbsp huile\n- 1 piece petit piment\n- 1 cube bouillon\n- Sel, poivre et eau",
     "recipe_id": "ntaba-sauce"
   },
   {
@@ -3080,6 +5512,38 @@
     "recipe_id": "pain-mayonnaise"
   },
   {
+    "id": "pain-mayonnaise-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sandwich mayonnaise » ?",
+    "completion": "« sandwich mayonnaise » désigne notamment Pain mayonnaise (slug: pain-mayonnaise, lang: fr).",
+    "recipe_id": "pain-mayonnaise"
+  },
+  {
+    "id": "pain-mayonnaise-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pain mayo » ?",
+    "completion": "« pain mayo » désigne notamment Pain mayonnaise (slug: pain-mayonnaise, lang: ln).",
+    "recipe_id": "pain-mayonnaise"
+  },
+  {
+    "id": "pain-mayonnaise-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pain mayonnaise » ?",
+    "completion": "« pain mayonnaise » désigne notamment Pain mayonnaise (slug: pain-mayonnaise, lang: und).",
+    "recipe_id": "pain-mayonnaise"
+  },
+  {
+    "id": "pain-mayonnaise-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Pain mayonnaise.",
+    "completion": "- 2 piece demies baguettes ou pains de rue\n- 4 tbsp mayonnaise\n- 2 piece œufs\n- 2 piece saucisses ou 100 g de viande grillée, facultatif\n- 1 piece petit oignon, émincé, facultatif\n- Piment en poudre ou sauce pili-pili\n- Sel",
+    "recipe_id": "pain-mayonnaise"
+  },
+  {
     "id": "pepe-soupe-ya-ngolo-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3117,6 +5581,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Pepe soupe ya ngolo ?",
     "completion": "Pepe soupe ya ngolo peut aussi être appelé : pepe soup, soupe de poisson-chat, ngolo, pepe soupe, poisson-chat, soupe, Kinshasa.",
+    "recipe_id": "pepe-soupe-ya-ngolo"
+  },
+  {
+    "id": "pepe-soupe-ya-ngolo-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pepe soup » ?",
+    "completion": "« pepe soup » désigne notamment Pepe soupe ya ngolo (slug: pepe-soupe-ya-ngolo, lang: en).",
+    "recipe_id": "pepe-soupe-ya-ngolo"
+  },
+  {
+    "id": "pepe-soupe-ya-ngolo-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « soupe de poisson-chat » ?",
+    "completion": "« soupe de poisson-chat » désigne notamment Pepe soupe ya ngolo (slug: pepe-soupe-ya-ngolo, lang: fr).",
+    "recipe_id": "pepe-soupe-ya-ngolo"
+  },
+  {
+    "id": "pepe-soupe-ya-ngolo-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ngolo » ?",
+    "completion": "« ngolo » désigne notamment Pepe soupe ya ngolo (slug: pepe-soupe-ya-ngolo, lang: ln).",
+    "recipe_id": "pepe-soupe-ya-ngolo"
+  },
+  {
+    "id": "pepe-soupe-ya-ngolo-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Pepe soupe ya ngolo.",
+    "completion": "- 1 kg poisson-chat nettoyé et coupé en tronçons\n- 3 piece tomates, concassées\n- 2 piece oignons\n- 3 clove ail\n- 1 piece gingembre frais\n- 1 stalk céleri\n- Pili-pili selon le goût\n- Sel, poivre et eau",
     "recipe_id": "pepe-soupe-ya-ngolo"
   },
   {
@@ -3160,6 +5656,38 @@
     "recipe_id": "pilau-kivu"
   },
   {
+    "id": "pilau-kivu-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pilaw » ?",
+    "completion": "« pilaw » désigne notamment Pilau du Kivu (slug: pilau-kivu, lang: sw).",
+    "recipe_id": "pilau-kivu"
+  },
+  {
+    "id": "pilau-kivu-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pilau » ?",
+    "completion": "« pilau » désigne notamment Pilau du Kivu (slug: pilau-kivu, lang: sw).",
+    "recipe_id": "pilau-kivu"
+  },
+  {
+    "id": "pilau-kivu-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « riz épicé » ?",
+    "completion": "« riz épicé » désigne notamment Pilau du Kivu (slug: pilau-kivu, lang: fr).",
+    "recipe_id": "pilau-kivu"
+  },
+  {
+    "id": "pilau-kivu-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Pilau du Kivu.",
+    "completion": "- 500 g riz long grain, rincé\n- 400 g bœuf, chèvre ou poulet, en morceaux\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 3 clove ail\n- 1 tsp cumin\n- 1 tsp coriandre moulue\n- 1/2 c. à café de cannelle ou 1 bâton\n- 1/2 c. à café de gingembre\n- 4 tbsp huile\n- 1 l bouillon ou d’eau\n- Sel, poivre, pili-pili",
+    "recipe_id": "pilau-kivu"
+  },
+  {
     "id": "plantains-vapeur-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3197,6 +5725,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Plantains à la vapeur ?",
     "completion": "Plantains à la vapeur peut aussi être appelé : makemba ya vapeur, steamed plantains, plantains vapeur, plantain, vapeur, accompagnement, rapide.",
+    "recipe_id": "plantains-vapeur"
+  },
+  {
+    "id": "plantains-vapeur-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « makemba ya vapeur » ?",
+    "completion": "« makemba ya vapeur » désigne notamment Plantains à la vapeur (slug: plantains-vapeur, lang: ln).",
+    "recipe_id": "plantains-vapeur"
+  },
+  {
+    "id": "plantains-vapeur-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « steamed plantains » ?",
+    "completion": "« steamed plantains » désigne notamment Plantains à la vapeur (slug: plantains-vapeur, lang: en).",
+    "recipe_id": "plantains-vapeur"
+  },
+  {
+    "id": "plantains-vapeur-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « plantains vapeur » ?",
+    "completion": "« plantains vapeur » désigne notamment Plantains à la vapeur (slug: plantains-vapeur, lang: und).",
+    "recipe_id": "plantains-vapeur"
+  },
+  {
+    "id": "plantains-vapeur-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Plantains à la vapeur.",
+    "completion": "- 4 piece bananes plantain vertes ou juste jaunes\n- Eau\n- 1 pinch sel, facultative",
     "recipe_id": "plantains-vapeur"
   },
   {
@@ -3240,6 +5800,38 @@
     "recipe_id": "poisson-braise-kinkole"
   },
   {
+    "id": "poisson-braise-kinkole-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbisi ya kotumba » ?",
+    "completion": "« mbisi ya kotumba » désigne notamment Poisson braisé (slug: poisson-braise-kinkole, lang: ln).",
+    "recipe_id": "poisson-braise-kinkole"
+  },
+  {
+    "id": "poisson-braise-kinkole-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson braisé » ?",
+    "completion": "« poisson braisé » désigne notamment Poisson braisé (slug: poisson-braise-kinkole, lang: fr).",
+    "recipe_id": "poisson-braise-kinkole"
+  },
+  {
+    "id": "poisson-braise-kinkole-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « Kinkole » ?",
+    "completion": "« Kinkole » désigne notamment Poisson braisé (slug: poisson-braise-kinkole, lang: und).",
+    "recipe_id": "poisson-braise-kinkole"
+  },
+  {
+    "id": "poisson-braise-kinkole-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Poisson braisé.",
+    "completion": "- 1 piece gros tilapia ou capitaine entier, vidé et écaillé\n- 2 piece oignons\n- 3 clove ail\n- 1 piece gingembre\n- 1 piece citron\n- 2 tbsp huile\n- Pili-pili, sel et poivre\n- 1 piece tomate et quelques herbes fraîches pour servir",
+    "recipe_id": "poisson-braise-kinkole"
+  },
+  {
     "id": "poisson-fume-bidia-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3277,6 +5869,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Poisson fumé au bidia ?",
     "completion": "Poisson fumé au bidia peut aussi être appelé : mbisi ya fumé, poisson fumé, bidia, Kasaï, conserve.",
+    "recipe_id": "poisson-fume-bidia"
+  },
+  {
+    "id": "poisson-fume-bidia-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbisi ya fumé » ?",
+    "completion": "« mbisi ya fumé » désigne notamment Poisson fumé au bidia (slug: poisson-fume-bidia, lang: ln).",
+    "recipe_id": "poisson-fume-bidia"
+  },
+  {
+    "id": "poisson-fume-bidia-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson fumé » ?",
+    "completion": "« poisson fumé » désigne notamment Poisson fumé au bidia (slug: poisson-fume-bidia, lang: fr).",
+    "recipe_id": "poisson-fume-bidia"
+  },
+  {
+    "id": "poisson-fume-bidia-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bidia » ?",
+    "completion": "« bidia » désigne notamment Poisson fumé au bidia (slug: poisson-fume-bidia, lang: und).",
+    "recipe_id": "poisson-fume-bidia"
+  },
+  {
+    "id": "poisson-fume-bidia-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Poisson fumé au bidia.",
+    "completion": "- 300 g poisson fumé (morceaux)\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 3 clove ail\n- 3 tbsp huile\n- Sel, pili-pili\n- 250 ml eau\n- Jus d’un demi-citron, facultatif",
     "recipe_id": "poisson-fume-bidia"
   },
   {
@@ -3320,6 +5944,38 @@
     "recipe_id": "poisson-fume-tomates"
   },
   {
+    "id": "poisson-fume-tomates-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbisi ya fumé » ?",
+    "completion": "« mbisi ya fumé » désigne notamment Poisson fumé aux tomates (slug: poisson-fume-tomates, lang: ln).",
+    "recipe_id": "poisson-fume-tomates"
+  },
+  {
+    "id": "poisson-fume-tomates-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « smoked fish stew » ?",
+    "completion": "« smoked fish stew » désigne notamment Poisson fumé aux tomates (slug: poisson-fume-tomates, lang: en).",
+    "recipe_id": "poisson-fume-tomates"
+  },
+  {
+    "id": "poisson-fume-tomates-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson fumé » ?",
+    "completion": "« poisson fumé » désigne notamment Poisson fumé aux tomates (slug: poisson-fume-tomates, lang: und).",
+    "recipe_id": "poisson-fume-tomates"
+  },
+  {
+    "id": "poisson-fume-tomates-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Poisson fumé aux tomates.",
+    "completion": "- 500 g poisson fumé (entier ou en morceaux)\n- 4 piece tomates mûres, concassées\n- 2 piece oignons, émincés\n- 3 clove ail, écrasées\n- 3 tbsp huile\n- 1 piece petit piment, facultatif\n- 1 cube bouillon, facultatif\n- Sel et poivre (peu de sel : le fumé est déjà salé)\n- 200 ml eau",
+    "recipe_id": "poisson-fume-tomates"
+  },
+  {
     "id": "poisson-kivu-grille-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3357,6 +6013,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Poisson du Kivu grillé ?",
     "completion": "Poisson du Kivu grillé peut aussi être appelé : samaki wa kuchoma, poisson grillé, lac Kivu, Est, braise, Goma.",
+    "recipe_id": "poisson-kivu-grille"
+  },
+  {
+    "id": "poisson-kivu-grille-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « samaki wa kuchoma » ?",
+    "completion": "« samaki wa kuchoma » désigne notamment Poisson du Kivu grillé (slug: poisson-kivu-grille, lang: sw).",
+    "recipe_id": "poisson-kivu-grille"
+  },
+  {
+    "id": "poisson-kivu-grille-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson grillé » ?",
+    "completion": "« poisson grillé » désigne notamment Poisson du Kivu grillé (slug: poisson-kivu-grille, lang: fr).",
+    "recipe_id": "poisson-kivu-grille"
+  },
+  {
+    "id": "poisson-kivu-grille-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « lac Kivu » ?",
+    "completion": "« lac Kivu » désigne notamment Poisson du Kivu grillé (slug: poisson-kivu-grille, lang: und).",
+    "recipe_id": "poisson-kivu-grille"
+  },
+  {
+    "id": "poisson-kivu-grille-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Poisson du Kivu grillé.",
+    "completion": "- 1 piece poisson de lac (tilapia ou espèce locale) de 1 à 1,2 kg, vidé\n- 2 piece oignons, dont un râpé\n- 3 clove ail, écrasées\n- 2 piece cm de gingembre, râpé\n- Jus de 2 citrons\n- 3 tbsp huile\n- Pili-pili, sel et poivre",
     "recipe_id": "poisson-kivu-grille"
   },
   {
@@ -3400,6 +6088,38 @@
     "recipe_id": "poisson-mayo"
   },
   {
+    "id": "poisson-mayo-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbisi ya mayonnaise » ?",
+    "completion": "« mbisi ya mayonnaise » désigne notamment Poisson mayo (slug: poisson-mayo, lang: ln).",
+    "recipe_id": "poisson-mayo"
+  },
+  {
+    "id": "poisson-mayo-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson mayonnaise » ?",
+    "completion": "« poisson mayonnaise » désigne notamment Poisson mayo (slug: poisson-mayo, lang: fr).",
+    "recipe_id": "poisson-mayo"
+  },
+  {
+    "id": "poisson-mayo-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson mayo » ?",
+    "completion": "« poisson mayo » désigne notamment Poisson mayo (slug: poisson-mayo, lang: und).",
+    "recipe_id": "poisson-mayo"
+  },
+  {
+    "id": "poisson-mayo-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Poisson mayo.",
+    "completion": "- 800 g poisson en filets ou darnes (tilapia, capitaine…)\n- 3 tbsp huile pour frire ou griller\n- 2 piece oignons, émincés\n- 2 clove ail, écrasées\n- 180 ml mayonnaise\n- 1 tsp moutarde\n- 1 tbsp jus de citron\n- Pili-pili, sel et poivre\n- Farine pour paner légèrement, facultatif",
+    "recipe_id": "poisson-mayo"
+  },
+  {
     "id": "poisson-moambe-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3437,6 +6157,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Poisson à la moambe ?",
     "completion": "Poisson à la moambe peut aussi être appelé : mbisi ya mwambe, poisson moambe, moambe, noix de palme, fête.",
+    "recipe_id": "poisson-moambe"
+  },
+  {
+    "id": "poisson-moambe-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbisi ya mwambe » ?",
+    "completion": "« mbisi ya mwambe » désigne notamment Poisson à la moambe (slug: poisson-moambe, lang: ln).",
+    "recipe_id": "poisson-moambe"
+  },
+  {
+    "id": "poisson-moambe-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson moambe » ?",
+    "completion": "« poisson moambe » désigne notamment Poisson à la moambe (slug: poisson-moambe, lang: fr).",
+    "recipe_id": "poisson-moambe"
+  },
+  {
+    "id": "poisson-moambe-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « moambe » ?",
+    "completion": "« moambe » désigne notamment Poisson à la moambe (slug: poisson-moambe, lang: und).",
+    "recipe_id": "poisson-moambe"
+  },
+  {
+    "id": "poisson-moambe-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Poisson à la moambe.",
+    "completion": "- 1.2 kg poisson ferme (capitaine, tilapia ou equivalent), en darnes\n- 350 ml crème / pulpe de noix de palme (moambe)\n- 2 piece oignons, émincés\n- 2 piece tomates, concassées\n- 2 clove ail\n- 2 tbsp huile\n- Sel, piment et un peu d’eau",
     "recipe_id": "poisson-moambe"
   },
   {
@@ -3480,6 +6232,38 @@
     "recipe_id": "pommes-sautees-katanga"
   },
   {
+    "id": "pommes-sautees-katanga-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pommes de terre » ?",
+    "completion": "« pommes de terre » désigne notamment Pommes de terre sautées (slug: pommes-sautees-katanga, lang: fr).",
+    "recipe_id": "pommes-sautees-katanga"
+  },
+  {
+    "id": "pommes-sautees-katanga-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « viazi » ?",
+    "completion": "« viazi » désigne notamment Pommes de terre sautées (slug: pommes-sautees-katanga, lang: sw).",
+    "recipe_id": "pommes-sautees-katanga"
+  },
+  {
+    "id": "pommes-sautees-katanga-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « Katanga » ?",
+    "completion": "« Katanga » désigne notamment Pommes de terre sautées (slug: pommes-sautees-katanga, lang: und).",
+    "recipe_id": "pommes-sautees-katanga"
+  },
+  {
+    "id": "pommes-sautees-katanga-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Pommes de terre sautées.",
+    "completion": "- 1 kg pommes de terre\n- 2 piece oignons, émincés\n- 3 tbsp huile\n- Sel, poivre\n- Persil ou oignon vert, facultatif",
+    "recipe_id": "pommes-sautees-katanga"
+  },
+  {
     "id": "pondu-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3517,6 +6301,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Pondu (saka-saka) ?",
     "completion": "Pondu (saka-saka) peut aussi être appelé : saka-saka, sombe, feuilles de manioc, pondu.",
+    "recipe_id": "pondu"
+  },
+  {
+    "id": "pondu-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « saka-saka » ?",
+    "completion": "« saka-saka » désigne notamment Pondu (saka-saka) (slug: pondu, lang: ln).",
+    "recipe_id": "pondu"
+  },
+  {
+    "id": "pondu-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sombe » ?",
+    "completion": "« sombe » désigne notamment Pondu (saka-saka) (slug: pondu, lang: sw).",
+    "recipe_id": "pondu"
+  },
+  {
+    "id": "pondu-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « feuilles de manioc » ?",
+    "completion": "« feuilles de manioc » désigne notamment Pondu (saka-saka) (slug: pondu, lang: fr).",
+    "recipe_id": "pondu"
+  },
+  {
+    "id": "pondu-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Pondu (saka-saka).",
+    "completion": "- 2 kg feuilles de manioc (pondu) fraîches ou congelées\n- 200 ml huile de palme rouge\n- 3 piece oignons moyens, hachés\n- 4 clove ail, écrasées\n- 300 g poisson fumé ou viande (optionnel)\n- 2 cube bouillon\n- Sel et piment au goût\n- Eau",
     "recipe_id": "pondu"
   },
   {
@@ -3560,6 +6376,38 @@
     "recipe_id": "porc-braise"
   },
   {
+    "id": "porc-braise-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ngulu ya kotumba » ?",
+    "completion": "« ngulu ya kotumba » désigne notamment Porc braisé (slug: porc-braise, lang: ln).",
+    "recipe_id": "porc-braise"
+  },
+  {
+    "id": "porc-braise-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « porc grillé » ?",
+    "completion": "« porc grillé » désigne notamment Porc braisé (slug: porc-braise, lang: fr).",
+    "recipe_id": "porc-braise"
+  },
+  {
+    "id": "porc-braise-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « porc » ?",
+    "completion": "« porc » désigne notamment Porc braisé (slug: porc-braise, lang: und).",
+    "recipe_id": "porc-braise"
+  },
+  {
+    "id": "porc-braise-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Porc braisé.",
+    "completion": "- 1.5 kg porc (échine ou épaule) en morceaux\n- 2 piece oignons, dont un râpé\n- 4 clove ail\n- 2 piece cm de gingembre\n- 2 tbsp jus de citron\n- 2 tbsp huile\n- Piment, sel et poivre",
+    "recipe_id": "porc-braise"
+  },
+  {
     "id": "poulet-mayo-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3597,6 +6445,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Poulet mayo ?",
     "completion": "Poulet mayo peut aussi être appelé : soso ya mayonnaise, poulet mayonnaise, poulet mayo, mayonnaise, poulet, Kinshasa, fête.",
+    "recipe_id": "poulet-mayo"
+  },
+  {
+    "id": "poulet-mayo-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « soso ya mayonnaise » ?",
+    "completion": "« soso ya mayonnaise » désigne notamment Poulet mayo (slug: poulet-mayo, lang: ln).",
+    "recipe_id": "poulet-mayo"
+  },
+  {
+    "id": "poulet-mayo-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poulet mayonnaise » ?",
+    "completion": "« poulet mayonnaise » désigne notamment Poulet mayo (slug: poulet-mayo, lang: fr).",
+    "recipe_id": "poulet-mayo"
+  },
+  {
+    "id": "poulet-mayo-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poulet mayo » ?",
+    "completion": "« poulet mayo » désigne notamment Poulet mayo (slug: poulet-mayo, lang: und).",
+    "recipe_id": "poulet-mayo"
+  },
+  {
+    "id": "poulet-mayo-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Poulet mayo.",
+    "completion": "- 1 piece poulet coupé en morceaux\n- 3 tbsp huile\n- 2 piece oignons, émincés\n- 3 clove ail, écrasées\n- 1 tsp moutarde\n- 200 ml mayonnaise\n- 1 tbsp jus de citron\n- Pili-pili, sel et poivre\n- 1 cube bouillon, facultatif",
     "recipe_id": "poulet-mayo"
   },
   {
@@ -3640,6 +6520,38 @@
     "recipe_id": "poulet-pane"
   },
   {
+    "id": "poulet-pane-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « soso ya pané » ?",
+    "completion": "« soso ya pané » désigne notamment Poulet pané (slug: poulet-pane, lang: ln).",
+    "recipe_id": "poulet-pane"
+  },
+  {
+    "id": "poulet-pane-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poulet pané » ?",
+    "completion": "« poulet pané » désigne notamment Poulet pané (slug: poulet-pane, lang: fr).",
+    "recipe_id": "poulet-pane"
+  },
+  {
+    "id": "poulet-pane-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « frit » ?",
+    "completion": "« frit » désigne notamment Poulet pané (slug: poulet-pane, lang: und).",
+    "recipe_id": "poulet-pane"
+  },
+  {
+    "id": "poulet-pane-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Poulet pané.",
+    "completion": "- 800 g poulet (cuisses désossées ou blancs) en morceaux\n- 2 piece œufs, battus\n- 150 g farine\n- 120 g chapelure ou pain râpé\n- 1 tsp sel\n- Poivre et pili-pili\n- 1 tsp ail en poudre ou 1 gousse écrasée\n- Huile pour friture",
+    "recipe_id": "poulet-pane"
+  },
+  {
     "id": "riz-moambe-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3677,6 +6589,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Riz à la moambe ?",
     "completion": "Riz à la moambe peut aussi être appelé : loso ya mwambe, riz moambe, riz, moambe, noix de palme, accompagnement.",
+    "recipe_id": "riz-moambe"
+  },
+  {
+    "id": "riz-moambe-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « loso ya mwambe » ?",
+    "completion": "« loso ya mwambe » désigne notamment Riz à la moambe (slug: riz-moambe, lang: ln).",
+    "recipe_id": "riz-moambe"
+  },
+  {
+    "id": "riz-moambe-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « riz moambe » ?",
+    "completion": "« riz moambe » désigne notamment Riz à la moambe (slug: riz-moambe, lang: fr).",
+    "recipe_id": "riz-moambe"
+  },
+  {
+    "id": "riz-moambe-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « riz » ?",
+    "completion": "« riz » désigne notamment Riz à la moambe (slug: riz-moambe, lang: und).",
+    "recipe_id": "riz-moambe"
+  },
+  {
+    "id": "riz-moambe-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Riz à la moambe.",
+    "completion": "- 400 g riz long\n- 250 ml concentré de noix de palme non sucré\n- 1 piece oignon, finement haché\n- 1 clove ail, hachée\n- 700 ml eau chaude\n- 1 leaf laurier\n- 1 piece petit piment entier, facultatif\n- Sel",
     "recipe_id": "riz-moambe"
   },
   {
@@ -3720,6 +6664,38 @@
     "recipe_id": "saka-madesu"
   },
   {
+    "id": "saka-madesu-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pondu na madesu » ?",
+    "completion": "« pondu na madesu » désigne notamment Saka-madesu (slug: saka-madesu, lang: ln).",
+    "recipe_id": "saka-madesu"
+  },
+  {
+    "id": "saka-madesu-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « saka-saka aux haricots » ?",
+    "completion": "« saka-saka aux haricots » désigne notamment Saka-madesu (slug: saka-madesu, lang: fr).",
+    "recipe_id": "saka-madesu"
+  },
+  {
+    "id": "saka-madesu-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « saka-madesu » ?",
+    "completion": "« saka-madesu » désigne notamment Saka-madesu (slug: saka-madesu, lang: und).",
+    "recipe_id": "saka-madesu"
+  },
+  {
+    "id": "saka-madesu-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Saka-madesu.",
+    "completion": "- 400 g haricots secs, trempés une nuit\n- 800 g feuilles de manioc pilées, fraîches ou surgelées\n- 150 ml huile de palme rouge\n- 2 piece oignons, hachés\n- 2 clove ail, écrasées\n- 1 piece petit piment\n- Sel\n- Eau",
+    "recipe_id": "saka-madesu"
+  },
+  {
     "id": "salade-kisangani-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3757,6 +6733,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Salade chou-carotte ?",
     "completion": "Salade chou-carotte peut aussi être appelé : salade chou-carotte, salade ya Kisangani, Kisangani, chou, carotte.",
+    "recipe_id": "salade-kisangani"
+  },
+  {
+    "id": "salade-kisangani-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « salade chou-carotte » ?",
+    "completion": "« salade chou-carotte » désigne notamment Salade chou-carotte (slug: salade-kisangani, lang: fr).",
+    "recipe_id": "salade-kisangani"
+  },
+  {
+    "id": "salade-kisangani-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « salade ya Kisangani » ?",
+    "completion": "« salade ya Kisangani » désigne notamment Salade chou-carotte (slug: salade-kisangani, lang: fr).",
+    "recipe_id": "salade-kisangani"
+  },
+  {
+    "id": "salade-kisangani-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « Kisangani » ?",
+    "completion": "« Kisangani » désigne notamment Salade chou-carotte (slug: salade-kisangani, lang: und).",
+    "recipe_id": "salade-kisangani"
+  },
+  {
+    "id": "salade-kisangani-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Salade chou-carotte.",
+    "completion": "- 1 piece petit chou blanc\n- 3 piece carottes\n- 3 piece œufs\n- 4 tbsp mayonnaise\n- 1 tbsp vinaigre\n- 1 tsp moutarde\n- Sel et poivre",
     "recipe_id": "salade-kisangani"
   },
   {
@@ -3800,6 +6808,38 @@
     "recipe_id": "sambaza"
   },
   {
+    "id": "sambaza-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sambaza » ?",
+    "completion": "« sambaza » désigne notamment Sambaza aux tomates (slug: sambaza, lang: sw).",
+    "recipe_id": "sambaza"
+  },
+  {
+    "id": "sambaza-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « petits poissons » ?",
+    "completion": "« petits poissons » désigne notamment Sambaza aux tomates (slug: sambaza, lang: fr).",
+    "recipe_id": "sambaza"
+  },
+  {
+    "id": "sambaza-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « Tanganyika » ?",
+    "completion": "« Tanganyika » désigne notamment Sambaza aux tomates (slug: sambaza, lang: und).",
+    "recipe_id": "sambaza"
+  },
+  {
+    "id": "sambaza-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Sambaza aux tomates.",
+    "completion": "- 400 g sambaza frais ou séchés\n- 3 piece tomates mûres, concassées\n- 2 piece oignons, émincés\n- 2 clove ail, hachées\n- 4 tbsp huile\n- 1 piece petit piment\n- Sel et poivre\n- 80 ml eau",
+    "recipe_id": "sambaza"
+  },
+  {
     "id": "sambousa-pommes-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3837,6 +6877,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Sambousa aux pommes de terre ?",
     "completion": "Sambousa aux pommes de terre peut aussi être appelé : samosa, sambusa, chaussons aux pommes de terre, sambousa, pommes de terre, Goma, street food.",
+    "recipe_id": "sambousa-pommes"
+  },
+  {
+    "id": "sambousa-pommes-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « samosa » ?",
+    "completion": "« samosa » désigne notamment Sambousa aux pommes de terre (slug: sambousa-pommes, lang: sw).",
+    "recipe_id": "sambousa-pommes"
+  },
+  {
+    "id": "sambousa-pommes-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sambusa » ?",
+    "completion": "« sambusa » désigne notamment Sambousa aux pommes de terre (slug: sambousa-pommes, lang: sw).",
+    "recipe_id": "sambousa-pommes"
+  },
+  {
+    "id": "sambousa-pommes-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « chaussons aux pommes de terre » ?",
+    "completion": "« chaussons aux pommes de terre » désigne notamment Sambousa aux pommes de terre (slug: sambousa-pommes, lang: fr).",
+    "recipe_id": "sambousa-pommes"
+  },
+  {
+    "id": "sambousa-pommes-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Sambousa aux pommes de terre.",
+    "completion": "- 500 g pommes de terre\n- 1 piece oignon, émincé\n- 2 clove ail\n- 1 tsp curry ou de cumin, facultatif\n- Sel, poivre, pili-pili\n- 2 tbsp huile pour la farce\n- 250 g pâte à samosa / brick, ou pâte maison\n- Huile de friture",
     "recipe_id": "sambousa-pommes"
   },
   {
@@ -3880,6 +6952,38 @@
     "recipe_id": "sauce-arachide"
   },
   {
+    "id": "sauce-arachide-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « nguba » ?",
+    "completion": "« nguba » désigne notamment Sauce d’arachide (slug: sauce-arachide, lang: ln).",
+    "recipe_id": "sauce-arachide"
+  },
+  {
+    "id": "sauce-arachide-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sauce cacahuète » ?",
+    "completion": "« sauce cacahuète » désigne notamment Sauce d’arachide (slug: sauce-arachide, lang: fr).",
+    "recipe_id": "sauce-arachide"
+  },
+  {
+    "id": "sauce-arachide-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sauce arachide » ?",
+    "completion": "« sauce arachide » désigne notamment Sauce d’arachide (slug: sauce-arachide, lang: und).",
+    "recipe_id": "sauce-arachide"
+  },
+  {
+    "id": "sauce-arachide-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Sauce d’arachide.",
+    "completion": "- 200 g pâte d’arachide non sucrée (ou arachides grillées pilées)\n- 2 piece oignons, émincés\n- 2 piece tomates, concassées\n- 2 clove ail\n- 2 tbsp huile\n- 400 ml eau chaude\n- Sel, pili-pili\n- 100 g poisson fumé ou de viande, facultatif",
+    "recipe_id": "sauce-arachide"
+  },
+  {
     "id": "sauce-gombo-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3917,6 +7021,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Sauce gombo ?",
     "completion": "Sauce gombo peut aussi être appelé : gombo, okra, dongo-dongo, sauce.",
+    "recipe_id": "sauce-gombo"
+  },
+  {
+    "id": "sauce-gombo-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « gombo » ?",
+    "completion": "« gombo » désigne notamment Sauce gombo (slug: sauce-gombo, lang: fr).",
+    "recipe_id": "sauce-gombo"
+  },
+  {
+    "id": "sauce-gombo-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « okra » ?",
+    "completion": "« okra » désigne notamment Sauce gombo (slug: sauce-gombo, lang: en).",
+    "recipe_id": "sauce-gombo"
+  },
+  {
+    "id": "sauce-gombo-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « dongo-dongo » ?",
+    "completion": "« dongo-dongo » désigne notamment Sauce gombo (slug: sauce-gombo, lang: ln).",
+    "recipe_id": "sauce-gombo"
+  },
+  {
+    "id": "sauce-gombo-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Sauce gombo.",
+    "completion": "- 500 g gombos frais\n- 2 piece oignons, émincés\n- 2 piece tomates, concassées\n- 2 tbsp huile de palme ou d’huile neutre\n- 1 clove ail\n- 150 g poisson fumé, facultatif\n- Sel, piment et un peu d’eau",
     "recipe_id": "sauce-gombo"
   },
   {
@@ -3960,6 +7096,38 @@
     "recipe_id": "sauce-pili-pili"
   },
   {
+    "id": "sauce-pili-pili-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pili-pili » ?",
+    "completion": "« pili-pili » désigne notamment Sauce pili-pili (slug: sauce-pili-pili, lang: sw).",
+    "recipe_id": "sauce-pili-pili"
+  },
+  {
+    "id": "sauce-pili-pili-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « piment » ?",
+    "completion": "« piment » désigne notamment Sauce pili-pili (slug: sauce-pili-pili, lang: fr).",
+    "recipe_id": "sauce-pili-pili"
+  },
+  {
+    "id": "sauce-pili-pili-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « hot sauce » ?",
+    "completion": "« hot sauce » désigne notamment Sauce pili-pili (slug: sauce-pili-pili, lang: en).",
+    "recipe_id": "sauce-pili-pili"
+  },
+  {
+    "id": "sauce-pili-pili-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Sauce pili-pili.",
+    "completion": "- 15 piece à 25 piments frais (selon la force désirée), équeutés\n- 4 clove ail\n- 1 piece petit oignon\n- 1 piece tomate mûre, facultatif\n- Jus de ½ citron\n- 3 tbsp huile\n- 1 tsp sel\n- 2 tbsp eau",
+    "recipe_id": "sauce-pili-pili"
+  },
+  {
     "id": "saucisse-frites-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3997,6 +7165,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Saucisse-frites ?",
     "completion": "Saucisse-frites peut aussi être appelé : saucisse frites, sausage and fries, saucisse, frites, street food, Kinshasa, snack.",
+    "recipe_id": "saucisse-frites"
+  },
+  {
+    "id": "saucisse-frites-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « saucisse frites » ?",
+    "completion": "« saucisse frites » désigne notamment Saucisse-frites (slug: saucisse-frites, lang: fr).",
+    "recipe_id": "saucisse-frites"
+  },
+  {
+    "id": "saucisse-frites-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sausage and fries » ?",
+    "completion": "« sausage and fries » désigne notamment Saucisse-frites (slug: saucisse-frites, lang: en).",
+    "recipe_id": "saucisse-frites"
+  },
+  {
+    "id": "saucisse-frites-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « saucisse » ?",
+    "completion": "« saucisse » désigne notamment Saucisse-frites (slug: saucisse-frites, lang: und).",
+    "recipe_id": "saucisse-frites"
+  },
+  {
+    "id": "saucisse-frites-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Saucisse-frites.",
+    "completion": "- 8 piece saucisses (type cocktail ou saucisses à griller)\n- 800 g pommes de terre\n- Huile pour friture\n- Sel\n- Pili-pili ou ketchup, pour servir\n- 1 piece oignon émincé, facultatif",
     "recipe_id": "saucisse-frites"
   },
   {
@@ -4040,6 +7240,38 @@
     "recipe_id": "sombe"
   },
   {
+    "id": "sombe-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pondu » ?",
+    "completion": "« pondu » désigne notamment Sombe (slug: sombe, lang: ln).",
+    "recipe_id": "sombe"
+  },
+  {
+    "id": "sombe-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « saka-saka » ?",
+    "completion": "« saka-saka » désigne notamment Sombe (slug: sombe, lang: ln).",
+    "recipe_id": "sombe"
+  },
+  {
+    "id": "sombe-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sombe » ?",
+    "completion": "« sombe » désigne notamment Sombe (slug: sombe, lang: sw).",
+    "recipe_id": "sombe"
+  },
+  {
+    "id": "sombe-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Sombe.",
+    "completion": "- 2 kg feuilles de manioc fraîches ou congelées, finement hachées\n- 200 ml huile de palme rouge\n- 2 piece oignons, hachés\n- 3 clove ail, écrasées\n- 250 g poisson fumé ou de viande, optionnel\n- 1 cube bouillon\n- Sel et pili-pili\n- Eau",
+    "recipe_id": "sombe"
+  },
+  {
     "id": "soso-lumba-lumba-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -4077,6 +7309,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Soso ya lumba-lumba ?",
     "completion": "Soso ya lumba-lumba peut aussi être appelé : tshiluabenyi, poulet au basilic africain, soso ya lumba-lumba, Grand Kasaï, poulet, lumba-lumba, basilic.",
+    "recipe_id": "soso-lumba-lumba"
+  },
+  {
+    "id": "soso-lumba-lumba-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « tshiluabenyi » ?",
+    "completion": "« tshiluabenyi » désigne notamment Soso ya lumba-lumba (slug: soso-lumba-lumba, lang: lua).",
+    "recipe_id": "soso-lumba-lumba"
+  },
+  {
+    "id": "soso-lumba-lumba-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poulet au basilic africain » ?",
+    "completion": "« poulet au basilic africain » désigne notamment Soso ya lumba-lumba (slug: soso-lumba-lumba, lang: fr).",
+    "recipe_id": "soso-lumba-lumba"
+  },
+  {
+    "id": "soso-lumba-lumba-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « soso ya lumba-lumba » ?",
+    "completion": "« soso ya lumba-lumba » désigne notamment Soso ya lumba-lumba (slug: soso-lumba-lumba, lang: ln).",
+    "recipe_id": "soso-lumba-lumba"
+  },
+  {
+    "id": "soso-lumba-lumba-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Soso ya lumba-lumba.",
+    "completion": "- 1 piece poulet découpé en morceaux\n- 2 piece grosses poignées de feuilles de lumba-lumba ou de basilic africain\n- 3 piece tomates mûres, concassées\n- 2 piece oignons, émincés\n- 3 clove ail\n- 1 piece petit morceau de gingembre\n- 3 tbsp huile\n- 300 ml eau\n- Pili-pili, sel et poivre",
     "recipe_id": "soso-lumba-lumba"
   },
   {
@@ -4120,6 +7384,38 @@
     "recipe_id": "soso-ya-kotumba"
   },
   {
+    "id": "soso-ya-kotumba-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poulet grillé » ?",
+    "completion": "« poulet grillé » désigne notamment Soso ya kotumba (slug: soso-ya-kotumba, lang: fr).",
+    "recipe_id": "soso-ya-kotumba"
+  },
+  {
+    "id": "soso-ya-kotumba-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « soso ya kotumba » ?",
+    "completion": "« soso ya kotumba » désigne notamment Soso ya kotumba (slug: soso-ya-kotumba, lang: ln).",
+    "recipe_id": "soso-ya-kotumba"
+  },
+  {
+    "id": "soso-ya-kotumba-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « braise » ?",
+    "completion": "« braise » désigne notamment Soso ya kotumba (slug: soso-ya-kotumba, lang: und).",
+    "recipe_id": "soso-ya-kotumba"
+  },
+  {
+    "id": "soso-ya-kotumba-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Soso ya kotumba.",
+    "completion": "- 1 piece poulet entier ou en morceaux (environ 1,5 kg)\n- 2 piece oignons, dont un râpé\n- 4 clove ail, écrasées\n- 2 piece cm de gingembre, râpé\n- Jus de 1 citron\n- 3 tbsp huile\n- 1 tsp herbes de Provence ou de thym\n- Pili-pili, sel et poivre\n- 1 cube bouillon, facultatif",
+    "recipe_id": "soso-ya-kotumba"
+  },
+  {
     "id": "soso-ya-sauce-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -4157,6 +7453,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Soso ya sauce ?",
     "completion": "Soso ya sauce peut aussi être appelé : poulet en sauce, soso ya sauce, poulet, Kinshasa.",
+    "recipe_id": "soso-ya-sauce"
+  },
+  {
+    "id": "soso-ya-sauce-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poulet en sauce » ?",
+    "completion": "« poulet en sauce » désigne notamment Soso ya sauce (slug: soso-ya-sauce, lang: fr).",
+    "recipe_id": "soso-ya-sauce"
+  },
+  {
+    "id": "soso-ya-sauce-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « soso ya sauce » ?",
+    "completion": "« soso ya sauce » désigne notamment Soso ya sauce (slug: soso-ya-sauce, lang: ln).",
+    "recipe_id": "soso-ya-sauce"
+  },
+  {
+    "id": "soso-ya-sauce-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poulet » ?",
+    "completion": "« poulet » désigne notamment Soso ya sauce (slug: soso-ya-sauce, lang: und).",
+    "recipe_id": "soso-ya-sauce"
+  },
+  {
+    "id": "soso-ya-sauce-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Soso ya sauce.",
+    "completion": "- 1 piece poulet découpé en morceaux\n- 5 piece tomates mûres, concassées\n- 2 piece oignons, émincés\n- 3 clove ail\n- 1 piece gingembre frais\n- 3 tbsp huile\n- 1 leaf laurier\n- Pili-pili, sel et poivre\n- 250 ml eau",
     "recipe_id": "soso-ya-sauce"
   },
   {
@@ -4200,6 +7528,38 @@
     "recipe_id": "sukuma-est"
   },
   {
+    "id": "sukuma-est-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sukuma wiki » ?",
+    "completion": "« sukuma wiki » désigne notamment Sukuma (slug: sukuma-est, lang: sw).",
+    "recipe_id": "sukuma-est"
+  },
+  {
+    "id": "sukuma-est-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ndunda » ?",
+    "completion": "« ndunda » désigne notamment Sukuma (slug: sukuma-est, lang: ln).",
+    "recipe_id": "sukuma-est"
+  },
+  {
+    "id": "sukuma-est-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sukuma » ?",
+    "completion": "« sukuma » désigne notamment Sukuma (slug: sukuma-est, lang: und).",
+    "recipe_id": "sukuma-est"
+  },
+  {
+    "id": "sukuma-est-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Sukuma.",
+    "completion": "- 2 bunch sukuma (chou frisé / verdure du marché), lavées et émincées\n- 1 piece gros oignon, émincé\n- 2 piece tomates, concassées, facultatif\n- 2 clove ail\n- 3 tbsp huile\n- Sel, poivre, pili-pili",
+    "recipe_id": "sukuma-est"
+  },
+  {
     "id": "tangawisi-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -4237,6 +7597,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Tangawisi ?",
     "completion": "Tangawisi peut aussi être appelé : jus de gingembre, tangawizi, ginger drink, tangawisi, gingembre, boisson, Kinshasa.",
+    "recipe_id": "tangawisi"
+  },
+  {
+    "id": "tangawisi-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « jus de gingembre » ?",
+    "completion": "« jus de gingembre » désigne notamment Tangawisi (slug: tangawisi, lang: fr).",
+    "recipe_id": "tangawisi"
+  },
+  {
+    "id": "tangawisi-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « tangawizi » ?",
+    "completion": "« tangawizi » désigne notamment Tangawisi (slug: tangawisi, lang: sw).",
+    "recipe_id": "tangawisi"
+  },
+  {
+    "id": "tangawisi-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ginger drink » ?",
+    "completion": "« ginger drink » désigne notamment Tangawisi (slug: tangawisi, lang: en).",
+    "recipe_id": "tangawisi"
+  },
+  {
+    "id": "tangawisi-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Tangawisi.",
+    "completion": "- 250 g gingembre frais\n- 1.5 l eau\n- 100–150 g sucre\n- Jus d’1 citron (ou 2 citrons verts)\n- 1 pinch piment, facultatif",
     "recipe_id": "tangawisi"
   },
   {
@@ -4280,6 +7672,38 @@
     "recipe_id": "taro-mijote"
   },
   {
+    "id": "taro-mijote-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « malanga » ?",
+    "completion": "« malanga » désigne notamment Taro mijoté (slug: taro-mijote, lang: fr).",
+    "recipe_id": "taro-mijote"
+  },
+  {
+    "id": "taro-mijote-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « taro » ?",
+    "completion": "« taro » désigne notamment Taro mijoté (slug: taro-mijote, lang: en).",
+    "recipe_id": "taro-mijote"
+  },
+  {
+    "id": "taro-mijote-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « tubercule » ?",
+    "completion": "« tubercule » désigne notamment Taro mijoté (slug: taro-mijote, lang: und).",
+    "recipe_id": "taro-mijote"
+  },
+  {
+    "id": "taro-mijote-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Taro mijoté.",
+    "completion": "- 1 kg taro (malanga), épluché\n- 3 piece tomates mûres, concassées\n- 2 piece oignons, émincés\n- 2 clove ail, hachées\n- 3 tbsp huile de palme ou d’huile neutre\n- 1 piece petit piment, facultatif\n- Sel\n- 300 ml eau",
+    "recipe_id": "taro-mijote"
+  },
+  {
     "id": "tilapia-bugali-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -4317,6 +7741,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Tilapia au bugali ?",
     "completion": "Tilapia au bugali peut aussi être appelé : tilapia na bugali, tilapia au bukari, tilapia, bugali, Kivu, lac.",
+    "recipe_id": "tilapia-bugali"
+  },
+  {
+    "id": "tilapia-bugali-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « tilapia na bugali » ?",
+    "completion": "« tilapia na bugali » désigne notamment Tilapia au bugali (slug: tilapia-bugali, lang: sw).",
+    "recipe_id": "tilapia-bugali"
+  },
+  {
+    "id": "tilapia-bugali-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « tilapia au bukari » ?",
+    "completion": "« tilapia au bukari » désigne notamment Tilapia au bugali (slug: tilapia-bugali, lang: fr).",
+    "recipe_id": "tilapia-bugali"
+  },
+  {
+    "id": "tilapia-bugali-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « tilapia » ?",
+    "completion": "« tilapia » désigne notamment Tilapia au bugali (slug: tilapia-bugali, lang: und).",
+    "recipe_id": "tilapia-bugali"
+  },
+  {
+    "id": "tilapia-bugali-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Tilapia au bugali.",
+    "completion": "- 2 piece tilapias entiers (environ 800 g–1 kg au total), vidés\n- Jus de 2 citrons\n- 3 clove ail\n- 2 tbsp huile\n- Sel, poivre, pili-pili\n- 1 piece oignon, en rondelles\n- Bugali pour servir (voir fiche bugali)",
     "recipe_id": "tilapia-bugali"
   },
   {
@@ -4360,6 +7816,38 @@
     "recipe_id": "viande-sechee-tomates"
   },
   {
+    "id": "viande-sechee-tomates-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « viande séchée » ?",
+    "completion": "« viande séchée » désigne notamment Viande séchée aux tomates (slug: viande-sechee-tomates, lang: fr).",
+    "recipe_id": "viande-sechee-tomates"
+  },
+  {
+    "id": "viande-sechee-tomates-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « biltong-style » ?",
+    "completion": "« biltong-style » désigne notamment Viande séchée aux tomates (slug: viande-sechee-tomates, lang: en).",
+    "recipe_id": "viande-sechee-tomates"
+  },
+  {
+    "id": "viande-sechee-tomates-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « Katanga » ?",
+    "completion": "« Katanga » désigne notamment Viande séchée aux tomates (slug: viande-sechee-tomates, lang: und).",
+    "recipe_id": "viande-sechee-tomates"
+  },
+  {
+    "id": "viande-sechee-tomates-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Viande séchée aux tomates.",
+    "completion": "- 300 g viande séchée (bœuf ou chèvre)\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 3 clove ail\n- 3 tbsp huile\n- Sel, poivre, pili-pili\n- 400 ml eau",
+    "recipe_id": "viande-sechee-tomates"
+  },
+  {
     "id": "viande-ya-sauce-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -4397,6 +7885,38 @@
     "task": "aliases",
     "prompt": "Quels autres noms connaît-on pour Viande ya sauce ?",
     "completion": "Viande ya sauce peut aussi être appelé : nyama ya sauce, bœuf en sauce, bœuf, sauce, quotidien.",
+    "recipe_id": "viande-ya-sauce"
+  },
+  {
+    "id": "viande-ya-sauce-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « nyama ya sauce » ?",
+    "completion": "« nyama ya sauce » désigne notamment Viande ya sauce (slug: viande-ya-sauce, lang: ln).",
+    "recipe_id": "viande-ya-sauce"
+  },
+  {
+    "id": "viande-ya-sauce-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bœuf en sauce » ?",
+    "completion": "« bœuf en sauce » désigne notamment Viande ya sauce (slug: viande-ya-sauce, lang: fr).",
+    "recipe_id": "viande-ya-sauce"
+  },
+  {
+    "id": "viande-ya-sauce-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bœuf » ?",
+    "completion": "« bœuf » désigne notamment Viande ya sauce (slug: viande-ya-sauce, lang: und).",
+    "recipe_id": "viande-ya-sauce"
+  },
+  {
+    "id": "viande-ya-sauce-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Viande ya sauce.",
+    "completion": "- 1 kg bœuf à mijoter\n- 3 piece oignons, émincés\n- 4 piece tomates, concassées\n- 3 clove ail\n- 2 tbsp concentré de tomate, facultatif\n- 3 tbsp huile\n- 1 leaf laurier\n- 1 cube bouillon\n- Piment, sel et eau",
     "recipe_id": "viande-ya-sauce"
   },
   {
@@ -4501,6 +8021,118 @@
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & Cuvette » ?",
     "completion": "- Pondu (saka-saka)\n- Riz à la moambe",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-0",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Haut-Katanga & Tanganyika » (region_id=haut_katanga_tanganyika) ?",
+    "completion": "- Andazi du Tanganyika (andazi-tanganyika)\n- Brochettes de grillons (brochettes-grillons)\n- Kapenta aux tomates (kapenta-tomates)\n- Mukeke grillé (mukeke-grille)\n- Munkoyo (munkoyo)\n- Sambaza aux tomates (sambaza)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-1",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Kinshasa & Ouest de la RDC » (region_id=kinshasa_west) ?",
+    "completion": "- Aubergines africaines en sauce (aubergines-africaines)\n- Beignets de banane (beignets-banane)\n- Courge en sauce (courge-sauce)\n- Haricots verts à l’huile de palme (haricots-verts-palme)\n- Jus d’ananas (jus-ananas)\n- Jus de bissap (jus-bissap)\n- Jus de mangue (jus-mangue)\n- Madesu (madesu)\n- Sauce gombo (sauce-gombo)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-2",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Toute la RDC » (region_id=nationwide) ?",
+    "completion": "- Bananes douces à la vapeur (bananes-douces-vapeur)\n- Beignets d’igname (beignets-igname)\n- Beignets de manioc (beignets-manioc)\n- Bouillie d’arachide (bouillie-arachide)\n- Bouillie de maïs (bouillie-mais)\n- Croquettes de manioc (croquettes-manioc)\n- Fufu de manioc (fufu-manioc)\n- Gâteau au manioc (gateau-manioc)\n- Igname bouillie (igname-bouillie)\n- Makemba (makemba)\n- Makemba na mbisi (makemba-na-mbisi)\n- Manioc grillé (manioc-grille)\n- Mbala (mbala)\n- Poulet à la moambe (moambe-poulet)\n- Plantains à la vapeur (plantains-vapeur)\n- Sauce d’arachide (sauce-arachide)\n- Sauce pili-pili (sauce-pili-pili)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-3",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Grand Kasaï » (region_id=grand_kasai) ?",
+    "completion": "- Biteku-teku (biteku-teku-kasai)\n- Haricots à la nguba (haricots-nguba-kasai)\n- Makosso aux pommes de terre (makosso-pommes)\n- Mbala grillée (mbala-grillee)\n- Mbinzo grillées (mbinzo-grillees)\n- Mujibujibu (mujibujibu)\n- Ntaba mijotée (ntaba-mijotee-kasai)\n- Poisson fumé au bidia (poisson-fume-bidia)\n- Soso ya lumba-lumba (soso-lumba-lumba)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-4",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Kinshasa » (region_id=kinshasa) ?",
+    "completion": "- Bœuf ya kotumba (boeuf-ya-kotumba)\n- Brochettes de foie (brochettes-foie)\n- Foie de bœuf sauté (foie-boeuf-saute)\n- Jus de fruit de la passion (jus-passion)\n- Kamundele (kamundele)\n- Loso mayonnaise (loso-mayonnaise)\n- Loso na madesu (loso-na-madesu)\n- Loso na petits pois (loso-petits-pois)\n- Makoso (makoso)\n- Mikate (mikate)\n- Mikila (mikila)\n- Ndunda (ndunda)\n- Ngulu ya sauce (ngulu-ya-sauce)\n- Pain mayonnaise (pain-mayonnaise)\n- Pepe soupe ya ngolo (pepe-soupe-ya-ngolo)\n- Poisson braisé (poisson-braise-kinkole)\n- Poisson mayo (poisson-mayo)\n- Porc braisé (porc-braise)\n- Poulet mayo (poulet-mayo)\n- Poulet pané (poulet-pane)\n- Saucisse-frites (saucisse-frites)\n- Soso ya kotumba (soso-ya-kotumba)\n- Soso ya sauce (soso-ya-sauce)\n- Tangawisi (tangawisi)\n- Viande ya sauce (viande-ya-sauce)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-5",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Grand Katanga » (region_id=grand_katanga) ?",
+    "completion": "- Brochettes de Lubumbashi (brochettes-lubumbashi)\n- Bukari (bukari-katanga)\n- Loso ya sauce (loso-sauce-katanga)\n- Matembele aux arachides (matembele-katanga)\n- Pommes de terre sautées (pommes-sautees-katanga)\n- Sombe (sombe)\n- Viande séchée aux tomates (viande-sechee-tomates)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-6",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Kinshasa & bassin du Congo » (region_id=kinshasa_basin) ?",
+    "completion": "- Capitaine braisé (capitaine-braise)\n- Chikwangue grillée (chikwangue-grillee)\n- Dongo-dongo (dongo-dongo)\n- Kossa-kossa (kossa-kossa)\n- Makayabu aux tomates (makayabu)\n- Mbisi ya kokalinga (mbisi-ya-kokalinga)\n- Missole (missole)\n- Poisson fumé aux tomates (poisson-fume-tomates)\n- Poisson à la moambe (poisson-moambe)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-7",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Bassin du Congo » (region_id=bassin_congo) ?",
+    "completion": "- Chikwangue (chikwangue)\n- Kabambale (kabambale)\n- Mayebo aux tomates (mayebo)\n- Mbika (mbika)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-8",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Nord-Kivu & Sud-Kivu » (region_id=kivu) ?",
+    "completion": "- Chou mijoté de l’Est (chou-mijote-est)\n- Maharage aux tomates (haricots-maharage)\n- Ndagala aux tomates (ndagala-tomates)\n- Pilau du Kivu (pilau-kivu)\n- Poisson du Kivu grillé (poisson-kivu-grille)\n- Sambousa aux pommes de terre (sambousa-pommes)\n- Sukuma (sukuma-est)\n- Tilapia au bugali (tilapia-bugali)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-9",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Cuvette centrale » (region_id=cuvette) ?",
+    "completion": "- Escargots à la congolaise (escargots-congolaise)\n- Lituma (lituma)\n- Taro mijoté (taro-mijote)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-10",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Ouest de la RDC » (region_id=ouest) ?",
+    "completion": "- Jus de safou (jus-safou)\n- Nsafu grillés (nsafu-grilles)\n- Saka-madesu (saka-madesu)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-11",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Bandundu / Grand Bandundu » (region_id=bandundu) ?",
+    "completion": "- Liboke de poisson (liboke-poisson)\n- Liboke de viande (liboke-viande)\n- Mbinzo aux tomates (mbinzo-tomates)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-12",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Kinshasa & Kongo-Central » (region_id=kinshasa_kongo) ?",
+    "completion": "- Ngai-ngai au poisson fumé (ngai-ngai)\n- Ntaba (chèvre grillée) (ntaba)\n- Ntaba en sauce (ntaba-sauce)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-13",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Kinshasa & Cuvette » (region_id=kinshasa_cuvette) ?",
+    "completion": "- Pondu (saka-saka) (pondu)\n- Riz à la moambe (riz-moambe)",
     "recipe_id": null
   }
 ]

@@ -108,11 +108,36 @@ if (ratio < 0.8) {
   );
 }
 
+// Lot 4 — eval Q/A split
+const evalPath = path.join(root, 'data/eval/qa.jsonl');
+let evalCount = 0;
+if (!fs.existsSync(evalPath)) {
+  fail('Missing data/eval/qa.jsonl (Lot 4 eval split)');
+} else {
+  const evalLines = fs.readFileSync(evalPath, 'utf8').trim().split('\n').filter(Boolean);
+  evalCount = evalLines.length;
+  if (evalCount < 50) {
+    fail(`eval qa.jsonl has ${evalCount} rows; need ≥50`);
+  }
+  for (const [i, line] of evalLines.entries()) {
+    let row;
+    try {
+      row = JSON.parse(line);
+    } catch {
+      fail(`eval line ${i + 1}: invalid JSON`);
+      continue;
+    }
+    for (const key of ['id', 'task', 'question', 'answer']) {
+      if (!row[key]) fail(`eval line ${i + 1}: missing ${key}`);
+    }
+  }
+}
+
 if (errors) {
   console.error(`Validation failed with ${errors} error(s).`);
   process.exit(1);
 }
 
 console.log(
-  `OK — ${lines.length} recipes validated; ingredients_structured ${(ratio * 100).toFixed(1)}% (${structuredLines}/${totalIngredientLines}).`,
+  `OK — ${lines.length} recipes validated; ingredients_structured ${(ratio * 100).toFixed(1)}% (${structuredLines}/${totalIngredientLines}); eval_qa=${evalCount}.`,
 );

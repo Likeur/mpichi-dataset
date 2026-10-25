@@ -88,6 +88,15 @@ Instruction pairs (`data/instruction/pairs.jsonl`):
 | train | `data/splits/train.jsonl` |
 | validation | `data/splits/valid.jsonl` |
 | instruction | `data/instruction/pairs.jsonl` |
+| eval Q/A | `data/eval/qa.jsonl` |
+
+### Example usage (Lot 4)
+
+```bash
+python3 examples/rag_demo.py --query "accompagnement pour moambe" --eval
+```
+
+See `examples/BASELINE.md` for documented TF-IDF Hit@k / MRR.
 
 ## Dataset Creation
 
