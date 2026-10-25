@@ -10,9 +10,14 @@ authors:
     website: https://likeur.xyz
 repository-code: https://github.com/Likeur/mpichi-dataset
 url: https://mpichi.likeur.xyz
+doi: 10.5281/zenodo.23651495
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23651495
+    description: Zenodo version DOI for the Mpichi Dataset release
 license: CC-BY-4.0
-version: 1.5.0
-date-released: "2026-10-25"
+version: 1.5.1
+date-released: "2026-10-26"
 abstract: >-
   Open bilingual (French / English) dataset of Congolese (DRC) recipes from
   Mpichi, with multilingual aliases, normalized regions, structured ingredients,
@@ -38,5 +43,6 @@ preferred-citation:
       given-names: Jack
   title: "Mpichi Dataset: An Open Bilingual Resource of Congolese (DRC) Recipes for Cultural NLP and Local LLM Adaptation"
   year: 2026
-  url: https://github.com/Likeur/mpichi-dataset/blob/main/paper/mpichi-dataset-preprint.md
-  notes: "Preprint. Dataset: https://huggingface.co/datasets/likeur17/mpichi-dataset"
+  doi: 10.5281/zenodo.23651495
+  url: https://doi.org/10.5281/zenodo.23651495
+  notes: "Preprint: paper/mpichi-dataset-preprint.md. Hugging Face: https://huggingface.co/datasets/likeur17/mpichi-dataset"

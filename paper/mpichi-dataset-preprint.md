@@ -16,7 +16,8 @@ Independent researcher · Mpichi / Likeur
 [https://likeur.xyz](https://likeur.xyz) · [https://mpichi.likeur.xyz](https://mpichi.likeur.xyz)  
 `jacksimba28@gmail.com`
 
-**Preprint** · Dataset version **v1.4.0** (companion release **v1.5.0** adds this note + distribution metadata)  
+**Preprint** · Dataset version **v1.5.1**  
+**DOI:** [10.5281/zenodo.23651495](https://doi.org/10.5281/zenodo.23651495)  
 **Data license:** CC BY 4.0 · **Code:** MIT  
 **Hugging Face:** [likeur17/mpichi-dataset](https://huggingface.co/datasets/likeur17/mpichi-dataset)  
 **GitHub:** [Likeur/mpichi-dataset](https://github.com/Likeur/mpichi-dataset)
@@ -25,11 +26,11 @@ Independent researcher · Mpichi / Likeur
 
 ## Abstract (English)
 
-We present **Mpichi Dataset**, an open bilingual (French / English) collection of curated recipes from the Democratic Republic of the Congo (DRC). The resource is designed for culinary and cultural research, information extraction, retrieval-augmented generation (RAG), and supervised fine-tuning of local language models. Beyond parallel recipe text, the dataset includes (i) curated multilingual dish-name aliases (e.g. Lingala, Swahili, Kikongo, Tshiluba), (ii) normalized geographic region identifiers with bilingual labels, (iii) best-effort structured ingredient parses (amount / unit / name) with full raw-string fallback, (iv) generated instruction-tuning pairs, and (v) a French question–answer evaluation split with a documented lexical retrieval baseline. As of v1.4.0 the release contains **110** recipes, **1 017** instruction pairs, and **95** eval items. We document schema, licenses, limitations, and intended uses. This preprint accompanies the public Hugging Face and GitHub releases; a DOI deposit (Zenodo) is prepared for stable citation.
+We present **Mpichi Dataset**, an open bilingual (French / English) collection of curated recipes from the Democratic Republic of the Congo (DRC). The resource is designed for culinary and cultural research, information extraction, retrieval-augmented generation (RAG), and supervised fine-tuning of local language models. Beyond parallel recipe text, the dataset includes (i) curated multilingual dish-name aliases (e.g. Lingala, Swahili, Kikongo, Tshiluba), (ii) normalized geographic region identifiers with bilingual labels, (iii) best-effort structured ingredient parses (amount / unit / name) with full raw-string fallback, (iv) generated instruction-tuning pairs, and (v) a French question–answer evaluation split with a documented lexical retrieval baseline. As of v1.4.0 the release contains **110** recipes, **1 017** instruction pairs, and **95** eval items. We document schema, licenses, limitations, and intended uses. This preprint accompanies the public Hugging Face and GitHub releases and the Zenodo deposit ([doi:10.5281/zenodo.23651495](https://doi.org/10.5281/zenodo.23651495)).
 
 ## Résumé (Français)
 
-Nous présentons **Mpichi Dataset**, une collection ouverte bilingue (français / anglais) de recettes documentées de la République démocratique du Congo (RDC). La ressource vise la recherche culinaire et culturelle, l’extraction d’information, la génération augmentée par retrieval (RAG) et le fine-tuning supervisé de modèles de langue locaux. Au-delà du texte parallèle, le jeu de données inclut (i) des alias de plats multilingues (lingala, swahili, kikongo, tshiluba, etc.), (ii) des identifiants de région normalisés avec libellés bilingues, (iii) un parse best-effort des ingrédients (quantité / unité / nom) avec conservation de la chaîne brute, (iv) des paires d’instruction pour le fine-tuning, et (v) un split d’évaluation question–réponse en français avec une baseline de retrieval lexical documentée. En v1.4.0 : **110** recettes, **1 017** paires d’instruction, **95** items d’eval. Nous décrivons le schéma, les licences, les limites et les usages prévus. Ce preprint accompagne les dépôts publics Hugging Face et GitHub ; un dépôt DOI (Zenodo) est préparé pour la citation stable.
+Nous présentons **Mpichi Dataset**, une collection ouverte bilingue (français / anglais) de recettes documentées de la République démocratique du Congo (RDC). La ressource vise la recherche culinaire et culturelle, l’extraction d’information, la génération augmentée par retrieval (RAG) et le fine-tuning supervisé de modèles de langue locaux. Au-delà du texte parallèle, le jeu de données inclut (i) des alias de plats multilingues (lingala, swahili, kikongo, tshiluba, etc.), (ii) des identifiants de région normalisés avec libellés bilingues, (iii) un parse best-effort des ingrédients (quantité / unité / nom) avec conservation de la chaîne brute, (iv) des paires d’instruction pour le fine-tuning, et (v) un split d’évaluation question–réponse en français avec une baseline de retrieval lexical documentée. En v1.4.0 : **110** recettes, **1 017** paires d’instruction, **95** items d’eval. Nous décrivons le schéma, les licences, les limites et les usages prévus. Ce preprint accompagne les dépôts publics Hugging Face et GitHub et le dépôt Zenodo ([doi:10.5281/zenodo.23651495](https://doi.org/10.5281/zenodo.23651495)).
 
 ---
 
@@ -181,18 +182,20 @@ These figures are a **lexical sanity check**, not a competitive NLP leaderboard.
 - **Hugging Face:** https://huggingface.co/datasets/likeur17/mpichi-dataset  
 - **Companion site repo:** https://github.com/Likeur/mpichi  
 - **Datasheet:** `DATASHEET.md` · **Card:** `dataset_card.md` · **Croissant:** `metadata/croissant.json`  
-- **Zenodo:** see `paper/ZENODO.md` (DOI to be minted from the GitHub release / Zenodo deposit)
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.23651495
 
 Please cite the dataset (and this preprint when applicable) as in `CITATION.cff`.
 
 ```bibtex
-@misc{simba_mpichi_dataset_2026,
+@dataset{simba_mpichi_dataset_2026,
   author       = {Simba Wa Nkulu, Jack},
   title        = {Mpichi Dataset: An Open Bilingual Resource of Congolese (DRC) Recipes},
   year         = {2026},
-  howpublished = {\url{https://huggingface.co/datasets/likeur17/mpichi-dataset}},
-  note         = {CC BY 4.0. GitHub: https://github.com/Likeur/mpichi-dataset. Preprint: paper/mpichi-dataset-preprint.md},
-  email        = {jacksimba28@gmail.com}
+  publisher    = {Zenodo},
+  version      = {v1.5.1},
+  doi          = {10.5281/zenodo.23651495},
+  url          = {https://doi.org/10.5281/zenodo.23651495},
+  note         = {CC BY 4.0. Also: https://huggingface.co/datasets/likeur17/mpichi-dataset}
 }
 ```
 

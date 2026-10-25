@@ -23,7 +23,8 @@
     "url": "https://likeur.xyz"
   },
   "datePublished": "2026-10-25",
-  "version": "1.5.0",
+  "version": "1.5.1",
+  "identifier": "https://doi.org/10.5281/zenodo.23651495",
   "keywords": [
     "Congo",
     "DRC",
@@ -54,5 +55,5 @@
       "encodingFormat": "application/jsonl"
     }
   ],
-  "citeAs": "Simba Wa Nkulu, Jack. (2026). Mpichi Dataset: An Open Bilingual Resource of Congolese (DRC) Recipes. https://huggingface.co/datasets/likeur17/mpichi-dataset"
+  "citeAs": "Simba Wa Nkulu, Jack. (2026). Mpichi Dataset: An Open Bilingual Resource of Congolese (DRC) Recipes. https://doi.org/10.5281/zenodo.23651495"
 }

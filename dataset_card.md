@@ -117,14 +117,17 @@ Exported from the Mpichi Astro content collection (`src/content/recettes/*.md`) 
 
 ### Citation Information
 
+**DOI:** [10.5281/zenodo.23651495](https://doi.org/10.5281/zenodo.23651495)
+
 ```bibtex
-@misc{simba_mpichi_dataset_2026,
+@dataset{simba_mpichi_dataset_2026,
   author       = {Simba Wa Nkulu, Jack},
   title        = {Mpichi Dataset: An Open Bilingual Resource of Congolese (DRC) Recipes},
   year         = {2026},
-  howpublished = {\url{https://huggingface.co/datasets/likeur17/mpichi-dataset}},
-  note         = {CC BY 4.0. Also: https://github.com/Likeur/mpichi-dataset. Preprint: paper/mpichi-dataset-preprint.md},
-  email        = {jacksimba28@gmail.com}
+  publisher    = {Zenodo},
+  version      = {v1.5.1},
+  doi          = {10.5281/zenodo.23651495},
+  url          = {https://doi.org/10.5281/zenodo.23651495}
 }
 ```
 

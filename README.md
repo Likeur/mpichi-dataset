@@ -13,6 +13,7 @@ Built for:
 | Site | https://mpichi.likeur.xyz |
 | Source content | https://github.com/Likeur/mpichi |
 | Hugging Face | https://huggingface.co/datasets/likeur17/mpichi-dataset |
+| DOI | [10.5281/zenodo.23651495](https://doi.org/10.5281/zenodo.23651495) |
 | Data license | [CC BY 4.0](LICENSE-DATA) |
 | Code / scripts | [MIT](LICENSE) |
 | Changelog | [CHANGELOG.md](CHANGELOG.md) |
@@ -167,14 +168,17 @@ Zenodo DOI checklist: [paper/ZENODO.md](paper/ZENODO.md). Croissant: [metadata/c
 
 ## Citation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23651495.svg)](https://doi.org/10.5281/zenodo.23651495)
+
 ```bibtex
-@misc{simba_mpichi_dataset_2026,
+@dataset{simba_mpichi_dataset_2026,
   author       = {Simba Wa Nkulu, Jack},
   title        = {Mpichi Dataset: An Open Bilingual Resource of Congolese (DRC) Recipes},
   year         = {2026},
-  howpublished = {\url{https://huggingface.co/datasets/likeur17/mpichi-dataset}},
-  note         = {CC BY 4.0. GitHub: https://github.com/Likeur/mpichi-dataset. Preprint: paper/mpichi-dataset-preprint.md},
-  email        = {jacksimba28@gmail.com}
+  publisher    = {Zenodo},
+  version      = {v1.5.1},
+  doi          = {10.5281/zenodo.23651495},
+  url          = {https://doi.org/10.5281/zenodo.23651495}
 }
 ```
 

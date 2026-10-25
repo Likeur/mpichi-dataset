@@ -10,6 +10,12 @@ GitHub releases / Hugging Face revisions.
 
 ## [Unreleased]
 
+## [1.5.1] — 2026-10-26
+
+### Added
+
+- Zenodo DOI `10.5281/zenodo.23651495` wired into `CITATION.cff`, preprint, README, and dataset card
+
 ## [1.5.0] — 2026-10-25
 
 ### Added
@@ -75,7 +81,8 @@ GitHub releases / Hugging Face revisions.
 - Curated alias enrichment seed (`enrichment/aliases.json`)
 - Export + validate scripts from the Mpichi site content
 
-[Unreleased]: https://github.com/Likeur/mpichi-dataset/compare/v1.5.0...HEAD
+[Unreleased]: https://github.com/Likeur/mpichi-dataset/compare/v1.5.1...HEAD
+[1.5.1]: https://github.com/Likeur/mpichi-dataset/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.2.0...v1.3.0
