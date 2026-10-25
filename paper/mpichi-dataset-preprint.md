@@ -213,5 +213,3 @@ Thanks to everyone transmitting Congolese kitchen knowledge across households an
 - Hugging Face Datasets documentation. https://huggingface.co/docs/datasets  
 - Mpichi editorial site. https://mpichi.likeur.xyz  
 - Dataset repository. https://github.com/Likeur/mpichi-dataset  
-
-*(Expand with venue-specific bibliography when submitting to a workshop.)*
