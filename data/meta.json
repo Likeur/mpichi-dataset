@@ -1,7 +1,7 @@
 {
   "name": "mpichi-dataset",
-  "version": "1.0.0",
-  "updated_at": "2026-10-23",
+  "version": "1.0.1",
+  "updated_at": "2026-10-25",
   "recipe_count": 92,
   "instruction_pair_count": 473,
   "splits": {
@@ -16,5 +16,6 @@
     "fr",
     "en"
   ],
-  "country": "CD"
+  "country": "CD",
+  "huggingface": "https://huggingface.co/datasets/likeur17/mpichi-dataset"
 }

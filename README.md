@@ -12,8 +12,10 @@ Built for:
 | --- | --- |
 | Site | https://mpichi.likeur.xyz |
 | Source content | https://github.com/Likeur/mpichi |
+| Hugging Face | https://huggingface.co/datasets/likeur17/mpichi-dataset |
 | Data license | [CC BY 4.0](LICENSE-DATA) |
 | Code / scripts | [MIT](LICENSE) |
+| Changelog | [CHANGELOG.md](CHANGELOG.md) |
 
 ## What’s included
 
@@ -64,14 +66,19 @@ print(pairs[0]["prompt"])
 print(pairs[0]["completion"][:200])
 ```
 
-Hugging Face (after you publish the dataset):
+Hugging Face:
 
 ```python
 from datasets import load_dataset
 
-ds = load_dataset("Likeur/mpichi-dataset", data_files="data/recipes.jsonl", split="train")
+ds = load_dataset(
+    "likeur17/mpichi-dataset",
+    data_files="data/recipes.jsonl",
+    split="train",
+)
 ```
 
+Dataset page: [likeur17/mpichi-dataset](https://huggingface.co/datasets/likeur17/mpichi-dataset).  
 See [dataset_card.md](dataset_card.md) for the full card.
 
 ## Regenerate from the Mpichi site

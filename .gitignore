@@ -1,4 +1,7 @@
 node_modules/
+.venv-hf/
+.hf-commit.ndjson
+README.hf.md
 .tmp-load-en.mts
 .DS_Store
 *.log

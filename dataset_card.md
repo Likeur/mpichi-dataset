@@ -28,6 +28,7 @@ source_datasets: []
 Bilingual open dataset of recipes from the **Democratic Republic of the Congo**, curated for [Mpichi](https://mpichi.likeur.xyz).
 
 - **Repository:** https://github.com/Likeur/mpichi-dataset
+- **Hugging Face:** https://huggingface.co/datasets/likeur17/mpichi-dataset
 - **Paper:** N/A
 - **Point of Contact:** https://likeur.xyz
 
@@ -109,10 +110,11 @@ Exported from the Mpichi Astro content collection (`src/content/recettes/*.md`) 
   author       = {Likeur},
   title        = {Mpichi Dataset — Congolese (DRC) recipes},
   year         = {2026},
-  howpublished = {\url{https://github.com/Likeur/mpichi-dataset}},
-  note         = {CC BY 4.0}
+  howpublished = {\url{https://huggingface.co/datasets/likeur17/mpichi-dataset}},
+  note         = {CC BY 4.0. Also: https://github.com/Likeur/mpichi-dataset}
 }
 ```
+
 
 ### Contributions
 
