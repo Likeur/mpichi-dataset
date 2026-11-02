@@ -9,6 +9,16 @@
     {
       "name": "andazi",
       "lang": "sw"
+    },
+    {
+      "name": "andazi",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "mandazi",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "aubergines-africaines": [
@@ -44,6 +54,11 @@
     {
       "name": "bananes dessert",
       "lang": "fr"
+    },
+    {
+      "name": "banane ya mvuke",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "beignets-banane": [
@@ -61,6 +76,11 @@
     {
       "name": "galettes d’igname",
       "lang": "fr"
+    },
+    {
+      "name": "beignet ya mbala",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "beignets-manioc": [
@@ -95,6 +115,14 @@
       "name": "kotumba",
       "lang": "ln",
       "note": "Grill / roast gesture"
+    },
+    {
+      "name": "boeuf ya kotumba",
+      "lang": "ln"
+    },
+    {
+      "name": "bœuf ya kotumba",
+      "lang": "ln"
     }
   ],
   "bonbons-arachide": [
@@ -136,6 +164,11 @@
     {
       "name": "maize porridge",
       "lang": "en"
+    },
+    {
+      "name": "bouillie ya maïs",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "brochettes-boeuf": [
@@ -235,6 +268,30 @@
       "name": "nshima",
       "lang": "en",
       "note": "Southern Africa related maize paste name"
+    },
+    {
+      "name": "bukari fufu",
+      "lang": "fr"
+    },
+    {
+      "name": "bukari fufu",
+      "lang": "en",
+      "note": "Common search pairing"
+    },
+    {
+      "name": "bukari",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "bugali",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "bidia",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "capitaine-braise": [
@@ -245,6 +302,28 @@
     {
       "name": "Nile perch",
       "lang": "en"
+    },
+    {
+      "name": "capitaine braisé",
+      "lang": "fr"
+    },
+    {
+      "name": "poisson capitaine braisé",
+      "lang": "fr"
+    },
+    {
+      "name": "braised capitaine",
+      "lang": "en"
+    },
+    {
+      "name": "capitaine ya kotumba",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "mbisi ya capitaine",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "chikwangue": [
@@ -262,6 +341,16 @@
     {
       "name": "kwanga grillée",
       "lang": "fr"
+    },
+    {
+      "name": "kwanga ya kotumba",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "chikwangue ya kotumba",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "chou-kinshasa": [
@@ -287,6 +376,11 @@
       "name": "sukuma ya chou",
       "lang": "sw",
       "note": "Informal"
+    },
+    {
+      "name": "chou ya kobila",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "cotes-porc": [
@@ -301,6 +395,11 @@
     {
       "name": "côtes levées",
       "lang": "fr"
+    },
+    {
+      "name": "côtes ya ngulu",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "courge-sauce": [
@@ -311,6 +410,11 @@
     {
       "name": "pumpkin stew",
       "lang": "en"
+    },
+    {
+      "name": "courge na sauce",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "crevettes-fleuve": [
@@ -356,6 +460,11 @@
     {
       "name": "gombo au poisson fumé",
       "lang": "fr"
+    },
+    {
+      "name": "dongo-dongo",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "escargots-congolaise": [
@@ -471,6 +580,16 @@
     {
       "name": "haricots rouges",
       "lang": "fr"
+    },
+    {
+      "name": "maharage",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "madesu ya maharage",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "haricots-nguba-kasai": [
@@ -489,6 +608,11 @@
     {
       "name": "haricots verts",
       "lang": "fr"
+    },
+    {
+      "name": "haricots verts na mafuta ya palmier",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "igname-bouillie": [
@@ -499,6 +623,25 @@
     {
       "name": "yam",
       "lang": "en"
+    },
+    {
+      "name": "igname bouilli",
+      "lang": "fr",
+      "note": "Common spelling without agreement"
+    },
+    {
+      "name": "igname bouillie",
+      "lang": "fr"
+    },
+    {
+      "name": "mbala ya kobila",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "igname ya kobila",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "igname-sauce": [
@@ -538,6 +681,16 @@
     {
       "name": "jus ya hibiscus",
       "lang": "fr"
+    },
+    {
+      "name": "bissap",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "jus ya bissap",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "jus-mangue": [
@@ -558,6 +711,11 @@
     {
       "name": "passion fruit juice",
       "lang": "en"
+    },
+    {
+      "name": "jus ya passion",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "jus-safou": [
@@ -573,6 +731,16 @@
     {
       "name": "bush butter fruit",
       "lang": "en"
+    },
+    {
+      "name": "jus ya nsafu",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "jus ya safou",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "jus-tamarin": [
@@ -593,6 +761,11 @@
     {
       "name": "poisson séché",
       "lang": "fr"
+    },
+    {
+      "name": "kabambale",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "kamundele": [
@@ -604,6 +777,16 @@
       "name": "mishikaki",
       "lang": "sw",
       "note": "Related skewer term in the East"
+    },
+    {
+      "name": "kamundele",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "brochette ya kamundele",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "kapenta-tomates": [
@@ -616,6 +799,16 @@
       "name": "dagaa",
       "lang": "sw",
       "note": "Related small dried fish name in East Africa"
+    },
+    {
+      "name": "kapenta",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "kapenta na tomatisi",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "kossa-kossa": [
@@ -818,6 +1011,11 @@
     {
       "name": "mahindi ya kuchemsha",
       "lang": "sw"
+    },
+    {
+      "name": "maïs ya kobila",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "mais-grille": [
@@ -833,6 +1031,11 @@
       "name": "mahindi ya kuchoma",
       "lang": "sw",
       "region_hint": "Kivu / East"
+    },
+    {
+      "name": "maïs ya kotumba",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "makayabu": [
@@ -854,12 +1057,26 @@
     {
       "name": "bananes plantains frites",
       "lang": "fr"
+    },
+    {
+      "name": "makemba",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "makemba ya kokalinga",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "makemba-na-mbisi": [
     {
       "name": "plantains et poisson",
       "lang": "fr"
+    },
+    {
+      "name": "makemba na mbisi",
+      "lang": "ln"
     }
   ],
   "makoso": [
@@ -871,6 +1088,15 @@
       "name": "makosso",
       "lang": "ln",
       "note": "Related / same family name"
+    },
+    {
+      "name": "makoso en français",
+      "lang": "fr",
+      "note": "Gloss search intent"
+    },
+    {
+      "name": "pieds de porc congolais",
+      "lang": "fr"
     }
   ],
   "makosso-pommes": [
@@ -920,6 +1146,11 @@
       "name": "yuca fries",
       "lang": "en",
       "note": "Diaspora / Americas name for cassava"
+    },
+    {
+      "name": "manioc ya kokalinga",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "manioc-grille": [
@@ -946,6 +1177,16 @@
     {
       "name": "sweet potato leaves",
       "lang": "en"
+    },
+    {
+      "name": "matembele",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "matembele na nguba",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "mayebo": [
@@ -966,6 +1207,11 @@
     {
       "name": "sweet potato",
       "lang": "en"
+    },
+    {
+      "name": "mbala",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "mbala-grillee": [
@@ -1040,6 +1286,10 @@
       "name": "poisson kwanga",
       "lang": "fr",
       "region_hint": "Kongo-Central"
+    },
+    {
+      "name": "mbisi na kwanga",
+      "lang": "ln"
     }
   ],
   "mbisi-ya-kokalinga": [
@@ -1065,6 +1315,11 @@
       "name": "puff-puff",
       "lang": "en",
       "note": "Related West African doughnut; not identical"
+    },
+    {
+      "name": "mikate",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "mikila": [
@@ -1103,6 +1358,11 @@
     {
       "name": "poisson séché en lamelles",
       "lang": "fr"
+    },
+    {
+      "name": "missole",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "moambe-boeuf": [
@@ -1157,6 +1417,11 @@
       "name": "mujibujibu",
       "lang": "lua",
       "region_hint": "Kasai-Central"
+    },
+    {
+      "name": "mujibujibu",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "mukeke-grille": [
@@ -1168,6 +1433,11 @@
     {
       "name": "poisson du Tanganyika",
       "lang": "fr"
+    },
+    {
+      "name": "mukeke ya kotumba",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "munkoyo": [
@@ -1179,6 +1449,11 @@
     {
       "name": "boisson de maïs fermenté",
       "lang": "fr"
+    },
+    {
+      "name": "munkoyo",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "ndagala-tomates": [
@@ -1190,6 +1465,16 @@
     {
       "name": "petits poissons du Kivu",
       "lang": "fr"
+    },
+    {
+      "name": "ndagala",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "ndagala na tomatisi",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "ndunda": [
@@ -1249,6 +1534,10 @@
     {
       "name": "porc en sauce",
       "lang": "fr"
+    },
+    {
+      "name": "ngulu ya sauce",
+      "lang": "ln"
     }
   ],
   "nsafu-grilles": [
@@ -1259,6 +1548,16 @@
     {
       "name": "nsafu",
       "lang": "kg"
+    },
+    {
+      "name": "nsafu",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "nsafu ya kotumba",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "nsafu-sauce": [
@@ -1332,6 +1631,14 @@
     {
       "name": "nyama na bukari",
       "lang": "sw"
+    },
+    {
+      "name": "nyama na bugali",
+      "lang": "ln"
+    },
+    {
+      "name": "nyama na bugali",
+      "lang": "sw"
     }
   ],
   "pain-mayonnaise": [
@@ -1371,6 +1678,10 @@
       "name": "ngolo",
       "lang": "ln",
       "note": "Catfish"
+    },
+    {
+      "name": "pepe soupe ya ngolo",
+      "lang": "ln"
     }
   ],
   "pilau-kivu": [
@@ -1386,6 +1697,16 @@
     {
       "name": "riz épicé",
       "lang": "fr"
+    },
+    {
+      "name": "pilau",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "pilau ya Kivu",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "plantains-vapeur": [
@@ -1453,6 +1774,11 @@
     {
       "name": "poisson grillé",
       "lang": "fr"
+    },
+    {
+      "name": "mbisi ya Kivu ya kotumba",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "poisson-mayo": [
@@ -1485,6 +1811,11 @@
       "name": "viazi",
       "lang": "sw",
       "note": "Potatoes"
+    },
+    {
+      "name": "pommes ya kosala na Katanga",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "pondu": [
@@ -1502,6 +1833,14 @@
     {
       "name": "feuilles de manioc",
       "lang": "fr"
+    },
+    {
+      "name": "rice and pondu",
+      "lang": "en"
+    },
+    {
+      "name": "pondu with rice",
+      "lang": "en"
     }
   ],
   "pondu-poisson": [
@@ -1530,6 +1869,18 @@
     {
       "name": "porc grillé",
       "lang": "fr"
+    },
+    {
+      "name": "ngulu",
+      "lang": "ln"
+    },
+    {
+      "name": "ngulu braisé",
+      "lang": "fr"
+    },
+    {
+      "name": "ngulu braise",
+      "lang": "fr"
     }
   ],
   "porc-ya-kotumba": [
@@ -1544,6 +1895,15 @@
     {
       "name": "grilled pork",
       "lang": "en"
+    },
+    {
+      "name": "ngulu",
+      "lang": "ln",
+      "note": "Pork; grilled kotumba context"
+    },
+    {
+      "name": "porc ya kotumba",
+      "lang": "ln"
     }
   ],
   "poulet-mayo": [
@@ -1595,6 +1955,11 @@
     {
       "name": "salade ya Kisangani",
       "lang": "fr"
+    },
+    {
+      "name": "salade ya Kisangani",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "sambaza": [
@@ -1606,6 +1971,16 @@
     {
       "name": "petits poissons",
       "lang": "fr"
+    },
+    {
+      "name": "sambaza",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "sambaza na tomatisi",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "sambousa-pommes": [
@@ -1620,6 +1995,16 @@
     {
       "name": "chaussons aux pommes de terre",
       "lang": "fr"
+    },
+    {
+      "name": "sambousa",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "sambousa ya pommes",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "sauce-arachide": [
@@ -1659,6 +2044,28 @@
     {
       "name": "hot sauce",
       "lang": "en"
+    },
+    {
+      "name": "sauce pili pili",
+      "lang": "fr"
+    },
+    {
+      "name": "pili pili origine",
+      "lang": "fr"
+    },
+    {
+      "name": "piri-piri",
+      "lang": "en"
+    },
+    {
+      "name": "sauce ya pili-pili",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "pili-pili",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "saucisse-frites": [
@@ -1669,6 +2076,11 @@
     {
       "name": "sausage and fries",
       "lang": "en"
+    },
+    {
+      "name": "saucisse na frites",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "sombe": [
@@ -1762,6 +2174,24 @@
     {
       "name": "ginger drink",
       "lang": "en"
+    },
+    {
+      "name": "jus tangawisi",
+      "lang": "fr"
+    },
+    {
+      "name": "jus de tangawisi",
+      "lang": "fr"
+    },
+    {
+      "name": "tangawisi",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
+    },
+    {
+      "name": "jus ya tangawisi",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "taro-mijote": [
@@ -1772,6 +2202,11 @@
     {
       "name": "taro",
       "lang": "en"
+    },
+    {
+      "name": "taro ya kobila",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "taro-sauce": [
@@ -1802,6 +2237,11 @@
     {
       "name": "tilapia au bukari",
       "lang": "fr"
+    },
+    {
+      "name": "tilapia na bugali",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "tripes-mijotees": [
@@ -1817,6 +2257,11 @@
       "name": "matumbo",
       "lang": "sw",
       "note": "East African tripe name; used in some DRC Swahili zones"
+    },
+    {
+      "name": "matumbo ya kobila",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "viande-sechee-tomates": [
@@ -1829,6 +2274,11 @@
       "name": "biltong-style",
       "lang": "en",
       "note": "Descriptive; not South African biltong"
+    },
+    {
+      "name": "nyama ya kokauka na tomatisi",
+      "lang": "ln",
+      "note": "Added for site LN locale coverage"
     }
   ],
   "viande-ya-sauce": [
@@ -1839,6 +2289,10 @@
     {
       "name": "bœuf en sauce",
       "lang": "fr"
+    },
+    {
+      "name": "viande ya sauce",
+      "lang": "ln"
     }
   ]
 }

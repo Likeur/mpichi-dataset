@@ -10,6 +10,16 @@ GitHub releases / Hugging Face revisions.
 
 ## [Unreleased]
 
+### Added
+
+- Companion site Lingala locale (`/ln`): UI strings, recipe/guide overlays, region labels; curated `ln` aliases for every recipe slug in `enrichment/aliases.json`
+- `data/meta.json` `site_locales` (`fr`, `en`, `ln`) documenting the trilingual site surface (recipe bodies remain FR/EN until a dedicated LN export)
+
+### Changed
+
+- SEO / Search Console P0: titles & intros for `bukari-katanga`, `makoso`, `capitaine-braise`, `tangawisi`, `porc-braise`, `sauce-pili-pili`; EN meta for `pondu` (rice and pondu); aliases for GSC queries (`bukari fufu`, `makoso en français`, `jus tangawisi`, `ngulu braisé`, `igname bouilli`, …)
+- Language hygiene: FR titles without Lingala grammar (`ya` / `na`); EN titles in English; Lingala names kept as aliases + short allusions in FR/EN descriptions (kotumba, loso na…, ngulu ya sauce, mbisi na kwanga, …)
+
 ## [1.6.0] — 2026-11-02
 
 ### Added

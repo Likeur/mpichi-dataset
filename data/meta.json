@@ -27,6 +27,13 @@
     "fr",
     "en"
   ],
+  "alias_languages_note": "Curated aliases include ln (and other local languages); see enrichment/aliases.json.",
+  "site_locales": [
+    "fr",
+    "en",
+    "ln"
+  ],
+  "notes": "Companion site locales include Lingala (/ln). Dataset recipe bodies remain FR source + EN translation until a dedicated LN export ships.",
   "country": "CD",
   "region_taxonomy_version": 1,
   "region_counts": {

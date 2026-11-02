@@ -2024,8 +2024,8 @@
     "id": "boeuf-ya-kotumba",
     "slug": "boeuf-ya-kotumba",
     "names": {
-      "fr": "Bœuf ya kotumba",
-      "en": "Beef ya kotumba",
+      "fr": "Bœuf grillé",
+      "en": "Grilled beef",
       "aliases": [
         {
           "name": "bœuf grillé",
@@ -2035,6 +2035,14 @@
           "name": "kotumba",
           "lang": "ln",
           "note": "Grill / roast gesture"
+        },
+        {
+          "name": "boeuf ya kotumba",
+          "lang": "ln"
+        },
+        {
+          "name": "bœuf ya kotumba",
+          "lang": "ln"
         },
         {
           "name": "bœuf",
@@ -2059,16 +2067,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette bœuf ya kotumba — bœuf grillé",
-      "en": "Beef ya kotumba recipe — grilled beef"
+      "fr": "Recette bœuf grillé — kotumba",
+      "en": "Grilled beef recipe — kotumba"
     },
     "description": {
-      "fr": "Recette de bœuf ya kotumba : morceaux de bœuf marinés puis grillés jusqu’à une croûte fumée — grillade kinshasaise, distincte des kamundele en brochettes.",
-      "en": "Beef ya kotumba recipe: marinated beef pieces grilled to a smoky crust — Kinshasa grillade, distinct from kamundele skewers."
+      "fr": "Recette de bœuf grillé (en lingala : boeuf ya kotumba) : morceaux marinés puis cuits sur braises — grillade kin, distincte des petites brochettes kamundele.",
+      "en": "Grilled beef recipe (Lingala: boeuf ya kotumba): marinated pieces cooked over coals — Kinshasa grillade, distinct from small kamundele skewers."
     },
     "body": {
-      "fr": "**Kotumba** renvoie au geste de grillade / rôti. Le [soso ya kotumba](/recettes/soso-ya-kotumba/) est le poulet ; ici c’est le **bœuf en pièces**, plus larges que les [kamundele](/recettes/kamundele/) en brochettes. Pour le bœuf mijoté, voir [viande ya sauce](/recettes/viande-ya-sauce/).",
-      "en": "Kotumba points to grilling or roasting. Soso ya kotumba is the chicken; here beef comes in larger pieces than kamundele skewers. For stewed beef, see viande ya sauce."
+      "fr": "Le **bœuf grillé** (en lingala : *boeuf ya kotumba*) reprend le geste *kotumba* (grillade / rôti). Le pendant poulet est le [poulet grillé](/recettes/soso-ya-kotumba/) ; les petites brochettes restent les [kamundele](/recettes/kamundele/).",
+      "en": "Grilled beef (Lingala: *boeuf ya kotumba*) uses the *kotumba* grill/roast gesture. Chicken twin: [grilled chicken](/en/recettes/soso-ya-kotumba/); small skewers stay [kamundele](/en/recettes/kamundele/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -4321,6 +4329,10 @@
           "note": "Southern Africa related maize paste name"
         },
         {
+          "name": "bukari fufu",
+          "lang": "fr"
+        },
+        {
           "name": "bukari",
           "lang": "und",
           "note": "Derived from editorial tags"
@@ -4343,16 +4355,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette bukari / bugali / bidia — fufu de maïs",
-      "en": "Bukari / bugali / bidia recipe — maize fufu"
+      "fr": "Recette bukari fufu — fufu de maïs (bugali, bidia)",
+      "en": "Bukari fufu recipe — maize fufu (bugali, bidia)"
     },
     "description": {
-      "fr": "Recette de bukari (aussi bugali, bidia) : pâte de farine de maïs travaillée à chaud jusqu’à devenir lisse et dense — accompagnement central à l’Est et au Sud de la RDC.",
-      "en": "Bukari recipe (also bugali, bidia): hot-worked maize flour dough until smooth and dense — central starch in eastern and southern DRC."
+      "fr": "Recette de bukari fufu (aussi bugali, bidia) : le fufu de maïs de l’Est et du Sud de la RDC — pâte de farine de maïs travaillée à chaud jusqu’à devenir lisse et dense.",
+      "en": "Bukari fufu recipe (also bugali, bidia): maize fufu of eastern and southern DRC — hot-worked maize flour dough until smooth and dense."
     },
     "body": {
-      "fr": "Le **bukari** est la pâte de maïs du Grand Katanga ; au Kivu on dit *bugali*, au Kasaï *bidia* — **un seul geste**, des noms de table différents (voir les variantes). À l’Ouest, l’équivalent fermenté de manioc est plutôt la [chikwangue](/recettes/chikwangue/) ; le [fufu de manioc](/recettes/fufu-manioc/) reste l’autre grand geste de pâte.\n\nSauces de la région : [matembele aux arachides](/recettes/matembele-katanga/), [kapenta aux tomates](/recettes/kapenta-tomates/).",
-      "en": "Bukari is Greater Katanga’s maize paste; in Kivu people say *bugali*, in Kasai *bidia* — **one gesture**, different table names (see variants). In the West, fermented cassava “bread” is more often [chikwangue](/en/recettes/chikwangue/); [cassava fufu](/en/recettes/fufu-manioc/) is the other main dough.\n\nRegional sauces: [matembele with peanuts](/en/recettes/matembele-katanga/), [kapenta with tomatoes](/en/recettes/kapenta-tomates/)."
+      "fr": "En français courant, **bukari = fufu de maïs** (pas le fufu de manioc). Au Grand Katanga on dit bukari ; au Kivu *bugali* ; au Kasaï *bidia* — **un seul geste**, des noms de table différents (voir les variantes). Vue d’ensemble : [guide fufu](/guides/fufu/).\n\nÀ l’Ouest, l’équivalent fermenté de manioc est plutôt la [chikwangue](/recettes/chikwangue/) ; le [fufu de manioc](/recettes/fufu-manioc/) reste l’autre grand geste de pâte. Sauces de la région : [matembele aux arachides](/recettes/matembele-katanga/), [kapenta aux tomates](/recettes/kapenta-tomates/).",
+      "en": "In plain English, **bukari = maize fufu** (not cassava fufu). In Greater Katanga people say bukari; in Kivu *bugali*; in Kasai *bidia* — **one gesture**, different table names (see variants). Overview: [fufu guide](/en/guides/fufu/).\n\nIn the West, fermented cassava “bread” is more often [chikwangue](/en/recettes/chikwangue/); [cassava fufu](/en/recettes/fufu-manioc/) is the other main dough. Regional sauces: [matembele with peanuts](/en/recettes/matembele-katanga/), [kapenta with tomatoes](/en/recettes/kapenta-tomates/)."
     },
     "region": "Grand Katanga",
     "region_id": "grand_katanga",
@@ -4625,6 +4637,7 @@
     ],
     "related_recipes": [
       "fufu-manioc",
+      "fufu-plantain",
       "chikwangue",
       "sambaza",
       "haricots-maharage"
@@ -4690,6 +4703,18 @@
           "lang": "en"
         },
         {
+          "name": "capitaine braisé",
+          "lang": "fr"
+        },
+        {
+          "name": "poisson capitaine braisé",
+          "lang": "fr"
+        },
+        {
+          "name": "braised capitaine",
+          "lang": "en"
+        },
+        {
           "name": "capitaine",
           "lang": "und",
           "note": "Derived from editorial tags"
@@ -4712,16 +4737,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette capitaine braisé — perche du Nil",
-      "en": "Grilled capitaine recipe — Nile perch"
+      "fr": "Recette poisson capitaine braisé — perche du Nil",
+      "en": "Braised capitaine fish recipe — Nile perch"
     },
     "description": {
-      "fr": "Recette de capitaine braisé : perche du Nil entière marinée aux aromates et grillée jusqu’à la peau fumée — grillade de fleuve, distincte du poisson de Kinkole.",
-      "en": "Grilled capitaine recipe: whole Nile perch marinated with aromatics and grilled until the skin is smoky — river grillade, distinct from generic Kinkole braised fish."
+      "fr": "Recette de poisson capitaine braisé : perche du Nil entière marinée aux aromates et grillée jusqu’à la peau fumée — grillade de fleuve, distincte du poisson de Kinkole.",
+      "en": "Braised / grilled capitaine fish recipe: whole Nile perch marinated with aromatics and grilled until the skin is smoky — river grillade, distinct from generic Kinkole braised fish."
     },
     "body": {
-      "fr": "Le **capitaine** désigne surtout la perche du Nil sur les marchés de Kinshasa : pièce plus large que beaucoup de poissons de braise du fleuve. La fiche [poisson braisé à Kinkole](/recettes/poisson-braise-kinkole/) reste le geste de rue générique ; ici l’espèce et la taille guident le temps de cuisson.",
-      "en": "Capitaine usually means Nile perch in Kinshasa markets—a larger piece than many river fish. The Kinkole braised-fish page stays the generic street gesture; here species and size set the cooking time."
+      "fr": "Le **poisson capitaine braisé** (perche du Nil) est la grillade de fleuve quand le marché propose une belle pièce : plus large que beaucoup de poissons de braise. La fiche [poisson braisé à Kinkole](/recettes/poisson-braise-kinkole/) reste le geste de rue générique ; ici l’espèce et la taille guident le temps de cuisson.",
+      "en": "**Braised capitaine fish** (Nile perch) is the river grillade when the market has a large piece. The [Kinkole braised fish](/en/recettes/poisson-braise-kinkole/) page stays the generic street gesture; here species and size set the cooking time."
     },
     "region": "Kinshasa & bassin du Congo",
     "region_id": "kinshasa_basin",
@@ -10239,6 +10264,15 @@
           "lang": "en"
         },
         {
+          "name": "igname bouilli",
+          "lang": "fr",
+          "note": "Common spelling without agreement"
+        },
+        {
+          "name": "igname bouillie",
+          "lang": "fr"
+        },
+        {
           "name": "tubercule",
           "lang": "und",
           "note": "Derived from editorial tags"
@@ -14500,8 +14534,8 @@
     "id": "loso-mayonnaise",
     "slug": "loso-mayonnaise",
     "names": {
-      "fr": "Loso mayonnaise",
-      "en": "Loso mayonnaise",
+      "fr": "Riz mayonnaise",
+      "en": "Mayonnaise rice",
       "aliases": [
         {
           "name": "riz mayonnaise",
@@ -14539,16 +14573,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette loso mayonnaise — riz mayo kinshasa",
-      "en": "Loso mayonnaise recipe — Kinshasa mayo rice"
+      "fr": "Recette riz mayonnaise — Kinshasa",
+      "en": "Mayonnaise rice recipe — Kinshasa"
     },
     "description": {
-      "fr": "Recette de loso mayonnaise : riz nature mélangé ou nappé d’une mayonnaise relevée — accompagnement et street food très courant à Kinshasa.",
-      "en": "Loso mayonnaise recipe: plain rice mixed or topped with seasoned mayonnaise — everyday Kinshasa side and street plate."
+      "fr": "Recette de riz mayonnaise (parfois appelé loso mayonnaise) : riz servi avec une mayo ail-piment — street food / table kin.",
+      "en": "Mayonnaise rice recipe (sometimes called loso mayonnaise): rice with garlic-chili mayo — Kinshasa street / table food."
     },
     "body": {
-      "fr": "Le **loso mayonnaise** n’est pas un riz sauté : c’est le riz nature + la liaison froide à la mayo, cousin du [pain mayonnaise](/recettes/pain-mayonnaise/) et du [poulet mayo](/recettes/poulet-mayo/). À Kinshasa on le trouve autant en portion de rue qu’à table.",
-      "en": "Loso mayonnaise is not fried rice—it is plain rice plus a cold mayo dressing, cousin to pain mayonnaise and chicken mayo. In Kinshasa it shows up as street portions and table sides alike."
+      "fr": "Le **riz mayonnaise** (parfois appelé *loso mayonnaise*) est un geste street / table kin : riz + mayo ail-piment. Moins « un seul mijoté » que le [riz aux haricots](/recettes/loso-na-madesu/).",
+      "en": "Mayonnaise rice (sometimes called *loso mayonnaise*) is a Kinshasa street/table gesture: rice + garlic-chili mayo. Less of a single stew than [rice and beans](/en/recettes/loso-na-madesu/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -14769,8 +14803,8 @@
     "id": "loso-na-madesu",
     "slug": "loso-na-madesu",
     "names": {
-      "fr": "Loso na madesu",
-      "en": "Loso na madesu",
+      "fr": "Riz aux haricots",
+      "en": "Rice and beans",
       "aliases": [
         {
           "name": "riz aux haricots",
@@ -14807,16 +14841,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette loso na madesu — riz aux haricots",
-      "en": "Loso na madesu recipe — rice and beans"
+      "fr": "Recette riz aux haricots",
+      "en": "Rice and beans recipe"
     },
     "description": {
-      "fr": "Recette de loso na madesu : riz et haricots mijotés ensemble avec oignon, tomate et un peu d’huile de palme — assiette du quotidien à Kinshasa.",
-      "en": "Loso na madesu recipe: rice and beans cooked together with onion, tomato and a little palm oil — an everyday Kinshasa plate."
+      "fr": "Recette de riz aux haricots (en lingala : loso na madesu) : riz cuit avec des haricots — assiette simple et nourrissante.",
+      "en": "Rice and beans recipe (Lingala: loso na madesu): rice cooked with beans — a simple, filling plate."
     },
     "body": {
-      "fr": "**Loso na madesu** (« riz et haricots ») est l’assiette simple du quotidien : moins de sauce que les [madesu](/recettes/madesu/) seuls, plus nourrissante qu’un riz nature. On peut cuire les haricots à part la veille pour aller plus vite.\n\nVariante feuilles + haricots : [saka-madesu](/recettes/saka-madesu/). Riz aux pois : [loso na petits pois](/recettes/loso-petits-pois/).",
-      "en": "Loso na madesu (“rice and beans”) is a simple everyday plate: less saucy than madesu alone, more filling than plain rice. Cook the beans ahead to speed things up."
+      "fr": "Le **riz aux haricots** (en lingala : *loso na madesu*) est l’assiette simple du quotidien : moins de sauce longue que les [madesu](/recettes/madesu/) seuls, plus « un seul plat » que le riz nature. Variante feuilles + haricots : [saka-madesu](/recettes/saka-madesu/).",
+      "en": "Rice and beans (Lingala: *loso na madesu*) is the everyday one-plate meal: less saucy than [madesu](/en/recettes/madesu/) alone. Leaves + beans: [saka-madesu](/en/recettes/saka-madesu/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -15054,8 +15088,8 @@
     "id": "loso-na-mbisi",
     "slug": "loso-na-mbisi",
     "names": {
-      "fr": "Loso na mbisi",
-      "en": "Loso na mbisi",
+      "fr": "Riz au poisson",
+      "en": "Rice with fish",
       "aliases": [
         {
           "name": "loso na mbisi",
@@ -15087,16 +15121,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette loso na mbisi — riz au poisson",
-      "en": "Loso na mbisi recipe — rice with fish"
+      "fr": "Recette riz au poisson",
+      "en": "Rice with fish recipe"
     },
     "description": {
-      "fr": "Recette de loso na mbisi : riz mijoté ou servi avec du poisson en sauce tomate — assiette du quotidien à Kinshasa, cousine du loso na madesu.",
-      "en": "Loso na mbisi recipe: rice cooked or served with fish in tomato sauce — everyday Kinshasa plate, cousin to loso na madesu."
+      "fr": "Recette de riz au poisson (en lingala : loso na mbisi) : riz mijoté avec du poisson — classique de table kinshasaise.",
+      "en": "Rice with fish recipe (Lingala: loso na mbisi): rice simmered with fish — a Kinshasa table classic."
     },
     "body": {
-      "fr": "**Loso na mbisi** (« riz et poisson ») complète [loso na madesu](/recettes/loso-na-madesu/) et le [loso mayonnaise](/recettes/loso-mayonnaise/) kinshasa. Poisson frit seul : [mbisi ya kokalinga](/recettes/mbisi-ya-kokalinga/). Assiette plantain + poisson : [makemba na mbisi](/recettes/makemba-na-mbisi/).",
-      "en": "**Loso na mbisi** (“rice and fish”) sits beside [loso na madesu](/en/recettes/loso-na-madesu/) and Kinshasa [loso mayonnaise](/en/recettes/loso-mayonnaise/). Fried fish alone: [mbisi ya kokalinga](/en/recettes/mbisi-ya-kokalinga/). Plantain + fish: [makemba na mbisi](/en/recettes/makemba-na-mbisi/)."
+      "fr": "Le **riz au poisson** (en lingala : *loso na mbisi*) complète le [riz aux haricots](/recettes/loso-na-madesu/) et le [riz mayonnaise](/recettes/loso-mayonnaise/) : ici le poisson porte le riz. Autre poisson de table : [pondu au poisson](/recettes/pondu-poisson/).",
+      "en": "Rice with fish (Lingala: *loso na mbisi*) sits beside [rice and beans](/en/recettes/loso-na-madesu/) and [mayonnaise rice](/en/recettes/loso-mayonnaise/). Another fish plate: [pondu with fish](/en/recettes/pondu-poisson/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -15320,8 +15354,8 @@
     "id": "loso-petits-pois",
     "slug": "loso-petits-pois",
     "names": {
-      "fr": "Loso na petits pois",
-      "en": "Loso with green peas",
+      "fr": "Riz aux petits pois",
+      "en": "Rice with peas",
       "aliases": [
         {
           "name": "riz aux petits pois",
@@ -15348,13 +15382,17 @@
         }
       ]
     },
+    "seo_title": {
+      "fr": "Recette riz aux petits pois — Kinshasa",
+      "en": "Rice with peas recipe — Kinshasa"
+    },
     "description": {
-      "fr": "Riz aux petits pois cuit dans un bouillon aromatique, simple, coloré et adapté aux grandes tablées.",
-      "en": "Rice with green peas cooked in an aromatic broth—simple, colorful and made for sharing."
+      "fr": "Recette de riz aux petits pois (en lingala on dit souvent loso na petits pois) : riz sauté ou mijoté avec des petits pois — accompagnement kin.",
+      "en": "Rice with peas recipe (often called loso na petits pois): rice sautéed or simmered with peas — Kinshasa side."
     },
     "body": {
-      "fr": "Ce riz accompagne les viandes en sauce comme les poissons grillés. Les petits pois peuvent être remplacés ou complétés par des haricots cuits.",
-      "en": "A Kinshasa classic for large tables, easy to stretch and always welcome."
+      "fr": "Le **riz aux petits pois** (en lingala on dit souvent *loso na petits pois*) est un accompagnement kin simple. Cousins riz : [riz aux haricots](/recettes/loso-na-madesu/), [riz mayonnaise](/recettes/loso-mayonnaise/).",
+      "en": "Rice with peas (often *loso na petits pois* in Lingala table speech) is a simple Kinshasa side. Cousins: [rice and beans](/en/recettes/loso-na-madesu/), [mayonnaise rice](/en/recettes/loso-mayonnaise/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -15564,8 +15602,8 @@
     "id": "loso-sauce-katanga",
     "slug": "loso-sauce-katanga",
     "names": {
-      "fr": "Loso ya sauce",
-      "en": "Loso ya sauce",
+      "fr": "Riz sauce tomate",
+      "en": "Rice with tomato sauce",
       "aliases": [
         {
           "name": "riz sauce tomate",
@@ -15609,16 +15647,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette loso ya sauce — riz sauce tomate Katanga",
-      "en": "Loso ya sauce recipe — Katanga tomato rice"
+      "fr": "Recette riz sauce tomate — Katanga",
+      "en": "Rice with tomato sauce recipe — Katanga"
     },
     "description": {
-      "fr": "Recette de loso ya sauce : riz blanc servi avec une sauce tomate à la viande — assiette du quotidien à Lubumbashi, distincte du loso mayonnaise de Kinshasa.",
-      "en": "Loso ya sauce recipe: white rice with a tomato meat sauce — everyday Lubumbashi plate, distinct from Kinshasa loso mayonnaise."
+      "fr": "Recette de riz en sauce tomate (en lingala : loso ya sauce) — assiette Katanga / Sud-Est.",
+      "en": "Rice with tomato sauce recipe (Lingala: loso ya sauce) — Katanga / south-east plate."
     },
     "body": {
-      "fr": "**Loso ya sauce** à Lubumbashi : riz + sauce tomate, sans la mayonnaise du [loso mayonnaise](/recettes/loso-mayonnaise/) kin. Autre riz d’Est : [pilau du Kivu](/recettes/pilau-kivu/). Quand on veut la pâte : [bukari](/recettes/bukari-katanga/).",
-      "en": "**Loso ya sauce** in Lubumbashi: rice + tomato sauce, without the mayonnaise of Kinshasa [loso mayonnaise](/en/recettes/loso-mayonnaise/). Other Eastern rice: [Kivu pilau](/en/recettes/pilau-kivu/). When you want the paste: [bukari](/en/recettes/bukari-katanga/)."
+      "fr": "Le **riz sauce tomate** (en lingala : *loso ya sauce*) à Lubumbashi : riz + sauce tomate, sans la mayonnaise du [riz mayonnaise](/recettes/loso-mayonnaise/).",
+      "en": "Rice with tomato sauce (Lingala: *loso ya sauce*) in Lubumbashi: rice + tomato sauce, without the mayo of [mayonnaise rice](/en/recettes/loso-mayonnaise/)."
     },
     "region": "Grand Katanga",
     "region_id": "grand_katanga",
@@ -17577,12 +17615,16 @@
     "id": "makemba-na-mbisi",
     "slug": "makemba-na-mbisi",
     "names": {
-      "fr": "Makemba na mbisi",
-      "en": "Makemba na mbisi",
+      "fr": "Plantains frits au poisson",
+      "en": "Fried plantains with fish",
       "aliases": [
         {
           "name": "plantains et poisson",
           "lang": "fr"
+        },
+        {
+          "name": "makemba na mbisi",
+          "lang": "ln"
         },
         {
           "name": "makemba",
@@ -17607,16 +17649,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette makemba na mbisi — plantains et poisson",
-      "en": "Makemba na mbisi recipe — plantains and fish"
+      "fr": "Recette plantains frits au poisson",
+      "en": "Fried plantains with fish recipe"
     },
     "description": {
-      "fr": "Recette de makemba na mbisi : plantains frits servis avec du poisson (frit, braisé ou en sauce) — assiette composée très courante en RDC.",
-      "en": "Makemba na mbisi recipe: fried plantains served with fish (fried, grilled or in sauce) — a very common composed plate across the DRC."
+      "fr": "Recette de plantains frits au poisson (en lingala : makemba na mbisi) — duo plantain et poisson.",
+      "en": "Fried plantains with fish recipe (Lingala: makemba na mbisi) — plantain and fish duo."
     },
     "body": {
-      "fr": "**Makemba na mbisi** n’est pas une nouvelle technique : c’est le **mariage d’assiette** entre [makemba](/recettes/makemba/) et un poisson (braisé, frit ou fumé). À Kinshasa comme en province, c’est l’une des compositions les plus demandées.",
-      "en": "Makemba na mbisi is not a new technique—it is the plate pairing of fried plantains and fish (grilled, fried or smoked). In Kinshasa and across the provinces it is one of the most requested compositions."
+      "fr": "Les **plantains frits au poisson** (en lingala : *makemba na mbisi*) ne sont pas une nouvelle technique : c’est le mariage d’assiette entre [makemba](/recettes/makemba/) et un poisson du catalogue.",
+      "en": "Fried plantains with fish (Lingala: *makemba na mbisi*) is a plate pairing of [makemba](/en/recettes/makemba/) and fish—not a new technique."
     },
     "region": "Toute la RDC",
     "region_id": "nationwide",
@@ -17829,8 +17871,8 @@
     "id": "makoso",
     "slug": "makoso",
     "names": {
-      "fr": "Makoso",
-      "en": "Makoso",
+      "fr": "Pieds de porc",
+      "en": "Pig trotters",
       "aliases": [
         {
           "name": "pieds de porc",
@@ -17840,6 +17882,15 @@
           "name": "makosso",
           "lang": "ln",
           "note": "Related / same family name"
+        },
+        {
+          "name": "makoso en français",
+          "lang": "fr",
+          "note": "Gloss search intent"
+        },
+        {
+          "name": "pieds de porc congolais",
+          "lang": "fr"
         },
         {
           "name": "makoso",
@@ -17864,16 +17915,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette makoso — pieds de porc congolais",
-      "en": "Makoso recipe — Congolese pig trotters"
+      "fr": "Recette pieds de porc (makoso)",
+      "en": "Pig trotters recipe (makoso)"
     },
     "description": {
-      "fr": "Recette de makoso : pieds de porc longuement mijotés dans un bouillon relevé aux aromates et au pili-pili — classique des fêtes et des tables kin.",
-      "en": "Makoso recipe: pig trotters simmered long in a fragrant, chili-forward broth — a Kinshasa feast classic."
+      "fr": "Recette de pieds de porc (en lingala : makoso) : longuement mijotés dans un bouillon relevé aux aromates et au pili-pili — classique des fêtes et des tables kin.",
+      "en": "Pig trotters recipe (Lingala: makoso): long-simmered trotters in a fragrant, chili-forward broth — a Kinshasa feast classic."
     },
     "body": {
-      "fr": "Le **makoso** (pieds de porc) est un plat de patience et de fête : longtemps mijoté, souvent bien pimenté, servi dans un bouillon parfumé. Certaines tables le rapprochent d’un « pepper soup » ; d’autres le veulent plus lié, avec tomate.\n\nAutre soupe pimentée : [pepe soupe ya ngolo](/recettes/pepe-soupe-ya-ngolo/). Grillade de porc : [porc braisé](/recettes/porc-braise/).",
-      "en": "Makoso (pig trotters) is a patient feast dish: long-simmered, often spicy, served in a fragrant broth. Some tables treat it like pepper soup; others like it thicker with tomato."
+      "fr": "Les **pieds de porc** (en lingala : *makoso*) sont un plat de patience et de fête : longtemps mijotés, souvent bien pimentés, servis dans un bouillon parfumé. Certaines tables les rapprochent d’un « pepper soup » ; d’autres les veulent plus liés, avec tomate.\n\nAvec pommes de terre : [makosso aux pommes](/recettes/makosso-pommes/). Autre soupe pimentée : [soupe pepe au poisson-chat](/recettes/pepe-soupe-ya-ngolo/). Grillade : [porc braisé](/recettes/porc-braise/).",
+      "en": "**Pig trotters** (Lingala: *makoso*) are a patient feast dish: long-simmered, often spicy, served in a fragrant broth. Some tables treat it like pepper soup; others like it thicker with tomato. With potatoes: [makosso with potatoes](/en/recettes/makosso-pommes/). Chili soup cousin: [pepe soup with catfish](/en/recettes/pepe-soupe-ya-ngolo/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -18097,6 +18148,7 @@
     },
     "variants": [],
     "related_recipes": [
+      "makosso-pommes",
       "pepe-soupe-ya-ngolo",
       "porc-braise",
       "sauce-pili-pili"
@@ -20626,8 +20678,8 @@
     "id": "mbisi-na-kwanga",
     "slug": "mbisi-na-kwanga",
     "names": {
-      "fr": "Mbisi na kwanga",
-      "en": "Mbisi na kwanga",
+      "fr": "Poisson et chikwangue",
+      "en": "Fish with chikwangue",
       "aliases": [
         {
           "name": "poisson et chikwangue",
@@ -20645,6 +20697,10 @@
           "name": "poisson kwanga",
           "lang": "fr",
           "region_hint": "Kongo-Central"
+        },
+        {
+          "name": "mbisi na kwanga",
+          "lang": "ln"
         },
         {
           "name": "mbisi",
@@ -20669,16 +20725,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette mbisi na kwanga — poisson et chikwangue",
-      "en": "Mbisi na kwanga recipe — fish with chikwangue"
+      "fr": "Recette poisson et chikwangue — Kongo-Central",
+      "en": "Fish with chikwangue recipe — Kongo-Central"
     },
     "description": {
-      "fr": "Recette de mbisi na kwanga : poisson en sauce courte servi avec kwanga (chikwangue) — duo classique du Kongo-Central et de l’Ouest.",
-      "en": "Mbisi na kwanga recipe: fish in a short sauce served with kwanga (chikwangue) — classic Kongo-Central / western duo."
+      "fr": "Recette de poisson servi avec chikwangue (en lingala : mbisi na kwanga) — duo classique du Kongo-Central.",
+      "en": "Fish with chikwangue recipe (Lingala: mbisi na kwanga) — classic Kongo-Central duo."
     },
     "body": {
-      "fr": "**Mbisi na kwanga** est l’assiette poisson + [chikwangue / kwanga](/recettes/chikwangue/) côté Kongo-Central : la pâte de manioc remplace souvent le riz. Autre classique ouest : [fumbwa aux arachides](/recettes/fumbwa-arachides/).",
-      "en": "**Mbisi na kwanga** is fish + [chikwangue / kwanga](/en/recettes/chikwangue/) on the Kongo-Central side: cassava paste often replaces rice. Another western classic: [fumbwa with peanuts](/en/recettes/fumbwa-arachides/)."
+      "fr": "Le **poisson avec chikwangue** (en lingala : *mbisi na kwanga*) est l’assiette du Kongo-Central : la pâte de manioc remplace souvent le riz. Autre classique ouest : [fumbwa aux arachides](/recettes/fumbwa-arachides/).",
+      "en": "Fish with chikwangue (Lingala: *mbisi na kwanga*) is the Kongo-Central plate: cassava paste often replaces rice. Another western classic: [fumbwa with peanuts](/en/recettes/fumbwa-arachides/)."
     },
     "region": "Kongo-Central",
     "region_id": "kongo_central",
@@ -20899,7 +20955,7 @@
     "id": "mbisi-ya-kokalinga",
     "slug": "mbisi-ya-kokalinga",
     "names": {
-      "fr": "Mbisi ya kokalinga",
+      "fr": "Poisson frit",
       "en": "Mbisi ya kokalinga",
       "aliases": [
         {
@@ -20931,13 +20987,16 @@
         }
       ]
     },
+    "seo_title": {
+      "fr": "Recette poisson frit"
+    },
     "description": {
-      "fr": "Poisson entier assaisonné, fariné très légèrement puis frit jusqu’à devenir doré et croustillant.",
+      "fr": "Recette de poisson frit (en lingala : mbisi ya kokalinga) — frit jusqu’à croûte dorée.",
       "en": "Fish fried or grilled until the skin is crisp and the flesh stays moist."
     },
     "body": {
-      "fr": "Le choix du poisson dépend des arrivages du fleuve, des lacs ou du marché; cette méthode convient à plusieurs poissons à chair ferme.",
-      "en": "Mbisi ya kokalinga simply means fish cooked in the pan or on the fire—everyday and festive at once."
+      "fr": "Le **poisson frit** (en lingala : *mbisi ya kokalinga*) convient à plusieurs poissons selon les arrivages. Autre braise : [poisson braisé à Kinkole](/recettes/poisson-braise-kinkole/), [capitaine braisé](/recettes/capitaine-braise/).",
+      "en": "Fried fish (Lingala: *mbisi ya kokalinga*) fits several market fish. Other braises: [Kinkole braised fish](/en/recettes/poisson-braise-kinkole/), [grilled capitaine](/en/recettes/capitaine-braise/)."
     },
     "region": "Kinshasa & fleuve Congo",
     "region_id": "kinshasa_basin",
@@ -25172,8 +25231,8 @@
     "id": "ngulu-ya-sauce",
     "slug": "ngulu-ya-sauce",
     "names": {
-      "fr": "Ngulu ya sauce",
-      "en": "Ngulu in sauce",
+      "fr": "Porc en sauce",
+      "en": "Pork in sauce",
       "aliases": [
         {
           "name": "ngulu",
@@ -25183,6 +25242,10 @@
         {
           "name": "porc en sauce",
           "lang": "fr"
+        },
+        {
+          "name": "ngulu ya sauce",
+          "lang": "ln"
         },
         {
           "name": "porc",
@@ -25207,16 +25270,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette ngulu ya sauce — porc en sauce",
-      "en": "Ngulu ya sauce recipe — pork stew"
+      "fr": "Recette porc en sauce",
+      "en": "Pork in sauce recipe"
     },
     "description": {
-      "fr": "Recette de ngulu ya sauce : porc mijoté dans une sauce tomate-oignon jusqu’à fondre — plat de table kinshasaise, distinct du porc braisé sur braises.",
-      "en": "Ngulu ya sauce recipe: pork simmered in tomato-onion sauce until tender — Kinshasa table dish, distinct from charcoal-braised pork."
+      "fr": "Recette de porc en sauce (en lingala : ngulu ya sauce) : porc mijoté tomate-oignon — distinct du porc grillé.",
+      "en": "Pork in sauce recipe (Lingala: ngulu ya sauce): pork simmered with tomato and onion — distinct from grilled pork."
     },
     "body": {
-      "fr": "**Ngulu** désigne le porc en lingala. Ici la cuisson est **en sauce**, pas sur les braises : pour la grillade, voir [porc braisé](/recettes/porc-braise/). Les pieds de porc ont leur propre fiche : [makoso](/recettes/makoso/).",
-      "en": "Ngulu means pork in Lingala. This page is the sauced stew, not the grill—see braised pork for charcoal. Pig’s trotters have their own page: makoso."
+      "fr": "Le **porc en sauce** (en lingala : *ngulu ya sauce* ; *ngulu* = porc) est un mijoté, pas une grillade. Pour les braises : [porc grillé](/recettes/porc-ya-kotumba/) ou [porc braisé](/recettes/porc-braise/).",
+      "en": "Pork in sauce (Lingala: *ngulu ya sauce*; *ngulu* = pork) is a simmer, not a grill. For coals: [grilled pork](/en/recettes/porc-ya-kotumba/) or [braised pork](/en/recettes/porc-braise/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -25414,6 +25477,8 @@
     "variants": [],
     "related_recipes": [
       "porc-braise",
+      "porc-ya-kotumba",
+      "cotes-porc",
       "viande-ya-sauce",
       "makoso"
     ],
@@ -26688,8 +26753,8 @@
     "id": "nyama-bugali-kivu",
     "slug": "nyama-bugali-kivu",
     "names": {
-      "fr": "Nyama na bugali",
-      "en": "Nyama na bugali",
+      "fr": "Viande au bugali",
+      "en": "Meat with bugali",
       "aliases": [
         {
           "name": "viande au bugali",
@@ -26707,6 +26772,10 @@
         {
           "name": "nyama na bukari",
           "lang": "sw"
+        },
+        {
+          "name": "nyama na bugali",
+          "lang": "ln"
         },
         {
           "name": "nyama",
@@ -26735,12 +26804,12 @@
       "en": "Meat with bugali recipe — Kivu"
     },
     "description": {
-      "fr": "Recette de nyama na bugali : viande mijotée en sauce servie avec bugali — assiette viande + pâte de maïs du Kivu, distincte du duo tilapia-bugali.",
-      "en": "Nyama na bugali recipe: meat simmered in sauce served with bugali — Kivu meat + maize paste plate, distinct from tilapia-bugali."
+      "fr": "Recette de viande au bugali (en swahili / lingala de table : nyama na bugali) — viande en sauce avec pâte de maïs du Kivu.",
+      "en": "Meat with bugali recipe (table Lingala/Swahili: nyama na bugali) — sauced meat with Kivu maize paste."
     },
     "body": {
-      "fr": "**Nyama na bugali** est le pendant viande du [tilapia au bugali](/recettes/tilapia-bugali/) : même pâte de maïs de l’Est, sauce longue. Pour la pâte seule : [bukari / bugali](/recettes/bukari-katanga/).",
-      "en": "**Nyama na bugali** is the meat counterpart to [tilapia with bugali](/en/recettes/tilapia-bugali/): same eastern maize paste, longer sauce. Paste alone: [bukari / bugali](/en/recettes/bukari-katanga/)."
+      "fr": "La **viande au bugali** (en lingala / swahili de table : *nyama na bugali*) est le pendant viande du [tilapia au bugali](/recettes/tilapia-bugali/) : même pâte de maïs de l’Est, sauce longue. Pour la pâte seule : [bukari / bugali](/recettes/bukari-katanga/).",
+      "en": "Meat with bugali (table Lingala/Swahili: *nyama na bugali*) is the meat counterpart to [tilapia with bugali](/en/recettes/tilapia-bugali/). Paste alone: [bukari / bugali](/en/recettes/bukari-katanga/)."
     },
     "region": "Nord-Kivu & Sud-Kivu",
     "region_id": "kivu",
@@ -27454,7 +27523,7 @@
     "id": "pepe-soupe-ya-ngolo",
     "slug": "pepe-soupe-ya-ngolo",
     "names": {
-      "fr": "Pepe soupe ya ngolo",
+      "fr": "Soupe pepe au poisson-chat",
       "en": "Pepe soupe ya ngolo",
       "aliases": [
         {
@@ -27469,6 +27538,10 @@
           "name": "ngolo",
           "lang": "ln",
           "note": "Catfish"
+        },
+        {
+          "name": "pepe soupe ya ngolo",
+          "lang": "ln"
         },
         {
           "name": "pepe soupe",
@@ -27493,16 +27566,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette pepe soupe ya ngolo",
+      "fr": "Recette soupe pepe au poisson-chat (ngolo)",
       "en": "Pepe soupe ya ngolo recipe"
     },
     "description": {
-      "fr": "Recette de pepe soupe ya ngolo : soupe de poisson-chat au gingembre, à l’ail et au pili-pili — street food pimentée de Kinshasa.",
+      "fr": "Recette de soupe pepe au poisson-chat (en lingala : pepe soupe ya ngolo) — bouillon pimenté au ngolo.",
       "en": "Pepe soupe ya ngolo recipe: spicy catfish soup with ginger, garlic and pili-pili—Kinshasa street-food heat."
     },
     "body": {
-      "fr": "« **Ngolo** » désigne le poisson-chat en lingala. La **pepe soupe ya ngolo** est une soupe courte, très parfumée, typique des gargotes de Kinshasa : on la mange chaude, souvent avec de la [chikwangue](/recettes/chikwangue/).\n\nPour un autre poisson de rue kinshasaise, voir le [poisson braisé de Kinkole](/recettes/poisson-braise-kinkole/).",
-      "en": "“Ngolo” means catfish in Lingala. Pepe soupe ya ngolo is a short, fragrant broth from Kinshasa stalls—eaten hot, often with chikwangue. Street heat: spicy, aromatic, no waiting."
+      "fr": "La **soupe pepe au poisson-chat** (en lingala : *pepe soupe ya ngolo* ; *ngolo* = poisson-chat) est une soupe courte, très parfumée, typique des tables qui aiment le piment. Version grillée du même poisson : [ngolo grillé](/recettes/ngolo-grille/).",
+      "en": "Pepe soup with catfish (Lingala: *pepe soupe ya ngolo*; *ngolo* = catfish) is a short, fragrant chili soup. Grilled twin: [grilled ngolo](/en/recettes/ngolo-grille/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -28441,6 +28514,7 @@
     },
     "variants": [],
     "related_recipes": [
+      "capitaine-braise",
       "pepe-soupe-ya-ngolo",
       "liboke-poisson",
       "makemba"
@@ -30319,6 +30393,14 @@
           "lang": "fr"
         },
         {
+          "name": "rice and pondu",
+          "lang": "en"
+        },
+        {
+          "name": "pondu with rice",
+          "lang": "en"
+        },
+        {
           "name": "pondu",
           "lang": "und",
           "note": "Derived from editorial tags"
@@ -30327,15 +30409,15 @@
     },
     "seo_title": {
       "fr": "Recette pondu (saka-saka) — feuilles de manioc",
-      "en": "Pondu recipe (saka-saka) — cassava leaves"
+      "en": "Pondu recipe — cassava leaves (with rice or fufu)"
     },
     "description": {
       "fr": "Recette de pondu (saka-saka) : feuilles de manioc mijotées à l’huile de palme avec oignons et poisson fumé — classique du quotidien en RDC.",
-      "en": "Pondu (saka-saka) recipe: cassava leaves simmered in palm oil with onions and smoked fish—everyday Congolese classic from the DRC."
+      "en": "Pondu (saka-saka) recipe: cassava leaves simmered in palm oil with onions and smoked fish—everyday Congolese classic, often served with rice and pondu or fufu."
     },
     "body": {
       "fr": "Le **pondu**, aussi appelé **saka-saka** ou mpondu, est la recette de feuilles de manioc la plus cherchée de la cuisine congolaise. On le prépare aussi en version végétarienne, sans poisson ni viande, pour les jours de jeûne ou les repas du vendredi dans certaines familles.\n\nPour le geste, le marché et les variantes régionales, lire le [guide du pondu](/guides/pondu/). À l’Est, le même geste porte souvent le nom de [sombe](/recettes/sombe/). En accompagnement : [chikwangue](/recettes/chikwangue/) ou [fufu de manioc](/recettes/fufu-manioc/).",
-      "en": "Pondu—also called saka-saka or mpondu—is the cassava-leaf stew most associated with Congolese home cooking. A vegetarian version without fish or meat is common on fasting days. The long simmer softens the leaves and builds the sauce; serve with chikwangue or fufu."
+      "en": "Pondu—also called saka-saka or mpondu—is the cassava-leaf stew most associated with Congolese home cooking. A common search phrasing is **rice and pondu**: the leaves with plain rice, [chikwangue](/en/recettes/chikwangue/), or [cassava fufu](/en/recettes/fufu-manioc/). A vegetarian version without fish or meat is common on fasting days."
     },
     "region": "Kinshasa & Cuvette",
     "region_id": "kinshasa_cuvette",
@@ -30887,16 +30969,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette pondu au poisson (pondu ya mbisi)",
-      "en": "Pondu with fish recipe (pondu ya mbisi)"
+      "fr": "Recette pondu au poisson",
+      "en": "Pondu with fish recipe"
     },
     "description": {
-      "fr": "Recette de pondu au poisson : feuilles de manioc mijotées à l’huile de palme avec du poisson frais ou fumé — variante très demandée du saka-saka.",
-      "en": "Pondu with fish recipe: cassava leaves simmered in palm oil with fresh or smoked fish — a much-requested saka-saka variant."
+      "fr": "Recette de pondu au poisson (en lingala : pondu ya mbisi) : feuilles de manioc mijotées avec du poisson — variante du pondu.",
+      "en": "Pondu with fish recipe (Lingala: pondu ya mbisi): cassava leaves simmered with fish — a pondu variant."
     },
     "body": {
-      "fr": "Le **pondu au poisson** (*pondu ya mbisi*) met le poisson au centre, là où la fiche [pondu (saka-saka)](/recettes/pondu/) le laisse optionnel. Même famille de feuilles : [saka-madesu](/recettes/saka-madesu/). Poisson fumé seul en sauce tomate : [poisson fumé aux tomates](/recettes/poisson-fume-tomates/).",
-      "en": "**Pondu with fish** (*pondu ya mbisi*) puts fish at the centre, where the main [pondu (saka-saka)](/en/recettes/pondu/) page leaves it optional. Same leaf family: [saka-madesu](/en/recettes/saka-madesu/). Smoked fish in tomato sauce: [smoked fish with tomatoes](/en/recettes/poisson-fume-tomates/)."
+      "fr": "Le **pondu au poisson** (en lingala : *pondu ya mbisi*) place le poisson au centre, là où la fiche [pondu](/recettes/pondu/) le laisse optionnel. Même famille de feuilles : [saka-madesu](/recettes/saka-madesu/).",
+      "en": "Pondu with fish (Lingala: *pondu ya mbisi*) puts fish at the centre, where the main [pondu](/en/recettes/pondu/) page leaves it optional. Same leaf family: [saka-madesu](/en/recettes/saka-madesu/)."
     },
     "region": "Kinshasa & Cuvette",
     "region_id": "kinshasa_cuvette",
@@ -31145,6 +31227,18 @@
           "lang": "fr"
         },
         {
+          "name": "ngulu",
+          "lang": "ln"
+        },
+        {
+          "name": "ngulu braisé",
+          "lang": "fr"
+        },
+        {
+          "name": "ngulu braise",
+          "lang": "fr"
+        },
+        {
           "name": "porc",
           "lang": "und",
           "note": "Derived from editorial tags"
@@ -31166,13 +31260,17 @@
         }
       ]
     },
+    "seo_title": {
+      "fr": "Recette porc braisé",
+      "en": "Braised pork recipe"
+    },
     "description": {
-      "fr": "Morceaux de porc marinés aux aromates puis braisés sur les braises jusqu’à une croûte dorée — la grillade de porc absente du catalogue jusqu’ici.",
-      "en": "Pork pieces marinated with aromatics then braised over coals to a golden crust — pork grilling previously missing from the catalogue."
+      "fr": "Recette de porc braisé (en lingala : ngulu ya kotumba / ngulu braisé) : morceaux marinés puis braisés sur braises — grillade kin, distincte du porc en sauce.",
+      "en": "Braised pork recipe (Lingala: ngulu ya kotumba / ngulu braised): marinated pieces braised over coals — Kinshasa grill, distinct from pork in sauce."
     },
     "body": {
-      "fr": "Le porc braisé se distingue des kamundele (bœuf en petites brochettes) par la pièce, la durée de cuisson et la matière. Selon les gargotes, la précuisson est plus ou moins poussée avant les braises.",
-      "en": "Braised pork differs from kamundele (small beef skewers) in cut, cooking time and meat. Pre-cooking before the coals varies from stall to stall."
+      "fr": "Le **porc braisé** (en lingala : *ngulu* pour porc ; souvent *ngulu ya kotumba* à la grillade) se distingue des [kamundele](/recettes/kamundele/) par la pièce et la durée. En sauce : [porc en sauce](/recettes/ngulu-ya-sauce/). Snack grillé proche : [porc grillé](/recettes/porc-ya-kotumba/).",
+      "en": "Braised pork (Lingala: *ngulu* for pork; often *ngulu ya kotumba* on the grill) differs from [kamundele](/en/recettes/kamundele/) by cut and time. In sauce: [pork in sauce](/en/recettes/ngulu-ya-sauce/). Related grill snack: [grilled pork](/en/recettes/porc-ya-kotumba/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -31194,6 +31292,7 @@
     "servings": 6,
     "tags": [
       "porc",
+      "ngulu",
       "braise",
       "grillade",
       "Kinshasa"
@@ -31391,8 +31490,8 @@
     "id": "porc-ya-kotumba",
     "slug": "porc-ya-kotumba",
     "names": {
-      "fr": "Porc ya kotumba",
-      "en": "Pork ya kotumba",
+      "fr": "Porc grillé",
+      "en": "Grilled pork",
       "aliases": [
         {
           "name": "porc grillé",
@@ -31405,6 +31504,15 @@
         {
           "name": "grilled pork",
           "lang": "en"
+        },
+        {
+          "name": "ngulu",
+          "lang": "ln",
+          "note": "Pork; grilled kotumba context"
+        },
+        {
+          "name": "porc ya kotumba",
+          "lang": "ln"
         },
         {
           "name": "porc",
@@ -31434,16 +31542,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette porc ya kotumba — porc grillé",
-      "en": "Pork ya kotumba recipe — grilled pork"
+      "fr": "Recette porc grillé — kotumba",
+      "en": "Grilled pork recipe — kotumba"
     },
     "description": {
-      "fr": "Recette de porc ya kotumba : porc mariné puis grillé sur braises — version coté porc du soso / bœuf ya kotumba, distincte du porc braisé en sauce.",
-      "en": "Pork ya kotumba recipe: marinated pork grilled over coals — the pork side of soso / beef kotumba, distinct from braised pork in sauce."
+      "fr": "Recette de porc grillé (en lingala : porc ya kotumba / ngulu ya kotumba) : porc mariné puis cuit sur braises — distinct du porc braisé long et du porc en sauce.",
+      "en": "Grilled pork recipe (Lingala: porc ya kotumba / ngulu ya kotumba): marinated pork finished on coals — distinct from long-braised pork and pork in sauce."
     },
     "body": {
-      "fr": "**Porc ya kotumba** suit le geste grillade du [soso ya kotumba](/recettes/soso-ya-kotumba/) et du [bœuf ya kotumba](/recettes/boeuf-ya-kotumba/). Pour le porc en sauce longue : [porc braisé](/recettes/porc-braise/) ou [ngulu ya sauce](/recettes/ngulu-ya-sauce/).",
-      "en": "**Pork ya kotumba** follows the grill gesture of [soso ya kotumba](/en/recettes/soso-ya-kotumba/) and [boeuf ya kotumba](/en/recettes/boeuf-ya-kotumba/). For long sauce: [braised pork](/en/recettes/porc-braise/) or [ngulu ya sauce](/en/recettes/ngulu-ya-sauce/)."
+      "fr": "Le **porc grillé** (en lingala : *porc ya kotumba* / *ngulu ya kotumba*) suit le geste grillade du [poulet grillé](/recettes/soso-ya-kotumba/) et du [bœuf grillé](/recettes/boeuf-ya-kotumba/). Pour un mijoté : [porc en sauce](/recettes/ngulu-ya-sauce/) ou [porc braisé](/recettes/porc-braise/) plus long.",
+      "en": "Grilled pork (Lingala: *porc ya kotumba* / *ngulu ya kotumba*) follows the same grill gesture as [grilled chicken](/en/recettes/soso-ya-kotumba/) and [grilled beef](/en/recettes/boeuf-ya-kotumba/). For a stew: [pork in sauce](/en/recettes/ngulu-ya-sauce/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -34352,6 +34460,18 @@
           "lang": "en"
         },
         {
+          "name": "sauce pili pili",
+          "lang": "fr"
+        },
+        {
+          "name": "pili pili origine",
+          "lang": "fr"
+        },
+        {
+          "name": "piri-piri",
+          "lang": "en"
+        },
+        {
           "name": "sauce piment",
           "lang": "und",
           "note": "Derived from editorial tags"
@@ -34369,16 +34489,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette sauce pili-pili congolaise",
-      "en": "Congolese pili-pili sauce recipe"
+      "fr": "Sauce pili-pili — origine et recette congolaise",
+      "en": "Pili-pili sauce — origin and Congolese recipe"
     },
     "description": {
-      "fr": "Recette de sauce pili-pili : piments frais mixés avec ail, oignon et un filet d’huile — condiment vif pour grillades, poisson et table kin.",
-      "en": "Pili-pili sauce recipe: fresh chilies blended with garlic, onion and a little oil — a sharp condiment for grills, fish and Kinshasa tables."
+      "fr": "Sauce pili-pili : origine du condiment pimenté d’Afrique centrale et recette — piments frais mixés avec ail, oignon et un filet d’huile, pour grillades et poisson.",
+      "en": "Pili-pili sauce: origin of the Central African chili condiment and recipe — fresh chilies blended with garlic, onion and a little oil for grills and fish."
     },
     "body": {
-      "fr": "La **sauce pili-pili** n’est pas un plat : c’est le coup de feu de la table. Chaque foyer dose le piment à sa manière ; la tomate adoucit, le citron allège.\n\nÀ poser à côté du [soso ya kotumba](/recettes/soso-ya-kotumba/), du [ntaba](/recettes/ntaba/), du [poisson braisé](/recettes/poisson-braise-kinkole/) ou des [kamundele](/recettes/kamundele/).",
-      "en": "Pili-pili sauce is not a main dish: it is the table’s heat. Every household doses chili differently; tomato softens, lemon brightens. Serve with grilled chicken, ntaba, braised fish or kamundele."
+      "fr": "## Origine\n\n**Pili-pili** (aussi écrit piri-piri) désigne le piment fort et, par extension, la sauce qui l’accompagne en Afrique centrale et australe. En RDC, ce n’est pas une marque : c’est le condiment de table — piments locaux, ail, parfois tomate — dosé foyer par foyer. Le mot circule en lingala et swahili autant qu’en français de Kinshasa.\n\n## À table\n\nLa sauce pili-pili n’est pas un plat : c’est le coup de feu. La tomate adoucit, le citron allège. À poser à côté du [soso ya kotumba](/recettes/soso-ya-kotumba/), du [ntaba](/recettes/ntaba/), du [poisson braisé](/recettes/poisson-braise-kinkole/) ou des [kamundele](/recettes/kamundele/).",
+      "en": "## Origin\n\n**Pili-pili** (also piri-piri) names the hot chili and, by extension, the sauce that goes with it across Central and Southern Africa. In the DRC it is not a brand: it is the table condiment — local chilies, garlic, sometimes tomato — dosed household by household. The word circulates in Lingala and Swahili as much as in Kinshasa French.\n\n## At the table\n\nPili-pili sauce is not a main dish: it is the table’s heat. Tomato softens, lemon brightens. Serve with [grilled chicken](/en/recettes/soso-ya-kotumba/), [ntaba](/en/recettes/ntaba/), [braised fish](/en/recettes/poisson-braise-kinkole/) or [kamundele](/en/recettes/kamundele/)."
     },
     "region": "Toute la RDC",
     "region_id": "nationwide",
@@ -35406,7 +35526,7 @@
     "id": "soso-lumba-lumba",
     "slug": "soso-lumba-lumba",
     "names": {
-      "fr": "Soso ya lumba-lumba",
+      "fr": "Poulet au basilic",
       "en": "Soso ya lumba-lumba",
       "aliases": [
         {
@@ -35446,15 +35566,15 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette soso ya lumba-lumba — poulet basilic du Kasaï"
+      "fr": "Recette poulet au basilic — Kasaï"
     },
     "description": {
-      "fr": "Poulet du Kasaï mijoté dans une sauce fraîche et très parfumée au basilic africain.",
+      "fr": "Recette de poulet au basilic (en lingala : soso ya lumba-lumba) : poulet parfumé au basilic congolais — classique du Kasaï.",
       "en": "Kasai chicken simmered in a fresh, highly fragrant African basil sauce."
     },
     "body": {
-      "fr": "Aussi appelé tshiluabenyi, ce poulet parfumé au lumba-lumba est associé aux cuisines du Kasaï. Le [bukari](/recettes/bukari-katanga/) (bidia) est son accompagnement naturel.",
-      "en": "Lumba-lumba gives this Kasai chicken its unmistakable perfume."
+      "fr": "Le **poulet au basilic** (en lingala : *soso ya lumba-lumba*) parfume le poulet au basilic congolais — classique du Kasaï. Autre poulet : [poulet grillé](/recettes/soso-ya-kotumba/), [poulet mayo](/recettes/poulet-mayo/).",
+      "en": "Chicken with basil (Lingala: *soso ya lumba-lumba*) scents the bird with Congolese basil—a Kasai classic. Other chicken: [grilled chicken](/en/recettes/soso-ya-kotumba/), [poulet mayo](/en/recettes/poulet-mayo/)."
     },
     "region": "Grand Kasaï",
     "region_id": "grand_kasai",
@@ -35671,8 +35791,8 @@
     "id": "soso-ya-kotumba",
     "slug": "soso-ya-kotumba",
     "names": {
-      "fr": "Soso ya kotumba",
-      "en": "Soso ya kotumba",
+      "fr": "Poulet grillé",
+      "en": "Grilled chicken",
       "aliases": [
         {
           "name": "poulet grillé",
@@ -35700,16 +35820,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette soso ya kotumba — poulet grillé",
-      "en": "Soso ya kotumba recipe — grilled chicken"
+      "fr": "Recette poulet grillé — kotumba",
+      "en": "Grilled chicken recipe — kotumba"
     },
     "description": {
-      "fr": "Recette de soso ya kotumba : poulet mariné aux aromates puis grillé ou rôti jusqu’à une peau croustillante — grillade congolaise distincte du poulet mayo.",
-      "en": "Soso ya kotumba recipe: chicken marinated with aromatics then grilled or roasted until the skin is crisp — Congolese grill food, distinct from poulet mayo."
+      "fr": "Recette de poulet grillé (en lingala : soso ya kotumba) : poulet mariné puis cuit sur braises — classique de table et de rue à Kinshasa.",
+      "en": "Grilled chicken recipe (Lingala: soso ya kotumba): marinated chicken cooked over coals — Kinshasa table and street classic."
     },
     "body": {
-      "fr": "**Soso ya kotumba** (« poulet grillé » en lingala) mise sur la marinade et la braise — pas sur une sauce mayo ni une moambe. Au four, on cherche la même peau croustillante qu’au feu de bois.\n\nVariantes de poulet : [poulet mayo](/recettes/poulet-mayo/), [poulet à la moambe](/recettes/moambe-poulet/), [soso ya sauce](/recettes/soso-ya-sauce/).",
-      "en": "Soso ya kotumba (“grilled chicken” in Lingala) is about marinade and fire—not mayo sauce or moambe. In the oven, aim for the same crisp skin as over wood coals."
+      "fr": "Le **poulet grillé** (en lingala : *soso ya kotumba*) mise sur la marinade et la braise — pas sur une sauce mayo ni une moambe. Pour la mayo : [poulet mayo](/recettes/poulet-mayo/). Condiment : [sauce pili-pili](/recettes/sauce-pili-pili/).",
+      "en": "Grilled chicken (Lingala: *soso ya kotumba*) is about marinade and coals—not mayo sauce or moambe. For mayo: [poulet mayo](/en/recettes/poulet-mayo/). Condiment: [pili-pili sauce](/en/recettes/sauce-pili-pili/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -35957,7 +36077,7 @@
     "id": "soso-ya-sauce",
     "slug": "soso-ya-sauce",
     "names": {
-      "fr": "Soso ya sauce",
+      "fr": "Poulet en sauce",
       "en": "Soso ya sauce",
       "aliases": [
         {
@@ -35980,13 +36100,16 @@
         }
       ]
     },
+    "seo_title": {
+      "fr": "Recette poulet en sauce"
+    },
     "description": {
-      "fr": "Poulet mijoté dans une sauce tomate généreuse, relevée d’ail, de gingembre et de pili-pili.",
+      "fr": "Recette de poulet en sauce (en lingala : soso ya sauce) : poulet mijoté dans une sauce tomate-oignon — version en sauce du poulet grillé.",
       "en": "Chicken simmered in a generous tomato sauce lifted with garlic, ginger and pili-pili."
     },
     "body": {
-      "fr": "Servi avec du riz, du fufu ou des makemba, le soso ya sauce appartient aux plats familiaux dont l’assaisonnement change d’une maison à l’autre.",
-      "en": "Served with rice, fufu or makemba, soso ya sauce is a family dish whose seasoning shifts from house to house."
+      "fr": "Le **poulet en sauce** (en lingala : *soso ya sauce*) se sert avec riz, fufu ou plantains. L’assaisonnement change d’une maison à l’autre ; le geste reste le mijoté tomate-oignon. Grillade : [poulet grillé](/recettes/soso-ya-kotumba/).",
+      "en": "Chicken in sauce (Lingala: *soso ya sauce*) is served with rice, fufu or plantain. Grill counterpart: [grilled chicken](/en/recettes/soso-ya-kotumba/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -36768,6 +36891,14 @@
           "lang": "en"
         },
         {
+          "name": "jus tangawisi",
+          "lang": "fr"
+        },
+        {
+          "name": "jus de tangawisi",
+          "lang": "fr"
+        },
+        {
           "name": "tangawisi",
           "lang": "und",
           "note": "Derived from editorial tags"
@@ -36790,16 +36921,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette tangawisi — jus de gingembre",
-      "en": "Tangawisi recipe — ginger juice"
+      "fr": "Recette jus tangawisi — jus de gingembre",
+      "en": "Tangawisi juice recipe — ginger juice"
     },
     "description": {
-      "fr": "Recette de tangawisi : jus de gingembre frais, piquant et acidulé, sucré à convenance — boisson maison de Kinshasa et de la diaspora.",
-      "en": "Tangawisi recipe: fresh ginger juice, sharp and tangy, sweetened to taste — homemade drink of Kinshasa and the diaspora."
+      "fr": "Recette de jus tangawisi (jus de gingembre) : gingembre frais, piquant et acidulé, sucré à convenance — boisson maison de Kinshasa et de la diaspora.",
+      "en": "Tangawisi juice (ginger juice) recipe: fresh ginger, sharp and tangy, sweetened to taste — homemade drink of Kinshasa and the diaspora."
     },
     "body": {
-      "fr": "Le **tangawisi** (jus de gingembre) se boit glacé, souvent après un repas épicé. Dosage de gingembre et de sucre : très libre selon les maisons. Autres boissons : [jus d’ananas](/recettes/jus-ananas/), [jus de mangue](/recettes/jus-mangue/). Avec des [mikate](/recettes/mikate/) au goûter.",
-      "en": "Tangawisi (ginger juice) is drunk iced, often after a spicy meal. Ginger and sugar levels vary widely. Other drinks: bissap, passion fruit. Pair with mikate at snack time."
+      "fr": "Le **jus tangawisi** (jus de gingembre) se boit glacé, souvent après un repas épicé. Dosage de gingembre et de sucre : très libre selon les maisons. Autres boissons : [jus d’ananas](/recettes/jus-ananas/), [jus de mangue](/recettes/jus-mangue/), [jus de tamarin](/recettes/jus-tamarin/). Avec des [mikate](/recettes/mikate/) au goûter.",
+      "en": "**Tangawisi juice** (ginger juice) is drunk iced, often after a spicy meal. Ginger and sugar levels vary widely. Other drinks: [bissap](/en/recettes/jus-bissap/), [mango juice](/en/recettes/jus-mangue/), [tamarind juice](/en/recettes/jus-tamarin/). Pair with [mikate](/en/recettes/mikate/) at snack time."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -38284,8 +38415,8 @@
     "id": "viande-ya-sauce",
     "slug": "viande-ya-sauce",
     "names": {
-      "fr": "Viande ya sauce",
-      "en": "Viande ya sauce",
+      "fr": "Viande en sauce",
+      "en": "Meat in sauce",
       "aliases": [
         {
           "name": "nyama ya sauce",
@@ -38294,6 +38425,10 @@
         {
           "name": "bœuf en sauce",
           "lang": "fr"
+        },
+        {
+          "name": "viande ya sauce",
+          "lang": "ln"
         },
         {
           "name": "bœuf",
@@ -38312,13 +38447,17 @@
         }
       ]
     },
+    "seo_title": {
+      "fr": "Recette viande en sauce",
+      "en": "Meat in sauce recipe"
+    },
     "description": {
-      "fr": "Bœuf mijoté dans une sauce tomate et oignon généreuse, plat de tous les jours à Kinshasa, bien distinct des brochettes kamundele.",
-      "en": "Beef simmered in a generous tomato and onion sauce — everyday Kinshasa cooking, distinct from kamundele skewers."
+      "fr": "Recette de viande en sauce (en lingala : viande ya sauce) : bœuf ou viande rouge mijotée dans une sauce tomate — plat du quotidien.",
+      "en": "Meat in sauce recipe (Lingala: viande ya sauce): beef or red meat simmered in tomato sauce — everyday plate."
     },
     "body": {
-      "fr": "La viande ya sauce est un mijoté de table, pas une grillade de rue. On la rallonge volontiers avec carottes ou poivrons selon le marché du jour.",
-      "en": "Viande ya sauce is a table stew, not a street grill. Carrots or peppers are often added depending on the market."
+      "fr": "La **viande en sauce** (en lingala : *viande ya sauce*) est un mijoté de table, pas une grillade de rue. On la rallonge volontiers avec carottes ou poivrons selon le marché.",
+      "en": "Meat in sauce (Lingala: *viande ya sauce*) is a table simmer, not street grill. Carrots or peppers often stretch the pot."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
