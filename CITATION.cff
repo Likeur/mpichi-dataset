@@ -16,8 +16,8 @@ identifiers:
     value: 10.5281/zenodo.23651495
     description: Zenodo version DOI for the Mpichi Dataset release
 license: CC-BY-4.0
-version: 1.5.1
-date-released: "2026-10-26"
+version: 1.6.0
+date-released: "2026-11-02"
 abstract: >-
   Open bilingual (French / English) dataset of Congolese (DRC) recipes from
   Mpichi, with multilingual aliases, normalized regions, structured ingredients,

@@ -26,6 +26,20 @@
       "note": "Sometimes used loosely for small African eggplants"
     }
   ],
+  "bananes-caramel": [
+    {
+      "name": "bananes caramélisées",
+      "lang": "fr"
+    },
+    {
+      "name": "caramel bananas",
+      "lang": "en"
+    },
+    {
+      "name": "bananes ya caramel",
+      "lang": "ln"
+    }
+  ],
   "bananes-douces-vapeur": [
     {
       "name": "bananes dessert",
@@ -83,6 +97,21 @@
       "note": "Grill / roast gesture"
     }
   ],
+  "bonbons-arachide": [
+    {
+      "name": "bonbons nguba",
+      "lang": "ln"
+    },
+    {
+      "name": "peanut brittle",
+      "lang": "en",
+      "note": "Closest EN gloss"
+    },
+    {
+      "name": "caramel arachide",
+      "lang": "fr"
+    }
+  ],
   "bouillie-arachide": [
     {
       "name": "bouillie ya nguba",
@@ -107,6 +136,20 @@
     {
       "name": "maize porridge",
       "lang": "en"
+    }
+  ],
+  "brochettes-boeuf": [
+    {
+      "name": "brochettes de bœuf",
+      "lang": "fr"
+    },
+    {
+      "name": "beef skewers",
+      "lang": "en"
+    },
+    {
+      "name": "brochettes ya ngombe",
+      "lang": "ln"
     }
   ],
   "brochettes-foie": [
@@ -147,6 +190,20 @@
       "name": "kamundele",
       "lang": "ln",
       "note": "Kinshasa cousin name; same skewering gesture"
+    }
+  ],
+  "brochettes-poulet": [
+    {
+      "name": "brochettes de poulet",
+      "lang": "fr"
+    },
+    {
+      "name": "chicken skewers",
+      "lang": "en"
+    },
+    {
+      "name": "brochettes ya soso",
+      "lang": "ln"
     }
   ],
   "bukari-katanga": [
@@ -207,6 +264,20 @@
       "lang": "fr"
     }
   ],
+  "chou-kinshasa": [
+    {
+      "name": "chou mijoté Kinshasa",
+      "lang": "fr"
+    },
+    {
+      "name": "Kinshasa cabbage",
+      "lang": "en"
+    },
+    {
+      "name": "chou ya Kinshasa",
+      "lang": "ln"
+    }
+  ],
   "chou-mijote-est": [
     {
       "name": "cabbage stew",
@@ -218,6 +289,20 @@
       "note": "Informal"
     }
   ],
+  "cotes-porc": [
+    {
+      "name": "travers de porc",
+      "lang": "fr"
+    },
+    {
+      "name": "pork ribs",
+      "lang": "en"
+    },
+    {
+      "name": "côtes levées",
+      "lang": "fr"
+    }
+  ],
   "courge-sauce": [
     {
       "name": "courge",
@@ -226,6 +311,35 @@
     {
       "name": "pumpkin stew",
       "lang": "en"
+    }
+  ],
+  "crevettes-fleuve": [
+    {
+      "name": "crevettes du fleuve",
+      "lang": "fr"
+    },
+    {
+      "name": "river shrimp",
+      "lang": "en"
+    },
+    {
+      "name": "crevettes ya ebale",
+      "lang": "ln",
+      "note": "River shrimp"
+    }
+  ],
+  "crevettes-grillees": [
+    {
+      "name": "crevettes grillées",
+      "lang": "fr"
+    },
+    {
+      "name": "grilled prawns",
+      "lang": "en"
+    },
+    {
+      "name": "crevettes ya kotumba",
+      "lang": "ln"
     }
   ],
   "croquettes-manioc": [
@@ -284,6 +398,25 @@
       "lang": "en"
     }
   ],
+  "fufu-plantain": [
+    {
+      "name": "foutou banane",
+      "lang": "fr"
+    },
+    {
+      "name": "fufu de plantain",
+      "lang": "fr"
+    },
+    {
+      "name": "plantain fufu",
+      "lang": "en"
+    },
+    {
+      "name": "fufu ya libuma",
+      "lang": "ln",
+      "note": "Plantain paste"
+    }
+  ],
   "fumbwa-arachides": [
     {
       "name": "koko",
@@ -298,6 +431,20 @@
       "name": "eru",
       "lang": "en",
       "note": "Cameroonian name for related Gnetum dishes"
+    }
+  ],
+  "gateau-arachide": [
+    {
+      "name": "cake arachide",
+      "lang": "fr"
+    },
+    {
+      "name": "peanut cake",
+      "lang": "en"
+    },
+    {
+      "name": "gâteau nguba",
+      "lang": "ln"
     }
   ],
   "gateau-manioc": [
@@ -352,6 +499,20 @@
     {
       "name": "yam",
       "lang": "en"
+    }
+  ],
+  "igname-sauce": [
+    {
+      "name": "igname en sauce",
+      "lang": "fr"
+    },
+    {
+      "name": "yam in sauce",
+      "lang": "en"
+    },
+    {
+      "name": "igname ya sauce",
+      "lang": "ln"
     }
   ],
   "jus-ananas": [
@@ -414,6 +575,20 @@
       "lang": "en"
     }
   ],
+  "jus-tamarin": [
+    {
+      "name": "jus de tamarinier",
+      "lang": "fr"
+    },
+    {
+      "name": "tamarind juice",
+      "lang": "en"
+    },
+    {
+      "name": "mai ya tamarin",
+      "lang": "ln"
+    }
+  ],
   "kabambale": [
     {
       "name": "poisson séché",
@@ -451,6 +626,64 @@
     {
       "name": "kossa",
       "lang": "ln"
+    }
+  ],
+  "lait-caille": [
+    {
+      "name": "lait fermenté",
+      "lang": "fr"
+    },
+    {
+      "name": "sour milk",
+      "lang": "en"
+    },
+    {
+      "name": "mabisi",
+      "lang": "ln",
+      "note": "Milk; caillé sense varies by area"
+    },
+    {
+      "name": "amasi",
+      "lang": "sw",
+      "note": "Regional gloss for set sour milk"
+    }
+  ],
+  "liboke-champignons": [
+    {
+      "name": "liboke ya mayebo",
+      "lang": "ln",
+      "note": "Mushroom liboke / maboke"
+    },
+    {
+      "name": "maboke champignons",
+      "lang": "fr"
+    },
+    {
+      "name": "mushroom liboke",
+      "lang": "en"
+    },
+    {
+      "name": "papillote de champignons",
+      "lang": "fr"
+    }
+  ],
+  "liboke-legumes": [
+    {
+      "name": "liboke ya ndunda",
+      "lang": "ln",
+      "note": "Vegetable liboke"
+    },
+    {
+      "name": "maboke légumes",
+      "lang": "fr"
+    },
+    {
+      "name": "vegetable liboke",
+      "lang": "en"
+    },
+    {
+      "name": "papillote de légumes",
+      "lang": "fr"
     }
   ],
   "liboke-poisson": [
@@ -519,6 +752,20 @@
       "lang": "en"
     }
   ],
+  "loso-na-mbisi": [
+    {
+      "name": "loso na mbisi",
+      "lang": "ln"
+    },
+    {
+      "name": "riz au poisson",
+      "lang": "fr"
+    },
+    {
+      "name": "rice with fish",
+      "lang": "en"
+    }
+  ],
   "loso-petits-pois": [
     {
       "name": "riz aux petits pois",
@@ -557,6 +804,35 @@
     {
       "name": "beans",
       "lang": "en"
+    }
+  ],
+  "mais-bouilli": [
+    {
+      "name": "maïs bouilli",
+      "lang": "fr"
+    },
+    {
+      "name": "boiled corn",
+      "lang": "en"
+    },
+    {
+      "name": "mahindi ya kuchemsha",
+      "lang": "sw"
+    }
+  ],
+  "mais-grille": [
+    {
+      "name": "maïs grillé",
+      "lang": "fr"
+    },
+    {
+      "name": "grilled corn",
+      "lang": "en"
+    },
+    {
+      "name": "mahindi ya kuchoma",
+      "lang": "sw",
+      "region_hint": "Kivu / East"
     }
   ],
   "makayabu": [
@@ -605,6 +881,45 @@
     {
       "name": "pieds de porc aux pommes de terre",
       "lang": "fr"
+    }
+  ],
+  "malafu-vin-palme": [
+    {
+      "name": "vin de palme",
+      "lang": "fr"
+    },
+    {
+      "name": "palm wine",
+      "lang": "en"
+    },
+    {
+      "name": "malafu",
+      "lang": "kg",
+      "region_hint": "Kongo / West"
+    },
+    {
+      "name": "mawa",
+      "lang": "ln",
+      "note": "Sometimes used for palm wine"
+    }
+  ],
+  "manioc-frites": [
+    {
+      "name": "manioc frit",
+      "lang": "fr"
+    },
+    {
+      "name": "bâtonnets de manioc",
+      "lang": "fr"
+    },
+    {
+      "name": "cassava fries",
+      "lang": "en"
+    },
+    {
+      "name": "yuca fries",
+      "lang": "en",
+      "note": "Diaspora / Americas name for cassava"
     }
   ],
   "manioc-grille": [
@@ -708,6 +1023,25 @@
       "note": "Spelling variant"
     }
   ],
+  "mbisi-na-kwanga": [
+    {
+      "name": "poisson et chikwangue",
+      "lang": "fr"
+    },
+    {
+      "name": "mbisi na chikwangue",
+      "lang": "ln"
+    },
+    {
+      "name": "fish with kwanga",
+      "lang": "en"
+    },
+    {
+      "name": "poisson kwanga",
+      "lang": "fr",
+      "region_hint": "Kongo-Central"
+    }
+  ],
   "mbisi-ya-kokalinga": [
     {
       "name": "poisson frit",
@@ -747,6 +1081,20 @@
       "lang": "ln"
     }
   ],
+  "mikila-arachide": [
+    {
+      "name": "queue de bœuf arachide",
+      "lang": "fr"
+    },
+    {
+      "name": "oxtail peanut stew",
+      "lang": "en"
+    },
+    {
+      "name": "mikila ya nguba",
+      "lang": "ln"
+    }
+  ],
   "missole": [
     {
       "name": "misolè",
@@ -754,6 +1102,25 @@
     },
     {
       "name": "poisson séché en lamelles",
+      "lang": "fr"
+    }
+  ],
+  "moambe-boeuf": [
+    {
+      "name": "bœuf à la moambe",
+      "lang": "fr"
+    },
+    {
+      "name": "beef moambe",
+      "lang": "en"
+    },
+    {
+      "name": "mwambe ya ngombe",
+      "lang": "ln",
+      "note": "Beef mwambe"
+    },
+    {
+      "name": "viande moambe",
       "lang": "fr"
     }
   ],
@@ -855,6 +1222,24 @@
       "note": "Culinary leaf, not the drink"
     }
   ],
+  "ngolo-grille": [
+    {
+      "name": "ngolo",
+      "lang": "ln"
+    },
+    {
+      "name": "poisson-chat grillé",
+      "lang": "fr"
+    },
+    {
+      "name": "grilled catfish",
+      "lang": "en"
+    },
+    {
+      "name": "clarias grillé",
+      "lang": "fr"
+    }
+  ],
   "ngulu-ya-sauce": [
     {
       "name": "ngulu",
@@ -874,6 +1259,24 @@
     {
       "name": "nsafu",
       "lang": "kg"
+    }
+  ],
+  "nsafu-sauce": [
+    {
+      "name": "safou en sauce",
+      "lang": "fr"
+    },
+    {
+      "name": "nsafu ya sauce",
+      "lang": "ln"
+    },
+    {
+      "name": "safou stew",
+      "lang": "en"
+    },
+    {
+      "name": "butterfruit sauce",
+      "lang": "en"
     }
   ],
   "ntaba": [
@@ -912,6 +1315,25 @@
       "lang": "ln"
     }
   ],
+  "nyama-bugali-kivu": [
+    {
+      "name": "viande au bugali",
+      "lang": "fr"
+    },
+    {
+      "name": "nyama na ugali",
+      "lang": "sw",
+      "region_hint": "Kivu / East"
+    },
+    {
+      "name": "meat with bugali",
+      "lang": "en"
+    },
+    {
+      "name": "nyama na bukari",
+      "lang": "sw"
+    }
+  ],
   "pain-mayonnaise": [
     {
       "name": "sandwich mayonnaise",
@@ -920,6 +1342,20 @@
     {
       "name": "pain mayo",
       "lang": "ln"
+    }
+  ],
+  "patate-douce-frite": [
+    {
+      "name": "mbala frit",
+      "lang": "ln"
+    },
+    {
+      "name": "patate douce frite",
+      "lang": "fr"
+    },
+    {
+      "name": "fried sweet potato",
+      "lang": "en"
     }
   ],
   "pepe-soupe-ya-ngolo": [
@@ -994,6 +1430,20 @@
       "lang": "en"
     }
   ],
+  "poisson-kisangani": [
+    {
+      "name": "poisson du fleuve Kisangani",
+      "lang": "fr"
+    },
+    {
+      "name": "Kisangani river fish",
+      "lang": "en"
+    },
+    {
+      "name": "mbisi ya Kisangani",
+      "lang": "ln"
+    }
+  ],
   "poisson-kivu-grille": [
     {
       "name": "samaki wa kuchoma",
@@ -1054,6 +1504,24 @@
       "lang": "fr"
     }
   ],
+  "pondu-poisson": [
+    {
+      "name": "pondu ya mbisi",
+      "lang": "ln"
+    },
+    {
+      "name": "pondu au poisson",
+      "lang": "fr"
+    },
+    {
+      "name": "saka-saka with fish",
+      "lang": "en"
+    },
+    {
+      "name": "cassava leaves with fish",
+      "lang": "en"
+    }
+  ],
   "porc-braise": [
     {
       "name": "ngulu ya kotumba",
@@ -1062,6 +1530,20 @@
     {
       "name": "porc grillé",
       "lang": "fr"
+    }
+  ],
+  "porc-ya-kotumba": [
+    {
+      "name": "porc grillé",
+      "lang": "fr"
+    },
+    {
+      "name": "ngulu ya kotumba",
+      "lang": "ln"
+    },
+    {
+      "name": "grilled pork",
+      "lang": "en"
     }
   ],
   "poulet-mayo": [
@@ -1241,6 +1723,20 @@
       "lang": "ln"
     }
   ],
+  "spaghetti-kinshasa": [
+    {
+      "name": "spaghetti ya Kinshasa",
+      "lang": "ln"
+    },
+    {
+      "name": "pâtes sauce tomate",
+      "lang": "fr"
+    },
+    {
+      "name": "Kinshasa spaghetti",
+      "lang": "en"
+    }
+  ],
   "sukuma-est": [
     {
       "name": "sukuma wiki",
@@ -1278,6 +1774,25 @@
       "lang": "en"
     }
   ],
+  "taro-sauce": [
+    {
+      "name": "taro sauce arachide",
+      "lang": "fr"
+    },
+    {
+      "name": "malanga en sauce arachide",
+      "lang": "fr"
+    },
+    {
+      "name": "taro in peanut sauce",
+      "lang": "en"
+    },
+    {
+      "name": "taro ya nguba",
+      "lang": "ln",
+      "note": "Peanut / groundnut sauce"
+    }
+  ],
   "tilapia-bugali": [
     {
       "name": "tilapia na bugali",
@@ -1287,6 +1802,21 @@
     {
       "name": "tilapia au bukari",
       "lang": "fr"
+    }
+  ],
+  "tripes-mijotees": [
+    {
+      "name": "tripes",
+      "lang": "fr"
+    },
+    {
+      "name": "tripe stew",
+      "lang": "en"
+    },
+    {
+      "name": "matumbo",
+      "lang": "sw",
+      "note": "East African tripe name; used in some DRC Swahili zones"
     }
   ],
   "viande-sechee-tomates": [

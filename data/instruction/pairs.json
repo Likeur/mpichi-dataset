@@ -144,6 +144,78 @@
     "recipe_id": "aubergines-africaines"
   },
   {
+    "id": "bananes-caramel-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Bananes au caramel » (République démocratique du Congo).",
+    "completion": "# Bananes au caramel\n\nRecette de bananes au caramel : bananes douces poêlées dans un caramel sucre-beurre — dessert rapide nationwide, distinct des beignets de banane.\n\nRégion : Toute la RDC\nPortions : 4\nPréparation : 10 min\nCuisson : 15 min\n\n## Ingrédients\n- 4 bananes douces mûres mais fermes\n- 80 g de sucre\n- 40 g de beurre (ou 3 c. à soupe d'huile)\n- 2 c. à soupe d'eau\n- 1 pincée de sel\n- 1/2 c. à café de vanille ou une pincée de muscade (optionnel)\n\n## Préparation\n1. Éplucher les bananes. Les couper en deux dans la longueur ou en tronçons biais.\n2. Dans une poêle large, faire fondre le sucre avec l'eau à feu moyen jusqu'à un caramel blond (ne pas brûler).\n3. Hors du feu, ajouter le beurre et le sel ; remuer (attention aux éclaboussures). Remettre à feu doux.\n4. Poser les bananes. Cuire 2 à 3 minutes par face en les nappant de caramel.\n5. Parfumer à la vanille si désiré. Servir tiède, éventuellement avec lait caillé ou glace.\n\nSource : https://mpichi.likeur.xyz/recettes/bananes-caramel/",
+    "recipe_id": "bananes-caramel"
+  },
+  {
+    "id": "bananes-caramel-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Caramel bananas\" (Democratic Republic of the Congo).",
+    "completion": "# Caramel bananas\n\nCaramel bananas recipe: ripe bananas pan-cooked in butter-sugar caramel — quick nationwide dessert, distinct from banana fritters.\n\nRegion: Toute la RDC\nServings: 4\nPrep: 10 min\nCook: 15 min\n\n## Ingredients\n- 4 ripe but firm sweet bananas\n- 80 g sugar\n- 40 g butter (or 3 tbsp oil)\n- 2 tbsp water\n- A pinch of salt\n- 1/2 tsp vanilla or a pinch of nutmeg (optional)\n\n## Steps\n1. Peel the bananas. Halve lengthwise or cut on the bias.\n2. In a wide pan, melt sugar with water on medium heat to a light blond caramel (do not burn).\n3. Off the heat, add butter and salt; stir (watch for splashes). Return to low heat.\n4. Add bananas. Cook 2–3 minutes per side, basting with caramel.\n5. Flavour with vanilla if desired. Serve warm, optionally with sour milk or ice cream.\n\nSource: https://mpichi.likeur.xyz/en/recettes/bananes-caramel/",
+    "recipe_id": "bananes-caramel"
+  },
+  {
+    "id": "bananes-caramel-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Bananes au caramel ?",
+    "completion": "- 4 bananes douces mûres mais fermes\n- 80 g de sucre\n- 40 g de beurre (ou 3 c. à soupe d'huile)\n- 2 c. à soupe d'eau\n- 1 pincée de sel\n- 1/2 c. à café de vanille ou une pincée de muscade (optionnel)",
+    "recipe_id": "bananes-caramel"
+  },
+  {
+    "id": "bananes-caramel-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Bananes au caramel en RDC ?",
+    "completion": "Bananes au caramel est associé à la région / zone : Toute la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/bananes-caramel/",
+    "recipe_id": "bananes-caramel"
+  },
+  {
+    "id": "bananes-caramel-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Bananes au caramel ?",
+    "completion": "Bananes au caramel peut aussi être appelé : bananes caramélisées, caramel bananas, bananes ya caramel, banane, caramel, dessert, poêle.",
+    "recipe_id": "bananes-caramel"
+  },
+  {
+    "id": "bananes-caramel-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bananes caramélisées » ?",
+    "completion": "« bananes caramélisées » désigne notamment Bananes au caramel (slug: bananes-caramel, lang: fr).",
+    "recipe_id": "bananes-caramel"
+  },
+  {
+    "id": "bananes-caramel-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « caramel bananas » ?",
+    "completion": "« caramel bananas » désigne notamment Bananes au caramel (slug: bananes-caramel, lang: en).",
+    "recipe_id": "bananes-caramel"
+  },
+  {
+    "id": "bananes-caramel-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bananes ya caramel » ?",
+    "completion": "« bananes ya caramel » désigne notamment Bananes au caramel (slug: bananes-caramel, lang: ln).",
+    "recipe_id": "bananes-caramel"
+  },
+  {
+    "id": "bananes-caramel-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Bananes au caramel.",
+    "completion": "- 4 piece bananes douces mûres mais fermes\n- 80 g sucre\n- 40 g beurre (ou 3 c. à soupe d'huile)\n- 2 tbsp eau\n- 1 pinch sel\n- 1/2 c. à café de vanille ou une pincée de muscade (optionnel)",
+    "recipe_id": "bananes-caramel"
+  },
+  {
     "id": "bananes-douces-vapeur-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -576,6 +648,78 @@
     "recipe_id": "boeuf-ya-kotumba"
   },
   {
+    "id": "bonbons-arachide-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Bonbons d'arachide » (République démocratique du Congo).",
+    "completion": "# Bonbons d'arachide\n\nRecette de bonbons d’arachide : arachides grillées liées au caramel de sucre — confiserie croquante nationwide, distincte du gâteau à l’arachide.\n\nRégion : Toute la RDC\nPortions : 8\nPréparation : 15 min\nCuisson : 20 min\n\n## Ingrédients\n- 250 g d'arachides décortiquées\n- 200 g de sucre\n- 50 ml d'eau\n- 1 pincée de sel\n- 1 c. à café de beurre ou d'huile (optionnel, pour démoulage)\n\n## Préparation\n1. Faire griller les arachides à sec dans une poêle 5 à 8 minutes en remuant. Laisser tiédir ; frotter pour enlever une partie des peaux si désiré.\n2. Beurrer légèrement une plaque ou un plat.\n3. Porter sucre et eau à ébullition sans remuer trop tôt. Cuire jusqu'à caramel blond soutenu.\n4. Hors du feu, ajouter sel et arachides. Mélanger vite pour enrober.\n5. Étaler sur la plaque. Laisser durcir, puis casser en morceaux. Stocker au sec.\n\nSource : https://mpichi.likeur.xyz/recettes/bonbons-arachide/",
+    "recipe_id": "bonbons-arachide"
+  },
+  {
+    "id": "bonbons-arachide-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Peanut sweets\" (Democratic Republic of the Congo).",
+    "completion": "# Peanut sweets\n\nPeanut sweets recipe: roasted peanuts bound in sugar caramel — crunchy nationwide confection, distinct from peanut cake.\n\nRegion: Toute la RDC\nServings: 8\nPrep: 15 min\nCook: 20 min\n\n## Ingredients\n- 250 g shelled peanuts\n- 200 g sugar\n- 50 ml water\n- A pinch of salt\n- 1 tsp butter or oil (optional, for the tray)\n\n## Steps\n1. Dry-roast peanuts in a pan 5–8 minutes, stirring. Cool; rub off some skins if desired.\n2. Lightly grease a tray or dish.\n3. Bring sugar and water to a boil without stirring too early. Cook to a firm blond caramel.\n4. Off the heat, add salt and peanuts. Stir quickly to coat.\n5. Spread on the tray. Let harden, then break into pieces. Store dry.\n\nSource: https://mpichi.likeur.xyz/en/recettes/bonbons-arachide/",
+    "recipe_id": "bonbons-arachide"
+  },
+  {
+    "id": "bonbons-arachide-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Bonbons d'arachide ?",
+    "completion": "- 250 g d'arachides décortiquées\n- 200 g de sucre\n- 50 ml d'eau\n- 1 pincée de sel\n- 1 c. à café de beurre ou d'huile (optionnel, pour démoulage)",
+    "recipe_id": "bonbons-arachide"
+  },
+  {
+    "id": "bonbons-arachide-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Bonbons d'arachide en RDC ?",
+    "completion": "Bonbons d'arachide est associé à la région / zone : Toute la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/bonbons-arachide/",
+    "recipe_id": "bonbons-arachide"
+  },
+  {
+    "id": "bonbons-arachide-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Bonbons d'arachide ?",
+    "completion": "Bonbons d'arachide peut aussi être appelé : bonbons nguba, peanut brittle, caramel arachide, bonbon, caramel, confiserie, goûter.",
+    "recipe_id": "bonbons-arachide"
+  },
+  {
+    "id": "bonbons-arachide-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bonbons nguba » ?",
+    "completion": "« bonbons nguba » désigne notamment Bonbons d'arachide (slug: bonbons-arachide, lang: ln).",
+    "recipe_id": "bonbons-arachide"
+  },
+  {
+    "id": "bonbons-arachide-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « peanut brittle » ?",
+    "completion": "« peanut brittle » désigne notamment Bonbons d'arachide (slug: bonbons-arachide, lang: en).",
+    "recipe_id": "bonbons-arachide"
+  },
+  {
+    "id": "bonbons-arachide-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « caramel arachide » ?",
+    "completion": "« caramel arachide » désigne notamment Bonbons d'arachide (slug: bonbons-arachide, lang: fr).",
+    "recipe_id": "bonbons-arachide"
+  },
+  {
+    "id": "bonbons-arachide-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Bonbons d'arachide.",
+    "completion": "- 250 g arachides décortiquées\n- 200 g sucre\n- 50 ml eau\n- 1 pinch sel\n- 1 tsp beurre ou d'huile (optionnel, pour démoulage)",
+    "recipe_id": "bonbons-arachide"
+  },
+  {
     "id": "bouillie-arachide-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -718,6 +862,78 @@
     "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Bouillie de maïs.",
     "completion": "- 150 g farine de maïs fine\n- 1 l eau\n- 60–80 g sucre\n- 1 pinch sel\n- 1 tsp vanille ou zeste de citron, facultatif\n- Lait, pour servir, facultatif",
     "recipe_id": "bouillie-mais"
+  },
+  {
+    "id": "brochettes-boeuf-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Brochettes de bœuf » (République démocratique du Congo).",
+    "completion": "# Brochettes de bœuf\n\nRecette de brochettes de bœuf : gros cubes marinés et grillés — portion de table / braise, distincte des petites kamundele de rue.\n\nRégion : Kinshasa\nPortions : 4\nPréparation : 25 min + 1 h de marinade\nCuisson : 20 min\n\n## Ingrédients\n- 800 g de bœuf (rumsteck ou basse côte), en cubes de 2–3 cm\n- 2 oignons, dont un râpé\n- 3 gousses d'ail, écrasées\n- 1 c. à café de gingembre râpé\n- 30 ml de jus de citron\n- 3 c. à soupe d'huile\n- Sel, poivre, pili-pili\n- 8 brochettes en bois, trempées\n\n## Préparation\n1. Mélanger oignon râpé, ail, gingembre, citron, huile, sel, poivre et pili-pili. Enrober la viande. Mariner 1 h au frais.\n2. Enfiler 4 à 5 cubes par brochette, sans trop serrer. Alterner avec des rondelles d'oignon si désiré.\n3. Griller sur braises moyennes 15 à 20 minutes en retournant, jusqu'à croûte fumée et cœur encore juteux.\n4. Servir avec oignon cru, sauce pili-pili, frites ou pain.\n\nSource : https://mpichi.likeur.xyz/recettes/brochettes-boeuf/",
+    "recipe_id": "brochettes-boeuf"
+  },
+  {
+    "id": "brochettes-boeuf-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Beef skewers\" (Democratic Republic of the Congo).",
+    "completion": "# Beef skewers\n\nBeef skewers recipe: larger marinated cubes grilled over coals — a table portion, distinct from small street kamundele.\n\nRegion: Kinshasa\nServings: 4\nPrep: 25 min + 1 h de marinade\nCook: 20 min\n\n## Ingredients\n- 800 g beef (rump or chuck), in 2–3 cm cubes\n- 2 onions, one grated\n- 3 garlic cloves, crushed\n- 1 tsp grated ginger\n- 30 ml lemon juice\n- 3 tbsp oil\n- Salt, pepper, pili-pili\n- 8 wooden skewers, soaked\n\n## Steps\n1. Mix grated onion, garlic, ginger, lemon, oil, salt, pepper and pili-pili. Coat the meat. Marinate 1 h cold.\n2. Thread 4–5 cubes per skewer, not too tightly. Onion rounds optional.\n3. Grill over medium coals 15–20 minutes, turning, until smoked crust and juicy centre.\n4. Serve with raw onion, pili-pili sauce, fries or bread.\n\nSource: https://mpichi.likeur.xyz/en/recettes/brochettes-boeuf/",
+    "recipe_id": "brochettes-boeuf"
+  },
+  {
+    "id": "brochettes-boeuf-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Brochettes de bœuf ?",
+    "completion": "- 800 g de bœuf (rumsteck ou basse côte), en cubes de 2–3 cm\n- 2 oignons, dont un râpé\n- 3 gousses d'ail, écrasées\n- 1 c. à café de gingembre râpé\n- 30 ml de jus de citron\n- 3 c. à soupe d'huile\n- Sel, poivre, pili-pili\n- 8 brochettes en bois, trempées",
+    "recipe_id": "brochettes-boeuf"
+  },
+  {
+    "id": "brochettes-boeuf-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Brochettes de bœuf en RDC ?",
+    "completion": "Brochettes de bœuf est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/brochettes-boeuf/",
+    "recipe_id": "brochettes-boeuf"
+  },
+  {
+    "id": "brochettes-boeuf-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Brochettes de bœuf ?",
+    "completion": "Brochettes de bœuf peut aussi être appelé : brochettes de bœuf, beef skewers, brochettes ya ngombe, brochettes, bœuf, street food, grillade, Kinshasa.",
+    "recipe_id": "brochettes-boeuf"
+  },
+  {
+    "id": "brochettes-boeuf-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « brochettes de bœuf » ?",
+    "completion": "« brochettes de bœuf » désigne notamment Brochettes de bœuf (slug: brochettes-boeuf, lang: fr).",
+    "recipe_id": "brochettes-boeuf"
+  },
+  {
+    "id": "brochettes-boeuf-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « beef skewers » ?",
+    "completion": "« beef skewers » désigne notamment Brochettes de bœuf (slug: brochettes-boeuf, lang: en).",
+    "recipe_id": "brochettes-boeuf"
+  },
+  {
+    "id": "brochettes-boeuf-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « brochettes ya ngombe » ?",
+    "completion": "« brochettes ya ngombe » désigne notamment Brochettes de bœuf (slug: brochettes-boeuf, lang: ln).",
+    "recipe_id": "brochettes-boeuf"
+  },
+  {
+    "id": "brochettes-boeuf-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Brochettes de bœuf.",
+    "completion": "- 800 g bœuf (rumsteck ou basse côte), en cubes de 2–3 cm\n- 2 piece oignons, dont un râpé\n- 3 clove ail, écrasées\n- 1 tsp gingembre râpé\n- 30 ml jus de citron\n- 3 tbsp huile\n- Sel, poivre, pili-pili\n- 8 piece brochettes en bois, trempées",
+    "recipe_id": "brochettes-boeuf"
   },
   {
     "id": "brochettes-foie-recipe-fr",
@@ -934,6 +1150,78 @@
     "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Brochettes de Lubumbashi.",
     "completion": "- 700 g bœuf (tranche à brochettes)\n- 1 piece oignon, râpé\n- 3 clove ail\n- 1 tsp gingembre râpé\n- 2 tbsp huile\n- 1 tbsp jus de citron\n- Sel, poivre, pili-pili\n- Brochettes en bois",
     "recipe_id": "brochettes-lubumbashi"
+  },
+  {
+    "id": "brochettes-poulet-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Brochettes de poulet » (République démocratique du Congo).",
+    "completion": "# Brochettes de poulet\n\nRecette de brochettes de poulet : dés marinés et grillés — encas de braise kinshasaise, à côté du soso ya kotumba en pièces.\n\nRégion : Kinshasa\nPortions : 4\nPréparation : 20 min + 45 min de marinade\nCuisson : 15 min\n\n## Ingrédients\n- 700 g de blancs ou cuisses de poulet désossées, en cubes\n- 1 oignon, râpé\n- 3 gousses d'ail\n- 30 ml de jus de citron\n- 2 c. à soupe d'huile\n- 1 c. à café de paprika ou piment doux (optionnel)\n- Sel, poivre, pili-pili\n- 8 brochettes en bois, trempées\n\n## Préparation\n1. Mélanger oignon, ail, citron, huile, paprika, sel, poivre et pili-pili. Enrober le poulet. Mariner 45 minutes.\n2. Enfiler les cubes. Essuyer l'excès de marinade pour qu'ils grillent bien.\n3. Griller 12 à 15 minutes sur braises moyennes en tournant souvent — la chair doit rester moelleuse.\n4. Servir aussitôt avec oignon, pili-pili et frites ou riz.\n\nSource : https://mpichi.likeur.xyz/recettes/brochettes-poulet/",
+    "recipe_id": "brochettes-poulet"
+  },
+  {
+    "id": "brochettes-poulet-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Chicken skewers\" (Democratic Republic of the Congo).",
+    "completion": "# Chicken skewers\n\nChicken skewers recipe: marinated cubes grilled over coals — Kinshasa stick snack beside whole-piece soso ya kotumba.\n\nRegion: Kinshasa\nServings: 4\nPrep: 20 min + 45 min de marinade\nCook: 15 min\n\n## Ingredients\n- 700 g boneless chicken breast or thigh, cubed\n- 1 onion, grated\n- 3 garlic cloves\n- 30 ml lemon juice\n- 2 tbsp oil\n- 1 tsp paprika or mild chili (optional)\n- Salt, pepper, pili-pili\n- 8 wooden skewers, soaked\n\n## Steps\n1. Mix onion, garlic, lemon, oil, paprika, salt, pepper and pili-pili. Coat the chicken. Marinate 45 minutes.\n2. Thread the cubes. Wipe excess marinade so they grill cleanly.\n3. Grill 12–15 minutes over medium coals, turning often — keep the meat moist.\n4. Serve at once with onion, pili-pili and fries or rice.\n\nSource: https://mpichi.likeur.xyz/en/recettes/brochettes-poulet/",
+    "recipe_id": "brochettes-poulet"
+  },
+  {
+    "id": "brochettes-poulet-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Brochettes de poulet ?",
+    "completion": "- 700 g de blancs ou cuisses de poulet désossées, en cubes\n- 1 oignon, râpé\n- 3 gousses d'ail\n- 30 ml de jus de citron\n- 2 c. à soupe d'huile\n- 1 c. à café de paprika ou piment doux (optionnel)\n- Sel, poivre, pili-pili\n- 8 brochettes en bois, trempées",
+    "recipe_id": "brochettes-poulet"
+  },
+  {
+    "id": "brochettes-poulet-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Brochettes de poulet en RDC ?",
+    "completion": "Brochettes de poulet est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/brochettes-poulet/",
+    "recipe_id": "brochettes-poulet"
+  },
+  {
+    "id": "brochettes-poulet-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Brochettes de poulet ?",
+    "completion": "Brochettes de poulet peut aussi être appelé : brochettes de poulet, chicken skewers, brochettes ya soso, brochettes, poulet, street food, grillade, Kinshasa.",
+    "recipe_id": "brochettes-poulet"
+  },
+  {
+    "id": "brochettes-poulet-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « brochettes de poulet » ?",
+    "completion": "« brochettes de poulet » désigne notamment Brochettes de poulet (slug: brochettes-poulet, lang: fr).",
+    "recipe_id": "brochettes-poulet"
+  },
+  {
+    "id": "brochettes-poulet-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « chicken skewers » ?",
+    "completion": "« chicken skewers » désigne notamment Brochettes de poulet (slug: brochettes-poulet, lang: en).",
+    "recipe_id": "brochettes-poulet"
+  },
+  {
+    "id": "brochettes-poulet-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « brochettes ya soso » ?",
+    "completion": "« brochettes ya soso » désigne notamment Brochettes de poulet (slug: brochettes-poulet, lang: ln).",
+    "recipe_id": "brochettes-poulet"
+  },
+  {
+    "id": "brochettes-poulet-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Brochettes de poulet.",
+    "completion": "- 700 g blancs ou cuisses de poulet désossées, en cubes\n- 1 piece oignon, râpé\n- 3 clove ail\n- 30 ml jus de citron\n- 2 tbsp huile\n- 1 tsp paprika ou piment doux (optionnel)\n- Sel, poivre, pili-pili\n- 8 piece brochettes en bois, trempées",
+    "recipe_id": "brochettes-poulet"
   },
   {
     "id": "bukari-katanga-recipe-fr",
@@ -1224,6 +1512,78 @@
     "recipe_id": "chikwangue-grillee"
   },
   {
+    "id": "chou-kinshasa-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Chou mijoté Kinshasa » (République démocratique du Congo).",
+    "completion": "# Chou mijoté Kinshasa\n\nRecette de chou mijoté façon Kinshasa : chou blanc à l’oignon, tomate et un peu d’huile de palme — légume de table capital, distinct du chou mijoté de l’Est.\n\nRégion : Kinshasa\nPortions : 4\nPréparation : 15 min\nCuisson : 30 min\n\n## Ingrédients\n- 1 petit chou blanc, émincé\n- 2 oignons, émincés\n- 2 tomates, concassées\n- 2 gousses d'ail\n- 2 c. à soupe d'huile de palme (ou huile neutre)\n- 1 cube de bouillon, émietté (optionnel)\n- Sel, poivre, pili-pili\n- 100 ml d'eau\n\n## Préparation\n1. Faire fondre oignons et ail dans l'huile 5 minutes. Ajouter tomates et cube 5 minutes.\n2. Incorporer le chou, saler, poivrer. Remuer pour enrober.\n3. Ajouter l'eau, couvrir et mijoter 18 à 25 minutes jusqu'à tendreté (Kinshasa le préfère souvent un peu plus cuit que croquant).\n4. Découvrir 2 minutes si trop d'eau. Rectifier piment.\n5. Servir avec riz, fufu, poisson ou viande grillée.\n\nSource : https://mpichi.likeur.xyz/recettes/chou-kinshasa/",
+    "recipe_id": "chou-kinshasa"
+  },
+  {
+    "id": "chou-kinshasa-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Kinshasa simmered cabbage\" (Democratic Republic of the Congo).",
+    "completion": "# Kinshasa simmered cabbage\n\nKinshasa-style simmered cabbage: white cabbage with onion, tomato and a little palm oil — capital table green, distinct from Eastern simmered cabbage.\n\nRegion: Kinshasa\nServings: 4\nPrep: 15 min\nCook: 30 min\n\n## Ingredients\n- 1 small white cabbage, shredded\n- 2 onions, sliced\n- 2 tomatoes, crushed\n- 2 garlic cloves\n- 2 tbsp palm oil (or neutral oil)\n- 1 stock cube, crumbled (optional)\n- Salt, pepper, pili-pili\n- 100 ml water\n\n## Steps\n1. Sweat onions and garlic in oil 5 minutes. Add tomatoes and cube 5 minutes.\n2. Add cabbage, salt, pepper. Toss to coat.\n3. Add water, cover and simmer 18–25 minutes until tender (Kinshasa often prefers it softer than crisp).\n4. Uncover 2 minutes if too wet. Adjust chili.\n5. Serve with rice, fufu, fish or grilled meat.\n\nSource: https://mpichi.likeur.xyz/en/recettes/chou-kinshasa/",
+    "recipe_id": "chou-kinshasa"
+  },
+  {
+    "id": "chou-kinshasa-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Chou mijoté Kinshasa ?",
+    "completion": "- 1 petit chou blanc, émincé\n- 2 oignons, émincés\n- 2 tomates, concassées\n- 2 gousses d'ail\n- 2 c. à soupe d'huile de palme (ou huile neutre)\n- 1 cube de bouillon, émietté (optionnel)\n- Sel, poivre, pili-pili\n- 100 ml d'eau",
+    "recipe_id": "chou-kinshasa"
+  },
+  {
+    "id": "chou-kinshasa-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Chou mijoté Kinshasa en RDC ?",
+    "completion": "Chou mijoté Kinshasa est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/chou-kinshasa/",
+    "recipe_id": "chou-kinshasa"
+  },
+  {
+    "id": "chou-kinshasa-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Chou mijoté Kinshasa ?",
+    "completion": "Chou mijoté Kinshasa peut aussi être appelé : chou mijoté Kinshasa, Kinshasa cabbage, chou ya Kinshasa, chou, Kinshasa, légumes, accompagnement, quotidien.",
+    "recipe_id": "chou-kinshasa"
+  },
+  {
+    "id": "chou-kinshasa-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « chou mijoté Kinshasa » ?",
+    "completion": "« chou mijoté Kinshasa » désigne notamment Chou mijoté Kinshasa (slug: chou-kinshasa, lang: fr).",
+    "recipe_id": "chou-kinshasa"
+  },
+  {
+    "id": "chou-kinshasa-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « Kinshasa cabbage » ?",
+    "completion": "« Kinshasa cabbage » désigne notamment Chou mijoté Kinshasa (slug: chou-kinshasa, lang: en).",
+    "recipe_id": "chou-kinshasa"
+  },
+  {
+    "id": "chou-kinshasa-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « chou ya Kinshasa » ?",
+    "completion": "« chou ya Kinshasa » désigne notamment Chou mijoté Kinshasa (slug: chou-kinshasa, lang: ln).",
+    "recipe_id": "chou-kinshasa"
+  },
+  {
+    "id": "chou-kinshasa-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Chou mijoté Kinshasa.",
+    "completion": "- 1 piece petit chou blanc, émincé\n- 2 piece oignons, émincés\n- 2 piece tomates, concassées\n- 2 clove ail\n- 2 tbsp huile de palme (ou huile neutre)\n- 1 cube bouillon, émietté (optionnel)\n- Sel, poivre, pili-pili\n- 100 ml eau",
+    "recipe_id": "chou-kinshasa"
+  },
+  {
     "id": "chou-mijote-est-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1296,6 +1656,78 @@
     "recipe_id": "chou-mijote-est"
   },
   {
+    "id": "cotes-porc-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Côtes de porc braisées » (République démocratique du Congo).",
+    "completion": "# Côtes de porc braisées\n\nRecette de côtes de porc braisées : travers marinés puis précuits et finis sur braises — pièce de grillade, distincte du porc ya kotumba et du porc braisé en morceaux.\n\nRégion : Kinshasa\nPortions : 4\nPréparation : 25 min + 2 h de marinade\nCuisson : 1 h 10\n\n## Ingrédients\n- 1,2 kg de côtes / travers de porc, en morceaux\n- 2 oignons, dont un râpé\n- 4 gousses d'ail\n- 2 cm de gingembre, râpé\n- Jus de 2 citrons\n- 3 c. à soupe d'huile\n- 1 cube de bouillon, émietté (optionnel)\n- Sel, poivre, pili-pili\n- 200 ml d'eau pour la précuisson\n\n## Préparation\n1. Mélanger oignon râpé, ail, gingembre, citron, huile, cube, sel, poivre et pili-pili. Enrober les côtes. Mariner 2 heures au frais.\n2. Précuire à couvert 35 à 45 minutes avec l'eau et la marinade jusqu'à ce que la viande commence à se détacher.\n3. Égoutter en réservant le jus. Braiser sur braises moyennes 20 à 25 minutes en badigeonnant, jusqu'à croûte dorée.\n4. Servir avec oignons crus, pili-pili, chikwangue ou plantain.\n\nSource : https://mpichi.likeur.xyz/recettes/cotes-porc/",
+    "recipe_id": "cotes-porc"
+  },
+  {
+    "id": "cotes-porc-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Braised pork ribs\" (Democratic Republic of the Congo).",
+    "completion": "# Braised pork ribs\n\nBraised pork ribs recipe: marinated spare ribs pre-cooked then finished on coals — grill cut, distinct from porc ya kotumba and chunk braised pork.\n\nRegion: Kinshasa\nServings: 4\nPrep: 25 min + 2 h de marinade\nCook: 1 h 10\n\n## Ingredients\n- 1.2 kg pork ribs / spare ribs, cut\n- 2 onions, one grated\n- 4 garlic cloves\n- 2 cm ginger, grated\n- Juice of 2 lemons\n- 3 tbsp oil\n- 1 stock cube, crumbled (optional)\n- Salt, pepper, pili-pili\n- 200 ml water for pre-cook\n\n## Steps\n1. Mix grated onion, garlic, ginger, lemon, oil, cube, salt, pepper and chili. Coat the ribs. Marinate 2 hours chilled.\n2. Cover and pre-cook 35–45 minutes with water and marinade until the meat starts to loosen.\n3. Drain, reserving juices. Braise over medium coals 20–25 minutes, basting, until golden.\n4. Serve with raw onion, chili, chikwangue or plantain.\n\nSource: https://mpichi.likeur.xyz/en/recettes/cotes-porc/",
+    "recipe_id": "cotes-porc"
+  },
+  {
+    "id": "cotes-porc-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Côtes de porc braisées ?",
+    "completion": "- 1,2 kg de côtes / travers de porc, en morceaux\n- 2 oignons, dont un râpé\n- 4 gousses d'ail\n- 2 cm de gingembre, râpé\n- Jus de 2 citrons\n- 3 c. à soupe d'huile\n- 1 cube de bouillon, émietté (optionnel)\n- Sel, poivre, pili-pili\n- 200 ml d'eau pour la précuisson",
+    "recipe_id": "cotes-porc"
+  },
+  {
+    "id": "cotes-porc-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Côtes de porc braisées en RDC ?",
+    "completion": "Côtes de porc braisées est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/cotes-porc/",
+    "recipe_id": "cotes-porc"
+  },
+  {
+    "id": "cotes-porc-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Côtes de porc braisées ?",
+    "completion": "Côtes de porc braisées peut aussi être appelé : travers de porc, pork ribs, côtes levées, porc, côtes, braise, grillade, Kinshasa.",
+    "recipe_id": "cotes-porc"
+  },
+  {
+    "id": "cotes-porc-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « travers de porc » ?",
+    "completion": "« travers de porc » désigne notamment Côtes de porc braisées (slug: cotes-porc, lang: fr).",
+    "recipe_id": "cotes-porc"
+  },
+  {
+    "id": "cotes-porc-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pork ribs » ?",
+    "completion": "« pork ribs » désigne notamment Côtes de porc braisées (slug: cotes-porc, lang: en).",
+    "recipe_id": "cotes-porc"
+  },
+  {
+    "id": "cotes-porc-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « côtes levées » ?",
+    "completion": "« côtes levées » désigne notamment Côtes de porc braisées (slug: cotes-porc, lang: fr).",
+    "recipe_id": "cotes-porc"
+  },
+  {
+    "id": "cotes-porc-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Côtes de porc braisées.",
+    "completion": "- 1.2 kg côtes / travers de porc, en morceaux\n- 2 piece oignons, dont un râpé\n- 4 clove ail\n- 2 piece cm de gingembre, râpé\n- Jus de 2 citrons\n- 3 tbsp huile\n- 1 cube bouillon, émietté (optionnel)\n- Sel, poivre, pili-pili\n- 200 ml eau pour la précuisson",
+    "recipe_id": "cotes-porc"
+  },
+  {
     "id": "courge-sauce-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1366,6 +1798,150 @@
     "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Courge en sauce.",
     "completion": "- 800 g courge jaune ou potiron, en cubes\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 2 clove ail\n- 3 tbsp huile de palme ou d’huile neutre\n- 200 ml eau\n- Sel, pili-pili\n- 80 g arachides pilées, facultatif",
     "recipe_id": "courge-sauce"
+  },
+  {
+    "id": "crevettes-fleuve-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Crevettes du fleuve en sauce » (République démocratique du Congo).",
+    "completion": "# Crevettes du fleuve en sauce\n\nRecette de crevettes du Congo en sauce tomate et oignon — plat du bassin fluvial, plus rare dans les catalogues mais courant quand le marché en a.\n\nRégion : Bassin du Congo\nPortions : 4\nPréparation : 20 min\nCuisson : 30 min\n\n## Ingrédients\n- 600 g de crevettes d'eau douce (ou crevettes moyennes décortiquées)\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 3 gousses d'ail\n- 2 c. à soupe d'huile de palme ou d'huile neutre\n- Sel, poivre, pili-pili\n- 100 ml d'eau\n- Jus d'un demi-citron (optionnel)\n\n## Préparation\n1. Nettoyer les crevettes (ôter le boyau). Les saler légèrement.\n2. Faire revenir oignons et ail dans l'huile, ajouter les tomates 8 minutes.\n3. Incorporer les crevettes, le piment et l'eau. Mijoter 12 à 15 minutes à feu moyen — elles doivent rester tendres.\n4. Rectifier le sel. Un filet de citron en fin de cuisson relève le goût.\n5. Servir avec riz, chikwangue ou plantain.\n\nSource : https://mpichi.likeur.xyz/recettes/crevettes-fleuve/",
+    "recipe_id": "crevettes-fleuve"
+  },
+  {
+    "id": "crevettes-fleuve-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"River shrimp in sauce\" (Democratic Republic of the Congo).",
+    "completion": "# River shrimp in sauce\n\nCongo river shrimp in tomato-onion sauce — a basin dish, less common in catalogues but usual when the market has them.\n\nRegion: Bassin du Congo\nServings: 4\nPrep: 20 min\nCook: 30 min\n\n## Ingredients\n- 600 g freshwater shrimp (or medium peeled shrimp)\n- 2 onions, sliced\n- 3 tomatoes, crushed\n- 3 garlic cloves\n- 2 tbsp palm oil or neutral oil\n- Salt, pepper, pili-pili\n- 100 ml water\n- Juice of half a lemon (optional)\n\n## Steps\n1. Clean the shrimp (remove the vein). Salt lightly.\n2. Sweat onions and garlic in oil; add tomatoes for 8 minutes.\n3. Add shrimp, chili and water. Simmer 12–15 minutes on medium heat — keep them tender.\n4. Adjust salt. A squeeze of lemon at the end brightens the sauce.\n5. Serve with rice, chikwangue or plantain.\n\nSource: https://mpichi.likeur.xyz/en/recettes/crevettes-fleuve/",
+    "recipe_id": "crevettes-fleuve"
+  },
+  {
+    "id": "crevettes-fleuve-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Crevettes du fleuve en sauce ?",
+    "completion": "- 600 g de crevettes d'eau douce (ou crevettes moyennes décortiquées)\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 3 gousses d'ail\n- 2 c. à soupe d'huile de palme ou d'huile neutre\n- Sel, poivre, pili-pili\n- 100 ml d'eau\n- Jus d'un demi-citron (optionnel)",
+    "recipe_id": "crevettes-fleuve"
+  },
+  {
+    "id": "crevettes-fleuve-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Crevettes du fleuve en sauce en RDC ?",
+    "completion": "Crevettes du fleuve en sauce est associé à la région / zone : Bassin du Congo. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/crevettes-fleuve/",
+    "recipe_id": "crevettes-fleuve"
+  },
+  {
+    "id": "crevettes-fleuve-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Crevettes du fleuve en sauce ?",
+    "completion": "Crevettes du fleuve en sauce peut aussi être appelé : crevettes du fleuve, river shrimp, crevettes ya ebale, crevettes, fleuve Congo, sauce tomate, bassin du Congo, fruits de mer.",
+    "recipe_id": "crevettes-fleuve"
+  },
+  {
+    "id": "crevettes-fleuve-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « crevettes du fleuve » ?",
+    "completion": "« crevettes du fleuve » désigne notamment Crevettes du fleuve en sauce (slug: crevettes-fleuve, lang: fr).",
+    "recipe_id": "crevettes-fleuve"
+  },
+  {
+    "id": "crevettes-fleuve-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « river shrimp » ?",
+    "completion": "« river shrimp » désigne notamment Crevettes du fleuve en sauce (slug: crevettes-fleuve, lang: en).",
+    "recipe_id": "crevettes-fleuve"
+  },
+  {
+    "id": "crevettes-fleuve-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « crevettes ya ebale » ?",
+    "completion": "« crevettes ya ebale » désigne notamment Crevettes du fleuve en sauce (slug: crevettes-fleuve, lang: ln).",
+    "recipe_id": "crevettes-fleuve"
+  },
+  {
+    "id": "crevettes-fleuve-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Crevettes du fleuve en sauce.",
+    "completion": "- 600 g crevettes d'eau douce (ou crevettes moyennes décortiquées)\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 3 clove ail\n- 2 tbsp huile de palme ou d'huile neutre\n- Sel, poivre, pili-pili\n- 100 ml eau\n- Jus d'un demi-citron (optionnel)",
+    "recipe_id": "crevettes-fleuve"
+  },
+  {
+    "id": "crevettes-grillees-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Crevettes grillées » (République démocratique du Congo).",
+    "completion": "# Crevettes grillées\n\nRecette de crevettes grillées : crevettes marinées puis cuites sur braises ou poêle très chaude — geste braise, distinct des crevettes du fleuve en sauce.\n\nRégion : Kinshasa & bassin du Congo\nPortions : 4\nPréparation : 20 min + 20 min de marinade\nCuisson : 10 min\n\n## Ingrédients\n- 700 g de crevettes moyennes (fraîches ou décongelées), décortiquées ou non\n- Jus de 2 citrons\n- 3 gousses d'ail, écrasées\n- 2 c. à soupe d'huile\n- Sel, poivre, pili-pili\n- 1 oignon, en rondelles (optionnel, pour servir)\n\n## Préparation\n1. Nettoyer les crevettes (ôter le boyau). Les mélanger avec citron, ail, huile, sel, poivre et pili-pili. Mariner 20 minutes au frais.\n2. Préparer des braises vives ou une poêle/gril très chaud.\n3. Griller 2 à 3 minutes par face jusqu'à rose et légèrement marquées — ne pas dessécher.\n4. Servir aussitôt avec oignons, citron, pili-pili, plantain ou riz.\n\nSource : https://mpichi.likeur.xyz/recettes/crevettes-grillees/",
+    "recipe_id": "crevettes-grillees"
+  },
+  {
+    "id": "crevettes-grillees-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Grilled shrimp\" (Democratic Republic of the Congo).",
+    "completion": "# Grilled shrimp\n\nGrilled shrimp recipe: marinated shrimp cooked over coals or a very hot pan — grill gesture, distinct from river shrimp in sauce.\n\nRegion: Kinshasa & bassin du Congo\nServings: 4\nPrep: 20 min + 20 min de marinade\nCook: 10 min\n\n## Ingredients\n- 700 g medium shrimp (fresh or thawed), peeled or not\n- Juice of 2 lemons\n- 3 garlic cloves, crushed\n- 2 tbsp oil\n- Salt, pepper, pili-pili\n- 1 onion, rounds (optional, to serve)\n\n## Steps\n1. Clean the shrimp (devein). Toss with lemon, garlic, oil, salt, pepper and chili. Marinate 20 minutes chilled.\n2. Prepare hot coals or a very hot pan/grill.\n3. Grill 2–3 minutes per side until pink and lightly marked — do not dry out.\n4. Serve at once with onions, lemon, chili, plantain or rice.\n\nSource: https://mpichi.likeur.xyz/en/recettes/crevettes-grillees/",
+    "recipe_id": "crevettes-grillees"
+  },
+  {
+    "id": "crevettes-grillees-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Crevettes grillées ?",
+    "completion": "- 700 g de crevettes moyennes (fraîches ou décongelées), décortiquées ou non\n- Jus de 2 citrons\n- 3 gousses d'ail, écrasées\n- 2 c. à soupe d'huile\n- Sel, poivre, pili-pili\n- 1 oignon, en rondelles (optionnel, pour servir)",
+    "recipe_id": "crevettes-grillees"
+  },
+  {
+    "id": "crevettes-grillees-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Crevettes grillées en RDC ?",
+    "completion": "Crevettes grillées est associé à la région / zone : Kinshasa & bassin du Congo. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/crevettes-grillees/",
+    "recipe_id": "crevettes-grillees"
+  },
+  {
+    "id": "crevettes-grillees-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Crevettes grillées ?",
+    "completion": "Crevettes grillées peut aussi être appelé : crevettes grillées, grilled prawns, crevettes ya kotumba, crevettes, grillade, braise, fruits de mer, Kinshasa.",
+    "recipe_id": "crevettes-grillees"
+  },
+  {
+    "id": "crevettes-grillees-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « crevettes grillées » ?",
+    "completion": "« crevettes grillées » désigne notamment Crevettes grillées (slug: crevettes-grillees, lang: fr).",
+    "recipe_id": "crevettes-grillees"
+  },
+  {
+    "id": "crevettes-grillees-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « grilled prawns » ?",
+    "completion": "« grilled prawns » désigne notamment Crevettes grillées (slug: crevettes-grillees, lang: en).",
+    "recipe_id": "crevettes-grillees"
+  },
+  {
+    "id": "crevettes-grillees-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « crevettes ya kotumba » ?",
+    "completion": "« crevettes ya kotumba » désigne notamment Crevettes grillées (slug: crevettes-grillees, lang: ln).",
+    "recipe_id": "crevettes-grillees"
+  },
+  {
+    "id": "crevettes-grillees-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Crevettes grillées.",
+    "completion": "- 700 g crevettes moyennes (fraîches ou décongelées), décortiquées ou non\n- Jus de 2 citrons\n- 3 clove ail, écrasées\n- 2 tbsp huile\n- Sel, poivre, pili-pili\n- 1 piece oignon, en rondelles (optionnel, pour servir)",
+    "recipe_id": "crevettes-grillees"
   },
   {
     "id": "croquettes-manioc-recipe-fr",
@@ -1728,6 +2304,78 @@
     "recipe_id": "fufu-manioc"
   },
   {
+    "id": "fufu-plantain-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Fufu de plantain » (République démocratique du Congo).",
+    "completion": "# Fufu de plantain\n\nRecette de fufu de plantain : plantains bouillis puis pilés en pâte lisse — féculent du bassin / Cuvette, cousin du lituma et du fufu de manioc.\n\nRégion : Cuvette centrale\nPortions : 4\nPréparation : 10 min\nCuisson : 35 min\n\n## Ingrédients\n- 1,2 kg de plantains verts ou semi-mûrs\n- 200 ml d'eau de cuisson réservée\n- 1 c. à café de sel\n\n## Préparation\n1. Éplucher les plantains. Les couper en tronçons. Les cuire dans une eau légèrement salée 20 à 25 minutes jusqu'à tendreté.\n2. Égoutter en gardant un peu d'eau de cuisson.\n3. Piler au mortier (ou robot) en ajoutant l'eau chaude petit à petit, jusqu'à une pâte lisse et élastique.\n4. Former des boules. Servir aussitôt avec sauce, poisson ou viande.\n\nSource : https://mpichi.likeur.xyz/recettes/fufu-plantain/",
+    "recipe_id": "fufu-plantain"
+  },
+  {
+    "id": "fufu-plantain-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Plantain fufu\" (Democratic Republic of the Congo).",
+    "completion": "# Plantain fufu\n\nPlantain fufu recipe: boiled plantains pounded into a smooth dough — Cuvette / basin starch, cousin to lituma and cassava fufu.\n\nRegion: Cuvette centrale\nServings: 4\nPrep: 10 min\nCook: 35 min\n\n## Ingredients\n- 1.2 kg green or semi-ripe plantains\n- 200 ml reserved cooking water\n- 1 tsp salt\n\n## Steps\n1. Peel the plantains. Cut into chunks. Cook in lightly salted water 20–25 minutes until tender.\n2. Drain, keeping some cooking water.\n3. Pound in a mortar (or processor), adding hot water little by little, until smooth and elastic.\n4. Shape into balls. Serve at once with sauce, fish or meat.\n\nSource: https://mpichi.likeur.xyz/en/recettes/fufu-plantain/",
+    "recipe_id": "fufu-plantain"
+  },
+  {
+    "id": "fufu-plantain-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Fufu de plantain ?",
+    "completion": "- 1,2 kg de plantains verts ou semi-mûrs\n- 200 ml d'eau de cuisson réservée\n- 1 c. à café de sel",
+    "recipe_id": "fufu-plantain"
+  },
+  {
+    "id": "fufu-plantain-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Fufu de plantain en RDC ?",
+    "completion": "Fufu de plantain est associé à la région / zone : Cuvette centrale. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/fufu-plantain/",
+    "recipe_id": "fufu-plantain"
+  },
+  {
+    "id": "fufu-plantain-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Fufu de plantain ?",
+    "completion": "Fufu de plantain peut aussi être appelé : foutou banane, fufu de plantain, plantain fufu, fufu ya libuma, fufu, plantain, pâte, Cuvette, accompagnement.",
+    "recipe_id": "fufu-plantain"
+  },
+  {
+    "id": "fufu-plantain-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « foutou banane » ?",
+    "completion": "« foutou banane » désigne notamment Fufu de plantain (slug: fufu-plantain, lang: fr).",
+    "recipe_id": "fufu-plantain"
+  },
+  {
+    "id": "fufu-plantain-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « fufu de plantain » ?",
+    "completion": "« fufu de plantain » désigne notamment Fufu de plantain (slug: fufu-plantain, lang: fr).",
+    "recipe_id": "fufu-plantain"
+  },
+  {
+    "id": "fufu-plantain-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « plantain fufu » ?",
+    "completion": "« plantain fufu » désigne notamment Fufu de plantain (slug: fufu-plantain, lang: en).",
+    "recipe_id": "fufu-plantain"
+  },
+  {
+    "id": "fufu-plantain-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Fufu de plantain.",
+    "completion": "- 1.2 kg plantains verts ou semi-mûrs\n- 200 ml eau de cuisson réservée\n- 1 tsp sel",
+    "recipe_id": "fufu-plantain"
+  },
+  {
     "id": "fumbwa-arachides-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -1798,6 +2446,78 @@
     "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Fumbwa aux arachides.",
     "completion": "- 500 g feuilles de fumbwa émincées\n- 200 g pâte d’arachide non sucrée\n- 2 piece oignons, finement hachés\n- 2 piece tomates mûres, concassées\n- 2 clove ail\n- 3 tbsp huile de palme\n- 150 g poisson fumé (optionnel)\n- Sel, piment et eau",
     "recipe_id": "fumbwa-arachides"
+  },
+  {
+    "id": "gateau-arachide-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Gâteau à l'arachide » (République démocratique du Congo).",
+    "completion": "# Gâteau à l'arachide\n\nRecette de gâteau à l’arachide : cake moelleux à la pâte ou farine d’arachide — dessert / goûter nationwide, cousin du gâteau au manioc.\n\nRégion : Toute la RDC\nPortions : 8\nPréparation : 20 min\nCuisson : 40 min\n\n## Ingrédients\n- 150 g de pâte d'arachide (non sucrée) ou 120 g de beurre d'arachide + 30 g d'huile\n- 150 g de farine de blé\n- 120 g de sucre\n- 3 œufs\n- 100 ml de lait\n- 1 sachet de levure chimique (11 g)\n- 1 pincée de sel\n- 1 c. à café de vanille\n\n## Préparation\n1. Préchauffer le four à 180 °C. Beurrer un moule.\n2. Battre œufs et sucre jusqu'à blanchiment. Ajouter la pâte d'arachide, le lait et la vanille.\n3. Incorporer la farine, la levure et le sel. Mélanger juste jusqu'à homogénéité.\n4. Verser dans le moule. Cuire 35 à 45 minutes jusqu'à ce qu'un couteau ressort propre.\n5. Laisser tiédir avant de démouler. Servir en parts, nature ou avec un peu de lait.\n\nSource : https://mpichi.likeur.xyz/recettes/gateau-arachide/",
+    "recipe_id": "gateau-arachide"
+  },
+  {
+    "id": "gateau-arachide-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Peanut cake\" (Democratic Republic of the Congo).",
+    "completion": "# Peanut cake\n\nPeanut cake recipe: soft cake with peanut paste or flour — nationwide dessert / snack, cousin of cassava cake.\n\nRegion: Toute la RDC\nServings: 8\nPrep: 20 min\nCook: 40 min\n\n## Ingredients\n- 150 g peanut paste (unsweetened) or 120 g peanut butter + 30 g oil\n- 150 g wheat flour\n- 120 g sugar\n- 3 eggs\n- 100 ml milk\n- 1 packet baking powder (11 g)\n- A pinch of salt\n- 1 tsp vanilla\n\n## Steps\n1. Preheat oven to 180 °C. Butter a tin.\n2. Beat eggs and sugar until pale. Add peanut paste, milk and vanilla.\n3. Fold in flour, baking powder and salt just until combined.\n4. Pour into the tin. Bake 35–45 minutes until a knife comes out clean.\n5. Cool slightly before unmoulding. Serve in slices, plain or with a little milk.\n\nSource: https://mpichi.likeur.xyz/en/recettes/gateau-arachide/",
+    "recipe_id": "gateau-arachide"
+  },
+  {
+    "id": "gateau-arachide-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Gâteau à l'arachide ?",
+    "completion": "- 150 g de pâte d'arachide (non sucrée) ou 120 g de beurre d'arachide + 30 g d'huile\n- 150 g de farine de blé\n- 120 g de sucre\n- 3 œufs\n- 100 ml de lait\n- 1 sachet de levure chimique (11 g)\n- 1 pincée de sel\n- 1 c. à café de vanille",
+    "recipe_id": "gateau-arachide"
+  },
+  {
+    "id": "gateau-arachide-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Gâteau à l'arachide en RDC ?",
+    "completion": "Gâteau à l'arachide est associé à la région / zone : Toute la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/gateau-arachide/",
+    "recipe_id": "gateau-arachide"
+  },
+  {
+    "id": "gateau-arachide-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Gâteau à l'arachide ?",
+    "completion": "Gâteau à l'arachide peut aussi être appelé : cake arachide, peanut cake, gâteau nguba, gâteau, dessert, goûter.",
+    "recipe_id": "gateau-arachide"
+  },
+  {
+    "id": "gateau-arachide-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « cake arachide » ?",
+    "completion": "« cake arachide » désigne notamment Gâteau à l'arachide (slug: gateau-arachide, lang: fr).",
+    "recipe_id": "gateau-arachide"
+  },
+  {
+    "id": "gateau-arachide-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « peanut cake » ?",
+    "completion": "« peanut cake » désigne notamment Gâteau à l'arachide (slug: gateau-arachide, lang: en).",
+    "recipe_id": "gateau-arachide"
+  },
+  {
+    "id": "gateau-arachide-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « gâteau nguba » ?",
+    "completion": "« gâteau nguba » désigne notamment Gâteau à l'arachide (slug: gateau-arachide, lang: ln).",
+    "recipe_id": "gateau-arachide"
+  },
+  {
+    "id": "gateau-arachide-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Gâteau à l'arachide.",
+    "completion": "- 150 g pâte d'arachide (non sucrée) ou 120 g de beurre d'arachide + 30 g d'huile\n- 150 g farine de blé\n- 120 g sucre\n- 3 piece œufs\n- 100 ml lait\n- 1 packet levure chimique (11 g)\n- 1 pinch sel\n- 1 tsp vanille",
+    "recipe_id": "gateau-arachide"
   },
   {
     "id": "gateau-manioc-recipe-fr",
@@ -2160,6 +2880,78 @@
     "recipe_id": "igname-bouillie"
   },
   {
+    "id": "igname-sauce-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Igname en sauce » (République démocratique du Congo).",
+    "completion": "# Igname en sauce\n\nRecette d’igname en sauce : igname bouillie puis nappée d’une sauce tomate-oignon — plat / accompagnement du Centre et de la Cuvette, au-delà de l’igname nature.\n\nRégion : Cuvette centrale\nPortions : 4\nPréparation : 20 min\nCuisson : 50 min\n\n## Ingrédients\n- 1 kg d'igname\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 3 gousses d'ail\n- 3 c. à soupe d'huile\n- 200 ml d'eau\n- 1 c. à café de sel\n- Poivre, pili-pili\n\n## Préparation\n1. Éplucher l'igname, la couper en gros morceaux. La cuire 25 minutes dans une eau salée jusqu'à tendreté. Égoutter.\n2. Faire revenir oignons et ail dans l'huile, ajouter les tomates 8 minutes.\n3. Incorporer l'igname et l'eau. Mijoter 15 minutes à feu doux pour que la sauce nappe les morceaux.\n4. Rectifier sel et piment. Servir chaud, éventuellement avec poisson fumé à part.\n\nSource : https://mpichi.likeur.xyz/recettes/igname-sauce/",
+    "recipe_id": "igname-sauce"
+  },
+  {
+    "id": "igname-sauce-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Yam in sauce\" (Democratic Republic of the Congo).",
+    "completion": "# Yam in sauce\n\nYam in sauce recipe: boiled yam finished in a tomato-onion sauce — Centre / Cuvette plate beyond plain boiled yam.\n\nRegion: Cuvette centrale\nServings: 4\nPrep: 20 min\nCook: 50 min\n\n## Ingredients\n- 1 kg yam\n- 2 onions, sliced\n- 3 tomatoes, crushed\n- 3 garlic cloves\n- 3 tbsp oil\n- 200 ml water\n- 1 tsp salt\n- Pepper, pili-pili\n\n## Steps\n1. Peel the yam, cut into large pieces. Boil 25 minutes in salted water until tender. Drain.\n2. Sweat onions and garlic in oil; add tomatoes 8 minutes.\n3. Add the yam and water. Simmer 15 minutes on low heat so the sauce coats the pieces.\n4. Adjust salt and chili. Serve hot, optionally with smoked fish on the side.\n\nSource: https://mpichi.likeur.xyz/en/recettes/igname-sauce/",
+    "recipe_id": "igname-sauce"
+  },
+  {
+    "id": "igname-sauce-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Igname en sauce ?",
+    "completion": "- 1 kg d'igname\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 3 gousses d'ail\n- 3 c. à soupe d'huile\n- 200 ml d'eau\n- 1 c. à café de sel\n- Poivre, pili-pili",
+    "recipe_id": "igname-sauce"
+  },
+  {
+    "id": "igname-sauce-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Igname en sauce en RDC ?",
+    "completion": "Igname en sauce est associé à la région / zone : Cuvette centrale. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/igname-sauce/",
+    "recipe_id": "igname-sauce"
+  },
+  {
+    "id": "igname-sauce-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Igname en sauce ?",
+    "completion": "Igname en sauce peut aussi être appelé : igname en sauce, yam in sauce, igname ya sauce, igname, sauce tomate, Cuvette, tubercule.",
+    "recipe_id": "igname-sauce"
+  },
+  {
+    "id": "igname-sauce-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « igname en sauce » ?",
+    "completion": "« igname en sauce » désigne notamment Igname en sauce (slug: igname-sauce, lang: fr).",
+    "recipe_id": "igname-sauce"
+  },
+  {
+    "id": "igname-sauce-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « yam in sauce » ?",
+    "completion": "« yam in sauce » désigne notamment Igname en sauce (slug: igname-sauce, lang: en).",
+    "recipe_id": "igname-sauce"
+  },
+  {
+    "id": "igname-sauce-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « igname ya sauce » ?",
+    "completion": "« igname ya sauce » désigne notamment Igname en sauce (slug: igname-sauce, lang: ln).",
+    "recipe_id": "igname-sauce"
+  },
+  {
+    "id": "igname-sauce-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Igname en sauce.",
+    "completion": "- 1 kg igname\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 3 clove ail\n- 3 tbsp huile\n- 200 ml eau\n- 1 tsp sel\n- Poivre, pili-pili",
+    "recipe_id": "igname-sauce"
+  },
+  {
     "id": "jus-ananas-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2520,6 +3312,78 @@
     "recipe_id": "jus-safou"
   },
   {
+    "id": "jus-tamarin-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Jus de tamarin » (République démocratique du Congo).",
+    "completion": "# Jus de tamarin\n\nRecette de jus de tamarin : pulpe de tamarinier diluée, sucrée et filtrée — boisson acidulée de Kinshasa et de l’Ouest, à côté du bissap et du tangawisi.\n\nRégion : Kinshasa & Ouest de la RDC\nPortions : 6\nPréparation : 15 min + refroidissement\nCuisson : 10 min\n\n## Ingrédients\n- 200 g de pulpe de tamarin (avec ou sans graines, selon le paquet)\n- 1,5 l d'eau\n- 100 à 150 g de sucre\n- Jus d'1/2 citron (optionnel)\n- Une pincée de sel (optionnel, pour relever)\n\n## Préparation\n1. Faire tremper la pulpe dans 500 ml d'eau tiède 10 minutes. Malaxer pour détacher la chair des fibres et graines.\n2. Ajouter le reste de l'eau. Filtrer au chinois ou à la passoire fine en pressant bien.\n3. Sucrer encore tiède ou à froid jusqu'au goût. Ajouter citron et sel si désiré.\n4. Réfrigérer au moins 1 heure. Servir glacé.\n\nSource : https://mpichi.likeur.xyz/recettes/jus-tamarin/",
+    "recipe_id": "jus-tamarin"
+  },
+  {
+    "id": "jus-tamarin-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Tamarind juice\" (Democratic Republic of the Congo).",
+    "completion": "# Tamarind juice\n\nTamarind juice recipe: tamarind pulp diluted, sweetened and strained — tart Kinshasa / western drink beside bissap and tangawisi.\n\nRegion: Kinshasa & Ouest de la RDC\nServings: 6\nPrep: 15 min + refroidissement\nCook: 10 min\n\n## Ingredients\n- 200 g tamarind pulp (with or without seeds, as packaged)\n- 1.5 l water\n- 100–150 g sugar\n- Juice of 1/2 lemon (optional)\n- A pinch of salt (optional, to lift)\n\n## Steps\n1. Soak the pulp in 500 ml warm water 10 minutes. Knead to loosen flesh from fibres and seeds.\n2. Add the rest of the water. Strain through a fine sieve, pressing well.\n3. Sweeten while still warm or cold to taste. Add lemon and salt if desired.\n4. Chill at least 1 hour. Serve iced.\n\nSource: https://mpichi.likeur.xyz/en/recettes/jus-tamarin/",
+    "recipe_id": "jus-tamarin"
+  },
+  {
+    "id": "jus-tamarin-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Jus de tamarin ?",
+    "completion": "- 200 g de pulpe de tamarin (avec ou sans graines, selon le paquet)\n- 1,5 l d'eau\n- 100 à 150 g de sucre\n- Jus d'1/2 citron (optionnel)\n- Une pincée de sel (optionnel, pour relever)",
+    "recipe_id": "jus-tamarin"
+  },
+  {
+    "id": "jus-tamarin-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Jus de tamarin en RDC ?",
+    "completion": "Jus de tamarin est associé à la région / zone : Kinshasa & Ouest de la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/jus-tamarin/",
+    "recipe_id": "jus-tamarin"
+  },
+  {
+    "id": "jus-tamarin-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Jus de tamarin ?",
+    "completion": "Jus de tamarin peut aussi être appelé : jus de tamarinier, tamarind juice, mai ya tamarin, tamarin, jus, boisson, acidulé, Kinshasa.",
+    "recipe_id": "jus-tamarin"
+  },
+  {
+    "id": "jus-tamarin-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « jus de tamarinier » ?",
+    "completion": "« jus de tamarinier » désigne notamment Jus de tamarin (slug: jus-tamarin, lang: fr).",
+    "recipe_id": "jus-tamarin"
+  },
+  {
+    "id": "jus-tamarin-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « tamarind juice » ?",
+    "completion": "« tamarind juice » désigne notamment Jus de tamarin (slug: jus-tamarin, lang: en).",
+    "recipe_id": "jus-tamarin"
+  },
+  {
+    "id": "jus-tamarin-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mai ya tamarin » ?",
+    "completion": "« mai ya tamarin » désigne notamment Jus de tamarin (slug: jus-tamarin, lang: ln).",
+    "recipe_id": "jus-tamarin"
+  },
+  {
+    "id": "jus-tamarin-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Jus de tamarin.",
+    "completion": "- 200 g pulpe de tamarin (avec ou sans graines, selon le paquet)\n- 1.5 l eau\n- 100–150 g sucre\n- Jus d'1/2 citron (optionnel)\n- Une pincée de sel (optionnel, pour relever)",
+    "recipe_id": "jus-tamarin"
+  },
+  {
     "id": "kabambale-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -2806,6 +3670,222 @@
     "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Kossa-kossa.",
     "completion": "- 200 g kossa-kossa (crevettes séchées)\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 2 clove ail\n- 2 tbsp huile de palme\n- 1 piece petit piment\n- Sel et eau",
     "recipe_id": "kossa-kossa"
+  },
+  {
+    "id": "lait-caille-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Lait caillé » (République démocratique du Congo).",
+    "completion": "# Lait caillé\n\nRecette de lait caillé : lait laissé aciduler proprement jusqu’à prise douce — dessert / goûter nationwide, servi nature ou sucré.\n\nRégion : Toute la RDC\nPortions : 4\nPréparation : 10 min + 12 à 24 h de prise\nCuisson : 5 min\n\n## Ingrédients\n- 1 l de lait entier pasteurisé\n- 2 c. à soupe de lait caillé déjà pris ou de yaourt nature non sucré (ferments)\n- Sucre ou miel pour servir (optionnel)\n- Une pincée de muscade ou vanille (optionnel)\n\n## Préparation\n1. Hygiène : récipient et ustensiles très propres. Ne pas utiliser de lait déjà douteux.\n2. Tiédir le lait jusqu'à environ 37–40 °C (tiède au doigt, pas brûlant). Hors du feu.\n3. Incorporer les ferments en mélangeant doucement. Couvrir d'un linge propre.\n4. Laisser à température ambiante tiède 12 à 24 heures jusqu'à prise (texture de yaourt souple). Puis réfrigérer.\n5. Servir froid, nature ou légèrement sucré. Jeter en cas d'odeur anormale, de moisissure ou de séparation inhabituelle.\n\nSource : https://mpichi.likeur.xyz/recettes/lait-caille/",
+    "recipe_id": "lait-caille"
+  },
+  {
+    "id": "lait-caille-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Sour milk (lait caillé)\" (Democratic Republic of the Congo).",
+    "completion": "# Sour milk (lait caillé)\n\nLait caillé recipe: milk gently acidified until softly set — nationwide dessert / snack, plain or lightly sweetened.\n\nRegion: Toute la RDC\nServings: 4\nPrep: 10 min + 12 à 24 h de prise\nCook: 5 min\n\n## Ingredients\n- 1 l pasteurized whole milk\n- 2 tbsp already-set lait caillé or plain unsweetened yoghurt (starter)\n- Sugar or honey to serve (optional)\n- A pinch of nutmeg or vanilla (optional)\n\n## Steps\n1. Hygiene: very clean jar and utensils. Do not use doubtful milk.\n2. Warm the milk to about 37–40 °C (finger-warm, not hot). Off the heat.\n3. Stir in the starter gently. Cover with a clean cloth.\n4. Leave in a warm room 12–24 hours until set (soft yoghurt texture). Then refrigerate.\n5. Serve cold, plain or lightly sweetened. Discard if smell is off, mould appears, or separation looks wrong.\n\nSource: https://mpichi.likeur.xyz/en/recettes/lait-caille/",
+    "recipe_id": "lait-caille"
+  },
+  {
+    "id": "lait-caille-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Lait caillé ?",
+    "completion": "- 1 l de lait entier pasteurisé\n- 2 c. à soupe de lait caillé déjà pris ou de yaourt nature non sucré (ferments)\n- Sucre ou miel pour servir (optionnel)\n- Une pincée de muscade ou vanille (optionnel)",
+    "recipe_id": "lait-caille"
+  },
+  {
+    "id": "lait-caille-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Lait caillé en RDC ?",
+    "completion": "Lait caillé est associé à la région / zone : Toute la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/lait-caille/",
+    "recipe_id": "lait-caille"
+  },
+  {
+    "id": "lait-caille-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Lait caillé ?",
+    "completion": "Lait caillé peut aussi être appelé : lait fermenté, sour milk, mabisi, amasi, lait, caillé, dessert, fermentation, goûter.",
+    "recipe_id": "lait-caille"
+  },
+  {
+    "id": "lait-caille-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « lait fermenté » ?",
+    "completion": "« lait fermenté » désigne notamment Lait caillé (slug: lait-caille, lang: fr).",
+    "recipe_id": "lait-caille"
+  },
+  {
+    "id": "lait-caille-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « sour milk » ?",
+    "completion": "« sour milk » désigne notamment Lait caillé (slug: lait-caille, lang: en).",
+    "recipe_id": "lait-caille"
+  },
+  {
+    "id": "lait-caille-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mabisi » ?",
+    "completion": "« mabisi » désigne notamment Lait caillé (slug: lait-caille, lang: ln).",
+    "recipe_id": "lait-caille"
+  },
+  {
+    "id": "lait-caille-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Lait caillé.",
+    "completion": "- 1 l lait entier pasteurisé\n- 2 tbsp lait caillé déjà pris ou de yaourt nature non sucré (ferments)\n- Sucre ou miel pour servir (optionnel)\n- Une pincée de muscade ou vanille (optionnel)",
+    "recipe_id": "lait-caille"
+  },
+  {
+    "id": "liboke-champignons-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Liboke de champignons » (République démocratique du Congo).",
+    "completion": "# Liboke de champignons\n\nRecette de liboke de champignons : champignons comestibles et aromates en papillote de feuille de bananier — variante Bandundu du maboke, distincte du mayebo en sauce.\n\nRégion : Grand Bandundu\nPortions : 4\nPréparation : 25 min\nCuisson : 40 min\n\n## Ingrédients\n- 700 g de champignons comestibles fermes (cultivés ou formellement identifiés)\n- 1 oignon, en rondelles\n- 2 tomates, en tranches\n- 2 gousses d'ail, écrasées\n- 3 c. à soupe d'huile de palme\n- Sel, poivre, pili-pili, cube de bouillon émietté (optionnel)\n- 4 grandes feuilles de bananier (ou papier cuisson + papier alu)\n\n## Préparation\n1. Employer uniquement des champignons cultivés ou formellement identifiés comme comestibles. Les nettoyer et les couper en morceaux.\n2. Mélanger champignons, oignon, tomate, ail, huile, sel, poivre, piment et cube.\n3. Assouplir les feuilles de bananier au-dessus d'une flamme ou à la vapeur.\n4. Répartir en 4 papillotes. Fermer hermétiquement.\n5. Cuire à la vapeur ou au four à 180 °C pendant 35 à 40 minutes. Servir ouverts à table avec chikwangue ou riz.\n\nSource : https://mpichi.likeur.xyz/recettes/liboke-champignons/",
+    "recipe_id": "liboke-champignons"
+  },
+  {
+    "id": "liboke-champignons-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Mushroom liboke\" (Democratic Republic of the Congo).",
+    "completion": "# Mushroom liboke\n\nMushroom liboke recipe: edible mushrooms and aromatics steamed in banana leaf — Bandundu maboke variant, distinct from mayebo in open sauce.\n\nRegion: Grand Bandundu\nServings: 4\nPrep: 25 min\nCook: 40 min\n\n## Ingredients\n- 700 g firm edible mushrooms (cultivated or formally identified)\n- 1 onion, rounds\n- 2 tomatoes, slices\n- 2 garlic cloves, crushed\n- 3 tbsp palm oil\n- Salt, pepper, pili-pili, crumbled stock cube (optional)\n- 4 large banana leaves (or parchment + foil)\n\n## Steps\n1. Use only cultivated or formally identified edible mushrooms. Clean and cut.\n2. Toss mushrooms, onion, tomato, garlic, oil, salt, pepper, chili and cube.\n3. Soften banana leaves over a flame or steam.\n4. Divide into 4 packets. Seal tightly.\n5. Steam or bake at 180 °C for 35–40 minutes. Open at the table with chikwangue or rice.\n\nSource: https://mpichi.likeur.xyz/en/recettes/liboke-champignons/",
+    "recipe_id": "liboke-champignons"
+  },
+  {
+    "id": "liboke-champignons-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Liboke de champignons ?",
+    "completion": "- 700 g de champignons comestibles fermes (cultivés ou formellement identifiés)\n- 1 oignon, en rondelles\n- 2 tomates, en tranches\n- 2 gousses d'ail, écrasées\n- 3 c. à soupe d'huile de palme\n- Sel, poivre, pili-pili, cube de bouillon émietté (optionnel)\n- 4 grandes feuilles de bananier (ou papier cuisson + papier alu)",
+    "recipe_id": "liboke-champignons"
+  },
+  {
+    "id": "liboke-champignons-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Liboke de champignons en RDC ?",
+    "completion": "Liboke de champignons est associé à la région / zone : Grand Bandundu. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/liboke-champignons/",
+    "recipe_id": "liboke-champignons"
+  },
+  {
+    "id": "liboke-champignons-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Liboke de champignons ?",
+    "completion": "Liboke de champignons peut aussi être appelé : liboke ya mayebo, maboke champignons, mushroom liboke, papillote de champignons, liboke, maboke, champignons, Bandundu, feuille de bananier.",
+    "recipe_id": "liboke-champignons"
+  },
+  {
+    "id": "liboke-champignons-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « liboke ya mayebo » ?",
+    "completion": "« liboke ya mayebo » désigne notamment Liboke de champignons (slug: liboke-champignons, lang: ln).",
+    "recipe_id": "liboke-champignons"
+  },
+  {
+    "id": "liboke-champignons-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « maboke champignons » ?",
+    "completion": "« maboke champignons » désigne notamment Liboke de champignons (slug: liboke-champignons, lang: fr).",
+    "recipe_id": "liboke-champignons"
+  },
+  {
+    "id": "liboke-champignons-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mushroom liboke » ?",
+    "completion": "« mushroom liboke » désigne notamment Liboke de champignons (slug: liboke-champignons, lang: en).",
+    "recipe_id": "liboke-champignons"
+  },
+  {
+    "id": "liboke-champignons-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Liboke de champignons.",
+    "completion": "- 700 g champignons comestibles fermes (cultivés ou formellement identifiés)\n- 1 piece oignon, en rondelles\n- 2 piece tomates, en tranches\n- 2 clove ail, écrasées\n- 3 tbsp huile de palme\n- Sel, poivre, pili-pili, cube de bouillon émietté (optionnel)\n- 4 piece grandes feuilles de bananier (ou papier cuisson + papier alu)",
+    "recipe_id": "liboke-champignons"
+  },
+  {
+    "id": "liboke-legumes-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Liboke de légumes » (République démocratique du Congo).",
+    "completion": "# Liboke de légumes\n\nRecette de liboke de légumes : papillote de légumes et aromates dans la feuille de bananier — version végétale du maboke, à côté des liboke poisson et viande.\n\nRégion : Bas-Congo & Bandundu\nPortions : 4\nPréparation : 25 min\nCuisson : 40 min\n\n## Ingrédients\n- 2 aubergines africaines ou 1 aubergine longue, en dés\n- 2 carottes, en bâtonnets\n- 1 poivron, en lanières\n- 200 g de haricots verts ou de chou, en tronçons\n- 2 oignons, en rondelles\n- 2 tomates, en tranches\n- 3 c. à soupe d'huile de palme\n- Sel, poivre, pili-pili, cube de bouillon\n- 4 grandes feuilles de bananier (ou papier cuisson + papier alu)\n\n## Préparation\n1. Mélanger tous les légumes avec l'huile, le sel, le poivre, le piment et le cube émietté.\n2. Assouplir les feuilles de bananier au-dessus d'une flamme ou à la vapeur.\n3. Répartir la farce en 4 papillotes. Fermer hermétiquement.\n4. Cuire à la vapeur ou au four à 180 °C pendant 35 à 40 minutes.\n5. Servir les liboke ouverts à table, avec riz ou chikwangue.\n\nSource : https://mpichi.likeur.xyz/recettes/liboke-legumes/",
+    "recipe_id": "liboke-legumes"
+  },
+  {
+    "id": "liboke-legumes-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Vegetable liboke\" (Democratic Republic of the Congo).",
+    "completion": "# Vegetable liboke\n\nVegetable liboke recipe: vegetables and aromatics steamed in banana leaf — the plant-based maboke beside fish and meat liboke.\n\nRegion: Bas-Congo & Bandundu\nServings: 4\nPrep: 25 min\nCook: 40 min\n\n## Ingredients\n- 2 African eggplants or 1 long eggplant, diced\n- 2 carrots, batons\n- 1 bell pepper, strips\n- 200 g green beans or cabbage, cut\n- 2 onions, rounds\n- 2 tomatoes, slices\n- 3 tbsp palm oil\n- Salt, pepper, pili-pili, stock cube\n- 4 large banana leaves (or parchment + foil)\n\n## Steps\n1. Toss all vegetables with oil, salt, pepper, chili and crumbled cube.\n2. Soften banana leaves over a flame or steam.\n3. Divide into 4 packets. Seal tightly.\n4. Steam or bake at 180 °C for 35–40 minutes.\n5. Open at the table; serve with rice or chikwangue.\n\nSource: https://mpichi.likeur.xyz/en/recettes/liboke-legumes/",
+    "recipe_id": "liboke-legumes"
+  },
+  {
+    "id": "liboke-legumes-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Liboke de légumes ?",
+    "completion": "- 2 aubergines africaines ou 1 aubergine longue, en dés\n- 2 carottes, en bâtonnets\n- 1 poivron, en lanières\n- 200 g de haricots verts ou de chou, en tronçons\n- 2 oignons, en rondelles\n- 2 tomates, en tranches\n- 3 c. à soupe d'huile de palme\n- Sel, poivre, pili-pili, cube de bouillon\n- 4 grandes feuilles de bananier (ou papier cuisson + papier alu)",
+    "recipe_id": "liboke-legumes"
+  },
+  {
+    "id": "liboke-legumes-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Liboke de légumes en RDC ?",
+    "completion": "Liboke de légumes est associé à la région / zone : Bas-Congo & Bandundu. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/liboke-legumes/",
+    "recipe_id": "liboke-legumes"
+  },
+  {
+    "id": "liboke-legumes-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Liboke de légumes ?",
+    "completion": "Liboke de légumes peut aussi être appelé : liboke ya ndunda, maboke légumes, vegetable liboke, papillote de légumes, liboke, maboke, légumes, feuille de bananier, vapeur.",
+    "recipe_id": "liboke-legumes"
+  },
+  {
+    "id": "liboke-legumes-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « liboke ya ndunda » ?",
+    "completion": "« liboke ya ndunda » désigne notamment Liboke de légumes (slug: liboke-legumes, lang: ln).",
+    "recipe_id": "liboke-legumes"
+  },
+  {
+    "id": "liboke-legumes-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « maboke légumes » ?",
+    "completion": "« maboke légumes » désigne notamment Liboke de légumes (slug: liboke-legumes, lang: fr).",
+    "recipe_id": "liboke-legumes"
+  },
+  {
+    "id": "liboke-legumes-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « vegetable liboke » ?",
+    "completion": "« vegetable liboke » désigne notamment Liboke de légumes (slug: liboke-legumes, lang: en).",
+    "recipe_id": "liboke-legumes"
+  },
+  {
+    "id": "liboke-legumes-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Liboke de légumes.",
+    "completion": "- 2 piece aubergines africaines ou 1 aubergine longue, en dés\n- 2 piece carottes, en bâtonnets\n- 1 piece poivron, en lanières\n- 200 g haricots verts ou de chou, en tronçons\n- 2 piece oignons, en rondelles\n- 2 piece tomates, en tranches\n- 3 tbsp huile de palme\n- Sel, poivre, pili-pili, cube de bouillon\n- 4 piece grandes feuilles de bananier (ou papier cuisson + papier alu)",
+    "recipe_id": "liboke-legumes"
   },
   {
     "id": "liboke-poisson-recipe-fr",
@@ -3168,6 +4248,78 @@
     "recipe_id": "loso-na-madesu"
   },
   {
+    "id": "loso-na-mbisi-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Loso na mbisi » (République démocratique du Congo).",
+    "completion": "# Loso na mbisi\n\nRecette de loso na mbisi : riz mijoté ou servi avec du poisson en sauce tomate — assiette du quotidien à Kinshasa, cousine du loso na madesu.\n\nRégion : Kinshasa\nPortions : 4\nPréparation : 20 min\nCuisson : 45 min\n\n## Ingrédients\n- 400 g de riz long grain, rincé\n- 600 g de poisson (tilapia, capitaine ou darnes), en morceaux\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 3 gousses d'ail\n- 3 c. à soupe d'huile\n- Sel, poivre, pili-pili, cube de bouillon\n- 700 ml d'eau pour le riz\n\n## Préparation\n1. Faire dorer le poisson assaisonné dans l'huile. Réserver.\n2. Dans la même marmite, faire fondre oignons et ail, ajouter les tomates 8 minutes.\n3. Remettre le poisson, mouiller d'un demi-verre d'eau, mijoter 10 minutes à couvert.\n4. À part (ou dans une seconde marmite), cuire le riz dans l'eau salée jusqu'à absorption.\n5. Servir le riz nappé de sauce et de poisson, ou mélanger doucement en fin de cuisson si l'on veut un plat unique.\n\nSource : https://mpichi.likeur.xyz/recettes/loso-na-mbisi/",
+    "recipe_id": "loso-na-mbisi"
+  },
+  {
+    "id": "loso-na-mbisi-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Loso na mbisi\" (Democratic Republic of the Congo).",
+    "completion": "# Loso na mbisi\n\nLoso na mbisi recipe: rice cooked or served with fish in tomato sauce — everyday Kinshasa plate, cousin to loso na madesu.\n\nRegion: Kinshasa\nServings: 4\nPrep: 20 min\nCook: 45 min\n\n## Ingredients\n- 400 g long-grain rice, rinsed\n- 600 g fish (tilapia, captain or steaks), in pieces\n- 2 onions, sliced\n- 3 tomatoes, crushed\n- 3 garlic cloves\n- 3 tbsp oil\n- Salt, pepper, pili-pili, stock cube\n- 700 ml water for the rice\n\n## Steps\n1. Brown the seasoned fish in oil. Set aside.\n2. In the same pot, sweat onions and garlic; add tomatoes for 8 minutes.\n3. Return the fish, add half a glass of water, simmer covered 10 minutes.\n4. Separately, cook the rice in salted water until absorbed.\n5. Serve rice topped with sauce and fish, or fold gently together for a one-pot plate.\n\nSource: https://mpichi.likeur.xyz/en/recettes/loso-na-mbisi/",
+    "recipe_id": "loso-na-mbisi"
+  },
+  {
+    "id": "loso-na-mbisi-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Loso na mbisi ?",
+    "completion": "- 400 g de riz long grain, rincé\n- 600 g de poisson (tilapia, capitaine ou darnes), en morceaux\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 3 gousses d'ail\n- 3 c. à soupe d'huile\n- Sel, poivre, pili-pili, cube de bouillon\n- 700 ml d'eau pour le riz",
+    "recipe_id": "loso-na-mbisi"
+  },
+  {
+    "id": "loso-na-mbisi-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Loso na mbisi en RDC ?",
+    "completion": "Loso na mbisi est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/loso-na-mbisi/",
+    "recipe_id": "loso-na-mbisi"
+  },
+  {
+    "id": "loso-na-mbisi-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Loso na mbisi ?",
+    "completion": "Loso na mbisi peut aussi être appelé : loso na mbisi, riz au poisson, rice with fish, riz poisson, Kinshasa, quotidien.",
+    "recipe_id": "loso-na-mbisi"
+  },
+  {
+    "id": "loso-na-mbisi-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « loso na mbisi » ?",
+    "completion": "« loso na mbisi » désigne notamment Loso na mbisi (slug: loso-na-mbisi, lang: ln).",
+    "recipe_id": "loso-na-mbisi"
+  },
+  {
+    "id": "loso-na-mbisi-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « riz au poisson » ?",
+    "completion": "« riz au poisson » désigne notamment Loso na mbisi (slug: loso-na-mbisi, lang: fr).",
+    "recipe_id": "loso-na-mbisi"
+  },
+  {
+    "id": "loso-na-mbisi-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « rice with fish » ?",
+    "completion": "« rice with fish » désigne notamment Loso na mbisi (slug: loso-na-mbisi, lang: en).",
+    "recipe_id": "loso-na-mbisi"
+  },
+  {
+    "id": "loso-na-mbisi-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Loso na mbisi.",
+    "completion": "- 400 g riz long grain, rincé\n- 600 g poisson (tilapia, capitaine ou darnes), en morceaux\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 3 clove ail\n- 3 tbsp huile\n- Sel, poivre, pili-pili, cube de bouillon\n- 700 ml eau pour le riz",
+    "recipe_id": "loso-na-mbisi"
+  },
+  {
     "id": "loso-petits-pois-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -3382,6 +4534,150 @@
     "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Madesu.",
     "completion": "- 500 g haricots rouges ou bruns secs\n- 2 piece oignons, émincés\n- 3 piece tomates mûres, concassées\n- 3 tbsp huile de palme rouge\n- 2 clove ail, hachées\n- 1 leaf laurier\n- 1 piece petit piment entier, facultatif\n- Sel et eau",
     "recipe_id": "madesu"
+  },
+  {
+    "id": "mais-bouilli-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Maïs bouilli » (République démocratique du Congo).",
+    "completion": "# Maïs bouilli\n\nRecette de maïs bouilli : épis cuits dans une eau salée jusqu’à grains tendres — accompagnement / encas simple, distinct du maïs grillé.\n\nRégion : Toute la RDC\nPortions : 4\nPréparation : 5 min\nCuisson : 30 min\n\n## Ingrédients\n- 4 épis de maïs frais\n- 2 l d'eau\n- 1 c. à café de sel\n\n## Préparation\n1. Éplucher les épis. Les plonger dans une grande casserole d'eau salée.\n2. Porter à ébullition et cuire 25 à 35 minutes jusqu'à ce que les grains soient tendres.\n3. Égoutter. Servir chaud nature, avec un peu de sel ou de beurre / huile.\n\nSource : https://mpichi.likeur.xyz/recettes/mais-bouilli/",
+    "recipe_id": "mais-bouilli"
+  },
+  {
+    "id": "mais-bouilli-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Boiled maize\" (Democratic Republic of the Congo).",
+    "completion": "# Boiled maize\n\nBoiled maize recipe: cobs cooked in salted water until tender — simple side / snack, distinct from grilled maize.\n\nRegion: Toute la RDC\nServings: 4\nPrep: 5 min\nCook: 30 min\n\n## Ingredients\n- 4 fresh maize cobs\n- 2 l water\n- 1 tsp salt\n\n## Steps\n1. Husk the cobs. Place in a large pot of salted water.\n2. Bring to a boil and cook 25–35 minutes until the kernels are tender.\n3. Drain. Serve hot plain, with a little salt or oil / butter.\n\nSource: https://mpichi.likeur.xyz/en/recettes/mais-bouilli/",
+    "recipe_id": "mais-bouilli"
+  },
+  {
+    "id": "mais-bouilli-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Maïs bouilli ?",
+    "completion": "- 4 épis de maïs frais\n- 2 l d'eau\n- 1 c. à café de sel",
+    "recipe_id": "mais-bouilli"
+  },
+  {
+    "id": "mais-bouilli-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Maïs bouilli en RDC ?",
+    "completion": "Maïs bouilli est associé à la région / zone : Toute la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/mais-bouilli/",
+    "recipe_id": "mais-bouilli"
+  },
+  {
+    "id": "mais-bouilli-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Maïs bouilli ?",
+    "completion": "Maïs bouilli peut aussi être appelé : maïs bouilli, boiled corn, mahindi ya kuchemsha, maïs, bouilli, accompagnement, simple.",
+    "recipe_id": "mais-bouilli"
+  },
+  {
+    "id": "mais-bouilli-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « maïs bouilli » ?",
+    "completion": "« maïs bouilli » désigne notamment Maïs bouilli (slug: mais-bouilli, lang: fr).",
+    "recipe_id": "mais-bouilli"
+  },
+  {
+    "id": "mais-bouilli-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « boiled corn » ?",
+    "completion": "« boiled corn » désigne notamment Maïs bouilli (slug: mais-bouilli, lang: en).",
+    "recipe_id": "mais-bouilli"
+  },
+  {
+    "id": "mais-bouilli-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mahindi ya kuchemsha » ?",
+    "completion": "« mahindi ya kuchemsha » désigne notamment Maïs bouilli (slug: mais-bouilli, lang: sw).",
+    "recipe_id": "mais-bouilli"
+  },
+  {
+    "id": "mais-bouilli-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Maïs bouilli.",
+    "completion": "- 4 piece épis de maïs frais\n- 2 l eau\n- 1 tsp sel",
+    "recipe_id": "mais-bouilli"
+  },
+  {
+    "id": "mais-grille-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Maïs grillé » (République démocratique du Congo).",
+    "completion": "# Maïs grillé\n\nRecette de maïs grillé : épis grillés sur braises jusqu’à grains fumés — encas de rue et d’Est, distinct de la bouillie de maïs.\n\nRégion : Nord-Kivu & Sud-Kivu\nPortions : 4\nPréparation : 5 min\nCuisson : 20 min\n\n## Ingrédients\n- 4 épis de maïs frais\n- 1 c. à soupe d'huile (optionnel)\n- 1 c. à café de sel\n- Pili-pili ou citron pour servir\n\n## Préparation\n1. Retirer une partie des spathes si besoin, garder une fine couche pour protéger, ou griller à nu.\n2. Poser les épis sur braises moyennes. Tourner toutes les 3 à 4 minutes pendant 15 à 20 minutes.\n3. Badigeonner d'un peu d'huile en fin de cuisson si désiré. Saler.\n4. Servir chaud avec pili-pili ou un filet de citron.\n\nSource : https://mpichi.likeur.xyz/recettes/mais-grille/",
+    "recipe_id": "mais-grille"
+  },
+  {
+    "id": "mais-grille-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Grilled maize\" (Democratic Republic of the Congo).",
+    "completion": "# Grilled maize\n\nGrilled maize recipe: cobs grilled over coals until smoky — Eastern / street snack, distinct from maize porridge.\n\nRegion: Nord-Kivu & Sud-Kivu\nServings: 4\nPrep: 5 min\nCook: 20 min\n\n## Ingredients\n- 4 fresh maize cobs\n- 1 tbsp oil (optional)\n- 1 tsp salt\n- Pili-pili or lemon to serve\n\n## Steps\n1. Pull back some husks if needed, leave a thin layer, or grill bare.\n2. Place cobs over medium coals. Turn every 3–4 minutes for 15–20 minutes.\n3. Brush with a little oil at the end if desired. Salt.\n4. Serve hot with pili-pili or a squeeze of lemon.\n\nSource: https://mpichi.likeur.xyz/en/recettes/mais-grille/",
+    "recipe_id": "mais-grille"
+  },
+  {
+    "id": "mais-grille-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Maïs grillé ?",
+    "completion": "- 4 épis de maïs frais\n- 1 c. à soupe d'huile (optionnel)\n- 1 c. à café de sel\n- Pili-pili ou citron pour servir",
+    "recipe_id": "mais-grille"
+  },
+  {
+    "id": "mais-grille-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Maïs grillé en RDC ?",
+    "completion": "Maïs grillé est associé à la région / zone : Nord-Kivu & Sud-Kivu. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/mais-grille/",
+    "recipe_id": "mais-grille"
+  },
+  {
+    "id": "mais-grille-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Maïs grillé ?",
+    "completion": "Maïs grillé peut aussi être appelé : maïs grillé, grilled corn, mahindi ya kuchoma, maïs, grillé, street food, Est, Kivu.",
+    "recipe_id": "mais-grille"
+  },
+  {
+    "id": "mais-grille-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « maïs grillé » ?",
+    "completion": "« maïs grillé » désigne notamment Maïs grillé (slug: mais-grille, lang: fr).",
+    "recipe_id": "mais-grille"
+  },
+  {
+    "id": "mais-grille-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « grilled corn » ?",
+    "completion": "« grilled corn » désigne notamment Maïs grillé (slug: mais-grille, lang: en).",
+    "recipe_id": "mais-grille"
+  },
+  {
+    "id": "mais-grille-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mahindi ya kuchoma » ?",
+    "completion": "« mahindi ya kuchoma » désigne notamment Maïs grillé (slug: mais-grille, lang: sw).",
+    "recipe_id": "mais-grille"
+  },
+  {
+    "id": "mais-grille-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Maïs grillé.",
+    "completion": "- 4 piece épis de maïs frais\n- 1 tbsp huile (optionnel)\n- 1 tsp sel\n- Pili-pili ou citron pour servir",
+    "recipe_id": "mais-grille"
   },
   {
     "id": "makayabu-recipe-fr",
@@ -3742,6 +5038,150 @@
     "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Makosso aux pommes de terre.",
     "completion": "- 1.5 kg pieds de porc, coupés et bien nettoyés\n- 1 kg pommes de terre\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 4 clove ail\n- 2 tbsp huile\n- 1 leaf laurier, facultatif\n- Sel, poivre, pili-pili\n- Eau",
     "recipe_id": "makosso-pommes"
+  },
+  {
+    "id": "malafu-vin-palme-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Malafu (vin de palme) » (République démocratique du Congo).",
+    "completion": "# Malafu (vin de palme)\n\nMalafu (vin de palme) : boisson traditionnelle à base de sève de palmier, à acheter fraîche auprès de vendeurs de confiance — fiche de service et d’accord mets, pas d’extraction maison.\n\nRégion : Kongo-Central\nPortions : 4\nPréparation : 5 min\nCuisson : 0 min\n\n## Ingrédients\n- 1 l de malafu / vin de palme frais (commerce ou producteur de confiance)\n- Glaçons ou eau fraîche pour servir (optionnel)\n- Une pincée de sucre seulement si le lot est très acide (optionnel)\n\n## Préparation\n1. Ne pas taper un palmier ni fermenter de sève soi-même : risque sanitaire et réglementaire. S’approvisionner uniquement en malafu déjà conditionné ou vendu frais par un circuit connu.\n2. Choisir un lot du jour : odeur franche de sève fermentée légère, sans moisissure ni goût de solvant.\n3. Servir frais, éventuellement légèrement frais au réfrigérateur (quelques heures). Ne pas faire bouillir : la chaleur casse le profil.\n4. Consommer le jour même ou le lendemain au plus tard ; jeter si l’odeur tourne ou si un film inhabituel apparaît.\n5. Accorder avec grillades, [mbisi na kwanga](/recettes/mbisi-na-kwanga/), [nsafu](/recettes/nsafu-grilles/) ou goûter nature. Boisson alcoolisée : réservée aux adultes.\n\nSource : https://mpichi.likeur.xyz/recettes/malafu-vin-palme/",
+    "recipe_id": "malafu-vin-palme"
+  },
+  {
+    "id": "malafu-vin-palme-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Malafu (palm wine)\" (Democratic Republic of the Congo).",
+    "completion": "# Malafu (palm wine)\n\nMalafu (palm wine): traditional palm-sap drink, buy fresh from trusted sellers — serving and pairing sheet, not home tapping.\n\nRegion: Kongo-Central\nServings: 4\nPrep: 5 min\nCook: 0 min\n\n## Ingredients\n- 1 l fresh malafu / palm wine (shop or trusted producer)\n- Ice or cool water to serve (optional)\n- A pinch of sugar only if the batch is very sharp (optional)\n\n## Steps\n1. Do not tap a palm or ferment sap yourself: health and regulatory risk. Source only packaged or day-fresh malafu from a known circuit.\n2. Choose a same-day batch: clean lightly fermented sap smell, no mould or solvent taste.\n3. Serve cool; a few hours in the fridge is fine. Do not boil — heat kills the profile.\n4. Drink the same day or next at latest; discard if the smell turns or an odd film appears.\n5. Pair with grills, [mbisi na kwanga](/en/recettes/mbisi-na-kwanga/), [nsafu](/en/recettes/nsafu-grilles/), or plain. Alcoholic drink: adults only.\n\nSource: https://mpichi.likeur.xyz/en/recettes/malafu-vin-palme/",
+    "recipe_id": "malafu-vin-palme"
+  },
+  {
+    "id": "malafu-vin-palme-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Malafu (vin de palme) ?",
+    "completion": "- 1 l de malafu / vin de palme frais (commerce ou producteur de confiance)\n- Glaçons ou eau fraîche pour servir (optionnel)\n- Une pincée de sucre seulement si le lot est très acide (optionnel)",
+    "recipe_id": "malafu-vin-palme"
+  },
+  {
+    "id": "malafu-vin-palme-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Malafu (vin de palme) en RDC ?",
+    "completion": "Malafu (vin de palme) est associé à la région / zone : Kongo-Central. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/malafu-vin-palme/",
+    "recipe_id": "malafu-vin-palme"
+  },
+  {
+    "id": "malafu-vin-palme-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Malafu (vin de palme) ?",
+    "completion": "Malafu (vin de palme) peut aussi être appelé : vin de palme, palm wine, malafu, mawa, boisson, Kongo-Central, tradition.",
+    "recipe_id": "malafu-vin-palme"
+  },
+  {
+    "id": "malafu-vin-palme-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « vin de palme » ?",
+    "completion": "« vin de palme » désigne notamment Malafu (vin de palme) (slug: malafu-vin-palme, lang: fr).",
+    "recipe_id": "malafu-vin-palme"
+  },
+  {
+    "id": "malafu-vin-palme-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « palm wine » ?",
+    "completion": "« palm wine » désigne notamment Malafu (vin de palme) (slug: malafu-vin-palme, lang: en).",
+    "recipe_id": "malafu-vin-palme"
+  },
+  {
+    "id": "malafu-vin-palme-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « malafu » ?",
+    "completion": "« malafu » désigne notamment Malafu (vin de palme) (slug: malafu-vin-palme, lang: kg).",
+    "recipe_id": "malafu-vin-palme"
+  },
+  {
+    "id": "malafu-vin-palme-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Malafu (vin de palme).",
+    "completion": "- 1 l malafu / vin de palme frais (commerce ou producteur de confiance)\n- Glaçons ou eau fraîche pour servir (optionnel)\n- Une pincée de sucre seulement si le lot est très acide (optionnel)",
+    "recipe_id": "malafu-vin-palme"
+  },
+  {
+    "id": "manioc-frites-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Manioc frit (bâtons) » (République démocratique du Congo).",
+    "completion": "# Manioc frit (bâtons)\n\nRecette de manioc frit en bâtonnets : manioc précuit puis doré à l’huile — accompagnement / street food, distinct du manioc grillé et des beignets de manioc.\n\nRégion : Toute la RDC\nPortions : 4\nPréparation : 20 min\nCuisson : 35 min\n\n## Ingrédients\n- 1 kg de manioc doux\n- 500 ml d'huile de friture\n- 1 c. à café de sel\n- Pili-pili pour servir\n\n## Préparation\n1. Éplucher le manioc, retirer la fibre centrale, couper en bâtonnets.\n2. Cuire 15 à 20 minutes dans une eau salée jusqu'à tendreté sans se défaire. Égoutter et sécher.\n3. Chauffer l'huile. Frire les bâtonnets par petites quantités 5 à 8 minutes jusqu'à doré.\n4. Égoutter, saler. Servir chaud avec pili-pili ou poisson grillé.\n\nSource : https://mpichi.likeur.xyz/recettes/manioc-frites/",
+    "recipe_id": "manioc-frites"
+  },
+  {
+    "id": "manioc-frites-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Cassava fries\" (Democratic Republic of the Congo).",
+    "completion": "# Cassava fries\n\nCassava fries recipe: pre-boiled cassava fried until golden — side / street food, distinct from grilled cassava and cassava fritters.\n\nRegion: Toute la RDC\nServings: 4\nPrep: 20 min\nCook: 35 min\n\n## Ingredients\n- 1 kg sweet cassava\n- 500 ml frying oil\n- 1 tsp salt\n- Pili-pili to serve\n\n## Steps\n1. Peel the cassava, remove the central fibre, cut into batons.\n2. Boil 15–20 minutes in salted water until tender but holding shape. Drain and dry.\n3. Heat the oil. Fry in small batches 5–8 minutes until golden.\n4. Drain, salt. Serve hot with pili-pili or grilled fish.\n\nSource: https://mpichi.likeur.xyz/en/recettes/manioc-frites/",
+    "recipe_id": "manioc-frites"
+  },
+  {
+    "id": "manioc-frites-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Manioc frit (bâtons) ?",
+    "completion": "- 1 kg de manioc doux\n- 500 ml d'huile de friture\n- 1 c. à café de sel\n- Pili-pili pour servir",
+    "recipe_id": "manioc-frites"
+  },
+  {
+    "id": "manioc-frites-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Manioc frit (bâtons) en RDC ?",
+    "completion": "Manioc frit (bâtons) est associé à la région / zone : Toute la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/manioc-frites/",
+    "recipe_id": "manioc-frites"
+  },
+  {
+    "id": "manioc-frites-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Manioc frit (bâtons) ?",
+    "completion": "Manioc frit (bâtons) peut aussi être appelé : manioc frit, bâtonnets de manioc, cassava fries, yuca fries, bâtons, manioc, friture, bâtonnets, accompagnement, street food.",
+    "recipe_id": "manioc-frites"
+  },
+  {
+    "id": "manioc-frites-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « manioc frit » ?",
+    "completion": "« manioc frit » désigne notamment Manioc frit (bâtons) (slug: manioc-frites, lang: fr).",
+    "recipe_id": "manioc-frites"
+  },
+  {
+    "id": "manioc-frites-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bâtonnets de manioc » ?",
+    "completion": "« bâtonnets de manioc » désigne notamment Manioc frit (bâtons) (slug: manioc-frites, lang: fr).",
+    "recipe_id": "manioc-frites"
+  },
+  {
+    "id": "manioc-frites-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « cassava fries » ?",
+    "completion": "« cassava fries » désigne notamment Manioc frit (bâtons) (slug: manioc-frites, lang: en).",
+    "recipe_id": "manioc-frites"
+  },
+  {
+    "id": "manioc-frites-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Manioc frit (bâtons).",
+    "completion": "- 1 kg manioc doux\n- 500 ml huile de friture\n- 1 tsp sel\n- Pili-pili pour servir",
+    "recipe_id": "manioc-frites"
   },
   {
     "id": "manioc-grille-recipe-fr",
@@ -4320,6 +5760,78 @@
     "recipe_id": "mbinzo-tomates"
   },
   {
+    "id": "mbisi-na-kwanga-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Mbisi na kwanga » (République démocratique du Congo).",
+    "completion": "# Mbisi na kwanga\n\nRecette de mbisi na kwanga : poisson en sauce courte servi avec kwanga (chikwangue) — duo classique du Kongo-Central et de l’Ouest.\n\nRégion : Kongo-Central\nPortions : 4\nPréparation : 20 min\nCuisson : 40 min\n\n## Ingrédients\n- 800 g de poisson frais ou légèrement fumé, en morceaux\n- 2 oignons, émincés\n- 2 tomates, concassées\n- 2 gousses d'ail\n- 3 c. à soupe d'huile de palme ou d'huile neutre\n- 150 ml d'eau\n- Sel, poivre, pili-pili\n- 1 à 2 bâtons de kwanga / chikwangue pour servir\n\n## Préparation\n1. Faire revenir oignons et ail dans l'huile 5 minutes. Ajouter les tomates, saler, poivrer. Réduire 8 minutes.\n2. Incorporer le poisson et l'eau. Mijoter couvert 15 à 20 minutes à feu doux jusqu'à ce que la chair soit cuite.\n3. Découvrir en fin de cuisson pour napper d'une sauce courte. Ajuster le piment.\n4. Réchauffer ou griller légèrement la kwanga (voir aussi [chikwangue grillée](/recettes/chikwangue-grillee/)).\n5. Servir le poisson et sa sauce avec des tranches de kwanga pour prendre la sauce.\n\nSource : https://mpichi.likeur.xyz/recettes/mbisi-na-kwanga/",
+    "recipe_id": "mbisi-na-kwanga"
+  },
+  {
+    "id": "mbisi-na-kwanga-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Mbisi na kwanga\" (Democratic Republic of the Congo).",
+    "completion": "# Mbisi na kwanga\n\nMbisi na kwanga recipe: fish in a short sauce served with kwanga (chikwangue) — classic Kongo-Central / western duo.\n\nRegion: Kongo-Central\nServings: 4\nPrep: 20 min\nCook: 40 min\n\n## Ingredients\n- 800 g fresh or lightly smoked fish, pieces\n- 2 onions, sliced\n- 2 tomatoes, crushed\n- 2 garlic cloves\n- 3 tbsp palm oil or neutral oil\n- 150 ml water\n- Salt, pepper, pili-pili\n- 1–2 sticks of kwanga / chikwangue to serve\n\n## Steps\n1. Sweat onions and garlic in oil 5 minutes. Add tomatoes, salt, pepper. Reduce 8 minutes.\n2. Add fish and water. Cover and simmer 15–20 minutes on low until the flesh is cooked.\n3. Uncover at the end for a short coating sauce. Adjust chili.\n4. Warm or lightly grill the kwanga (see also [grilled chikwangue](/en/recettes/chikwangue-grillee/)).\n5. Serve fish and sauce with kwanga slices for scooping.\n\nSource: https://mpichi.likeur.xyz/en/recettes/mbisi-na-kwanga/",
+    "recipe_id": "mbisi-na-kwanga"
+  },
+  {
+    "id": "mbisi-na-kwanga-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Mbisi na kwanga ?",
+    "completion": "- 800 g de poisson frais ou légèrement fumé, en morceaux\n- 2 oignons, émincés\n- 2 tomates, concassées\n- 2 gousses d'ail\n- 3 c. à soupe d'huile de palme ou d'huile neutre\n- 150 ml d'eau\n- Sel, poivre, pili-pili\n- 1 à 2 bâtons de kwanga / chikwangue pour servir",
+    "recipe_id": "mbisi-na-kwanga"
+  },
+  {
+    "id": "mbisi-na-kwanga-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Mbisi na kwanga en RDC ?",
+    "completion": "Mbisi na kwanga est associé à la région / zone : Kongo-Central. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/mbisi-na-kwanga/",
+    "recipe_id": "mbisi-na-kwanga"
+  },
+  {
+    "id": "mbisi-na-kwanga-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Mbisi na kwanga ?",
+    "completion": "Mbisi na kwanga peut aussi être appelé : poisson et chikwangue, mbisi na chikwangue, fish with kwanga, poisson kwanga, mbisi, kwanga, chikwangue, Kongo-Central.",
+    "recipe_id": "mbisi-na-kwanga"
+  },
+  {
+    "id": "mbisi-na-kwanga-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson et chikwangue » ?",
+    "completion": "« poisson et chikwangue » désigne notamment Mbisi na kwanga (slug: mbisi-na-kwanga, lang: fr).",
+    "recipe_id": "mbisi-na-kwanga"
+  },
+  {
+    "id": "mbisi-na-kwanga-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbisi na chikwangue » ?",
+    "completion": "« mbisi na chikwangue » désigne notamment Mbisi na kwanga (slug: mbisi-na-kwanga, lang: ln).",
+    "recipe_id": "mbisi-na-kwanga"
+  },
+  {
+    "id": "mbisi-na-kwanga-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « fish with kwanga » ?",
+    "completion": "« fish with kwanga » désigne notamment Mbisi na kwanga (slug: mbisi-na-kwanga, lang: en).",
+    "recipe_id": "mbisi-na-kwanga"
+  },
+  {
+    "id": "mbisi-na-kwanga-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Mbisi na kwanga.",
+    "completion": "- 800 g poisson frais ou légèrement fumé, en morceaux\n- 2 piece oignons, émincés\n- 2 piece tomates, concassées\n- 2 clove ail\n- 3 tbsp huile de palme ou d'huile neutre\n- 150 ml eau\n- Sel, poivre, pili-pili\n- 1 piece à 2 bâtons de kwanga / chikwangue pour servir",
+    "recipe_id": "mbisi-na-kwanga"
+  },
+  {
     "id": "mbisi-ya-kokalinga-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -4536,6 +6048,78 @@
     "recipe_id": "mikila"
   },
   {
+    "id": "mikila-arachide-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Mikila à l'arachide » (République démocratique du Congo).",
+    "completion": "# Mikila à l'arachide\n\nRecette de mikila à l’arachide : queue de bœuf longuement mijotée dans une sauce aux arachides — variante diaspora / Kinshasa, distincte de la mikila tomate.\n\nRégion : Kinshasa\nPortions : 6\nPréparation : 30 min\nCuisson : 2 h 30\n\n## Ingrédients\n- 1,5 kg de queue de bœuf, coupée en tronçons\n- 150 g de pâte d'arachide (non sucrée)\n- 2 oignons, émincés\n- 3 tomates, concassées (optionnel, pour acidité)\n- 3 gousses d'ail\n- 2 cm de gingembre, râpé\n- 3 c. à soupe d'huile\n- 800 ml d'eau\n- 1 cube de bouillon (optionnel)\n- Sel, poivre, pili-pili\n\n## Préparation\n1. Dorer les tronçons de queue dans l'huile 8 à 10 minutes. Réserver.\n2. Faire fondre les oignons 5 minutes. Ajouter ail, gingembre et tomates si utilisées. Réduire 8 minutes.\n3. Remettre la viande, ajouter assez d'eau pour couvrir à moitié, le cube, sel et poivre. Couvrir et mijoter 1 h 30 à feu doux.\n4. Diluer la pâte d'arachide dans un peu de bouillon chaud. Verser dans la marmite. Mijoter encore 45 à 60 minutes en remuant souvent, jusqu'à viande très tendre et sauce épaisse.\n5. Rectifier piment. Servir avec fufu, riz ou chikwangue.\n\nSource : https://mpichi.likeur.xyz/recettes/mikila-arachide/",
+    "recipe_id": "mikila-arachide"
+  },
+  {
+    "id": "mikila-arachide-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Mikila with peanut\" (Democratic Republic of the Congo).",
+    "completion": "# Mikila with peanut\n\nMikila with peanut recipe: oxtail simmered long in groundnut sauce — Kinshasa / diaspora variant, distinct from tomato mikila.\n\nRegion: Kinshasa\nServings: 6\nPrep: 30 min\nCook: 2 h 30\n\n## Ingredients\n- 1.5 kg oxtail, cut into sections\n- 150 g peanut paste (unsweetened)\n- 2 onions, sliced\n- 3 tomatoes, crushed (optional, for acidity)\n- 3 garlic cloves\n- 2 cm ginger, grated\n- 3 tbsp oil\n- 800 ml water\n- 1 stock cube (optional)\n- Salt, pepper, pili-pili\n\n## Steps\n1. Brown the oxtail pieces in oil 8–10 minutes. Set aside.\n2. Sweat onions 5 minutes. Add garlic, ginger and tomatoes if using. Reduce 8 minutes.\n3. Return meat, add enough water to half-cover, cube, salt and pepper. Cover and simmer 1 h 30 on low.\n4. Thin the peanut paste in a little hot broth. Pour into the pot. Simmer another 45–60 minutes, stirring often, until very tender and thick.\n5. Adjust chili. Serve with fufu, rice or chikwangue.\n\nSource: https://mpichi.likeur.xyz/en/recettes/mikila-arachide/",
+    "recipe_id": "mikila-arachide"
+  },
+  {
+    "id": "mikila-arachide-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Mikila à l'arachide ?",
+    "completion": "- 1,5 kg de queue de bœuf, coupée en tronçons\n- 150 g de pâte d'arachide (non sucrée)\n- 2 oignons, émincés\n- 3 tomates, concassées (optionnel, pour acidité)\n- 3 gousses d'ail\n- 2 cm de gingembre, râpé\n- 3 c. à soupe d'huile\n- 800 ml d'eau\n- 1 cube de bouillon (optionnel)\n- Sel, poivre, pili-pili",
+    "recipe_id": "mikila-arachide"
+  },
+  {
+    "id": "mikila-arachide-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Mikila à l'arachide en RDC ?",
+    "completion": "Mikila à l'arachide est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/mikila-arachide/",
+    "recipe_id": "mikila-arachide"
+  },
+  {
+    "id": "mikila-arachide-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Mikila à l'arachide ?",
+    "completion": "Mikila à l'arachide peut aussi être appelé : queue de bœuf arachide, oxtail peanut stew, mikila ya nguba, mikila, queue de bœuf, sauce, fête.",
+    "recipe_id": "mikila-arachide"
+  },
+  {
+    "id": "mikila-arachide-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « queue de bœuf arachide » ?",
+    "completion": "« queue de bœuf arachide » désigne notamment Mikila à l'arachide (slug: mikila-arachide, lang: fr).",
+    "recipe_id": "mikila-arachide"
+  },
+  {
+    "id": "mikila-arachide-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « oxtail peanut stew » ?",
+    "completion": "« oxtail peanut stew » désigne notamment Mikila à l'arachide (slug: mikila-arachide, lang: en).",
+    "recipe_id": "mikila-arachide"
+  },
+  {
+    "id": "mikila-arachide-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mikila ya nguba » ?",
+    "completion": "« mikila ya nguba » désigne notamment Mikila à l'arachide (slug: mikila-arachide, lang: ln).",
+    "recipe_id": "mikila-arachide"
+  },
+  {
+    "id": "mikila-arachide-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Mikila à l'arachide.",
+    "completion": "- 1.5 kg queue de bœuf, coupée en tronçons\n- 150 g pâte d'arachide (non sucrée)\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées (optionnel, pour acidité)\n- 3 clove ail\n- 2 piece cm de gingembre, râpé\n- 3 tbsp huile\n- 800 ml eau\n- 1 cube bouillon (optionnel)\n- Sel, poivre, pili-pili",
+    "recipe_id": "mikila-arachide"
+  },
+  {
     "id": "missole-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -4606,6 +6190,78 @@
     "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Missole.",
     "completion": "- 250 g missole (lamelles de poisson séché)\n- 2 piece oignons, émincés\n- 2 piece tomates, concassées\n- 2 clove ail\n- 3 tbsp huile\n- Pili-pili, sel\n- 200 ml eau\n- 1 tbsp jus de citron, facultatif",
     "recipe_id": "missole"
+  },
+  {
+    "id": "moambe-boeuf-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Bœuf à la moambe » (République démocratique du Congo).",
+    "completion": "# Bœuf à la moambe\n\nRecette du bœuf à la moambe : viande mijotée dans la pulpe de noix de palme — variante viande du grand classique congolaise.\n\nRégion : Toute la RDC\nPortions : 6\nPréparation : 25 min\nCuisson : 1 h 30\n\n## Ingrédients\n- 1,2 kg de bœuf à mijoter (paleron, jarret ou collier), en morceaux\n- 400 ml de crème / pulpe de noix de palme (moambe)\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 3 gousses d'ail\n- 2 c. à soupe d'huile\n- Sel, cube de bouillon, pili-pili\n- 250 ml d'eau\n\n## Préparation\n1. Faire dorer les morceaux de bœuf dans l'huile. Réserver.\n2. Dans la même marmite, faire revenir oignons et ail, ajouter les tomates jusqu'à sauce épaisse.\n3. Remettre la viande, verser la moambe et l'eau. Couvrir.\n4. Mijoter à feu doux 1 h 15 à 1 h 30 en remuant, jusqu'à ce que la viande soit tendre et la sauce nappe.\n5. Rectifier sel et piment. Servir avec riz, fufu ou chikwangue.\n\nSource : https://mpichi.likeur.xyz/recettes/moambe-boeuf/",
+    "recipe_id": "moambe-boeuf"
+  },
+  {
+    "id": "moambe-boeuf-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Beef moambe\" (Democratic Republic of the Congo).",
+    "completion": "# Beef moambe\n\nBeef moambe recipe: stewing beef simmered in palm-nut pulp — the meat counterpart to chicken and fish moambe.\n\nRegion: Toute la RDC\nServings: 6\nPrep: 25 min\nCook: 1 h 30\n\n## Ingredients\n- 1.2 kg stewing beef (chuck, shank or neck), in pieces\n- 400 ml palm-nut cream / pulp (moambe)\n- 2 onions, sliced\n- 3 tomatoes, crushed\n- 3 garlic cloves\n- 2 tbsp oil\n- Salt, stock cube, pili-pili\n- 250 ml water\n\n## Steps\n1. Brown the beef in oil. Set aside.\n2. In the same pot, sweat onions and garlic; add tomatoes until thick.\n3. Return the meat, pour in the moambe and water. Cover.\n4. Simmer gently 1 h 15–1 h 30, stirring, until tender and the sauce coats the meat.\n5. Adjust salt and chili. Serve with rice, fufu or chikwangue.\n\nSource: https://mpichi.likeur.xyz/en/recettes/moambe-boeuf/",
+    "recipe_id": "moambe-boeuf"
+  },
+  {
+    "id": "moambe-boeuf-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Bœuf à la moambe ?",
+    "completion": "- 1,2 kg de bœuf à mijoter (paleron, jarret ou collier), en morceaux\n- 400 ml de crème / pulpe de noix de palme (moambe)\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 3 gousses d'ail\n- 2 c. à soupe d'huile\n- Sel, cube de bouillon, pili-pili\n- 250 ml d'eau",
+    "recipe_id": "moambe-boeuf"
+  },
+  {
+    "id": "moambe-boeuf-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Bœuf à la moambe en RDC ?",
+    "completion": "Bœuf à la moambe est associé à la région / zone : Toute la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/moambe-boeuf/",
+    "recipe_id": "moambe-boeuf"
+  },
+  {
+    "id": "moambe-boeuf-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Bœuf à la moambe ?",
+    "completion": "Bœuf à la moambe peut aussi être appelé : bœuf à la moambe, beef moambe, mwambe ya ngombe, viande moambe, moambe, bœuf moambe, mwamba, noix de palme, fête.",
+    "recipe_id": "moambe-boeuf"
+  },
+  {
+    "id": "moambe-boeuf-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « bœuf à la moambe » ?",
+    "completion": "« bœuf à la moambe » désigne notamment Bœuf à la moambe (slug: moambe-boeuf, lang: fr).",
+    "recipe_id": "moambe-boeuf"
+  },
+  {
+    "id": "moambe-boeuf-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « beef moambe » ?",
+    "completion": "« beef moambe » désigne notamment Bœuf à la moambe (slug: moambe-boeuf, lang: en).",
+    "recipe_id": "moambe-boeuf"
+  },
+  {
+    "id": "moambe-boeuf-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mwambe ya ngombe » ?",
+    "completion": "« mwambe ya ngombe » désigne notamment Bœuf à la moambe (slug: moambe-boeuf, lang: ln).",
+    "recipe_id": "moambe-boeuf"
+  },
+  {
+    "id": "moambe-boeuf-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Bœuf à la moambe.",
+    "completion": "- 1.2 kg bœuf à mijoter (paleron, jarret ou collier), en morceaux\n- 400 ml crème / pulpe de noix de palme (moambe)\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 3 clove ail\n- 2 tbsp huile\n- Sel, cube de bouillon, pili-pili\n- 250 ml eau",
+    "recipe_id": "moambe-boeuf"
   },
   {
     "id": "moambe-poulet-recipe-fr",
@@ -5112,6 +6768,78 @@
     "recipe_id": "ngai-ngai"
   },
   {
+    "id": "ngolo-grille-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Ngolo grillé » (République démocratique du Congo).",
+    "completion": "# Ngolo grillé\n\nRecette de ngolo grillé : poisson-chat mariné puis cuit sur braises — geste de braise, distinct de la pepe soupe ya ngolo.\n\nRégion : Kinshasa & bassin du Congo\nPortions : 4\nPréparation : 25 min + 30 min de marinade\nCuisson : 25 min\n\n## Ingrédients\n- 1 ngolo (poisson-chat) de 1 à 1,2 kg, vidé et ouvert en portefeuille (ou 4 darnes)\n- 2 oignons, râpés ou très finement émincés\n- 4 gousses d'ail, écrasées\n- Jus de 2 citrons\n- 3 c. à soupe d'huile\n- Sel, poivre, pili-pili\n- 1 cube de bouillon, émietté (optionnel)\n\n## Préparation\n1. Inciser la chair. Mélanger oignon, ail, citron, huile, sel, poivre, pili-pili et cube. Enrober le poisson. Mariner 30 minutes au frais.\n2. Préparer des braises moyennes (ou un gril très chaud).\n3. Griller le poisson 10 à 14 minutes par côté selon l'épaisseur, en badigeonnant de marinade.\n4. La chair doit se détacher facilement sans être sèche.\n5. Servir avec oignons crus, pili-pili, chikwangue, plantain ou riz.\n\nSource : https://mpichi.likeur.xyz/recettes/ngolo-grille/",
+    "recipe_id": "ngolo-grille"
+  },
+  {
+    "id": "ngolo-grille-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Grilled ngolo\" (Democratic Republic of the Congo).",
+    "completion": "# Grilled ngolo\n\nGrilled ngolo recipe: marinated African catfish cooked over coals — the grill gesture, distinct from pepe soupe ya ngolo.\n\nRegion: Kinshasa & bassin du Congo\nServings: 4\nPrep: 25 min + 30 min de marinade\nCook: 25 min\n\n## Ingredients\n- 1 ngolo (catfish) of 1–1.2 kg, cleaned and butterflied (or 4 steaks)\n- 2 onions, grated or very finely sliced\n- 4 garlic cloves, crushed\n- Juice of 2 lemons\n- 3 tbsp oil\n- Salt, pepper, pili-pili\n- 1 stock cube, crumbled (optional)\n\n## Steps\n1. Score the flesh. Mix onion, garlic, lemon, oil, salt, pepper, pili-pili and cube. Coat the fish. Marinate 30 minutes cold.\n2. Prepare medium coals (or a very hot grill).\n3. Grill 10–14 minutes per side depending on thickness, basting with marinade.\n4. The flesh should flake easily without drying out.\n5. Serve with raw onion, pili-pili, chikwangue, plantain or rice.\n\nSource: https://mpichi.likeur.xyz/en/recettes/ngolo-grille/",
+    "recipe_id": "ngolo-grille"
+  },
+  {
+    "id": "ngolo-grille-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Ngolo grillé ?",
+    "completion": "- 1 ngolo (poisson-chat) de 1 à 1,2 kg, vidé et ouvert en portefeuille (ou 4 darnes)\n- 2 oignons, râpés ou très finement émincés\n- 4 gousses d'ail, écrasées\n- Jus de 2 citrons\n- 3 c. à soupe d'huile\n- Sel, poivre, pili-pili\n- 1 cube de bouillon, émietté (optionnel)",
+    "recipe_id": "ngolo-grille"
+  },
+  {
+    "id": "ngolo-grille-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Ngolo grillé en RDC ?",
+    "completion": "Ngolo grillé est associé à la région / zone : Kinshasa & bassin du Congo. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/ngolo-grille/",
+    "recipe_id": "ngolo-grille"
+  },
+  {
+    "id": "ngolo-grille-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Ngolo grillé ?",
+    "completion": "Ngolo grillé peut aussi être appelé : ngolo, poisson-chat grillé, grilled catfish, clarias grillé, poisson-chat, grillade, braise, Kinshasa.",
+    "recipe_id": "ngolo-grille"
+  },
+  {
+    "id": "ngolo-grille-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ngolo » ?",
+    "completion": "« ngolo » désigne notamment Ngolo grillé (slug: ngolo-grille, lang: ln).",
+    "recipe_id": "ngolo-grille"
+  },
+  {
+    "id": "ngolo-grille-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson-chat grillé » ?",
+    "completion": "« poisson-chat grillé » désigne notamment Ngolo grillé (slug: ngolo-grille, lang: fr).",
+    "recipe_id": "ngolo-grille"
+  },
+  {
+    "id": "ngolo-grille-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « grilled catfish » ?",
+    "completion": "« grilled catfish » désigne notamment Ngolo grillé (slug: ngolo-grille, lang: en).",
+    "recipe_id": "ngolo-grille"
+  },
+  {
+    "id": "ngolo-grille-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Ngolo grillé.",
+    "completion": "- 1 piece ngolo (poisson-chat) de 1 à 1,2 kg, vidé et ouvert en portefeuille (ou 4 darnes)\n- 2 piece oignons, râpés ou très finement émincés\n- 4 clove ail, écrasées\n- Jus de 2 citrons\n- 3 tbsp huile\n- Sel, poivre, pili-pili\n- 1 cube bouillon, émietté (optionnel)",
+    "recipe_id": "ngolo-grille"
+  },
+  {
     "id": "ngulu-ya-sauce-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -5254,6 +6982,78 @@
     "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Nsafu grillés.",
     "completion": "- 8 piece nsafu mûrs\n- Sel fin",
     "recipe_id": "nsafu-grilles"
+  },
+  {
+    "id": "nsafu-sauce-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Nsafu en sauce » (République démocratique du Congo).",
+    "completion": "# Nsafu en sauce\n\nRecette de nsafu en sauce : safous assouplis puis liés à une sauce oignon-tomate courte — version mijotée, distincte des nsafu grillés.\n\nRégion : Ouest de la RDC\nPortions : 4\nPréparation : 15 min\nCuisson : 25 min\n\n## Ingrédients\n- 10 nsafu (safous) bien mûrs\n- 1 oignon, émincé\n- 2 tomates, concassées (ou 2 c. à soupe de concentré dilué)\n- 2 c. à soupe d'huile\n- 100 ml d'eau\n- Sel, pili-pili\n\n## Préparation\n1. Assouplir les nsafu 5 à 8 minutes à la vapeur ou dans une eau frémissante (peau qui cède). Égoutter, ouvrir, retirer les noyaux, récupérer la chair.\n2. Faire revenir l'oignon dans l'huile 4 minutes. Ajouter les tomates, saler. Réduire 6 minutes.\n3. Incorporer la chair de nsafu et l'eau. Mijoter 8 à 10 minutes à feu doux en écrasant légèrement pour lier — la sauce doit rester crémeuse, pas trop liquide.\n4. Rectifier sel et piment. Servir chaud avec plantain, riz ou kwanga.\n\nSource : https://mpichi.likeur.xyz/recettes/nsafu-sauce/",
+    "recipe_id": "nsafu-sauce"
+  },
+  {
+    "id": "nsafu-sauce-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Nsafu in sauce\" (Democratic Republic of the Congo).",
+    "completion": "# Nsafu in sauce\n\nNsafu in sauce recipe: softened safou pulp bound into a short onion-tomato sauce — simmered take, distinct from grilled nsafu.\n\nRegion: Ouest de la RDC\nServings: 4\nPrep: 15 min\nCook: 25 min\n\n## Ingredients\n- 10 ripe nsafu (safou)\n- 1 onion, sliced\n- 2 tomatoes, crushed (or 2 tbsp diluted tomato paste)\n- 2 tbsp oil\n- 100 ml water\n- Salt, pili-pili\n\n## Steps\n1. Soften nsafu 5–8 minutes by steaming or in barely boiling water (skin yields). Drain, open, remove pits, keep the pulp.\n2. Sweat onion in oil 4 minutes. Add tomatoes, salt. Reduce 6 minutes.\n3. Stir in nsafu pulp and water. Simmer 8–10 minutes on low, lightly mashing to bind — creamy, not watery.\n4. Adjust salt and chili. Serve hot with plantain, rice or kwanga.\n\nSource: https://mpichi.likeur.xyz/en/recettes/nsafu-sauce/",
+    "recipe_id": "nsafu-sauce"
+  },
+  {
+    "id": "nsafu-sauce-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Nsafu en sauce ?",
+    "completion": "- 10 nsafu (safous) bien mûrs\n- 1 oignon, émincé\n- 2 tomates, concassées (ou 2 c. à soupe de concentré dilué)\n- 2 c. à soupe d'huile\n- 100 ml d'eau\n- Sel, pili-pili",
+    "recipe_id": "nsafu-sauce"
+  },
+  {
+    "id": "nsafu-sauce-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Nsafu en sauce en RDC ?",
+    "completion": "Nsafu en sauce est associé à la région / zone : Ouest de la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/nsafu-sauce/",
+    "recipe_id": "nsafu-sauce"
+  },
+  {
+    "id": "nsafu-sauce-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Nsafu en sauce ?",
+    "completion": "Nsafu en sauce peut aussi être appelé : safou en sauce, nsafu ya sauce, safou stew, butterfruit sauce, nsafu, safou, sauce, Ouest, saison.",
+    "recipe_id": "nsafu-sauce"
+  },
+  {
+    "id": "nsafu-sauce-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « safou en sauce » ?",
+    "completion": "« safou en sauce » désigne notamment Nsafu en sauce (slug: nsafu-sauce, lang: fr).",
+    "recipe_id": "nsafu-sauce"
+  },
+  {
+    "id": "nsafu-sauce-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « nsafu ya sauce » ?",
+    "completion": "« nsafu ya sauce » désigne notamment Nsafu en sauce (slug: nsafu-sauce, lang: ln).",
+    "recipe_id": "nsafu-sauce"
+  },
+  {
+    "id": "nsafu-sauce-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « safou stew » ?",
+    "completion": "« safou stew » désigne notamment Nsafu en sauce (slug: nsafu-sauce, lang: en).",
+    "recipe_id": "nsafu-sauce"
+  },
+  {
+    "id": "nsafu-sauce-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Nsafu en sauce.",
+    "completion": "- 10 piece nsafu (safous) bien mûrs\n- 1 piece oignon, émincé\n- 2 piece tomates, concassées (ou 2 c. à soupe de concentré dilué)\n- 2 tbsp huile\n- 100 ml eau\n- Sel, pili-pili",
+    "recipe_id": "nsafu-sauce"
   },
   {
     "id": "ntaba-recipe-fr",
@@ -5472,6 +7272,78 @@
     "recipe_id": "ntaba-sauce"
   },
   {
+    "id": "nyama-bugali-kivu-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Nyama na bugali » (République démocratique du Congo).",
+    "completion": "# Nyama na bugali\n\nRecette de nyama na bugali : viande mijotée en sauce servie avec bugali — assiette viande + pâte de maïs du Kivu, distincte du duo tilapia-bugali.\n\nRégion : Nord-Kivu & Sud-Kivu\nPortions : 4\nPréparation : 25 min\nCuisson : 1 h 15\n\n## Ingrédients\n- 800 g de bœuf (jarret ou paleron), en cubes\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 3 gousses d'ail\n- 1 c. à café de gingembre râpé (optionnel)\n- 3 c. à soupe d'huile\n- 500 ml d'eau\n- 1 cube de bouillon (optionnel)\n- Sel, poivre, pili-pili\n- Bugali pour servir (voir fiches bugali / bukari)\n\n## Préparation\n1. Faire revenir la viande dans l'huile jusqu'à coloration, 8 à 10 minutes. Réserver.\n2. Dans la même casserole, faire fondre les oignons 5 minutes. Ajouter ail, gingembre, tomates et cube. Réduire 8 minutes.\n3. Remettre la viande, ajouter l'eau. Saler légèrement. Couvrir et mijoter 50 à 60 minutes à feu doux jusqu'à tendreté.\n4. Découvrir pour épaissir la sauce si besoin. Rectifier piment et sel.\n5. Préparer le bugali à part. Servir la viande nappée à côté ou sur le bugali, éventuellement avec [sukuma](/recettes/sukuma-est/).\n\nSource : https://mpichi.likeur.xyz/recettes/nyama-bugali-kivu/",
+    "recipe_id": "nyama-bugali-kivu"
+  },
+  {
+    "id": "nyama-bugali-kivu-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Nyama na bugali\" (Democratic Republic of the Congo).",
+    "completion": "# Nyama na bugali\n\nNyama na bugali recipe: meat simmered in sauce served with bugali — Kivu meat + maize paste plate, distinct from tilapia-bugali.\n\nRegion: Nord-Kivu & Sud-Kivu\nServings: 4\nPrep: 25 min\nCook: 1 h 15\n\n## Ingredients\n- 800 g beef (shank or chuck), cubes\n- 2 onions, sliced\n- 3 tomatoes, crushed\n- 3 garlic cloves\n- 1 tsp grated ginger (optional)\n- 3 tbsp oil\n- 500 ml water\n- 1 stock cube (optional)\n- Salt, pepper, pili-pili\n- Bugali to serve (see bugali / bukari sheets)\n\n## Steps\n1. Brown the meat in oil 8–10 minutes. Set aside.\n2. In the same pot, sweat onions 5 minutes. Add garlic, ginger, tomatoes and cube. Reduce 8 minutes.\n3. Return meat, add water. Salt lightly. Cover and simmer 50–60 minutes on low until tender.\n4. Uncover to thicken if needed. Adjust chili and salt.\n5. Cook bugali separately. Serve meat beside or on the bugali, optionally with [sukuma](/en/recettes/sukuma-est/).\n\nSource: https://mpichi.likeur.xyz/en/recettes/nyama-bugali-kivu/",
+    "recipe_id": "nyama-bugali-kivu"
+  },
+  {
+    "id": "nyama-bugali-kivu-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Nyama na bugali ?",
+    "completion": "- 800 g de bœuf (jarret ou paleron), en cubes\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 3 gousses d'ail\n- 1 c. à café de gingembre râpé (optionnel)\n- 3 c. à soupe d'huile\n- 500 ml d'eau\n- 1 cube de bouillon (optionnel)\n- Sel, poivre, pili-pili\n- Bugali pour servir (voir fiches bugali / bukari)",
+    "recipe_id": "nyama-bugali-kivu"
+  },
+  {
+    "id": "nyama-bugali-kivu-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Nyama na bugali en RDC ?",
+    "completion": "Nyama na bugali est associé à la région / zone : Nord-Kivu & Sud-Kivu. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/nyama-bugali-kivu/",
+    "recipe_id": "nyama-bugali-kivu"
+  },
+  {
+    "id": "nyama-bugali-kivu-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Nyama na bugali ?",
+    "completion": "Nyama na bugali peut aussi être appelé : viande au bugali, nyama na ugali, meat with bugali, nyama na bukari, nyama, bugali, Kivu, Est.",
+    "recipe_id": "nyama-bugali-kivu"
+  },
+  {
+    "id": "nyama-bugali-kivu-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « viande au bugali » ?",
+    "completion": "« viande au bugali » désigne notamment Nyama na bugali (slug: nyama-bugali-kivu, lang: fr).",
+    "recipe_id": "nyama-bugali-kivu"
+  },
+  {
+    "id": "nyama-bugali-kivu-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « nyama na ugali » ?",
+    "completion": "« nyama na ugali » désigne notamment Nyama na bugali (slug: nyama-bugali-kivu, lang: sw).",
+    "recipe_id": "nyama-bugali-kivu"
+  },
+  {
+    "id": "nyama-bugali-kivu-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « meat with bugali » ?",
+    "completion": "« meat with bugali » désigne notamment Nyama na bugali (slug: nyama-bugali-kivu, lang: en).",
+    "recipe_id": "nyama-bugali-kivu"
+  },
+  {
+    "id": "nyama-bugali-kivu-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Nyama na bugali.",
+    "completion": "- 800 g bœuf (jarret ou paleron), en cubes\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 3 clove ail\n- 1 tsp gingembre râpé (optionnel)\n- 3 tbsp huile\n- 500 ml eau\n- 1 cube bouillon (optionnel)\n- Sel, poivre, pili-pili\n- Bugali pour servir (voir fiches bugali / bukari)",
+    "recipe_id": "nyama-bugali-kivu"
+  },
+  {
     "id": "pain-mayonnaise-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -5542,6 +7414,78 @@
     "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Pain mayonnaise.",
     "completion": "- 2 piece demies baguettes ou pains de rue\n- 4 tbsp mayonnaise\n- 2 piece œufs\n- 2 piece saucisses ou 100 g de viande grillée, facultatif\n- 1 piece petit oignon, émincé, facultatif\n- Piment en poudre ou sauce pili-pili\n- Sel",
     "recipe_id": "pain-mayonnaise"
+  },
+  {
+    "id": "patate-douce-frite-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Patate douce frite » (République démocratique du Congo).",
+    "completion": "# Patate douce frite\n\nRecette de patate douce frite : bâtonnets ou rondelles dorés à l’huile — version friture de la mbala, distincte de la mbala bouillie ou grillée.\n\nRégion : Toute la RDC\nPortions : 4\nPréparation : 15 min\nCuisson : 20 min\n\n## Ingrédients\n- 1 kg de patates douces (mbala)\n- 500 ml d'huile de friture\n- 1 c. à café de sel\n- Pili-pili pour servir\n\n## Préparation\n1. Éplucher les patates douces. Les couper en bâtonnets ou en rondelles d'environ 1 cm.\n2. Optionnel : les rincer et bien les sécher pour une friture plus croustillante.\n3. Chauffer l'huile à feu moyen. Frire par petites quantités 6 à 10 minutes jusqu'à doré.\n4. Égoutter sur papier. Saler aussitôt. Servir avec pili-pili ou une sauce tomate.\n\nSource : https://mpichi.likeur.xyz/recettes/patate-douce-frite/",
+    "recipe_id": "patate-douce-frite"
+  },
+  {
+    "id": "patate-douce-frite-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Fried sweet potato\" (Democratic Republic of the Congo).",
+    "completion": "# Fried sweet potato\n\nFried sweet potato recipe: batons or rounds fried until golden — the fry gesture for mbala, distinct from boiled or grilled mbala.\n\nRegion: Toute la RDC\nServings: 4\nPrep: 15 min\nCook: 20 min\n\n## Ingredients\n- 1 kg sweet potatoes (mbala)\n- 500 ml frying oil\n- 1 tsp salt\n- Pili-pili to serve\n\n## Steps\n1. Peel the sweet potatoes. Cut into batons or ~1 cm rounds.\n2. Optional: rinse and dry thoroughly for a crispier fry.\n3. Heat the oil over medium heat. Fry in small batches 6–10 minutes until golden.\n4. Drain on paper. Salt at once. Serve with pili-pili or a tomato sauce.\n\nSource: https://mpichi.likeur.xyz/en/recettes/patate-douce-frite/",
+    "recipe_id": "patate-douce-frite"
+  },
+  {
+    "id": "patate-douce-frite-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Patate douce frite ?",
+    "completion": "- 1 kg de patates douces (mbala)\n- 500 ml d'huile de friture\n- 1 c. à café de sel\n- Pili-pili pour servir",
+    "recipe_id": "patate-douce-frite"
+  },
+  {
+    "id": "patate-douce-frite-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Patate douce frite en RDC ?",
+    "completion": "Patate douce frite est associé à la région / zone : Toute la RDC. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/patate-douce-frite/",
+    "recipe_id": "patate-douce-frite"
+  },
+  {
+    "id": "patate-douce-frite-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Patate douce frite ?",
+    "completion": "Patate douce frite peut aussi être appelé : mbala frit, patate douce frite, fried sweet potato, patate douce, mbala, friture, accompagnement, street food.",
+    "recipe_id": "patate-douce-frite"
+  },
+  {
+    "id": "patate-douce-frite-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbala frit » ?",
+    "completion": "« mbala frit » désigne notamment Patate douce frite (slug: patate-douce-frite, lang: ln).",
+    "recipe_id": "patate-douce-frite"
+  },
+  {
+    "id": "patate-douce-frite-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « patate douce frite » ?",
+    "completion": "« patate douce frite » désigne notamment Patate douce frite (slug: patate-douce-frite, lang: fr).",
+    "recipe_id": "patate-douce-frite"
+  },
+  {
+    "id": "patate-douce-frite-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « fried sweet potato » ?",
+    "completion": "« fried sweet potato » désigne notamment Patate douce frite (slug: patate-douce-frite, lang: en).",
+    "recipe_id": "patate-douce-frite"
+  },
+  {
+    "id": "patate-douce-frite-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Patate douce frite.",
+    "completion": "- 1 kg patates douces (mbala)\n- 500 ml huile de friture\n- 1 tsp sel\n- Pili-pili pour servir",
+    "recipe_id": "patate-douce-frite"
   },
   {
     "id": "pepe-soupe-ya-ngolo-recipe-fr",
@@ -5976,6 +7920,78 @@
     "recipe_id": "poisson-fume-tomates"
   },
   {
+    "id": "poisson-kisangani-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Poisson Kisangani » (République démocratique du Congo).",
+    "completion": "# Poisson Kisangani\n\nRecette de poisson Kisangani : poisson d’eau douce mariné puis mijoté tomate-oignon — assiette du fleuve Congo à Kisangani, à côté de la salade locale.\n\nRégion : Kisangani\nPortions : 4\nPréparation : 25 min + 20 min de marinade\nCuisson : 35 min\n\n## Ingrédients\n- 1 kg de poisson d'eau douce (capitaine, tilapia ou équivalent), en darnes ou entier vidé\n- Jus de 2 citrons\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 3 gousses d'ail, écrasées\n- 3 c. à soupe d'huile\n- 200 ml d'eau\n- 1 cube de bouillon, émietté (optionnel)\n- Sel, poivre, pili-pili\n\n## Préparation\n1. Inciser le poisson. Le frotter de citron, sel, poivre, ail et pili-pili. Mariner 20 minutes.\n2. Faire revenir les oignons dans l'huile 5 minutes. Ajouter tomates et cube. Réduire 8 minutes.\n3. Poser le poisson dans la sauce, ajouter l'eau. Couvrir et mijoter 20 à 25 minutes à feu moyen, en arrosant.\n4. Rectifier l'assaisonnement. La chair doit se détacher facilement.\n5. Servir avec riz, plantain ou chikwangue, et idéalement une [salade chou-carotte](/recettes/salade-kisangani/).\n\nSource : https://mpichi.likeur.xyz/recettes/poisson-kisangani/",
+    "recipe_id": "poisson-kisangani"
+  },
+  {
+    "id": "poisson-kisangani-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Kisangani fish\" (Democratic Republic of the Congo).",
+    "completion": "# Kisangani fish\n\nKisangani fish recipe: freshwater fish marinated then simmered in tomato-onion sauce — Congo River plate in Kisangani, beside the local salad.\n\nRegion: Kisangani\nServings: 4\nPrep: 25 min + 20 min de marinade\nCook: 35 min\n\n## Ingredients\n- 1 kg freshwater fish (capitaine, tilapia or similar), steaks or whole cleaned\n- Juice of 2 lemons\n- 2 onions, sliced\n- 3 tomatoes, crushed\n- 3 garlic cloves, crushed\n- 3 tbsp oil\n- 200 ml water\n- 1 stock cube, crumbled (optional)\n- Salt, pepper, pili-pili\n\n## Steps\n1. Score the fish. Rub with lemon, salt, pepper, garlic and chili. Marinate 20 minutes.\n2. Sweat onions in oil 5 minutes. Add tomatoes and cube. Reduce 8 minutes.\n3. Nestle the fish in the sauce, add water. Cover and simmer 20–25 minutes on medium heat, basting.\n4. Adjust seasoning. Flesh should flake easily.\n5. Serve with rice, plantain or chikwangue, ideally with [Kisangani cabbage-carrot salad](/en/recettes/salade-kisangani/).\n\nSource: https://mpichi.likeur.xyz/en/recettes/poisson-kisangani/",
+    "recipe_id": "poisson-kisangani"
+  },
+  {
+    "id": "poisson-kisangani-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Poisson Kisangani ?",
+    "completion": "- 1 kg de poisson d'eau douce (capitaine, tilapia ou équivalent), en darnes ou entier vidé\n- Jus de 2 citrons\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 3 gousses d'ail, écrasées\n- 3 c. à soupe d'huile\n- 200 ml d'eau\n- 1 cube de bouillon, émietté (optionnel)\n- Sel, poivre, pili-pili",
+    "recipe_id": "poisson-kisangani"
+  },
+  {
+    "id": "poisson-kisangani-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Poisson Kisangani en RDC ?",
+    "completion": "Poisson Kisangani est associé à la région / zone : Kisangani. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/poisson-kisangani/",
+    "recipe_id": "poisson-kisangani"
+  },
+  {
+    "id": "poisson-kisangani-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Poisson Kisangani ?",
+    "completion": "Poisson Kisangani peut aussi être appelé : poisson du fleuve Kisangani, Kisangani river fish, mbisi ya Kisangani, Kisangani, fleuve, mijoté.",
+    "recipe_id": "poisson-kisangani"
+  },
+  {
+    "id": "poisson-kisangani-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « poisson du fleuve Kisangani » ?",
+    "completion": "« poisson du fleuve Kisangani » désigne notamment Poisson Kisangani (slug: poisson-kisangani, lang: fr).",
+    "recipe_id": "poisson-kisangani"
+  },
+  {
+    "id": "poisson-kisangani-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « Kisangani river fish » ?",
+    "completion": "« Kisangani river fish » désigne notamment Poisson Kisangani (slug: poisson-kisangani, lang: en).",
+    "recipe_id": "poisson-kisangani"
+  },
+  {
+    "id": "poisson-kisangani-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « mbisi ya Kisangani » ?",
+    "completion": "« mbisi ya Kisangani » désigne notamment Poisson Kisangani (slug: poisson-kisangani, lang: ln).",
+    "recipe_id": "poisson-kisangani"
+  },
+  {
+    "id": "poisson-kisangani-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Poisson Kisangani.",
+    "completion": "- 1 kg poisson d'eau douce (capitaine, tilapia ou équivalent), en darnes ou entier vidé\n- Jus de 2 citrons\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 3 clove ail, écrasées\n- 3 tbsp huile\n- 200 ml eau\n- 1 cube bouillon, émietté (optionnel)\n- Sel, poivre, pili-pili",
+    "recipe_id": "poisson-kisangani"
+  },
+  {
     "id": "poisson-kivu-grille-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -6336,6 +8352,78 @@
     "recipe_id": "pondu"
   },
   {
+    "id": "pondu-poisson-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Pondu au poisson » (République démocratique du Congo).",
+    "completion": "# Pondu au poisson\n\nRecette de pondu au poisson : feuilles de manioc mijotées à l’huile de palme avec du poisson frais ou fumé — variante très demandée du saka-saka.\n\nRégion : Kinshasa & Cuvette\nPortions : 6\nPréparation : 40 min\nCuisson : 1 h 30\n\n## Ingrédients\n- 2 kg de feuilles de manioc (pondu), fraîches ou congelées\n- 600 g de poisson (capitaine, tilapia ou poisson fumé en morceaux)\n- 200 ml d'huile de palme rouge\n- 3 oignons, hachés\n- 4 gousses d'ail, écrasées\n- 2 tomates, concassées (optionnel)\n- 2 cubes de bouillon\n- Sel et pili-pili\n- Eau\n\n## Préparation\n1. Laver et hacher finement les feuilles (ou utiliser un pondu déjà pilé). Ébouillanter brièvement si elles sont très amères.\n2. Faire revenir oignons et ail dans l'huile de palme. Ajouter les tomates s'il y en a.\n3. Incorporer le pondu, bien l'enrober d'huile, mouiller d'un peu d'eau. Couvrir et mijoter 45 minutes à feu doux en remuant.\n4. Ajouter le poisson (frais déjà salé, ou fumé en morceaux) et le cube. Poursuivre 25 à 35 minutes jusqu'à texture crémeuse.\n5. Rectifier l'assaisonnement. Servir avec fufu, chikwangue ou riz.\n\nSource : https://mpichi.likeur.xyz/recettes/pondu-poisson/",
+    "recipe_id": "pondu-poisson"
+  },
+  {
+    "id": "pondu-poisson-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Pondu with fish\" (Democratic Republic of the Congo).",
+    "completion": "# Pondu with fish\n\nPondu with fish recipe: cassava leaves simmered in palm oil with fresh or smoked fish — a much-requested saka-saka variant.\n\nRegion: Kinshasa & Cuvette\nServings: 6\nPrep: 40 min\nCook: 1 h 30\n\n## Ingredients\n- 2 kg cassava leaves (pondu), fresh or frozen\n- 600 g fish (captain, tilapia or smoked fish pieces)\n- 200 ml red palm oil\n- 3 onions, chopped\n- 4 garlic cloves, crushed\n- 2 tomatoes, crushed (optional)\n- 2 stock cubes\n- Salt and pili-pili\n- Water\n\n## Steps\n1. Wash and finely chop the leaves (or use already pounded pondu). Blanch briefly if very bitter.\n2. Sweat onions and garlic in palm oil. Add tomatoes if using.\n3. Stir in the pondu, coat with oil, add a little water. Cover and simmer 45 minutes on low heat, stirring.\n4. Add the fish (seasoned fresh fish, or smoked pieces) and the cube. Cook 25–35 minutes more until creamy.\n5. Adjust seasoning. Serve with fufu, chikwangue or rice.\n\nSource: https://mpichi.likeur.xyz/en/recettes/pondu-poisson/",
+    "recipe_id": "pondu-poisson"
+  },
+  {
+    "id": "pondu-poisson-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Pondu au poisson ?",
+    "completion": "- 2 kg de feuilles de manioc (pondu), fraîches ou congelées\n- 600 g de poisson (capitaine, tilapia ou poisson fumé en morceaux)\n- 200 ml d'huile de palme rouge\n- 3 oignons, hachés\n- 4 gousses d'ail, écrasées\n- 2 tomates, concassées (optionnel)\n- 2 cubes de bouillon\n- Sel et pili-pili\n- Eau",
+    "recipe_id": "pondu-poisson"
+  },
+  {
+    "id": "pondu-poisson-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Pondu au poisson en RDC ?",
+    "completion": "Pondu au poisson est associé à la région / zone : Kinshasa & Cuvette. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/pondu-poisson/",
+    "recipe_id": "pondu-poisson"
+  },
+  {
+    "id": "pondu-poisson-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Pondu au poisson ?",
+    "completion": "Pondu au poisson peut aussi être appelé : pondu ya mbisi, pondu au poisson, saka-saka with fish, cassava leaves with fish, pondu, saka-saka.",
+    "recipe_id": "pondu-poisson"
+  },
+  {
+    "id": "pondu-poisson-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pondu ya mbisi » ?",
+    "completion": "« pondu ya mbisi » désigne notamment Pondu au poisson (slug: pondu-poisson, lang: ln).",
+    "recipe_id": "pondu-poisson"
+  },
+  {
+    "id": "pondu-poisson-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pondu au poisson » ?",
+    "completion": "« pondu au poisson » désigne notamment Pondu au poisson (slug: pondu-poisson, lang: fr).",
+    "recipe_id": "pondu-poisson"
+  },
+  {
+    "id": "pondu-poisson-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « saka-saka with fish » ?",
+    "completion": "« saka-saka with fish » désigne notamment Pondu au poisson (slug: pondu-poisson, lang: en).",
+    "recipe_id": "pondu-poisson"
+  },
+  {
+    "id": "pondu-poisson-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Pondu au poisson.",
+    "completion": "- 2 kg feuilles de manioc (pondu), fraîches ou congelées\n- 600 g poisson (capitaine, tilapia ou poisson fumé en morceaux)\n- 200 ml huile de palme rouge\n- 3 piece oignons, hachés\n- 4 clove ail, écrasées\n- 2 piece tomates, concassées (optionnel)\n- 2 cube bouillon\n- Sel et pili-pili\n- Eau",
+    "recipe_id": "pondu-poisson"
+  },
+  {
     "id": "porc-braise-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -6406,6 +8494,78 @@
     "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Porc braisé.",
     "completion": "- 1.5 kg porc (échine ou épaule) en morceaux\n- 2 piece oignons, dont un râpé\n- 4 clove ail\n- 2 piece cm de gingembre\n- 2 tbsp jus de citron\n- 2 tbsp huile\n- Piment, sel et poivre",
     "recipe_id": "porc-braise"
+  },
+  {
+    "id": "porc-ya-kotumba-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Porc ya kotumba » (République démocratique du Congo).",
+    "completion": "# Porc ya kotumba\n\nRecette de porc ya kotumba : porc mariné puis grillé sur braises — version coté porc du soso / bœuf ya kotumba, distincte du porc braisé en sauce.\n\nRégion : Kinshasa\nPortions : 6\nPréparation : 25 min + 2 h de marinade\nCuisson : 45 min\n\n## Ingrédients\n- 1,2 kg de porc (épaule ou côtes), en gros morceaux\n- 2 oignons, dont un râpé\n- 4 gousses d'ail, écrasées\n- 2 cm de gingembre, râpé\n- 30 ml de jus de citron\n- 3 c. à soupe d'huile\n- Pili-pili, sel et poivre\n- 1 cube de bouillon, facultatif\n\n## Préparation\n1. Préparer la marinade (oignon râpé, ail, gingembre, citron, huile, sel, poivre, pili-pili, cube).\n2. Enrober le porc et mariner au frais au moins 2 heures.\n3. Précuire 15 minutes à la marmite avec un fond d'eau et la marinade, pour attendrir.\n4. Égoutter puis griller sur braises moyennes 25 à 30 minutes en badigeonnant, jusqu'à croûte dorée et chair cuite.\n5. Servir avec oignon cru, sauce pili-pili, frites ou plantain.\n\nSource : https://mpichi.likeur.xyz/recettes/porc-ya-kotumba/",
+    "recipe_id": "porc-ya-kotumba"
+  },
+  {
+    "id": "porc-ya-kotumba-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Pork ya kotumba\" (Democratic Republic of the Congo).",
+    "completion": "# Pork ya kotumba\n\nPork ya kotumba recipe: marinated pork grilled over coals — the pork side of soso / beef kotumba, distinct from braised pork in sauce.\n\nRegion: Kinshasa\nServings: 6\nPrep: 25 min + 2 h de marinade\nCook: 45 min\n\n## Ingredients\n- 1.2 kg pork (shoulder or ribs), in large pieces\n- 2 onions, one grated\n- 4 garlic cloves, crushed\n- 2 cm ginger, grated\n- 30 ml lemon juice\n- 3 tbsp oil\n- Pili-pili, salt and pepper\n- 1 stock cube, optional\n\n## Steps\n1. Make the marinade (grated onion, garlic, ginger, lemon, oil, salt, pepper, pili-pili, cube).\n2. Coat the pork and marinate cold at least 2 hours.\n3. Pre-cook 15 minutes in a pot with a little water and the marinade to tenderise.\n4. Drain, then grill over medium coals 25–30 minutes, basting, until golden and cooked through.\n5. Serve with raw onion, pili-pili sauce, fries or plantain.\n\nSource: https://mpichi.likeur.xyz/en/recettes/porc-ya-kotumba/",
+    "recipe_id": "porc-ya-kotumba"
+  },
+  {
+    "id": "porc-ya-kotumba-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Porc ya kotumba ?",
+    "completion": "- 1,2 kg de porc (épaule ou côtes), en gros morceaux\n- 2 oignons, dont un râpé\n- 4 gousses d'ail, écrasées\n- 2 cm de gingembre, râpé\n- 30 ml de jus de citron\n- 3 c. à soupe d'huile\n- Pili-pili, sel et poivre\n- 1 cube de bouillon, facultatif",
+    "recipe_id": "porc-ya-kotumba"
+  },
+  {
+    "id": "porc-ya-kotumba-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Porc ya kotumba en RDC ?",
+    "completion": "Porc ya kotumba est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/porc-ya-kotumba/",
+    "recipe_id": "porc-ya-kotumba"
+  },
+  {
+    "id": "porc-ya-kotumba-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Porc ya kotumba ?",
+    "completion": "Porc ya kotumba peut aussi être appelé : porc grillé, ngulu ya kotumba, grilled pork, porc, kotumba, grillade, Kinshasa, street food.",
+    "recipe_id": "porc-ya-kotumba"
+  },
+  {
+    "id": "porc-ya-kotumba-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « porc grillé » ?",
+    "completion": "« porc grillé » désigne notamment Porc ya kotumba (slug: porc-ya-kotumba, lang: fr).",
+    "recipe_id": "porc-ya-kotumba"
+  },
+  {
+    "id": "porc-ya-kotumba-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « ngulu ya kotumba » ?",
+    "completion": "« ngulu ya kotumba » désigne notamment Porc ya kotumba (slug: porc-ya-kotumba, lang: ln).",
+    "recipe_id": "porc-ya-kotumba"
+  },
+  {
+    "id": "porc-ya-kotumba-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « grilled pork » ?",
+    "completion": "« grilled pork » désigne notamment Porc ya kotumba (slug: porc-ya-kotumba, lang: en).",
+    "recipe_id": "porc-ya-kotumba"
+  },
+  {
+    "id": "porc-ya-kotumba-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Porc ya kotumba.",
+    "completion": "- 1.2 kg porc (épaule ou côtes), en gros morceaux\n- 2 piece oignons, dont un râpé\n- 4 clove ail, écrasées\n- 2 piece cm de gingembre, râpé\n- 30 ml jus de citron\n- 3 tbsp huile\n- Pili-pili, sel et poivre\n- 1 cube bouillon, facultatif",
+    "recipe_id": "porc-ya-kotumba"
   },
   {
     "id": "poulet-mayo-recipe-fr",
@@ -7488,6 +9648,78 @@
     "recipe_id": "soso-ya-sauce"
   },
   {
+    "id": "spaghetti-kinshasa-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Spaghetti Kinshasa » (République démocratique du Congo).",
+    "completion": "# Spaghetti Kinshasa\n\nRecette de spaghetti à la kinshasaise : pâtes nappées d’une sauce tomate-oignon souvent enrichie de viande hachée ou de sardines — street food / table du quotidien.\n\nRégion : Kinshasa\nPortions : 4\nPréparation : 15 min\nCuisson : 30 min\n\n## Ingrédients\n- 400 g de spaghetti\n- 300 g de viande hachée de bœuf (ou 1 boîte de sardines à l'huile, égouttées)\n- 2 oignons, émincés\n- 3 tomates, concassées (ou 200 ml de concentré dilué)\n- 3 gousses d'ail\n- 3 c. à soupe d'huile\n- 1 cube de bouillon\n- Sel, poivre, pili-pili\n- 3 l d'eau pour les pâtes\n\n## Préparation\n1. Faire revenir oignons et ail dans l'huile. Ajouter la viande hachée et la faire colorer (ou réserver les sardines pour la fin).\n2. Incorporer les tomates, le cube, sel, poivre et pili-pili. Mijoter 15 minutes jusqu'à sauce épaisse.\n3. Cuire les spaghetti al dente dans une grande eau salée. Égoutter.\n4. Mélanger pâtes et sauce (ajouter les sardines émiettées à ce moment si on les utilise).\n5. Servir chaud, éventuellement avec un œuf au plat ou du pili-pili.\n\nSource : https://mpichi.likeur.xyz/recettes/spaghetti-kinshasa/",
+    "recipe_id": "spaghetti-kinshasa"
+  },
+  {
+    "id": "spaghetti-kinshasa-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Kinshasa spaghetti\" (Democratic Republic of the Congo).",
+    "completion": "# Kinshasa spaghetti\n\nKinshasa-style spaghetti: pasta in tomato-onion sauce often enriched with minced meat or sardines — everyday / street plate.\n\nRegion: Kinshasa\nServings: 4\nPrep: 15 min\nCook: 30 min\n\n## Ingredients\n- 400 g spaghetti\n- 300 g minced beef (or 1 tin sardines in oil, drained)\n- 2 onions, sliced\n- 3 tomatoes, crushed (or 200 ml diluted tomato paste)\n- 3 garlic cloves\n- 3 tbsp oil\n- 1 stock cube\n- Salt, pepper, pili-pili\n- 3 l water for the pasta\n\n## Steps\n1. Sweat onions and garlic in oil. Add the mince and brown (or keep sardines for the end).\n2. Stir in tomatoes, cube, salt, pepper and pili-pili. Simmer 15 minutes until thick.\n3. Boil spaghetti al dente in salted water. Drain.\n4. Toss pasta with sauce (fold in flaked sardines now if using).\n5. Serve hot, optionally with a fried egg or extra pili-pili.\n\nSource: https://mpichi.likeur.xyz/en/recettes/spaghetti-kinshasa/",
+    "recipe_id": "spaghetti-kinshasa"
+  },
+  {
+    "id": "spaghetti-kinshasa-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Spaghetti Kinshasa ?",
+    "completion": "- 400 g de spaghetti\n- 300 g de viande hachée de bœuf (ou 1 boîte de sardines à l'huile, égouttées)\n- 2 oignons, émincés\n- 3 tomates, concassées (ou 200 ml de concentré dilué)\n- 3 gousses d'ail\n- 3 c. à soupe d'huile\n- 1 cube de bouillon\n- Sel, poivre, pili-pili\n- 3 l d'eau pour les pâtes",
+    "recipe_id": "spaghetti-kinshasa"
+  },
+  {
+    "id": "spaghetti-kinshasa-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Spaghetti Kinshasa en RDC ?",
+    "completion": "Spaghetti Kinshasa est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/spaghetti-kinshasa/",
+    "recipe_id": "spaghetti-kinshasa"
+  },
+  {
+    "id": "spaghetti-kinshasa-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Spaghetti Kinshasa ?",
+    "completion": "Spaghetti Kinshasa peut aussi être appelé : spaghetti ya Kinshasa, pâtes sauce tomate, Kinshasa spaghetti, spaghetti, pâtes, Kinshasa, street food, quotidien.",
+    "recipe_id": "spaghetti-kinshasa"
+  },
+  {
+    "id": "spaghetti-kinshasa-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « spaghetti ya Kinshasa » ?",
+    "completion": "« spaghetti ya Kinshasa » désigne notamment Spaghetti Kinshasa (slug: spaghetti-kinshasa, lang: ln).",
+    "recipe_id": "spaghetti-kinshasa"
+  },
+  {
+    "id": "spaghetti-kinshasa-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « pâtes sauce tomate » ?",
+    "completion": "« pâtes sauce tomate » désigne notamment Spaghetti Kinshasa (slug: spaghetti-kinshasa, lang: fr).",
+    "recipe_id": "spaghetti-kinshasa"
+  },
+  {
+    "id": "spaghetti-kinshasa-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « Kinshasa spaghetti » ?",
+    "completion": "« Kinshasa spaghetti » désigne notamment Spaghetti Kinshasa (slug: spaghetti-kinshasa, lang: en).",
+    "recipe_id": "spaghetti-kinshasa"
+  },
+  {
+    "id": "spaghetti-kinshasa-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Spaghetti Kinshasa.",
+    "completion": "- 400 g spaghetti\n- 300 g viande hachée de bœuf (ou 1 boîte de sardines à l'huile, égouttées)\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées (ou 200 ml de concentré dilué)\n- 3 clove ail\n- 3 tbsp huile\n- 1 cube bouillon\n- Sel, poivre, pili-pili\n- 3 l eau pour les pâtes",
+    "recipe_id": "spaghetti-kinshasa"
+  },
+  {
     "id": "sukuma-est-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -7704,6 +9936,78 @@
     "recipe_id": "taro-mijote"
   },
   {
+    "id": "taro-sauce-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Taro en sauce arachide » (République démocratique du Congo).",
+    "completion": "# Taro en sauce arachide\n\nRecette de taro en sauce arachide : taro blanchi puis nappé d’une sauce aux arachides — variante Cuvette, distincte du taro mijoté tomate.\n\nRégion : Cuvette centrale\nPortions : 4\nPréparation : 25 min\nCuisson : 50 min\n\n## Ingrédients\n- 1 kg de taro (malanga), épluché\n- 120 g de pâte d'arachide (ou beurre d'arachide non sucré)\n- 1 oignon, émincé\n- 2 tomates, concassées (optionnel, pour acidité)\n- 2 gousses d'ail\n- 2 c. à soupe d'huile\n- 400 ml d'eau\n- Sel, pili-pili\n\n## Préparation\n1. Couper le taro en morceaux. Blanchir 10 minutes dans l'eau bouillante, égoutter (certains taros irritent s'ils sont crus).\n2. Faire revenir oignon et ail dans l'huile 4 minutes. Ajouter les tomates si utilisées, 5 minutes.\n3. Diluer la pâte d'arachide dans l'eau chaude jusqu'à consistance lisse. Verser dans la casserole. Saler.\n4. Ajouter le taro. Mijoter 25 à 30 minutes à feu doux en remuant souvent pour éviter que la sauce accroche, jusqu'à tendreté.\n5. Rectifier piment. Servir chaud, éventuellement avec poisson fumé à part.\n\nSource : https://mpichi.likeur.xyz/recettes/taro-sauce/",
+    "recipe_id": "taro-sauce"
+  },
+  {
+    "id": "taro-sauce-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Taro in peanut sauce\" (Democratic Republic of the Congo).",
+    "completion": "# Taro in peanut sauce\n\nTaro in peanut sauce recipe: blanched taro finished in groundnut sauce — Cuvette variant, distinct from tomato-simmered taro.\n\nRegion: Cuvette centrale\nServings: 4\nPrep: 25 min\nCook: 50 min\n\n## Ingredients\n- 1 kg taro (malanga), peeled\n- 120 g peanut paste (or unsweetened peanut butter)\n- 1 onion, sliced\n- 2 tomatoes, crushed (optional, for acidity)\n- 2 garlic cloves\n- 2 tbsp oil\n- 400 ml water\n- Salt, pili-pili\n\n## Steps\n1. Cut taro into pieces. Blanch 10 minutes in boiling water, drain (some taro irritates if raw).\n2. Sweat onion and garlic in oil 4 minutes. Add tomatoes if using, 5 minutes.\n3. Thin the peanut paste in hot water until smooth. Pour into the pot. Salt.\n4. Add taro. Simmer 25–30 minutes on low, stirring often so the sauce does not catch, until tender.\n5. Adjust chili. Serve hot, optionally with smoked fish on the side.\n\nSource: https://mpichi.likeur.xyz/en/recettes/taro-sauce/",
+    "recipe_id": "taro-sauce"
+  },
+  {
+    "id": "taro-sauce-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Taro en sauce arachide ?",
+    "completion": "- 1 kg de taro (malanga), épluché\n- 120 g de pâte d'arachide (ou beurre d'arachide non sucré)\n- 1 oignon, émincé\n- 2 tomates, concassées (optionnel, pour acidité)\n- 2 gousses d'ail\n- 2 c. à soupe d'huile\n- 400 ml d'eau\n- Sel, pili-pili",
+    "recipe_id": "taro-sauce"
+  },
+  {
+    "id": "taro-sauce-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Taro en sauce arachide en RDC ?",
+    "completion": "Taro en sauce arachide est associé à la région / zone : Cuvette centrale. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/taro-sauce/",
+    "recipe_id": "taro-sauce"
+  },
+  {
+    "id": "taro-sauce-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Taro en sauce arachide ?",
+    "completion": "Taro en sauce arachide peut aussi être appelé : taro sauce arachide, malanga en sauce arachide, taro in peanut sauce, taro ya nguba, taro, malanga, Cuvette, sauce.",
+    "recipe_id": "taro-sauce"
+  },
+  {
+    "id": "taro-sauce-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « taro sauce arachide » ?",
+    "completion": "« taro sauce arachide » désigne notamment Taro en sauce arachide (slug: taro-sauce, lang: fr).",
+    "recipe_id": "taro-sauce"
+  },
+  {
+    "id": "taro-sauce-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « malanga en sauce arachide » ?",
+    "completion": "« malanga en sauce arachide » désigne notamment Taro en sauce arachide (slug: taro-sauce, lang: fr).",
+    "recipe_id": "taro-sauce"
+  },
+  {
+    "id": "taro-sauce-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « taro in peanut sauce » ?",
+    "completion": "« taro in peanut sauce » désigne notamment Taro en sauce arachide (slug: taro-sauce, lang: en).",
+    "recipe_id": "taro-sauce"
+  },
+  {
+    "id": "taro-sauce-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Taro en sauce arachide.",
+    "completion": "- 1 kg taro (malanga), épluché\n- 120 g pâte d'arachide (ou beurre d'arachide non sucré)\n- 1 piece oignon, émincé\n- 2 piece tomates, concassées (optionnel, pour acidité)\n- 2 clove ail\n- 2 tbsp huile\n- 400 ml eau\n- Sel, pili-pili",
+    "recipe_id": "taro-sauce"
+  },
+  {
     "id": "tilapia-bugali-recipe-fr",
     "lang": "fr",
     "task": "recipe_full",
@@ -7774,6 +10078,78 @@
     "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Tilapia au bugali.",
     "completion": "- 2 piece tilapias entiers (environ 800 g–1 kg au total), vidés\n- Jus de 2 citrons\n- 3 clove ail\n- 2 tbsp huile\n- Sel, poivre, pili-pili\n- 1 piece oignon, en rondelles\n- Bugali pour servir (voir fiche bugali)",
     "recipe_id": "tilapia-bugali"
+  },
+  {
+    "id": "tripes-mijotees-recipe-fr",
+    "lang": "fr",
+    "task": "recipe_full",
+    "prompt": "Donne la recette complète du plat congolais « Tripes mijotées » (République démocratique du Congo).",
+    "completion": "# Tripes mijotées\n\nRecette de tripes mijotées à la tomate et à l’oignon — plat d’abats du quotidien / street food kinshasaise, longuement cuit.\n\nRégion : Kinshasa\nPortions : 6\nPréparation : 30 min\nCuisson : 2 h\n\n## Ingrédients\n- 1,2 kg de tripes de bœuf, bien nettoyées et coupées\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 4 gousses d'ail\n- 2 c. à soupe d'huile\n- 1 feuille de laurier, facultatif\n- Sel, poivre, pili-pili\n- 1,5 l d'eau\n\n## Préparation\n1. Blanchir les tripes 10 minutes dans une grande eau. Égoutter, rincer.\n2. Les couvrir d'eau fraîche, saler légèrement, ajouter le laurier. Mijoter 1 h 15 à 1 h 30 jusqu'à tendreté. Égoutter en réservant un peu de bouillon.\n3. Faire revenir oignons et ail dans l'huile, ajouter les tomates 8 minutes.\n4. Incorporer les tripes et un peu de bouillon. Mijoter encore 20 à 25 minutes. Pimenter.\n5. Servir avec riz, frites, pain ou chikwangue.\n\nSource : https://mpichi.likeur.xyz/recettes/tripes-mijotees/",
+    "recipe_id": "tripes-mijotees"
+  },
+  {
+    "id": "tripes-mijotees-recipe-en",
+    "lang": "en",
+    "task": "recipe_full",
+    "prompt": "Give the full recipe for the Congolese dish \"Simmered tripe\" (Democratic Republic of the Congo).",
+    "completion": "# Simmered tripe\n\nTripe simmered with tomato and onion — everyday / street Kinshasa offal dish, cooked low and slow.\n\nRegion: Kinshasa\nServings: 6\nPrep: 30 min\nCook: 2 h\n\n## Ingredients\n- 1.2 kg beef tripe, well cleaned and cut\n- 2 onions, sliced\n- 3 tomatoes, crushed\n- 4 garlic cloves\n- 2 tbsp oil\n- 1 bay leaf, optional\n- Salt, pepper, pili-pili\n- 1.5 l water\n\n## Steps\n1. Blanch the tripe 10 minutes in plenty of water. Drain and rinse.\n2. Cover with fresh water, light salt, bay leaf. Simmer 1 h 15–1 h 30 until tender. Drain, keep a little broth.\n3. Sweat onions and garlic in oil; add tomatoes 8 minutes.\n4. Add the tripe and a little broth. Simmer 20–25 minutes more. Add chili.\n5. Serve with rice, fries, bread or chikwangue.\n\nSource: https://mpichi.likeur.xyz/en/recettes/tripes-mijotees/",
+    "recipe_id": "tripes-mijotees"
+  },
+  {
+    "id": "tripes-mijotees-ingredients-fr",
+    "lang": "fr",
+    "task": "list_ingredients",
+    "prompt": "Quels sont les ingrédients pour préparer Tripes mijotées ?",
+    "completion": "- 1,2 kg de tripes de bœuf, bien nettoyées et coupées\n- 2 oignons, émincés\n- 3 tomates, concassées\n- 4 gousses d'ail\n- 2 c. à soupe d'huile\n- 1 feuille de laurier, facultatif\n- Sel, poivre, pili-pili\n- 1,5 l d'eau",
+    "recipe_id": "tripes-mijotees"
+  },
+  {
+    "id": "tripes-mijotees-region-fr",
+    "lang": "fr",
+    "task": "region_context",
+    "prompt": "D'où vient le plat Tripes mijotées en RDC ?",
+    "completion": "Tripes mijotées est associé à la région / zone : Kinshasa. Fiche Mpichi : https://mpichi.likeur.xyz/recettes/tripes-mijotees/",
+    "recipe_id": "tripes-mijotees"
+  },
+  {
+    "id": "tripes-mijotees-aliases-fr",
+    "lang": "fr",
+    "task": "aliases",
+    "prompt": "Quels autres noms connaît-on pour Tripes mijotées ?",
+    "completion": "Tripes mijotées peut aussi être appelé : tripes, tripe stew, matumbo, abats, mijoté, Kinshasa, quotidien.",
+    "recipe_id": "tripes-mijotees"
+  },
+  {
+    "id": "tripes-mijotees-alias-to-dish-0",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « tripes » ?",
+    "completion": "« tripes » désigne notamment Tripes mijotées (slug: tripes-mijotees, lang: fr).",
+    "recipe_id": "tripes-mijotees"
+  },
+  {
+    "id": "tripes-mijotees-alias-to-dish-1",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « tripe stew » ?",
+    "completion": "« tripe stew » désigne notamment Tripes mijotées (slug: tripes-mijotees, lang: en).",
+    "recipe_id": "tripes-mijotees"
+  },
+  {
+    "id": "tripes-mijotees-alias-to-dish-2",
+    "lang": "fr",
+    "task": "alias_to_dish",
+    "prompt": "Quel plat congolais du catalogue Mpichi correspond au nom « matumbo » ?",
+    "completion": "« matumbo » désigne notamment Tripes mijotées (slug: tripes-mijotees, lang: sw).",
+    "recipe_id": "tripes-mijotees"
+  },
+  {
+    "id": "tripes-mijotees-structured-ingredients-fr",
+    "lang": "fr",
+    "task": "structured_ingredients",
+    "prompt": "Liste les ingrédients structurés (quantité / unité / nom) pour Tripes mijotées.",
+    "completion": "- 1.2 kg tripes de bœuf, bien nettoyées et coupées\n- 2 piece oignons, émincés\n- 3 piece tomates, concassées\n- 4 clove ail\n- 2 tbsp huile\n- 1 leaf laurier, facultatif\n- Sel, poivre, pili-pili\n- 1.5 l eau",
+    "recipe_id": "tripes-mijotees"
   },
   {
     "id": "viande-sechee-tomates-recipe-fr",
@@ -7932,7 +10308,7 @@
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & Ouest de la RDC » ?",
-    "completion": "- Aubergines africaines en sauce\n- Beignets de banane\n- Courge en sauce\n- Haricots verts à l’huile de palme\n- Jus d’ananas\n- Jus de bissap\n- Jus de mangue\n- Madesu\n- Sauce gombo",
+    "completion": "- Aubergines africaines en sauce\n- Beignets de banane\n- Courge en sauce\n- Haricots verts à l’huile de palme\n- Jus d’ananas\n- Jus de bissap\n- Jus de mangue\n- Jus de tamarin\n- Madesu\n- Sauce gombo",
     "recipe_id": null
   },
   {
@@ -7940,7 +10316,7 @@
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Toute la RDC » ?",
-    "completion": "- Bananes douces à la vapeur\n- Beignets d’igname\n- Beignets de manioc\n- Bouillie d’arachide\n- Bouillie de maïs\n- Croquettes de manioc\n- Fufu de manioc\n- Gâteau au manioc\n- Igname bouillie\n- Makemba\n- Makemba na mbisi\n- Manioc grillé\n- Mbala\n- Poulet à la moambe\n- Plantains à la vapeur\n- Sauce d’arachide\n- Sauce pili-pili",
+    "completion": "- Bananes au caramel\n- Bananes douces à la vapeur\n- Beignets d’igname\n- Beignets de manioc\n- Bonbons d'arachide\n- Bouillie d’arachide\n- Bouillie de maïs\n- Croquettes de manioc\n- Fufu de manioc\n- Gâteau à l'arachide\n- Gâteau au manioc\n- Igname bouillie\n- Lait caillé\n- Maïs bouilli\n- Makemba\n- Makemba na mbisi\n- Manioc frit (bâtons)\n- Manioc grillé\n- Mbala\n- Bœuf à la moambe\n- Poulet à la moambe\n- Patate douce frite\n- Plantains à la vapeur\n- Sauce d’arachide\n- Sauce pili-pili",
     "recipe_id": null
   },
   {
@@ -7956,7 +10332,7 @@
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa » ?",
-    "completion": "- Bœuf ya kotumba\n- Brochettes de foie\n- Foie de bœuf sauté\n- Jus de fruit de la passion\n- Kamundele\n- Loso mayonnaise\n- Loso na madesu\n- Loso na petits pois\n- Makoso\n- Mikate\n- Mikila\n- Ndunda\n- Ngulu ya sauce\n- Pain mayonnaise\n- Pepe soupe ya ngolo\n- Poisson mayo\n- Porc braisé\n- Poulet mayo\n- Poulet pané\n- Saucisse-frites\n- Soso ya kotumba\n- Soso ya sauce\n- Tangawisi\n- Viande ya sauce",
+    "completion": "- Bœuf ya kotumba\n- Brochettes de bœuf\n- Brochettes de foie\n- Brochettes de poulet\n- Chou mijoté Kinshasa\n- Côtes de porc braisées\n- Foie de bœuf sauté\n- Jus de fruit de la passion\n- Kamundele\n- Loso mayonnaise\n- Loso na madesu\n- Loso na mbisi\n- Loso na petits pois\n- Makoso\n- Mikate\n- Mikila\n- Mikila à l'arachide\n- Ndunda\n- Ngulu ya sauce\n- Pain mayonnaise\n- Pepe soupe ya ngolo\n- Poisson mayo\n- Porc braisé\n- Porc ya kotumba\n- Poulet mayo\n- Poulet pané\n- Saucisse-frites\n- Soso ya kotumba\n- Soso ya sauce\n- Spaghetti Kinshasa\n- Tangawisi\n- Tripes mijotées\n- Viande ya sauce",
     "recipe_id": null
   },
   {
@@ -7972,7 +10348,7 @@
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & bassin du Congo » ?",
-    "completion": "- Capitaine braisé\n- Dongo-dongo\n- Kossa-kossa\n- Makayabu aux tomates\n- Missole\n- Poisson fumé aux tomates\n- Poisson à la moambe",
+    "completion": "- Capitaine braisé\n- Crevettes grillées\n- Dongo-dongo\n- Kossa-kossa\n- Makayabu aux tomates\n- Missole\n- Ngolo grillé\n- Poisson fumé aux tomates\n- Poisson à la moambe",
     "recipe_id": null
   },
   {
@@ -7980,7 +10356,7 @@
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Bassin du Congo » ?",
-    "completion": "- Chikwangue\n- Mbika",
+    "completion": "- Chikwangue\n- Crevettes du fleuve en sauce\n- Mbika",
     "recipe_id": null
   },
   {
@@ -7988,27 +10364,51 @@
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Nord-Kivu & Sud-Kivu » ?",
-    "completion": "- Chou mijoté de l’Est\n- Maharage aux tomates\n- Ndagala aux tomates\n- Pilau du Kivu\n- Poisson du Kivu grillé\n- Sambousa aux pommes de terre\n- Sukuma\n- Tilapia au bugali",
+    "completion": "- Chou mijoté de l’Est\n- Maharage aux tomates\n- Maïs grillé\n- Ndagala aux tomates\n- Nyama na bugali\n- Pilau du Kivu\n- Poisson du Kivu grillé\n- Sambousa aux pommes de terre\n- Sukuma\n- Tilapia au bugali",
     "recipe_id": null
   },
   {
     "id": "region-list-9",
     "lang": "fr",
     "task": "region_list",
-    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Ouest de la RDC » ?",
-    "completion": "- Jus de safou\n- Nsafu grillés\n- Saka-madesu",
+    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Cuvette centrale » ?",
+    "completion": "- Fufu de plantain\n- Igname en sauce\n- Lituma\n- Taro mijoté\n- Taro en sauce arachide",
     "recipe_id": null
   },
   {
     "id": "region-list-10",
     "lang": "fr",
     "task": "region_list",
-    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Cuvette centrale » ?",
-    "completion": "- Lituma\n- Taro mijoté",
+    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Ouest de la RDC » ?",
+    "completion": "- Jus de safou\n- Nsafu grillés\n- Nsafu en sauce\n- Saka-madesu",
     "recipe_id": null
   },
   {
     "id": "region-list-11",
+    "lang": "fr",
+    "task": "region_list",
+    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Grand Bandundu » ?",
+    "completion": "- Liboke de champignons\n- Mbinzo aux tomates",
+    "recipe_id": null
+  },
+  {
+    "id": "region-list-12",
+    "lang": "fr",
+    "task": "region_list",
+    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Bas-Congo & Bandundu » ?",
+    "completion": "- Liboke de légumes\n- Liboke de poisson",
+    "recipe_id": null
+  },
+  {
+    "id": "region-list-13",
+    "lang": "fr",
+    "task": "region_list",
+    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kongo-Central » ?",
+    "completion": "- Malafu (vin de palme)\n- Mbisi na kwanga",
+    "recipe_id": null
+  },
+  {
+    "id": "region-list-14",
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & Kongo-Central » ?",
@@ -8016,11 +10416,19 @@
     "recipe_id": null
   },
   {
-    "id": "region-list-12",
+    "id": "region-list-15",
+    "lang": "fr",
+    "task": "region_list",
+    "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kisangani » ?",
+    "completion": "- Poisson Kisangani\n- Salade chou-carotte",
+    "recipe_id": null
+  },
+  {
+    "id": "region-list-16",
     "lang": "fr",
     "task": "region_list",
     "prompt": "Quels plats congolais du dataset Mpichi sont liés à « Kinshasa & Cuvette » ?",
-    "completion": "- Pondu (saka-saka)\n- Riz à la moambe",
+    "completion": "- Pondu (saka-saka)\n- Pondu au poisson\n- Riz à la moambe",
     "recipe_id": null
   },
   {
@@ -8036,7 +10444,7 @@
     "lang": "fr",
     "task": "region_dishes",
     "prompt": "Quels plats Mpichi sont associés à la région « Kinshasa & Ouest de la RDC » (region_id=kinshasa_west) ?",
-    "completion": "- Aubergines africaines en sauce (aubergines-africaines)\n- Beignets de banane (beignets-banane)\n- Courge en sauce (courge-sauce)\n- Haricots verts à l’huile de palme (haricots-verts-palme)\n- Jus d’ananas (jus-ananas)\n- Jus de bissap (jus-bissap)\n- Jus de mangue (jus-mangue)\n- Madesu (madesu)\n- Sauce gombo (sauce-gombo)",
+    "completion": "- Aubergines africaines en sauce (aubergines-africaines)\n- Beignets de banane (beignets-banane)\n- Courge en sauce (courge-sauce)\n- Haricots verts à l’huile de palme (haricots-verts-palme)\n- Jus d’ananas (jus-ananas)\n- Jus de bissap (jus-bissap)\n- Jus de mangue (jus-mangue)\n- Jus de tamarin (jus-tamarin)\n- Madesu (madesu)\n- Sauce gombo (sauce-gombo)",
     "recipe_id": null
   },
   {
@@ -8044,7 +10452,7 @@
     "lang": "fr",
     "task": "region_dishes",
     "prompt": "Quels plats Mpichi sont associés à la région « Toute la RDC » (region_id=nationwide) ?",
-    "completion": "- Bananes douces à la vapeur (bananes-douces-vapeur)\n- Beignets d’igname (beignets-igname)\n- Beignets de manioc (beignets-manioc)\n- Bouillie d’arachide (bouillie-arachide)\n- Bouillie de maïs (bouillie-mais)\n- Croquettes de manioc (croquettes-manioc)\n- Fufu de manioc (fufu-manioc)\n- Gâteau au manioc (gateau-manioc)\n- Igname bouillie (igname-bouillie)\n- Makemba (makemba)\n- Makemba na mbisi (makemba-na-mbisi)\n- Manioc grillé (manioc-grille)\n- Mbala (mbala)\n- Poulet à la moambe (moambe-poulet)\n- Plantains à la vapeur (plantains-vapeur)\n- Sauce d’arachide (sauce-arachide)\n- Sauce pili-pili (sauce-pili-pili)",
+    "completion": "- Bananes au caramel (bananes-caramel)\n- Bananes douces à la vapeur (bananes-douces-vapeur)\n- Beignets d’igname (beignets-igname)\n- Beignets de manioc (beignets-manioc)\n- Bonbons d'arachide (bonbons-arachide)\n- Bouillie d’arachide (bouillie-arachide)\n- Bouillie de maïs (bouillie-mais)\n- Croquettes de manioc (croquettes-manioc)\n- Fufu de manioc (fufu-manioc)\n- Gâteau à l'arachide (gateau-arachide)\n- Gâteau au manioc (gateau-manioc)\n- Igname bouillie (igname-bouillie)\n- Lait caillé (lait-caille)\n- Maïs bouilli (mais-bouilli)\n- Makemba (makemba)\n- Makemba na mbisi (makemba-na-mbisi)\n- Manioc frit (bâtons) (manioc-frites)\n- Manioc grillé (manioc-grille)\n- Mbala (mbala)\n- Bœuf à la moambe (moambe-boeuf)\n- Poulet à la moambe (moambe-poulet)\n- Patate douce frite (patate-douce-frite)\n- Plantains à la vapeur (plantains-vapeur)\n- Sauce d’arachide (sauce-arachide)\n- Sauce pili-pili (sauce-pili-pili)",
     "recipe_id": null
   },
   {
@@ -8060,7 +10468,7 @@
     "lang": "fr",
     "task": "region_dishes",
     "prompt": "Quels plats Mpichi sont associés à la région « Kinshasa » (region_id=kinshasa) ?",
-    "completion": "- Bœuf ya kotumba (boeuf-ya-kotumba)\n- Brochettes de foie (brochettes-foie)\n- Foie de bœuf sauté (foie-boeuf-saute)\n- Jus de fruit de la passion (jus-passion)\n- Kamundele (kamundele)\n- Loso mayonnaise (loso-mayonnaise)\n- Loso na madesu (loso-na-madesu)\n- Loso na petits pois (loso-petits-pois)\n- Makoso (makoso)\n- Mikate (mikate)\n- Mikila (mikila)\n- Ndunda (ndunda)\n- Ngulu ya sauce (ngulu-ya-sauce)\n- Pain mayonnaise (pain-mayonnaise)\n- Pepe soupe ya ngolo (pepe-soupe-ya-ngolo)\n- Poisson braisé (poisson-braise-kinkole)\n- Poisson mayo (poisson-mayo)\n- Porc braisé (porc-braise)\n- Poulet mayo (poulet-mayo)\n- Poulet pané (poulet-pane)\n- Saucisse-frites (saucisse-frites)\n- Soso ya kotumba (soso-ya-kotumba)\n- Soso ya sauce (soso-ya-sauce)\n- Tangawisi (tangawisi)\n- Viande ya sauce (viande-ya-sauce)",
+    "completion": "- Bœuf ya kotumba (boeuf-ya-kotumba)\n- Brochettes de bœuf (brochettes-boeuf)\n- Brochettes de foie (brochettes-foie)\n- Brochettes de poulet (brochettes-poulet)\n- Chou mijoté Kinshasa (chou-kinshasa)\n- Côtes de porc braisées (cotes-porc)\n- Foie de bœuf sauté (foie-boeuf-saute)\n- Jus de fruit de la passion (jus-passion)\n- Kamundele (kamundele)\n- Loso mayonnaise (loso-mayonnaise)\n- Loso na madesu (loso-na-madesu)\n- Loso na mbisi (loso-na-mbisi)\n- Loso na petits pois (loso-petits-pois)\n- Makoso (makoso)\n- Mikate (mikate)\n- Mikila (mikila)\n- Mikila à l'arachide (mikila-arachide)\n- Ndunda (ndunda)\n- Ngulu ya sauce (ngulu-ya-sauce)\n- Pain mayonnaise (pain-mayonnaise)\n- Pepe soupe ya ngolo (pepe-soupe-ya-ngolo)\n- Poisson braisé (poisson-braise-kinkole)\n- Poisson mayo (poisson-mayo)\n- Porc braisé (porc-braise)\n- Porc ya kotumba (porc-ya-kotumba)\n- Poulet mayo (poulet-mayo)\n- Poulet pané (poulet-pane)\n- Saucisse-frites (saucisse-frites)\n- Soso ya kotumba (soso-ya-kotumba)\n- Soso ya sauce (soso-ya-sauce)\n- Spaghetti Kinshasa (spaghetti-kinshasa)\n- Tangawisi (tangawisi)\n- Tripes mijotées (tripes-mijotees)\n- Viande ya sauce (viande-ya-sauce)",
     "recipe_id": null
   },
   {
@@ -8076,7 +10484,7 @@
     "lang": "fr",
     "task": "region_dishes",
     "prompt": "Quels plats Mpichi sont associés à la région « Kinshasa & bassin du Congo » (region_id=kinshasa_basin) ?",
-    "completion": "- Capitaine braisé (capitaine-braise)\n- Chikwangue grillée (chikwangue-grillee)\n- Dongo-dongo (dongo-dongo)\n- Kossa-kossa (kossa-kossa)\n- Makayabu aux tomates (makayabu)\n- Mbisi ya kokalinga (mbisi-ya-kokalinga)\n- Missole (missole)\n- Poisson fumé aux tomates (poisson-fume-tomates)\n- Poisson à la moambe (poisson-moambe)",
+    "completion": "- Capitaine braisé (capitaine-braise)\n- Chikwangue grillée (chikwangue-grillee)\n- Crevettes grillées (crevettes-grillees)\n- Dongo-dongo (dongo-dongo)\n- Kossa-kossa (kossa-kossa)\n- Makayabu aux tomates (makayabu)\n- Mbisi ya kokalinga (mbisi-ya-kokalinga)\n- Missole (missole)\n- Ngolo grillé (ngolo-grille)\n- Poisson fumé aux tomates (poisson-fume-tomates)\n- Poisson à la moambe (poisson-moambe)",
     "recipe_id": null
   },
   {
@@ -8084,7 +10492,7 @@
     "lang": "fr",
     "task": "region_dishes",
     "prompt": "Quels plats Mpichi sont associés à la région « Bassin du Congo » (region_id=bassin_congo) ?",
-    "completion": "- Chikwangue (chikwangue)\n- Kabambale (kabambale)\n- Mayebo aux tomates (mayebo)\n- Mbika (mbika)",
+    "completion": "- Chikwangue (chikwangue)\n- Crevettes du fleuve en sauce (crevettes-fleuve)\n- Kabambale (kabambale)\n- Mayebo aux tomates (mayebo)\n- Mbika (mbika)",
     "recipe_id": null
   },
   {
@@ -8092,7 +10500,7 @@
     "lang": "fr",
     "task": "region_dishes",
     "prompt": "Quels plats Mpichi sont associés à la région « Nord-Kivu & Sud-Kivu » (region_id=kivu) ?",
-    "completion": "- Chou mijoté de l’Est (chou-mijote-est)\n- Maharage aux tomates (haricots-maharage)\n- Ndagala aux tomates (ndagala-tomates)\n- Pilau du Kivu (pilau-kivu)\n- Poisson du Kivu grillé (poisson-kivu-grille)\n- Sambousa aux pommes de terre (sambousa-pommes)\n- Sukuma (sukuma-est)\n- Tilapia au bugali (tilapia-bugali)",
+    "completion": "- Chou mijoté de l’Est (chou-mijote-est)\n- Maharage aux tomates (haricots-maharage)\n- Maïs grillé (mais-grille)\n- Ndagala aux tomates (ndagala-tomates)\n- Nyama na bugali (nyama-bugali-kivu)\n- Pilau du Kivu (pilau-kivu)\n- Poisson du Kivu grillé (poisson-kivu-grille)\n- Sambousa aux pommes de terre (sambousa-pommes)\n- Sukuma (sukuma-est)\n- Tilapia au bugali (tilapia-bugali)",
     "recipe_id": null
   },
   {
@@ -8100,27 +10508,35 @@
     "lang": "fr",
     "task": "region_dishes",
     "prompt": "Quels plats Mpichi sont associés à la région « Cuvette centrale » (region_id=cuvette) ?",
-    "completion": "- Escargots à la congolaise (escargots-congolaise)\n- Lituma (lituma)\n- Taro mijoté (taro-mijote)",
+    "completion": "- Escargots à la congolaise (escargots-congolaise)\n- Fufu de plantain (fufu-plantain)\n- Igname en sauce (igname-sauce)\n- Lituma (lituma)\n- Taro mijoté (taro-mijote)\n- Taro en sauce arachide (taro-sauce)",
     "recipe_id": null
   },
   {
     "id": "region-dishes-10",
     "lang": "fr",
     "task": "region_dishes",
-    "prompt": "Quels plats Mpichi sont associés à la région « Ouest de la RDC » (region_id=ouest) ?",
-    "completion": "- Jus de safou (jus-safou)\n- Nsafu grillés (nsafu-grilles)\n- Saka-madesu (saka-madesu)",
+    "prompt": "Quels plats Mpichi sont associés à la région « Kongo-Central » (region_id=kongo_central) ?",
+    "completion": "- Fumbwa aux arachides (fumbwa-arachides)\n- Malafu (vin de palme) (malafu-vin-palme)\n- Mbisi na kwanga (mbisi-na-kwanga)",
     "recipe_id": null
   },
   {
     "id": "region-dishes-11",
     "lang": "fr",
     "task": "region_dishes",
-    "prompt": "Quels plats Mpichi sont associés à la région « Bandundu / Grand Bandundu » (region_id=bandundu) ?",
-    "completion": "- Liboke de poisson (liboke-poisson)\n- Liboke de viande (liboke-viande)\n- Mbinzo aux tomates (mbinzo-tomates)",
+    "prompt": "Quels plats Mpichi sont associés à la région « Ouest de la RDC » (region_id=ouest) ?",
+    "completion": "- Jus de safou (jus-safou)\n- Nsafu grillés (nsafu-grilles)\n- Nsafu en sauce (nsafu-sauce)\n- Saka-madesu (saka-madesu)",
     "recipe_id": null
   },
   {
     "id": "region-dishes-12",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Bandundu / Grand Bandundu » (region_id=bandundu) ?",
+    "completion": "- Liboke de champignons (liboke-champignons)\n- Liboke de légumes (liboke-legumes)\n- Liboke de poisson (liboke-poisson)\n- Liboke de viande (liboke-viande)\n- Mbinzo aux tomates (mbinzo-tomates)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-13",
     "lang": "fr",
     "task": "region_dishes",
     "prompt": "Quels plats Mpichi sont associés à la région « Kinshasa & Kongo-Central » (region_id=kinshasa_kongo) ?",
@@ -8128,11 +10544,19 @@
     "recipe_id": null
   },
   {
-    "id": "region-dishes-13",
+    "id": "region-dishes-14",
+    "lang": "fr",
+    "task": "region_dishes",
+    "prompt": "Quels plats Mpichi sont associés à la région « Kisangani » (region_id=kisangani) ?",
+    "completion": "- Poisson Kisangani (poisson-kisangani)\n- Salade chou-carotte (salade-kisangani)",
+    "recipe_id": null
+  },
+  {
+    "id": "region-dishes-15",
     "lang": "fr",
     "task": "region_dishes",
     "prompt": "Quels plats Mpichi sont associés à la région « Kinshasa & Cuvette » (region_id=kinshasa_cuvette) ?",
-    "completion": "- Pondu (saka-saka) (pondu)\n- Riz à la moambe (riz-moambe)",
+    "completion": "- Pondu (saka-saka) (pondu)\n- Pondu au poisson (pondu-poisson)\n- Riz à la moambe (riz-moambe)",
     "recipe_id": null
   }
 ]

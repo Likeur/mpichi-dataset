@@ -1,23 +1,23 @@
 {
   "name": "mpichi-dataset",
-  "version": "1.5.1",
-  "updated_at": "2026-10-25",
-  "recipe_count": 110,
-  "instruction_pair_count": 1017,
+  "version": "1.6.0",
+  "updated_at": "2026-11-02",
+  "recipe_count": 143,
+  "instruction_pair_count": 1320,
   "instruction_task_counts": {
-    "recipe_full": 220,
-    "list_ingredients": 110,
-    "region_context": 110,
-    "aliases": 110,
-    "alias_to_dish": 330,
-    "structured_ingredients": 110,
-    "region_list": 13,
-    "region_dishes": 14
+    "recipe_full": 286,
+    "list_ingredients": 143,
+    "region_context": 143,
+    "aliases": 143,
+    "alias_to_dish": 429,
+    "structured_ingredients": 143,
+    "region_list": 17,
+    "region_dishes": 16
   },
   "eval_qa_count": 95,
   "splits": {
-    "train": 101,
-    "valid": 9
+    "train": 132,
+    "valid": 11
   },
   "source_site": "https://mpichi.likeur.xyz",
   "source_repo": "https://github.com/Likeur/mpichi",
@@ -31,26 +31,26 @@
   "region_taxonomy_version": 1,
   "region_counts": {
     "haut_katanga_tanganyika": 6,
-    "kinshasa_west": 9,
-    "nationwide": 17,
+    "kinshasa_west": 10,
+    "nationwide": 25,
     "grand_kasai": 9,
-    "kinshasa": 25,
+    "kinshasa": 34,
     "grand_katanga": 7,
-    "kinshasa_basin": 9,
-    "bassin_congo": 4,
-    "kivu": 8,
-    "cuvette": 3,
-    "kongo_central": 1,
-    "ouest": 3,
-    "bandundu": 3,
+    "kinshasa_basin": 11,
+    "bassin_congo": 5,
+    "kivu": 10,
+    "cuvette": 6,
+    "kongo_central": 3,
+    "ouest": 4,
+    "bandundu": 5,
     "kinshasa_kongo": 3,
-    "kinshasa_cuvette": 2,
-    "kisangani": 1
+    "kisangani": 2,
+    "kinshasa_cuvette": 3
   },
   "ingredients_structured": {
-    "total_lines": 781,
-    "structured_lines": 627,
-    "structured_ratio": 0.8028,
+    "total_lines": 1009,
+    "structured_lines": 816,
+    "structured_ratio": 0.8087,
     "raw_coverage": 1
   }
 }

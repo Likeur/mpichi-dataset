@@ -176,7 +176,7 @@ Zenodo DOI checklist: [paper/ZENODO.md](paper/ZENODO.md). Croissant: [metadata/c
   title        = {Mpichi Dataset: An Open Bilingual Resource of Congolese (DRC) Recipes},
   year         = {2026},
   publisher    = {Zenodo},
-  version      = {v1.5.1},
+  version      = {v1.6.0},
   doi          = {10.5281/zenodo.23651495},
   url          = {https://doi.org/10.5281/zenodo.23651495}
 }

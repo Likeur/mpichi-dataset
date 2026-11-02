@@ -10,6 +10,18 @@ GitHub releases / Hugging Face revisions.
 
 ## [Unreleased]
 
+## [1.6.0] — 2026-11-02
+
+### Added
+
+- Editorial waves A–F (+33 recipes vs v1.5.1): phares, street Kinshasa, féculents, régions sous-couvertes, boissons & desserts, renfort polish (`crevettes-grillees`, `cotes-porc`, `mikila-arachide`, `chou-kinshasa`, …)
+- Site companion guide `/guides/fufu/` (not part of the recipe JSON export)
+- Alias coverage expanded for waves A–F
+
+### Changed
+
+- Related-recipe links rebalanced on flagship cards (pondu, moambe, fufu, pork/shrimp/mikila clusters)
+
 ## [1.5.1] — 2026-10-26
 
 ### Added
@@ -81,7 +93,8 @@ GitHub releases / Hugging Face revisions.
 - Curated alias enrichment seed (`enrichment/aliases.json`)
 - Export + validate scripts from the Mpichi site content
 
-[Unreleased]: https://github.com/Likeur/mpichi-dataset/compare/v1.5.1...HEAD
+[Unreleased]: https://github.com/Likeur/mpichi-dataset/compare/v1.6.0...HEAD
+[1.6.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.5.1...v1.6.0
 [1.5.1]: https://github.com/Likeur/mpichi-dataset/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/Likeur/mpichi-dataset/compare/v1.3.0...v1.4.0
