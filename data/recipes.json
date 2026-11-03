@@ -274,7 +274,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "aubergines-africaines",
@@ -541,7 +541,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "bananes-caramel",
@@ -741,6 +741,7 @@
       "beignets-banane",
       "bananes-douces-vapeur",
       "gateau-arachide",
+      "gateau-banane",
       "mikate"
     ],
     "sources": [
@@ -775,7 +776,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "bananes-douces-vapeur",
@@ -787,6 +788,11 @@
         {
           "name": "bananes dessert",
           "lang": "fr"
+        },
+        {
+          "name": "banane ya mvuke",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "banane douce",
@@ -971,7 +977,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "beignets-banane",
@@ -1199,6 +1205,7 @@
     "variants": [],
     "related_recipes": [
       "bananes-caramel",
+      "gateau-banane",
       "mikate",
       "beignets-manioc",
       "bouillie-mais"
@@ -1246,7 +1253,249 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "beignets-haricot",
+    "slug": "beignets-haricot",
+    "names": {
+      "fr": "Beignets de haricots",
+      "en": "Bean fritters",
+      "aliases": [
+        {
+          "name": "beignets de haricots",
+          "lang": "fr"
+        },
+        {
+          "name": "akara",
+          "lang": "und",
+          "note": "West African name also used in diaspora stalls"
+        },
+        {
+          "name": "kosai",
+          "lang": "ha",
+          "note": "Hausa / Sahel name"
+        },
+        {
+          "name": "bean fritters",
+          "lang": "en"
+        },
+        {
+          "name": "beignets ya madesu",
+          "lang": "ln"
+        },
+        {
+          "name": "beignets haricot",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "street food",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "goûter",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette beignets de haricots congolais",
+      "en": "Congolese bean fritters recipe"
+    },
+    "description": {
+      "fr": "Recette de beignets de haricots : pâte de haricots frits (akara / kosai) — goûter et street food, cousin des mikate.",
+      "en": "Bean fritters recipe: fried bean batter (akara / kosai) — snack and street food, cousin to mikate."
+    },
+    "body": {
+      "fr": "Les **beignets de haricots** (souvent appelés *akara* ou *kosai* en Afrique de l’Ouest, présents aussi sur les étals congolais) sont une alternative aux [mikate](/recettes/mikate/) : même geste de friture, base légumineuse. À boire : [tangawisi](/recettes/tangawisi/).",
+      "en": "Bean fritters (often called *akara* or *kosai* in West Africa, also found on Congolese stalls) are an alternative to [mikate](/en/recettes/mikate/): same frying gesture, legume base. To drink: [tangawisi](/en/recettes/tangawisi/)."
+    },
+    "region": "Kinshasa & Ouest de la RDC",
+    "region_id": "kinshasa_west",
+    "region_label": {
+      "fr": "Kinshasa & Ouest de la RDC",
+      "en": "Kinshasa & western DRC"
+    },
+    "region_legacy": "Kinshasa & Ouest de la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa",
+      "Ouest de la RDC"
+    ],
+    "category": "dessert",
+    "difficulty": "moyen",
+    "prep_time": "30 min + 8 h de trempage",
+    "cook_time": "25 min",
+    "prep_time_iso": "PT8H30M",
+    "cook_time_iso": "PT25M",
+    "servings": 6,
+    "tags": [
+      "beignets haricot",
+      "akara",
+      "kosai",
+      "street food",
+      "goûter"
+    ],
+    "ingredients": {
+      "fr": [
+        "400 g de haricots blancs ou noirs à œil (décortiqués de préférence)",
+        "1 petit oignon",
+        "1 petit piment (optionnel)",
+        "1 c. à café de sel",
+        "Eau",
+        "Huile de friture"
+      ],
+      "en": [
+        "400 g white or black-eyed beans (peeled if possible)",
+        "1 small onion",
+        "1 small chili (optional)",
+        "1 tsp salt",
+        "Water",
+        "Frying oil"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "400 g de haricots blancs ou noirs à œil (décortiqués de préférence)",
+          "amount": 400,
+          "unit": "g",
+          "name": "haricots blancs ou noirs à œil (décortiqués de préférence)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 petit oignon",
+          "amount": 1,
+          "unit": "piece",
+          "name": "petit oignon",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 petit piment (optionnel)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "petit piment (optionnel)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 c. à café de sel",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "sel",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Eau",
+          "name": "Eau",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "Huile de friture",
+          "name": "Huile de friture",
+          "parse_status": "raw_only"
+        }
+      ],
+      "en": [
+        {
+          "raw": "400 g white or black-eyed beans (peeled if possible)",
+          "amount": 400,
+          "unit": "g",
+          "name": "white or black-eyed beans (peeled if possible)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 small onion",
+          "amount": 1,
+          "unit": "piece",
+          "name": "small onion",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 small chili (optional)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "small chili (optional)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 tsp salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "salt",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Water",
+          "name": "Water",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "Frying oil",
+          "name": "Frying oil",
+          "parse_status": "raw_only"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Faire tremper les haricots une nuit. Les égoutter, retirer autant que possible les peaux.",
+        "Mixer haricots, oignon, piment et sel avec un peu d’eau jusqu’à pâte épaisse et lisse (pas trop liquide).",
+        "Chauffer l’huile à feu moyen. Prélever des cuillerées de pâte et les plonger sans surcharger.",
+        "Frire jusqu’à doré uniforme en retournant. Égoutter sur papier.",
+        "Servir tiède, nature ou avec une sauce pili-pili."
+      ],
+      "en": [
+        "Soak the beans overnight. Drain and remove as many skins as possible.",
+        "Blend beans, onion, chili and salt with a little water to a thick, smooth batter (not too runny).",
+        "Heat oil over medium heat. Drop spoonfuls of batter without overcrowding.",
+        "Fry until evenly golden, turning once. Drain on paper.",
+        "Serve warm, plain or with pili-pili sauce."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "mikate",
+      "beignets-banane",
+      "beignets-manioc",
+      "madesu",
+      "tangawisi"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: FOODIEAFRICAN — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Akara_na_Akamu_(Fried_Bean_cakes_and_Pap).jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Akara%20na%20Akamu%20(Fried%20Bean%20cakes%20and%20Pap).jpg?width=1600",
+    "image_alt": {
+      "fr": "Beignets de haricots frits dorés dans une assiette",
+      "en": "Golden fried bean fritters on a plate"
+    },
+    "image_credit": "FOODIEAFRICAN — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Akara_na_Akamu_(Fried_Bean_cakes_and_Pap).jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/beignets-haricot/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/beignets-haricot/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "beignets-igname",
@@ -1258,6 +1507,11 @@
         {
           "name": "galettes d’igname",
           "lang": "fr"
+        },
+        {
+          "name": "beignet ya mbala",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "beignets",
@@ -1493,7 +1747,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "beignets-manioc",
@@ -1741,7 +1995,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "biteku-teku-kasai",
@@ -2018,7 +2272,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "boeuf-ya-kotumba",
@@ -2291,7 +2545,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "bonbons-arachide",
@@ -2517,7 +2771,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "bouillie-arachide",
@@ -2713,6 +2967,7 @@
       "gateau-arachide",
       "bonbons-arachide",
       "bouillie-mais",
+      "bouillie-manioc",
       "mikate",
       "beignets-banane"
     ],
@@ -2748,7 +3003,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "bouillie-mais",
@@ -2770,6 +3025,11 @@
         {
           "name": "maize porridge",
           "lang": "en"
+        },
+        {
+          "name": "bouillie ya maïs",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "maïs",
@@ -2953,6 +3213,8 @@
       "mais-bouilli",
       "mais-grille",
       "bouillie-arachide",
+      "bouillie-manioc",
+      "galettes-mais",
       "mikate",
       "tangawisi"
     ],
@@ -2988,7 +3250,249 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "bouillie-manioc",
+    "slug": "bouillie-manioc",
+    "names": {
+      "fr": "Bouillie de manioc",
+      "en": "Cassava porridge",
+      "aliases": [
+        {
+          "name": "bouillie de manioc",
+          "lang": "fr"
+        },
+        {
+          "name": "cassava porridge",
+          "lang": "en"
+        },
+        {
+          "name": "bouillie ya manioc",
+          "lang": "ln"
+        },
+        {
+          "name": "uji ya manioc",
+          "lang": "sw",
+          "note": "Eastern / diaspora gloss"
+        },
+        {
+          "name": "manioc",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "bouillie",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "petit-déjeuner",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "goûter",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette bouillie de manioc",
+      "en": "Cassava porridge recipe"
+    },
+    "description": {
+      "fr": "Recette de bouillie de manioc : farine de manioc cuite à l’eau jusqu’à texture crémeuse, sucrée — petit-déjeuner et goûter, distincte de la bouillie de maïs.",
+      "en": "Cassava porridge recipe: cassava flour cooked in water to a creamy texture, sweetened — breakfast and snack, distinct from maize porridge."
+    },
+    "body": {
+      "fr": "La **bouillie de manioc** reprend le geste de la [bouillie de maïs](/recettes/bouillie-mais/) avec une autre farine — plus neutre, parfois un peu élastique. À ne pas confondre avec la pâte salée [fufu de manioc](/recettes/fufu-manioc/). Cousine arachide : [bouillie d’arachide](/recettes/bouillie-arachide/).",
+      "en": "Cassava porridge reuses the gesture of [maize porridge](/en/recettes/bouillie-mais/) with another flour — milder, sometimes slightly elastic. Not the savoury paste [cassava fufu](/en/recettes/fufu-manioc/). Peanut cousin: [peanut porridge](/en/recettes/bouillie-arachide/)."
+    },
+    "region": "Toute la RDC",
+    "region_id": "nationwide",
+    "region_label": {
+      "fr": "Toute la RDC",
+      "en": "Across the DRC"
+    },
+    "region_legacy": "Toute la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Toute la RDC"
+    ],
+    "category": "dessert",
+    "difficulty": "facile",
+    "prep_time": "5 min",
+    "cook_time": "20 min",
+    "prep_time_iso": "PT5M",
+    "cook_time_iso": "PT20M",
+    "servings": 4,
+    "tags": [
+      "manioc",
+      "bouillie",
+      "petit-déjeuner",
+      "goûter"
+    ],
+    "ingredients": {
+      "fr": [
+        "150 g de farine de manioc fine",
+        "1 l d’eau",
+        "60 à 80 g de sucre",
+        "1 pincée de sel",
+        "1 c. à café de vanille ou zeste de citron, facultatif",
+        "Lait, pour servir, facultatif"
+      ],
+      "en": [
+        "150 g fine cassava flour",
+        "1 l water",
+        "60–80 g sugar",
+        "1 pinch of salt",
+        "1 tsp vanilla or lemon zest, optional",
+        "Milk, to serve, optional"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "150 g de farine de manioc fine",
+          "amount": 150,
+          "unit": "g",
+          "name": "farine de manioc fine",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 l d’eau",
+          "amount": 1,
+          "unit": "l",
+          "name": "eau",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "60 à 80 g de sucre",
+          "amount": 60,
+          "unit": "g",
+          "name": "sucre",
+          "parse_status": "structured",
+          "amount_max": 80
+        },
+        {
+          "raw": "1 pincée de sel",
+          "amount": 1,
+          "unit": "pinch",
+          "name": "sel",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 c. à café de vanille ou zeste de citron, facultatif",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "vanille ou zeste de citron, facultatif",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Lait, pour servir, facultatif",
+          "name": "Lait, pour servir, facultatif",
+          "parse_status": "raw_only"
+        }
+      ],
+      "en": [
+        {
+          "raw": "150 g fine cassava flour",
+          "amount": 150,
+          "unit": "g",
+          "name": "fine cassava flour",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 l water",
+          "amount": 1,
+          "unit": "l",
+          "name": "water",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "60–80 g sugar",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "1 pinch of salt",
+          "amount": 1,
+          "unit": "piece",
+          "name": "pinch of salt",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 tsp vanilla or lemon zest, optional",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "vanilla or lemon zest, optional",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Milk, to serve, optional",
+          "name": "Milk, to serve, optional",
+          "parse_status": "raw_only"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Délayer la farine dans 250 ml d’eau froide jusqu’à un mélange sans grumeaux.",
+        "Porter le reste de l’eau à ébullition avec le sel.",
+        "Verser le mélange farine en pluie en remuant vivement.",
+        "Cuire 12 à 15 minutes à feu moyen, en remuant sans cesse, jusqu’à texture crémeuse.",
+        "Incorporer le sucre et le parfum. Servir tiède, nature ou avec un filet de lait."
+      ],
+      "en": [
+        "Loosen the flour in 250 ml cold water until lump-free.",
+        "Bring the remaining water to a boil with the salt.",
+        "Pour in the flour mix in a thin stream, stirring hard.",
+        "Cook 12–15 minutes on medium heat, stirring constantly, until creamy.",
+        "Stir in sugar and flavouring. Serve warm, plain or with a splash of milk."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "bouillie-mais",
+      "bouillie-arachide",
+      "fufu-manioc",
+      "mikate",
+      "tangawisi"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Rwebogora — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Cooking_cassava_porridge.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cooking%20cassava%20porridge.jpg?width=1600",
+    "image_alt": {
+      "fr": "Bouillie de manioc en cours de cuisson dans une casserole",
+      "en": "Cassava porridge cooking in a pot"
+    },
+    "image_credit": "Rwebogora — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Cooking_cassava_porridge.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/bouillie-manioc/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/bouillie-manioc/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "brochettes-boeuf",
@@ -3262,7 +3766,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "brochettes-foie",
@@ -3512,7 +4016,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "brochettes-grillons",
@@ -3746,7 +4250,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "brochettes-lubumbashi",
@@ -4016,7 +4520,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "brochettes-poulet",
@@ -4290,7 +4794,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "bukari-katanga",
@@ -4334,8 +4838,8 @@
         },
         {
           "name": "bukari",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "fufu maïs",
@@ -4685,7 +5189,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "capitaine-braise",
@@ -4713,6 +5217,16 @@
         {
           "name": "braised capitaine",
           "lang": "en"
+        },
+        {
+          "name": "capitaine ya kotumba",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
+        },
+        {
+          "name": "mbisi ya capitaine",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "capitaine",
@@ -4960,7 +5474,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "chikwangue",
@@ -5169,7 +5683,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "chikwangue-grillee",
@@ -5181,6 +5695,16 @@
         {
           "name": "kwanga grillée",
           "lang": "fr"
+        },
+        {
+          "name": "kwanga ya kotumba",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
+        },
+        {
+          "name": "chikwangue ya kotumba",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "chikwangue",
@@ -5364,7 +5888,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "chou-kinshasa",
@@ -5640,7 +6164,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "chou-mijote-est",
@@ -5657,6 +6181,11 @@
           "name": "sukuma ya chou",
           "lang": "sw",
           "note": "Informal"
+        },
+        {
+          "name": "chou ya kobila",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "chou",
@@ -5898,7 +6427,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "cotes-porc",
@@ -5918,6 +6447,11 @@
         {
           "name": "côtes levées",
           "lang": "fr"
+        },
+        {
+          "name": "côtes ya ngulu",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "porc",
@@ -6184,7 +6718,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "courge-sauce",
@@ -6200,6 +6734,11 @@
         {
           "name": "pumpkin stew",
           "lang": "en"
+        },
+        {
+          "name": "courge na sauce",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "potiron",
@@ -6446,7 +6985,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "crevettes-fleuve",
@@ -6720,7 +7259,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "crevettes-grillees",
@@ -6959,7 +7498,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "croquettes-manioc",
@@ -7208,7 +7747,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "dongo-dongo",
@@ -7223,8 +7762,8 @@
         },
         {
           "name": "dongo-dongo",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "gombo",
@@ -7460,7 +7999,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "escargots-congolaise",
@@ -7709,7 +8248,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "foie-boeuf-saute",
@@ -7914,6 +8453,7 @@
     "variants": [],
     "related_recipes": [
       "brochettes-foie",
+      "rognons-saute",
       "kamundele",
       "sauce-pili-pili",
       "loso-mayonnaise"
@@ -7950,7 +8490,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "fufu-manioc",
@@ -8162,7 +8702,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "fufu-plantain",
@@ -8365,7 +8905,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "fumbwa-arachides",
@@ -8407,16 +8947,16 @@
       "fr": "Le **fumbwa** (aussi appelé **koko**, okazi ou eru selon les régions) n’est pas du pondu : ce sont des feuilles de liane forestière, souvent vendues déjà émincées. La sauce doit cuire doucement pour que l’arachide développe toute sa rondeur.\n\nAutre grand plat de feuilles : le [pondu (saka-saka)](/recettes/pondu/). Servir volontiers avec de la [chikwangue](/recettes/chikwangue/).",
       "en": "Fumbwa (also called koko, okazi or eru) is not pondu: it is a forest vine leaf, often sold already shredded. Cook the sauce gently so the peanut paste turns round and creamy. Serve with chikwangue or fufu."
     },
-    "region": "Kongo Central",
+    "region": "Kongo-Central",
     "region_id": "kongo_central",
     "region_label": {
       "fr": "Kongo-Central",
       "en": "Kongo-Central"
     },
-    "region_legacy": "Kongo Central",
+    "region_legacy": "Kongo-Central",
     "country": "CD",
     "geo_tags": [
-      "Kongo Central"
+      "Kongo-Central"
     ],
     "category": "plat",
     "difficulty": "moyen",
@@ -8954,7 +9494,282 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "galettes-mais",
+    "slug": "galettes-mais",
+    "names": {
+      "fr": "Galettes de maïs",
+      "en": "Maize flatcakes",
+      "aliases": [
+        {
+          "name": "galettes de maïs",
+          "lang": "fr"
+        },
+        {
+          "name": "galettes maïs",
+          "lang": "fr"
+        },
+        {
+          "name": "maize flatcakes",
+          "lang": "en"
+        },
+        {
+          "name": "galettes ya maïs",
+          "lang": "ln"
+        },
+        {
+          "name": "maïs",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "galettes",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "goûter",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "street food",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette galettes de maïs — goûter street",
+      "en": "Maize flatcakes recipe — street snack"
+    },
+    "description": {
+      "fr": "Recette de galettes de maïs : pâte de farine de maïs poêlée ou légèrement frite — goûter et street food, distinctes du maïs grillé en épi.",
+      "en": "Maize flatcakes recipe: maize-flour batter pan-fried or lightly fried — snack and street food, distinct from grilled corn on the cob."
+    },
+    "body": {
+      "fr": "Les **galettes de maïs** sont le goûter poêlé — pas l’épi du [maïs grillé](/recettes/mais-grille/) ni la crème de la [bouillie de maïs](/recettes/bouillie-mais/). Cousins frits : [mikate](/recettes/mikate/), [beignets de manioc](/recettes/beignets-manioc/).",
+      "en": "Maize flatcakes are the pan snack — not the cob of [grilled maize](/en/recettes/mais-grille/) nor the cream of [maize porridge](/en/recettes/bouillie-mais/). Fried cousins: [mikate](/en/recettes/mikate/), [cassava fritters](/en/recettes/beignets-manioc/)."
+    },
+    "region": "Toute la RDC",
+    "region_id": "nationwide",
+    "region_label": {
+      "fr": "Toute la RDC",
+      "en": "Across the DRC"
+    },
+    "region_legacy": "Toute la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Toute la RDC"
+    ],
+    "category": "dessert",
+    "difficulty": "facile",
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "prep_time_iso": "PT15M",
+    "cook_time_iso": "PT25M",
+    "servings": 6,
+    "tags": [
+      "maïs",
+      "galettes",
+      "goûter",
+      "street food"
+    ],
+    "ingredients": {
+      "fr": [
+        "250 g de farine de maïs fine",
+        "50 g de farine de blé (pour lier), facultatif",
+        "2 œufs",
+        "200 ml d’eau ou de lait",
+        "40 g de sucre",
+        "1 pincée de sel",
+        "1 c. à café de levure chimique",
+        "Huile pour la poêle"
+      ],
+      "en": [
+        "250 g fine maize flour",
+        "50 g wheat flour (to bind), optional",
+        "2 eggs",
+        "200 ml water or milk",
+        "40 g sugar",
+        "1 pinch of salt",
+        "1 tsp baking powder",
+        "Oil for the pan"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "250 g de farine de maïs fine",
+          "amount": 250,
+          "unit": "g",
+          "name": "farine de maïs fine",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "50 g de farine de blé (pour lier), facultatif",
+          "amount": 50,
+          "unit": "g",
+          "name": "farine de blé (pour lier), facultatif",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 œufs",
+          "amount": 2,
+          "unit": "piece",
+          "name": "œufs",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "200 ml d’eau ou de lait",
+          "amount": 200,
+          "unit": "ml",
+          "name": "eau ou de lait",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "40 g de sucre",
+          "amount": 40,
+          "unit": "g",
+          "name": "sucre",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 pincée de sel",
+          "amount": 1,
+          "unit": "pinch",
+          "name": "sel",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 c. à café de levure chimique",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "levure chimique",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Huile pour la poêle",
+          "name": "Huile pour la poêle",
+          "parse_status": "raw_only"
+        }
+      ],
+      "en": [
+        {
+          "raw": "250 g fine maize flour",
+          "amount": 250,
+          "unit": "g",
+          "name": "fine maize flour",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "50 g wheat flour (to bind), optional",
+          "amount": 50,
+          "unit": "g",
+          "name": "wheat flour (to bind), optional",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 eggs",
+          "amount": 2,
+          "unit": "piece",
+          "name": "eggs",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "200 ml water or milk",
+          "amount": 200,
+          "unit": "ml",
+          "name": "water or milk",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "40 g sugar",
+          "amount": 40,
+          "unit": "g",
+          "name": "sugar",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 pinch of salt",
+          "amount": 1,
+          "unit": "piece",
+          "name": "pinch of salt",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 tsp baking powder",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "baking powder",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Oil for the pan",
+          "name": "Oil for the pan",
+          "parse_status": "raw_only"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Mélanger farines, sucre, sel et levure.",
+        "Ajouter les œufs puis l’eau (ou le lait) jusqu’à une pâte épaisse tombante.",
+        "Chauffer un filet d’huile dans une poêle à feu moyen.",
+        "Déposer des cuillerées de pâte, aplatir légèrement. Cuire 3 à 4 minutes de chaque côté jusqu’à doré.",
+        "Égoutter sur papier. Servir tiède, nature ou avec un peu de sucre / pâte d’arachide."
+      ],
+      "en": [
+        "Mix flours, sugar, salt and baking powder.",
+        "Add eggs then water (or milk) to a thick, pourable batter.",
+        "Heat a little oil in a pan over medium heat.",
+        "Drop spoonfuls of batter, flatten lightly. Cook 3–4 minutes per side until golden.",
+        "Drain on paper. Serve warm, plain or with a little sugar / peanut paste."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "mais-grille",
+      "bouillie-mais",
+      "mikate",
+      "beignets-manioc",
+      "tangawisi"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: EAT&ART TARO — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Mealie_bread01.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mealie%20bread01.jpg?width=1600",
+    "image_alt": {
+      "fr": "Pain / galette à base de maïs, doré",
+      "en": "Golden maize bread / flatcake"
+    },
+    "image_credit": "EAT&ART TARO — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Mealie_bread01.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/galettes-mais/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/galettes-mais/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "gateau-arachide",
@@ -9185,6 +10000,7 @@
     "variants": [],
     "related_recipes": [
       "gateau-manioc",
+      "gateau-banane",
       "bouillie-arachide",
       "bonbons-arachide",
       "sauce-arachide"
@@ -9221,7 +10037,286 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "gateau-banane",
+    "slug": "gateau-banane",
+    "names": {
+      "fr": "Gâteau à la banane",
+      "en": "Banana cake",
+      "aliases": [
+        {
+          "name": "gâteau banane",
+          "lang": "fr"
+        },
+        {
+          "name": "cake banane",
+          "lang": "fr"
+        },
+        {
+          "name": "banana cake",
+          "lang": "en"
+        },
+        {
+          "name": "gâteau ya libuma",
+          "lang": "ln"
+        },
+        {
+          "name": "banane",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "gâteau",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "dessert",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "goûter",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette gâteau banane — cake plantain ou banane douce",
+      "en": "Banana cake recipe — plantain or sweet banana"
+    },
+    "description": {
+      "fr": "Recette de gâteau à la banane : cake moelleux aux bananes écrasées — dessert / goûter nationwide, cousin du gâteau arachide et du gâteau manioc.",
+      "en": "Banana cake recipe: soft cake with mashed bananas — nationwide dessert / snack, cousin to peanut cake and cassava cake."
+    },
+    "body": {
+      "fr": "Le **gâteau à la banane** utilise les fruits trop mûrs du marché — distinct des [bananes au caramel](/recettes/bananes-caramel/) et des [beignets de banane](/recettes/beignets-banane/). Autres cakes : [gâteau arachide](/recettes/gateau-arachide/), [gâteau manioc](/recettes/gateau-manioc/).",
+      "en": "Banana cake uses overripe market fruit — distinct from [caramel bananas](/en/recettes/bananes-caramel/) and [banana fritters](/en/recettes/beignets-banane/). Other cakes: [peanut cake](/en/recettes/gateau-arachide/), [cassava cake](/en/recettes/gateau-manioc/)."
+    },
+    "region": "Toute la RDC",
+    "region_id": "nationwide",
+    "region_label": {
+      "fr": "Toute la RDC",
+      "en": "Across the DRC"
+    },
+    "region_legacy": "Toute la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Toute la RDC"
+    ],
+    "category": "dessert",
+    "difficulty": "facile",
+    "prep_time": "20 min",
+    "cook_time": "45 min",
+    "prep_time_iso": "PT20M",
+    "cook_time_iso": "PT45M",
+    "servings": 8,
+    "tags": [
+      "banane",
+      "gâteau",
+      "dessert",
+      "goûter"
+    ],
+    "ingredients": {
+      "fr": [
+        "3 bananes bien mûres (ou plantains très mûrs), écrasées",
+        "200 g de farine de blé",
+        "120 g de sucre",
+        "2 œufs",
+        "80 ml d’huile neutre (ou 100 g de beurre fondu)",
+        "1 sachet de levure chimique (11 g)",
+        "1 pincée de sel",
+        "1 c. à café de vanille"
+      ],
+      "en": [
+        "3 very ripe bananas (or very ripe plantains), mashed",
+        "200 g wheat flour",
+        "120 g sugar",
+        "2 eggs",
+        "80 ml neutral oil (or 100 g melted butter)",
+        "1 packet baking powder (11 g)",
+        "1 pinch of salt",
+        "1 tsp vanilla"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "3 bananes bien mûres (ou plantains très mûrs), écrasées",
+          "amount": 3,
+          "unit": "piece",
+          "name": "bananes bien mûres (ou plantains très mûrs), écrasées",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "200 g de farine de blé",
+          "amount": 200,
+          "unit": "g",
+          "name": "farine de blé",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "120 g de sucre",
+          "amount": 120,
+          "unit": "g",
+          "name": "sucre",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 œufs",
+          "amount": 2,
+          "unit": "piece",
+          "name": "œufs",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "80 ml d’huile neutre (ou 100 g de beurre fondu)",
+          "amount": 80,
+          "unit": "ml",
+          "name": "huile neutre (ou 100 g de beurre fondu)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 sachet de levure chimique (11 g)",
+          "amount": 1,
+          "unit": "packet",
+          "name": "levure chimique (11 g)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 pincée de sel",
+          "amount": 1,
+          "unit": "pinch",
+          "name": "sel",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 c. à café de vanille",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "vanille",
+          "parse_status": "structured"
+        }
+      ],
+      "en": [
+        {
+          "raw": "3 very ripe bananas (or very ripe plantains), mashed",
+          "amount": 3,
+          "unit": "piece",
+          "name": "very ripe bananas (or very ripe plantains), mashed",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "200 g wheat flour",
+          "amount": 200,
+          "unit": "g",
+          "name": "wheat flour",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "120 g sugar",
+          "amount": 120,
+          "unit": "g",
+          "name": "sugar",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 eggs",
+          "amount": 2,
+          "unit": "piece",
+          "name": "eggs",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "80 ml neutral oil (or 100 g melted butter)",
+          "amount": 80,
+          "unit": "ml",
+          "name": "neutral oil (or 100 g melted butter)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 packet baking powder (11 g)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "packet baking powder (11 g)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 pinch of salt",
+          "amount": 1,
+          "unit": "piece",
+          "name": "pinch of salt",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 tsp vanilla",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "vanilla",
+          "parse_status": "structured"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Préchauffer le four à 180 °C. Beurrer un moule.",
+        "Écraser les bananes. Battre œufs et sucre, ajouter huile, bananes et vanille.",
+        "Incorporer la farine, la levure et le sel. Mélanger juste jusqu’à homogénéité.",
+        "Verser dans le moule. Cuire 40 à 50 minutes jusqu’à ce qu’un couteau ressort propre.",
+        "Laisser tiédir avant de démouler. Servir en parts."
+      ],
+      "en": [
+        "Preheat the oven to 180 °C. Grease a tin.",
+        "Mash the bananas. Beat eggs and sugar, add oil, bananas and vanilla.",
+        "Fold in flour, baking powder and salt until just combined.",
+        "Pour into the tin. Bake 40–50 minutes until a knife comes out clean.",
+        "Cool slightly before turning out. Serve in slices."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "gateau-arachide",
+      "gateau-manioc",
+      "bananes-caramel",
+      "beignets-banane",
+      "mikate"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Tassilomoedl — Wikimedia Commons, CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Banana_cake_2.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Banana%20cake%202.jpg?width=1600",
+    "image_alt": {
+      "fr": "Gâteau à la banane coupé en parts",
+      "en": "Banana cake cut into slices"
+    },
+    "image_credit": "Tassilomoedl — Wikimedia Commons, CC0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Banana_cake_2.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/gateau-banane/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/gateau-banane/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "gateau-manioc",
@@ -9453,6 +10548,7 @@
     "variants": [],
     "related_recipes": [
       "gateau-arachide",
+      "gateau-banane",
       "beignets-manioc",
       "bouillie-mais"
     ],
@@ -9488,7 +10584,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "haricots-maharage",
@@ -9510,6 +10606,11 @@
         {
           "name": "haricots rouges",
           "lang": "fr"
+        },
+        {
+          "name": "madesu ya maharage",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "haricots",
@@ -9752,7 +10853,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "haricots-nguba-kasai",
@@ -10006,7 +11107,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "haricots-verts-palme",
@@ -10018,6 +11119,11 @@
         {
           "name": "haricots verts",
           "lang": "fr"
+        },
+        {
+          "name": "haricots verts na mafuta ya palmier",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "légumes",
@@ -10246,7 +11352,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "igname-bouillie",
@@ -10271,6 +11377,16 @@
         {
           "name": "igname bouillie",
           "lang": "fr"
+        },
+        {
+          "name": "mbala ya kobila",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
+        },
+        {
+          "name": "igname ya kobila",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "tubercule",
@@ -10452,7 +11568,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "igname-sauce",
@@ -10720,7 +11836,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "jus-ananas",
@@ -10888,7 +12004,8 @@
     "related_recipes": [
       "jus-mangue",
       "jus-passion",
-      "tangawisi"
+      "tangawisi",
+      "jus-gingembre-ananas"
     ],
     "sources": [
       {
@@ -10922,7 +12039,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "jus-bissap",
@@ -10943,6 +12060,11 @@
         {
           "name": "jus ya hibiscus",
           "lang": "fr"
+        },
+        {
+          "name": "jus ya bissap",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "hibiscus",
@@ -11101,7 +12223,8 @@
       "jus-mangue",
       "jus-ananas",
       "jus-passion",
-      "tangawisi"
+      "tangawisi",
+      "the-citronnelle"
     ],
     "sources": [
       {
@@ -11146,7 +12269,249 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "jus-gingembre-ananas",
+    "slug": "jus-gingembre-ananas",
+    "names": {
+      "fr": "Jus gingembre-ananas",
+      "en": "Ginger-pineapple juice",
+      "aliases": [
+        {
+          "name": "jus gingembre ananas",
+          "lang": "fr"
+        },
+        {
+          "name": "tangawisi ananas",
+          "lang": "fr"
+        },
+        {
+          "name": "ginger pineapple juice",
+          "lang": "en"
+        },
+        {
+          "name": "tangawisi ya ananas",
+          "lang": "ln"
+        },
+        {
+          "name": "gingembre",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "ananas",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "tangawisi",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "jus",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "boisson",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette jus gingembre ananas — tangawisi à l’ananas",
+      "en": "Ginger-pineapple juice recipe — tangawisi with pineapple"
+    },
+    "description": {
+      "fr": "Recette de jus gingembre-ananas : tangawisi enrichi d’ananas frais — boisson piquante et fruitée, très demandée en RDC et en diaspora.",
+      "en": "Ginger-pineapple juice recipe: tangawisi enriched with fresh pineapple — a spicy, fruity drink popular in the DRC and the diaspora."
+    },
+    "body": {
+      "fr": "Le **jus gingembre-ananas** est la variante fruitée du [tangawisi](/recettes/tangawisi/) : même piquant, plus de douceur d’ananas. Jus d’ananas seul : [jus d’ananas](/recettes/jus-ananas/).",
+      "en": "Ginger-pineapple juice is the fruity variant of [tangawisi](/en/recettes/tangawisi/): same heat, more pineapple sweetness. Pineapple alone: [pineapple juice](/en/recettes/jus-ananas/)."
+    },
+    "region": "Kinshasa",
+    "region_id": "kinshasa",
+    "region_label": {
+      "fr": "Kinshasa",
+      "en": "Kinshasa"
+    },
+    "region_legacy": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "boisson",
+    "difficulty": "facile",
+    "prep_time": "25 min + 30 min de repos",
+    "cook_time": "0 min",
+    "prep_time_iso": "PT25M",
+    "servings": 6,
+    "tags": [
+      "gingembre",
+      "ananas",
+      "tangawisi",
+      "jus",
+      "boisson"
+    ],
+    "ingredients": {
+      "fr": [
+        "200 g de gingembre frais",
+        "½ ananas mûr (environ 400 g de chair)",
+        "1,5 l d’eau",
+        "80 à 120 g de sucre",
+        "Jus d’1 citron",
+        "1 pincée de piment, facultatif"
+      ],
+      "en": [
+        "200 g fresh ginger",
+        "½ ripe pineapple (about 400 g flesh)",
+        "1.5 l water",
+        "80–120 g sugar",
+        "Juice of 1 lemon",
+        "1 pinch of chili, optional"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "200 g de gingembre frais",
+          "amount": 200,
+          "unit": "g",
+          "name": "gingembre frais",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "½ ananas mûr (environ 400 g de chair)",
+          "name": "½ ananas mûr (environ 400 g de chair)",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "1,5 l d’eau",
+          "amount": 1.5,
+          "unit": "l",
+          "name": "eau",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "80 à 120 g de sucre",
+          "amount": 80,
+          "unit": "g",
+          "name": "sucre",
+          "parse_status": "structured",
+          "amount_max": 120
+        },
+        {
+          "raw": "Jus d’1 citron",
+          "name": "Jus d’1 citron",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "1 pincée de piment, facultatif",
+          "amount": 1,
+          "unit": "pinch",
+          "name": "piment, facultatif",
+          "parse_status": "structured"
+        }
+      ],
+      "en": [
+        {
+          "raw": "200 g fresh ginger",
+          "amount": 200,
+          "unit": "g",
+          "name": "fresh ginger",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "½ ripe pineapple (about 400 g flesh)",
+          "name": "½ ripe pineapple (about 400 g flesh)",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "1.5 l water",
+          "amount": 1.5,
+          "unit": "l",
+          "name": "water",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "80–120 g sugar",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "Juice of 1 lemon",
+          "name": "Juice of 1 lemon",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "1 pinch of chili, optional",
+          "amount": 1,
+          "unit": "piece",
+          "name": "pinch of chili, optional",
+          "parse_status": "structured"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Laver et éplucher le gingembre ; éplucher l’ananas et couper la chair en cubes.",
+        "Mixer gingembre et ananas avec 500 ml d’eau jusqu’à purée grossière.",
+        "Ajouter le reste de l’eau. Laisser reposer 20 à 30 minutes.",
+        "Filtrer à travers un linge fin en pressant bien.",
+        "Sucrer, ajouter le citron (et le piment si souhaité). Réfrigérer. Servir glacé."
+      ],
+      "en": [
+        "Wash and peel the ginger; peel the pineapple and cube the flesh.",
+        "Blend ginger and pineapple with 500 ml water to a coarse purée.",
+        "Add the remaining water. Rest 20–30 minutes.",
+        "Strain through a fine cloth, pressing well.",
+        "Sweeten, add lemon (and chili if desired). Chill. Serve ice-cold."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "tangawisi",
+      "jus-ananas",
+      "jus-mangue",
+      "jus-tamarin",
+      "mikate"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Fiktube — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Omunanansi_Juice_Boiling.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Omunanansi%20Juice%20Boiling.jpg?width=1600",
+    "image_alt": {
+      "fr": "Jus d’ananas en préparation, base du mélange gingembre-ananas",
+      "en": "Pineapple juice being prepared, base of the ginger-pineapple mix"
+    },
+    "image_credit": "Fiktube — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Omunanansi_Juice_Boiling.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/jus-gingembre-ananas/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/jus-gingembre-ananas/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "jus-mangue",
@@ -11354,7 +12719,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "jus-passion",
@@ -11551,7 +12916,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "jus-safou",
@@ -11572,6 +12937,16 @@
         {
           "name": "bush butter fruit",
           "lang": "en"
+        },
+        {
+          "name": "jus ya nsafu",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
+        },
+        {
+          "name": "jus ya safou",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "jus",
@@ -11756,7 +13131,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "jus-tamarin",
@@ -11977,7 +13352,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "kabambale",
@@ -11992,8 +13367,8 @@
         },
         {
           "name": "kabambale",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "conserve",
@@ -12222,7 +13597,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "kamundele",
@@ -12242,8 +13617,13 @@
         },
         {
           "name": "kamundele",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
+        },
+        {
+          "name": "brochette ya kamundele",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "brochettes",
@@ -12495,7 +13875,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "kapenta-tomates",
@@ -12513,6 +13893,11 @@
           "name": "dagaa",
           "lang": "sw",
           "note": "Related small dried fish name in East Africa"
+        },
+        {
+          "name": "kapenta na tomatisi",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "Haut-Katanga",
@@ -12755,7 +14140,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "kossa-kossa",
@@ -12992,7 +14377,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "lait-caille",
@@ -13206,7 +14591,320 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "langue-boeuf-sauce",
+    "slug": "langue-boeuf-sauce",
+    "names": {
+      "fr": "Langue de bœuf en sauce",
+      "en": "Beef tongue in sauce",
+      "aliases": [
+        {
+          "name": "langue de bœuf",
+          "lang": "fr"
+        },
+        {
+          "name": "langue en sauce",
+          "lang": "fr"
+        },
+        {
+          "name": "beef tongue",
+          "lang": "en"
+        },
+        {
+          "name": "monoko ya ngombe",
+          "lang": "ln",
+          "note": "Colloquial gloss"
+        },
+        {
+          "name": "langue",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "bœuf",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "sauce",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "fête",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "abats",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette langue de bœuf en sauce",
+      "en": "Beef tongue in sauce recipe"
+    },
+    "description": {
+      "fr": "Recette de langue de bœuf en sauce : langue longuement bouillie puis mijotée tomate-oignon — plat de fête en RDC.",
+      "en": "Beef tongue in sauce recipe: tongue long-boiled then simmered with tomato and onion — a feast dish in the DRC."
+    },
+    "body": {
+      "fr": "La **langue de bœuf en sauce** est un mijoté de fête : long bouillon, puis sauce. Même famille longue que la [queue de bœuf](/recettes/queue-boeuf-sauce/) et la [viande en sauce](/recettes/viande-ya-sauce/).",
+      "en": "Beef tongue in sauce is a feast simmer: long broth, then sauce. Same long-cook family as [oxtail in sauce](/en/recettes/queue-boeuf-sauce/) and [beef in sauce](/en/recettes/viande-ya-sauce/)."
+    },
+    "region": "Kinshasa",
+    "region_id": "kinshasa",
+    "region_label": {
+      "fr": "Kinshasa",
+      "en": "Kinshasa"
+    },
+    "region_legacy": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "plat",
+    "difficulty": "avancé",
+    "prep_time": "30 min",
+    "cook_time": "3 h",
+    "prep_time_iso": "PT30M",
+    "cook_time_iso": "PT3H",
+    "servings": 8,
+    "tags": [
+      "langue",
+      "bœuf",
+      "sauce",
+      "fête",
+      "abats"
+    ],
+    "ingredients": {
+      "fr": [
+        "1 langue de bœuf (environ 1,2 à 1,5 kg)",
+        "3 oignons, émincés",
+        "4 tomates, concassées",
+        "4 gousses d’ail",
+        "2 c. à soupe de concentré de tomate",
+        "3 c. à soupe d’huile",
+        "1 feuille de laurier",
+        "2 cubes de bouillon",
+        "Sel, pili-pili et eau",
+        "1 oignon et 1 carotte pour le bouillon (optionnel)"
+      ],
+      "en": [
+        "1 beef tongue (about 1.2–1.5 kg)",
+        "3 onions, sliced",
+        "4 tomatoes, crushed",
+        "4 garlic cloves",
+        "2 tbsp tomato paste",
+        "3 tbsp oil",
+        "1 bay leaf",
+        "2 stock cubes",
+        "Salt, pili-pili and water",
+        "1 onion and 1 carrot for the broth (optional)"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "1 langue de bœuf (environ 1,2 à 1,5 kg)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "langue de bœuf (environ 1,2 à 1,5 kg)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 oignons, émincés",
+          "amount": 3,
+          "unit": "piece",
+          "name": "oignons, émincés",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "4 tomates, concassées",
+          "amount": 4,
+          "unit": "piece",
+          "name": "tomates, concassées",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "4 gousses d’ail",
+          "amount": 4,
+          "unit": "clove",
+          "name": "ail",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 c. à soupe de concentré de tomate",
+          "amount": 2,
+          "unit": "tbsp",
+          "name": "concentré de tomate",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 c. à soupe d’huile",
+          "amount": 3,
+          "unit": "tbsp",
+          "name": "huile",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 feuille de laurier",
+          "amount": 1,
+          "unit": "leaf",
+          "name": "laurier",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 cubes de bouillon",
+          "amount": 2,
+          "unit": "cube",
+          "name": "bouillon",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Sel, pili-pili et eau",
+          "name": "Sel, pili-pili et eau",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "1 oignon et 1 carotte pour le bouillon (optionnel)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "oignon et 1 carotte pour le bouillon (optionnel)",
+          "parse_status": "structured"
+        }
+      ],
+      "en": [
+        {
+          "raw": "1 beef tongue (about 1.2–1.5 kg)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "beef tongue (about 1.2–1.5 kg)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 onions, sliced",
+          "amount": 3,
+          "unit": "piece",
+          "name": "onions, sliced",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "4 tomatoes, crushed",
+          "amount": 4,
+          "unit": "piece",
+          "name": "tomatoes, crushed",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "4 garlic cloves",
+          "amount": 4,
+          "unit": "piece",
+          "name": "garlic cloves",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 tbsp tomato paste",
+          "amount": 2,
+          "unit": "tbsp",
+          "name": "tomato paste",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 tbsp oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "name": "oil",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 bay leaf",
+          "amount": 1,
+          "unit": "piece",
+          "name": "bay leaf",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 stock cubes",
+          "amount": 2,
+          "unit": "piece",
+          "name": "stock cubes",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Salt, pili-pili and water",
+          "name": "Salt, pili-pili and water",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "1 onion and 1 carrot for the broth (optional)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "onion and 1 carrot for the broth (optional)",
+          "parse_status": "structured"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Rincer la langue. La couvrir d’eau froide avec laurier, oignon et carotte. Porter à ébullition, écumer, mijoter 2 h à 2 h 30 jusqu’à tendreté.",
+        "Égoutter, laisser tiédir, retirer la peau. Couper en tranches épaisses.",
+        "Faire fondre les oignons dans l’huile, ajouter ail, tomates et concentré. Cuire 10 minutes.",
+        "Remettre la langue, les cubes et un peu de bouillon de cuisson. Mijoter 30 à 40 minutes.",
+        "Rectifier sel et piment. Servir avec riz, fufu ou plantains."
+      ],
+      "en": [
+        "Rinse the tongue. Cover with cold water, bay leaf, onion and carrot. Bring to a boil, skim, simmer 2–2½ hours until tender.",
+        "Drain, cool slightly, peel the skin. Slice thickly.",
+        "Sweat onions in oil, add garlic, tomatoes and paste. Cook 10 minutes.",
+        "Return the tongue, cubes and a little cooking broth. Simmer 30–40 minutes.",
+        "Adjust salt and chili. Serve with rice, fufu or plantains."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "queue-boeuf-sauce",
+      "viande-ya-sauce",
+      "tripes-mijotees",
+      "foie-boeuf-saute"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: WormforEnnio — Wikimedia Commons, domaine public",
+        "url": "https://commons.wikimedia.org/wiki/File:Rinderzunge_zubereitet.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rinderzunge%20zubereitet.jpg?width=1600",
+    "image_alt": {
+      "fr": "Langue de bœuf cuite, tranchée, prête pour la sauce",
+      "en": "Cooked beef tongue, sliced, ready for sauce"
+    },
+    "image_credit": "WormforEnnio — Wikimedia Commons, domaine public",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Rinderzunge_zubereitet.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/langue-boeuf-sauce/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/langue-boeuf-sauce/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "liboke-champignons",
@@ -13472,7 +15170,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "liboke-legumes",
@@ -13772,7 +15470,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "liboke-poisson",
@@ -14047,7 +15745,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "liboke-viande",
@@ -14324,7 +16022,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "lituma",
@@ -14528,7 +16226,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "loso-mayonnaise",
@@ -14797,7 +16495,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "loso-na-madesu",
@@ -15048,7 +16746,8 @@
       "madesu",
       "saka-madesu",
       "loso-petits-pois",
-      "loso-na-mbisi"
+      "loso-na-mbisi",
+      "loso-na-soso"
     ],
     "sources": [
       {
@@ -15082,7 +16781,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "loso-na-mbisi",
@@ -15348,7 +17047,280 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "loso-na-soso",
+    "slug": "loso-na-soso",
+    "names": {
+      "fr": "Riz au poulet",
+      "en": "Rice with chicken",
+      "aliases": [
+        {
+          "name": "loso na soso",
+          "lang": "ln"
+        },
+        {
+          "name": "riz au poulet",
+          "lang": "fr"
+        },
+        {
+          "name": "rice with chicken",
+          "lang": "en"
+        },
+        {
+          "name": "riz",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "poulet",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Kinshasa",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "quotidien",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette riz au poulet (loso na soso)",
+      "en": "Rice with chicken recipe (loso na soso)"
+    },
+    "description": {
+      "fr": "Recette de riz au poulet (en lingala : loso na soso) : riz cuit avec du poulet en sauce — assiette simple de Kinshasa.",
+      "en": "Rice with chicken recipe (Lingala: loso na soso): rice cooked with chicken in sauce — a simple Kinshasa plate."
+    },
+    "body": {
+      "fr": "Le **riz au poulet** (en lingala : *loso na soso*) est le cousin du [riz au poisson](/recettes/loso-na-mbisi/) : un seul plat, sauce et grain ensemble. Pour le poulet sans riz : [soso ya sauce](/recettes/soso-ya-sauce/).",
+      "en": "Rice with chicken (Lingala: *loso na soso*) is the cousin of [rice with fish](/en/recettes/loso-na-mbisi/): one plate, sauce and grain together. Chicken without rice: [soso ya sauce](/en/recettes/soso-ya-sauce/)."
+    },
+    "region": "Kinshasa",
+    "region_id": "kinshasa",
+    "region_label": {
+      "fr": "Kinshasa",
+      "en": "Kinshasa"
+    },
+    "region_legacy": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "plat",
+    "difficulty": "facile",
+    "prep_time": "25 min",
+    "cook_time": "50 min",
+    "prep_time_iso": "PT25M",
+    "cook_time_iso": "PT50M",
+    "servings": 6,
+    "tags": [
+      "loso na soso",
+      "riz",
+      "poulet",
+      "Kinshasa",
+      "quotidien"
+    ],
+    "ingredients": {
+      "fr": [
+        "1 poulet coupé en morceaux (environ 1,2 kg)",
+        "400 g de riz",
+        "2 oignons, émincés",
+        "3 tomates, concassées",
+        "3 gousses d’ail",
+        "3 c. à soupe d’huile",
+        "1 cube de bouillon",
+        "Sel, pili-pili et eau"
+      ],
+      "en": [
+        "1 chicken cut into pieces (about 1.2 kg)",
+        "400 g rice",
+        "2 onions, sliced",
+        "3 tomatoes, crushed",
+        "3 garlic cloves",
+        "3 tbsp oil",
+        "1 stock cube",
+        "Salt, pili-pili and water"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "1 poulet coupé en morceaux (environ 1,2 kg)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "poulet coupé en morceaux (environ 1,2 kg)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "400 g de riz",
+          "amount": 400,
+          "unit": "g",
+          "name": "riz",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 oignons, émincés",
+          "amount": 2,
+          "unit": "piece",
+          "name": "oignons, émincés",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 tomates, concassées",
+          "amount": 3,
+          "unit": "piece",
+          "name": "tomates, concassées",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 gousses d’ail",
+          "amount": 3,
+          "unit": "clove",
+          "name": "ail",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 c. à soupe d’huile",
+          "amount": 3,
+          "unit": "tbsp",
+          "name": "huile",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 cube de bouillon",
+          "amount": 1,
+          "unit": "cube",
+          "name": "bouillon",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Sel, pili-pili et eau",
+          "name": "Sel, pili-pili et eau",
+          "parse_status": "raw_only"
+        }
+      ],
+      "en": [
+        {
+          "raw": "1 chicken cut into pieces (about 1.2 kg)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "chicken cut into pieces (about 1.2 kg)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "400 g rice",
+          "amount": 400,
+          "unit": "g",
+          "name": "rice",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 onions, sliced",
+          "amount": 2,
+          "unit": "piece",
+          "name": "onions, sliced",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 tomatoes, crushed",
+          "amount": 3,
+          "unit": "piece",
+          "name": "tomatoes, crushed",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 garlic cloves",
+          "amount": 3,
+          "unit": "piece",
+          "name": "garlic cloves",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 tbsp oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "name": "oil",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 stock cube",
+          "amount": 1,
+          "unit": "piece",
+          "name": "stock cube",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Salt, pili-pili and water",
+          "name": "Salt, pili-pili and water",
+          "parse_status": "raw_only"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Faire dorer le poulet dans l’huile. Réserver.",
+        "Faire fondre les oignons, ajouter l’ail et les tomates. Cuire 8 minutes.",
+        "Remettre le poulet, le cube et de l’eau à hauteur. Mijoter 20 minutes.",
+        "Ajouter le riz rincé. Ajuster l’eau (environ 1,5 fois le volume de riz). Mélanger doucement.",
+        "Couvrir et cuire 18 à 20 minutes à feu doux sans remuer, jusqu’à absorption.",
+        "Laisser reposer 5 minutes. Égrener et servir."
+      ],
+      "en": [
+        "Brown the chicken in oil. Set aside.",
+        "Sweat the onions, add garlic and tomatoes. Cook 8 minutes.",
+        "Return the chicken, add the cube and water to cover. Simmer 20 minutes.",
+        "Add rinsed rice. Adjust water (about 1.5× the rice volume). Stir gently.",
+        "Cover and cook 18–20 minutes on low without stirring until absorbed.",
+        "Rest 5 minutes. Fluff and serve."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "loso-na-mbisi",
+      "loso-na-madesu",
+      "soso-ya-sauce",
+      "riz-moambe"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Otuo-Akyampong Boakye — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Jollof_rice_with_chicken.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jollof%20rice%20with%20chicken.jpg?width=1600",
+    "image_alt": {
+      "fr": "Riz et morceaux de poulet en sauce rouge",
+      "en": "Rice with chicken pieces in a red sauce"
+    },
+    "image_credit": "Otuo-Akyampong Boakye — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Jollof_rice_with_chicken.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/loso-na-soso/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/loso-na-soso/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "loso-petits-pois",
@@ -15596,7 +17568,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "loso-sauce-katanga",
@@ -15874,7 +17846,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "madesu",
@@ -16399,7 +18371,8 @@
     "related_recipes": [
       "haricots-verts-palme",
       "loso-na-madesu",
-      "saka-madesu"
+      "saka-madesu",
+      "soso-na-madesu"
     ],
     "sources": [
       {
@@ -16444,7 +18417,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mais-bouilli",
@@ -16464,6 +18437,11 @@
         {
           "name": "mahindi ya kuchemsha",
           "lang": "sw"
+        },
+        {
+          "name": "maïs ya kobila",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "maïs",
@@ -16634,7 +18612,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mais-grille",
@@ -16655,6 +18633,11 @@
           "name": "mahindi ya kuchoma",
           "lang": "sw",
           "region_hint": "Kivu / East"
+        },
+        {
+          "name": "maïs ya kotumba",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "maïs",
@@ -16811,6 +18794,7 @@
     "related_recipes": [
       "mais-bouilli",
       "bouillie-mais",
+      "galettes-mais",
       "bukari-katanga",
       "sukuma-est"
     ],
@@ -16846,7 +18830,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "makayabu",
@@ -17412,7 +19396,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "makemba",
@@ -17427,8 +19411,13 @@
         },
         {
           "name": "makemba",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
+        },
+        {
+          "name": "makemba ya kokalinga",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "plantains frits",
@@ -17563,6 +19552,8 @@
     "variants": [],
     "related_recipes": [
       "makemba-na-mbisi",
+      "makemba-na-soso",
+      "plantain-grille-arachide",
       "plantains-vapeur",
       "lituma"
     ],
@@ -17609,7 +19600,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "makemba-na-mbisi",
@@ -17830,6 +19821,7 @@
     "variants": [],
     "related_recipes": [
       "makemba",
+      "makemba-na-soso",
       "poisson-braise-kinkole",
       "mbisi-ya-kokalinga"
     ],
@@ -17865,7 +19857,273 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "makemba-na-soso",
+    "slug": "makemba-na-soso",
+    "names": {
+      "fr": "Plantains frits au poulet",
+      "en": "Fried plantains with chicken",
+      "aliases": [
+        {
+          "name": "makemba na soso",
+          "lang": "ln"
+        },
+        {
+          "name": "plantains frits au poulet",
+          "lang": "fr"
+        },
+        {
+          "name": "fried plantain with chicken",
+          "lang": "en"
+        },
+        {
+          "name": "makemba",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "soso",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "plantain",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "poulet",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "assiette",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette plantains frits au poulet (makemba na soso)",
+      "en": "Fried plantains with chicken recipe (makemba na soso)"
+    },
+    "description": {
+      "fr": "Recette de plantains frits au poulet (en lingala : makemba na soso) — duo plantain et poulet.",
+      "en": "Fried plantains with chicken recipe (Lingala: makemba na soso) — plantain and chicken duo."
+    },
+    "body": {
+      "fr": "Les **plantains frits au poulet** (en lingala : *makemba na soso*) sont le pendant poulet de [makemba na mbisi](/recettes/makemba-na-mbisi/) : mariage d’assiette entre [makemba](/recettes/makemba/) et un poulet du catalogue.",
+      "en": "Fried plantains with chicken (Lingala: *makemba na soso*) is the chicken counterpart of [makemba na mbisi](/en/recettes/makemba-na-mbisi/): a plate pairing of [makemba](/en/recettes/makemba/) and chicken."
+    },
+    "region": "Toute la RDC",
+    "region_id": "nationwide",
+    "region_label": {
+      "fr": "Toute la RDC",
+      "en": "Across the DRC"
+    },
+    "region_legacy": "Toute la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Toute la RDC"
+    ],
+    "category": "plat",
+    "difficulty": "facile",
+    "prep_time": "20 min",
+    "cook_time": "40 min",
+    "prep_time_iso": "PT20M",
+    "cook_time_iso": "PT40M",
+    "servings": 4,
+    "tags": [
+      "makemba",
+      "soso",
+      "plantain",
+      "poulet",
+      "assiette"
+    ],
+    "ingredients": {
+      "fr": [
+        "4 bananes plantain mûres",
+        "800 g de poulet (cuisses ou morceaux)",
+        "Huile de friture",
+        "1 oignon, émincé",
+        "2 tomates, concassées",
+        "2 gousses d’ail",
+        "Jus de 1 citron",
+        "Sel, pili-pili"
+      ],
+      "en": [
+        "4 ripe plantains",
+        "800 g chicken (thighs or pieces)",
+        "Frying oil",
+        "1 onion, sliced",
+        "2 tomatoes, crushed",
+        "2 garlic cloves",
+        "Juice of 1 lemon",
+        "Salt, chili"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "4 bananes plantain mûres",
+          "amount": 4,
+          "unit": "piece",
+          "name": "bananes plantain mûres",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "800 g de poulet (cuisses ou morceaux)",
+          "amount": 800,
+          "unit": "g",
+          "name": "poulet (cuisses ou morceaux)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Huile de friture",
+          "name": "Huile de friture",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "1 oignon, émincé",
+          "amount": 1,
+          "unit": "piece",
+          "name": "oignon, émincé",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 tomates, concassées",
+          "amount": 2,
+          "unit": "piece",
+          "name": "tomates, concassées",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 gousses d’ail",
+          "amount": 2,
+          "unit": "clove",
+          "name": "ail",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Jus de 1 citron",
+          "name": "Jus de 1 citron",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "Sel, pili-pili",
+          "name": "Sel, pili-pili",
+          "parse_status": "raw_only"
+        }
+      ],
+      "en": [
+        {
+          "raw": "4 ripe plantains",
+          "amount": 4,
+          "unit": "piece",
+          "name": "ripe plantains",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "800 g chicken (thighs or pieces)",
+          "amount": 800,
+          "unit": "g",
+          "name": "chicken (thighs or pieces)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Frying oil",
+          "name": "Frying oil",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "1 onion, sliced",
+          "amount": 1,
+          "unit": "piece",
+          "name": "onion, sliced",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 tomatoes, crushed",
+          "amount": 2,
+          "unit": "piece",
+          "name": "tomatoes, crushed",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 garlic cloves",
+          "amount": 2,
+          "unit": "piece",
+          "name": "garlic cloves",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Juice of 1 lemon",
+          "name": "Juice of 1 lemon",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "Salt, chili",
+          "name": "Salt, chili",
+          "parse_status": "raw_only"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Saler, citronner et éventuellement poivrer le poulet. Le faire dorer à la poêle ou le braiser. Réserver.",
+        "Éplucher les plantains, les couper en tranches et les frire jusqu’à doré. Égoutter et saler.",
+        "Option sauce courte : faire revenir oignon et ail, ajouter tomates et un fond d’eau, 8 minutes. Napper le poulet.",
+        "Dresser makemba et soso dans la même assiette. Servir aussitôt."
+      ],
+      "en": [
+        "Season the chicken with salt, lemon and optional pepper. Brown in a pan or grill. Set aside.",
+        "Peel the plantains, slice and fry until golden. Drain and salt.",
+        "Optional short sauce: sweat onion and garlic, add tomatoes and a splash of water, 8 minutes. Spoon over the chicken.",
+        "Plate makemba and soso together. Serve at once."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "makemba",
+      "makemba-na-mbisi",
+      "soso-ya-sauce",
+      "poulet-mayo"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Fazfood — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Poulet_frit,_l%C3%A9gumes_et_foufou_banane_(Plat_Centrafricain).jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Poulet%20frit%2C%20l%C3%A9gumes%20et%20foufou%20banane%20(Plat%20Centrafricain).jpg?width=1600",
+    "image_alt": {
+      "fr": "Poulet frit servi avec accompagnement de banane plantain",
+      "en": "Fried chicken served with a plantain side"
+    },
+    "image_credit": "Fazfood — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Poulet_frit,_l%C3%A9gumes_et_foufou_banane_(Plat_Centrafricain).jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/makemba-na-soso/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/makemba-na-soso/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "makoso",
@@ -18196,7 +20454,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "makosso-pommes",
@@ -18481,7 +20739,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "malafu-vin-palme",
@@ -18668,7 +20926,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "manioc-frites",
@@ -18693,6 +20951,11 @@
           "name": "yuca fries",
           "lang": "en",
           "note": "Diaspora / Americas name for cassava"
+        },
+        {
+          "name": "manioc ya kokalinga",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "bâtons",
@@ -18888,7 +21151,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "manioc-grille",
@@ -19070,7 +21333,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "matembele-katanga",
@@ -19091,6 +21354,11 @@
         {
           "name": "sweet potato leaves",
           "lang": "en"
+        },
+        {
+          "name": "matembele na nguba",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "arachides",
@@ -19339,7 +21607,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mayebo",
@@ -19575,7 +21843,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mbala",
@@ -19594,8 +21862,8 @@
         },
         {
           "name": "mbala",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "tubercule",
@@ -19777,7 +22045,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mbala-grillee",
@@ -19972,7 +22240,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mbika",
@@ -20207,7 +22475,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mbinzo-grillees",
@@ -20442,7 +22710,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mbinzo-tomates",
@@ -20672,7 +22940,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mbisi-na-kwanga",
@@ -20949,7 +23217,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mbisi-ya-kokalinga",
@@ -21172,7 +23440,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mikate",
@@ -21192,8 +23460,8 @@
         },
         {
           "name": "mikate",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "beignet",
@@ -21379,6 +23647,7 @@
     "related_recipes": [
       "beignets-banane",
       "beignets-manioc",
+      "beignets-haricot",
       "tangawisi"
     ],
     "sources": [
@@ -21424,7 +23693,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mikila",
@@ -21742,7 +24011,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mikila-arachide",
@@ -22045,7 +24314,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "missole",
@@ -22064,8 +24333,8 @@
         },
         {
           "name": "missole",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "poisson séché",
@@ -22310,7 +24579,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "moambe-boeuf",
@@ -22591,7 +24860,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "moambe-poulet",
@@ -23155,7 +25424,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mujibujibu",
@@ -23400,7 +25669,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "mukeke-grille",
@@ -23417,6 +25686,11 @@
         {
           "name": "poisson du Tanganyika",
           "lang": "fr"
+        },
+        {
+          "name": "mukeke ya kotumba",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "Tanganyika",
@@ -23662,7 +25936,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "munkoyo",
@@ -23865,7 +26139,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "ndagala-tomates",
@@ -23882,6 +26156,11 @@
         {
           "name": "petits poissons du Kivu",
           "lang": "fr"
+        },
+        {
+          "name": "ndagala na tomatisi",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "Kivu",
@@ -24128,7 +26407,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "ndunda",
@@ -24411,7 +26690,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "ngai-ngai",
@@ -24969,7 +27248,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "ngolo-grille",
@@ -25225,7 +27504,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "ngulu-ya-sauce",
@@ -25514,7 +27793,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "nsafu-grilles",
@@ -25530,6 +27809,11 @@
         {
           "name": "nsafu",
           "lang": "kg"
+        },
+        {
+          "name": "nsafu ya kotumba",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "safou",
@@ -25669,7 +27953,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "nsafu-sauce",
@@ -25915,7 +28199,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "ntaba",
@@ -26198,7 +28482,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "ntaba-mijotee-kasai",
@@ -26473,7 +28757,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "ntaba-sauce",
@@ -26747,7 +29031,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "nyama-bugali-kivu",
@@ -27056,7 +29340,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "pain-mayonnaise",
@@ -27307,7 +29591,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "patate-douce-frite",
@@ -27517,7 +29801,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "pepe-soupe-ya-ngolo",
@@ -27795,7 +30079,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "pilau-kivu",
@@ -27816,6 +30100,11 @@
         {
           "name": "riz épicé",
           "lang": "fr"
+        },
+        {
+          "name": "pilau ya Kivu",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "riz",
@@ -28118,7 +30407,229 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "plantain-grille-arachide",
+    "slug": "plantain-grille-arachide",
+    "names": {
+      "fr": "Plantain grillé à l’arachide",
+      "en": "Grilled plantain with peanut",
+      "aliases": [
+        {
+          "name": "plantain grillé arachide",
+          "lang": "fr"
+        },
+        {
+          "name": "makemba grillé nguba",
+          "lang": "ln"
+        },
+        {
+          "name": "grilled plantain peanut",
+          "lang": "en"
+        },
+        {
+          "name": "plantain braise arachide",
+          "lang": "fr"
+        },
+        {
+          "name": "plantain",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "grillé",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "goûter",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "street food",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette plantain grillé arachide — goûter diaspora",
+      "en": "Grilled plantain with peanut recipe — diaspora snack"
+    },
+    "description": {
+      "fr": "Recette de plantain grillé à l’arachide : plantains sur braises ou grill, servis avec pâte d’arachide — goûter et apéro de rue / diaspora.",
+      "en": "Grilled plantain with peanut recipe: plantains on coals or a grill, served with peanut paste — street snack and diaspora appetizer."
+    },
+    "body": {
+      "fr": "Le **plantain grillé à l’arachide** est un goûter de braise, distinct des [makemba](/recettes/makemba/) frits. Même famille d’encas que le [maïs grillé](/recettes/mais-grille/) ; douceur arachide aussi dans les [bonbons arachide](/recettes/bonbons-arachide/).",
+      "en": "Grilled plantain with peanut is a coal snack, distinct from fried [makemba](/en/recettes/makemba/). Same snack family as [grilled maize](/en/recettes/mais-grille/); peanut sweetness also in [peanut candies](/en/recettes/bonbons-arachide/)."
+    },
+    "region": "Toute la RDC",
+    "region_id": "nationwide",
+    "region_label": {
+      "fr": "Toute la RDC",
+      "en": "Across the DRC"
+    },
+    "region_legacy": "Toute la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Toute la RDC"
+    ],
+    "category": "dessert",
+    "difficulty": "facile",
+    "prep_time": "10 min",
+    "cook_time": "20 min",
+    "prep_time_iso": "PT10M",
+    "cook_time_iso": "PT20M",
+    "servings": 4,
+    "tags": [
+      "plantain",
+      "grillé",
+      "arachide",
+      "goûter",
+      "street food"
+    ],
+    "ingredients": {
+      "fr": [
+        "4 bananes plantain mûres mais fermes",
+        "150 g de pâte d’arachide (ou arachides grillées pilées)",
+        "1 pincée de sel",
+        "Pili-pili ou sucre (selon le goût)",
+        "Huile pour badigeonner (optionnel)"
+      ],
+      "en": [
+        "4 ripe but firm plantains",
+        "150 g peanut paste (or roasted pounded peanuts)",
+        "1 pinch of salt",
+        "Chili or sugar (to taste)",
+        "Oil for brushing (optional)"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "4 bananes plantain mûres mais fermes",
+          "amount": 4,
+          "unit": "piece",
+          "name": "bananes plantain mûres mais fermes",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "150 g de pâte d’arachide (ou arachides grillées pilées)",
+          "amount": 150,
+          "unit": "g",
+          "name": "pâte d’arachide (ou arachides grillées pilées)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 pincée de sel",
+          "amount": 1,
+          "unit": "pinch",
+          "name": "sel",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Pili-pili ou sucre (selon le goût)",
+          "name": "Pili-pili ou sucre (selon le goût)",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "Huile pour badigeonner (optionnel)",
+          "name": "Huile pour badigeonner (optionnel)",
+          "parse_status": "raw_only"
+        }
+      ],
+      "en": [
+        {
+          "raw": "4 ripe but firm plantains",
+          "amount": 4,
+          "unit": "piece",
+          "name": "ripe but firm plantains",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "150 g peanut paste (or roasted pounded peanuts)",
+          "amount": 150,
+          "unit": "g",
+          "name": "peanut paste (or roasted pounded peanuts)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 pinch of salt",
+          "amount": 1,
+          "unit": "piece",
+          "name": "pinch of salt",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Chili or sugar (to taste)",
+          "name": "Chili or sugar (to taste)",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "Oil for brushing (optional)",
+          "name": "Oil for brushing (optional)",
+          "parse_status": "raw_only"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Éplucher les plantains, les couper en deux dans la longueur ou en gros tronçons.",
+        "Badigeonner légèrement d’huile si besoin. Griller sur braises ou grill moyen 15 à 20 minutes en tournant, jusqu’à marques et chair tendre.",
+        "Assaisonner la pâte d’arachide d’une pincée de sel (et pili-pili ou sucre selon l’habitude).",
+        "Servir les plantains chauds avec la pâte à côté ou en léger nappage."
+      ],
+      "en": [
+        "Peel the plantains; halve lengthwise or cut into large chunks.",
+        "Brush lightly with oil if needed. Grill over medium coals or a grill 15–20 minutes, turning, until marked and tender.",
+        "Season the peanut paste with a pinch of salt (and chili or sugar as preferred).",
+        "Serve plantains hot with paste on the side or lightly spooned over."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "makemba",
+      "mikate",
+      "bonbons-arachide",
+      "mais-grille",
+      "sauce-arachide"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Mark Bonica — Wikimedia Commons, CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Grilled_plantain.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Grilled%20plantain.jpg?width=1600",
+    "image_alt": {
+      "fr": "Tranches de plantain grillées",
+      "en": "Grilled plantain slices"
+    },
+    "image_credit": "Mark Bonica — Wikimedia Commons, CC BY 2.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Grilled_plantain.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/plantain-grille-arachide/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/plantain-grille-arachide/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "plantains-vapeur",
@@ -28307,7 +30818,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "poisson-braise-kinkole",
@@ -28562,7 +31073,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "poisson-fume-bidia",
@@ -28820,7 +31331,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "poisson-fume-tomates",
@@ -29114,7 +31625,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "poisson-kisangani",
@@ -29392,7 +31903,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "poisson-kivu-grille",
@@ -29409,6 +31920,11 @@
         {
           "name": "poisson grillé",
           "lang": "fr"
+        },
+        {
+          "name": "mbisi ya Kivu ya kotumba",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "lac Kivu",
@@ -29638,7 +32154,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "poisson-mayo",
@@ -29921,7 +32437,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "poisson-moambe",
@@ -30158,7 +32674,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "pommes-sautees-katanga",
@@ -30176,6 +32692,11 @@
           "name": "viazi",
           "lang": "sw",
           "note": "Potatoes"
+        },
+        {
+          "name": "pommes ya kosala na Katanga",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "Katanga",
@@ -30368,7 +32889,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "pondu",
@@ -30886,7 +33407,8 @@
       "chikwangue",
       "fufu-manioc",
       "saka-madesu",
-      "pondu-poisson"
+      "pondu-poisson",
+      "pondu-ngulu"
     ],
     "sources": [
       {
@@ -30931,7 +33453,294 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "pondu-ngulu",
+    "slug": "pondu-ngulu",
+    "names": {
+      "fr": "Pondu au porc",
+      "en": "Pondu with pork",
+      "aliases": [
+        {
+          "name": "pondu ya ngulu",
+          "lang": "ln"
+        },
+        {
+          "name": "pondu au porc",
+          "lang": "fr"
+        },
+        {
+          "name": "pondu with pork",
+          "lang": "en"
+        },
+        {
+          "name": "saka-saka porc",
+          "lang": "fr",
+          "note": "Search gloss"
+        },
+        {
+          "name": "pondu",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "saka-saka",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "porc",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette pondu au porc (pondu ya ngulu)",
+      "en": "Pondu with pork recipe (pondu ya ngulu)"
+    },
+    "description": {
+      "fr": "Recette de pondu au porc (en lingala : pondu ya ngulu) : feuilles de manioc mijotées avec du porc — variante du pondu.",
+      "en": "Pondu with pork recipe (Lingala: pondu ya ngulu): cassava leaves simmered with pork — a pondu variant."
+    },
+    "body": {
+      "fr": "Le **pondu au porc** (en lingala : *pondu ya ngulu*) place le porc au centre, comme le [pondu au poisson](/recettes/pondu-poisson/) le fait avec le poisson. Fiche de base : [pondu](/recettes/pondu/). Porc seul en sauce : [ngulu ya sauce](/recettes/ngulu-ya-sauce/).",
+      "en": "Pondu with pork (Lingala: *pondu ya ngulu*) centres pork the way [pondu with fish](/en/recettes/pondu-poisson/) centres fish. Base card: [pondu](/en/recettes/pondu/). Pork alone in sauce: [ngulu ya sauce](/en/recettes/ngulu-ya-sauce/)."
+    },
+    "region": "Kinshasa & Cuvette",
+    "region_id": "kinshasa_cuvette",
+    "region_label": {
+      "fr": "Kinshasa & Cuvette",
+      "en": "Kinshasa & Cuvette"
+    },
+    "region_legacy": "Kinshasa & Cuvette",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa",
+      "Cuvette"
+    ],
+    "category": "plat",
+    "difficulty": "moyen",
+    "prep_time": "40 min",
+    "cook_time": "1 h 40",
+    "prep_time_iso": "PT40M",
+    "cook_time_iso": "PT1H",
+    "servings": 6,
+    "tags": [
+      "pondu",
+      "pondu ya ngulu",
+      "saka-saka",
+      "porc",
+      "huile de palme"
+    ],
+    "ingredients": {
+      "fr": [
+        "2 kg de feuilles de manioc (pondu), fraîches ou congelées",
+        "700 g de porc (épaule ou côtes) en morceaux",
+        "200 ml d’huile de palme rouge",
+        "3 oignons, hachés",
+        "4 gousses d’ail, écrasées",
+        "2 tomates, concassées (optionnel)",
+        "2 cubes de bouillon",
+        "Sel et pili-pili",
+        "Eau"
+      ],
+      "en": [
+        "2 kg cassava leaves (pondu), fresh or frozen",
+        "700 g pork (shoulder or ribs) in pieces",
+        "200 ml red palm oil",
+        "3 onions, chopped",
+        "4 garlic cloves, crushed",
+        "2 tomatoes, crushed (optional)",
+        "2 stock cubes",
+        "Salt and pili-pili",
+        "Water"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "2 kg de feuilles de manioc (pondu), fraîches ou congelées",
+          "amount": 2,
+          "unit": "kg",
+          "name": "feuilles de manioc (pondu), fraîches ou congelées",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "700 g de porc (épaule ou côtes) en morceaux",
+          "amount": 700,
+          "unit": "g",
+          "name": "porc (épaule ou côtes) en morceaux",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "200 ml d’huile de palme rouge",
+          "amount": 200,
+          "unit": "ml",
+          "name": "huile de palme rouge",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 oignons, hachés",
+          "amount": 3,
+          "unit": "piece",
+          "name": "oignons, hachés",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "4 gousses d’ail, écrasées",
+          "amount": 4,
+          "unit": "clove",
+          "name": "ail, écrasées",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 tomates, concassées (optionnel)",
+          "amount": 2,
+          "unit": "piece",
+          "name": "tomates, concassées (optionnel)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 cubes de bouillon",
+          "amount": 2,
+          "unit": "cube",
+          "name": "bouillon",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Sel et pili-pili",
+          "name": "Sel et pili-pili",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "Eau",
+          "name": "Eau",
+          "parse_status": "raw_only"
+        }
+      ],
+      "en": [
+        {
+          "raw": "2 kg cassava leaves (pondu), fresh or frozen",
+          "amount": 2,
+          "unit": "kg",
+          "name": "cassava leaves (pondu), fresh or frozen",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "700 g pork (shoulder or ribs) in pieces",
+          "amount": 700,
+          "unit": "g",
+          "name": "pork (shoulder or ribs) in pieces",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "200 ml red palm oil",
+          "amount": 200,
+          "unit": "ml",
+          "name": "red palm oil",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 onions, chopped",
+          "amount": 3,
+          "unit": "piece",
+          "name": "onions, chopped",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "4 garlic cloves, crushed",
+          "amount": 4,
+          "unit": "piece",
+          "name": "garlic cloves, crushed",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 tomatoes, crushed (optional)",
+          "amount": 2,
+          "unit": "piece",
+          "name": "tomatoes, crushed (optional)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 stock cubes",
+          "amount": 2,
+          "unit": "piece",
+          "name": "stock cubes",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Salt and pili-pili",
+          "name": "Salt and pili-pili",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "Water",
+          "name": "Water",
+          "parse_status": "raw_only"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Laver et hacher finement les feuilles (ou utiliser un pondu déjà pilé). Ébouillanter brièvement si elles sont très amères.",
+        "Faire dorer le porc dans un peu d’huile de palme. Réserver.",
+        "Faire revenir oignons et ail dans le reste d’huile. Ajouter les tomates s’il y en a.",
+        "Incorporer le pondu, bien l’enrober d’huile, mouiller d’un peu d’eau. Couvrir et mijoter 40 minutes à feu doux en remuant.",
+        "Remettre le porc et le cube. Poursuivre 35 à 45 minutes jusqu’à texture crémeuse et viande tendre.",
+        "Rectifier l’assaisonnement. Servir avec fufu, chikwangue ou riz."
+      ],
+      "en": [
+        "Wash and finely chop the leaves (or use already pounded pondu). Blanch briefly if very bitter.",
+        "Brown the pork in a little palm oil. Set aside.",
+        "Sweat onions and garlic in the remaining oil. Add tomatoes if using.",
+        "Stir in the pondu, coat with oil, add a little water. Cover and simmer 40 minutes on low, stirring.",
+        "Return the pork and the cube. Cook 35–45 minutes more until creamy and the meat is tender.",
+        "Adjust seasoning. Serve with fufu, chikwangue or rice."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "pondu",
+      "pondu-poisson",
+      "ngulu-ya-sauce",
+      "saka-madesu",
+      "chikwangue"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Guwo Josephine — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Cassava_leaves.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cassava%20leaves.jpg?width=1600",
+    "image_alt": {
+      "fr": "Feuilles de manioc fraîches, base du pondu au porc",
+      "en": "Fresh cassava leaves for pondu with pork"
+    },
+    "image_credit": "Guwo Josephine — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Cassava_leaves.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/pondu-ngulu/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/pondu-ngulu/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "pondu-poisson",
@@ -31173,6 +33982,7 @@
     "variants": [],
     "related_recipes": [
       "pondu",
+      "pondu-ngulu",
       "saka-madesu",
       "poisson-fume-tomates",
       "chikwangue"
@@ -31209,7 +34019,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "porc-braise",
@@ -31484,7 +34294,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "porc-ya-kotumba",
@@ -31770,7 +34580,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "poulet-mayo",
@@ -32068,7 +34878,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "poulet-pane",
@@ -32328,7 +35138,296 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "queue-boeuf-sauce",
+    "slug": "queue-boeuf-sauce",
+    "names": {
+      "fr": "Queue de bœuf en sauce",
+      "en": "Oxtail in sauce",
+      "aliases": [
+        {
+          "name": "queue de bœuf",
+          "lang": "fr"
+        },
+        {
+          "name": "oxtail stew",
+          "lang": "en"
+        },
+        {
+          "name": "queue ya ngombe",
+          "lang": "ln",
+          "note": "Colloquial"
+        },
+        {
+          "name": "oxtail",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "sauce",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "fête",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "mijoté",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette queue de bœuf en sauce",
+      "en": "Oxtail in sauce recipe"
+    },
+    "description": {
+      "fr": "Recette de queue de bœuf en sauce : mijoté long tomate-oignon — plat de fête et de dimanche en RDC.",
+      "en": "Oxtail in sauce recipe: a long tomato-onion simmer — a feast and Sunday dish in the DRC."
+    },
+    "body": {
+      "fr": "La **queue de bœuf en sauce** demande du temps : collagène et sauce longue. Plus festive que la [viande en sauce](/recettes/viande-ya-sauce/) du quotidien, dans la même famille de mijotés que les [tripes](/recettes/tripes-mijotees/).",
+      "en": "Oxtail in sauce needs time: collagen and a long sauce. More festive than everyday [beef in sauce](/en/recettes/viande-ya-sauce/), in the same simmered family as [tripe](/en/recettes/tripes-mijotees/)."
+    },
+    "region": "Kinshasa",
+    "region_id": "kinshasa",
+    "region_label": {
+      "fr": "Kinshasa",
+      "en": "Kinshasa"
+    },
+    "region_legacy": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "plat",
+    "difficulty": "avancé",
+    "prep_time": "25 min",
+    "cook_time": "2 h 30",
+    "prep_time_iso": "PT25M",
+    "cook_time_iso": "PT2H",
+    "servings": 6,
+    "tags": [
+      "queue de bœuf",
+      "oxtail",
+      "sauce",
+      "fête",
+      "mijoté"
+    ],
+    "ingredients": {
+      "fr": [
+        "1,5 kg de queue de bœuf, découpée en tronçons",
+        "3 oignons, émincés",
+        "4 tomates, concassées",
+        "3 gousses d’ail",
+        "2 c. à soupe de concentré de tomate",
+        "3 c. à soupe d’huile",
+        "1 feuille de laurier",
+        "2 cubes de bouillon",
+        "Sel, pili-pili et eau"
+      ],
+      "en": [
+        "1.5 kg oxtail, cut into sections",
+        "3 onions, sliced",
+        "4 tomatoes, crushed",
+        "3 garlic cloves",
+        "2 tbsp tomato paste",
+        "3 tbsp oil",
+        "1 bay leaf",
+        "2 stock cubes",
+        "Salt, pili-pili and water"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "1,5 kg de queue de bœuf, découpée en tronçons",
+          "amount": 1.5,
+          "unit": "kg",
+          "name": "queue de bœuf, découpée en tronçons",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 oignons, émincés",
+          "amount": 3,
+          "unit": "piece",
+          "name": "oignons, émincés",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "4 tomates, concassées",
+          "amount": 4,
+          "unit": "piece",
+          "name": "tomates, concassées",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 gousses d’ail",
+          "amount": 3,
+          "unit": "clove",
+          "name": "ail",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 c. à soupe de concentré de tomate",
+          "amount": 2,
+          "unit": "tbsp",
+          "name": "concentré de tomate",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 c. à soupe d’huile",
+          "amount": 3,
+          "unit": "tbsp",
+          "name": "huile",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 feuille de laurier",
+          "amount": 1,
+          "unit": "leaf",
+          "name": "laurier",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 cubes de bouillon",
+          "amount": 2,
+          "unit": "cube",
+          "name": "bouillon",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Sel, pili-pili et eau",
+          "name": "Sel, pili-pili et eau",
+          "parse_status": "raw_only"
+        }
+      ],
+      "en": [
+        {
+          "raw": "1.5 kg oxtail, cut into sections",
+          "amount": 1.5,
+          "unit": "kg",
+          "name": "oxtail, cut into sections",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 onions, sliced",
+          "amount": 3,
+          "unit": "piece",
+          "name": "onions, sliced",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "4 tomatoes, crushed",
+          "amount": 4,
+          "unit": "piece",
+          "name": "tomatoes, crushed",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 garlic cloves",
+          "amount": 3,
+          "unit": "piece",
+          "name": "garlic cloves",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 tbsp tomato paste",
+          "amount": 2,
+          "unit": "tbsp",
+          "name": "tomato paste",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 tbsp oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "name": "oil",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 bay leaf",
+          "amount": 1,
+          "unit": "piece",
+          "name": "bay leaf",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 stock cubes",
+          "amount": 2,
+          "unit": "piece",
+          "name": "stock cubes",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Salt, pili-pili and water",
+          "name": "Salt, pili-pili and water",
+          "parse_status": "raw_only"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Bien rincer les tronçons. Les faire dorer dans l’huile par petites quantités. Réserver.",
+        "Faire fondre les oignons, ajouter l’ail, les tomates et le concentré. Cuire 10 minutes.",
+        "Remettre la queue, le laurier, les cubes et l’eau à hauteur. Saler légèrement.",
+        "Mijoter à couvert 2 h à 2 h 30 à feu doux, jusqu’à viande très tendre et sauce liée. Ajouter de l’eau si besoin.",
+        "Rectifier piment et sel. Servir avec riz, fufu ou plantains."
+      ],
+      "en": [
+        "Rinse the sections well. Brown in oil in batches. Set aside.",
+        "Sweat the onions, add garlic, tomatoes and paste. Cook 10 minutes.",
+        "Return the oxtail, bay leaf, cubes and water to cover. Salt lightly.",
+        "Simmer covered 2–2½ hours on low until very tender and the sauce thickens. Add water if needed.",
+        "Adjust chili and salt. Serve with rice, fufu or plantains."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "viande-ya-sauce",
+      "langue-boeuf-sauce",
+      "tripes-mijotees",
+      "makoso",
+      "soso-ya-sauce"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: FotoosVanRobin — Wikimedia Commons, CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Oxtail.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Oxtail.jpg?width=1600",
+    "image_alt": {
+      "fr": "Queue de bœuf cuite, prête pour une sauce longue",
+      "en": "Cooked oxtail ready for a long sauce"
+    },
+    "image_credit": "FotoosVanRobin — Wikimedia Commons, CC BY-SA 2.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Oxtail.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/queue-boeuf-sauce/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/queue-boeuf-sauce/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "riz-moambe",
@@ -32568,7 +35667,266 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "rognons-saute",
+    "slug": "rognons-saute",
+    "names": {
+      "fr": "Rognons sautés",
+      "en": "Sautéed kidneys",
+      "aliases": [
+        {
+          "name": "rognons sautés",
+          "lang": "fr"
+        },
+        {
+          "name": "rognons",
+          "lang": "fr"
+        },
+        {
+          "name": "sautéed kidneys",
+          "lang": "en"
+        },
+        {
+          "name": "ba rognons",
+          "lang": "ln"
+        },
+        {
+          "name": "abats",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "poêle",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Kinshasa",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "street food",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette rognons sautés — abats Kinshasa",
+      "en": "Sautéed kidneys recipe — Kinshasa offal"
+    },
+    "description": {
+      "fr": "Recette de rognons sautés : abats rapidement saisis avec oignon et piment — street food et plat express à côté du foie.",
+      "en": "Sautéed kidneys recipe: offal quickly seared with onion and chili — street food and a fast plate next to liver."
+    },
+    "body": {
+      "fr": "Comme le [foie sauté](/recettes/foie-boeuf-saute/), les **rognons** durcissent s’ils restent trop longtemps sur le feu. Autres abats : [tripes mijotées](/recettes/tripes-mijotees/), [brochettes de foie](/recettes/brochettes-foie/).",
+      "en": "Like [sautéed beef liver](/en/recettes/foie-boeuf-saute/), kidneys toughen if left too long on the heat. Other offal: [simmered tripe](/en/recettes/tripes-mijotees/), [liver skewers](/en/recettes/brochettes-foie/)."
+    },
+    "region": "Kinshasa",
+    "region_id": "kinshasa",
+    "region_label": {
+      "fr": "Kinshasa",
+      "en": "Kinshasa"
+    },
+    "region_legacy": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "plat",
+    "difficulty": "moyen",
+    "prep_time": "20 min",
+    "cook_time": "20 min",
+    "prep_time_iso": "PT20M",
+    "cook_time_iso": "PT20M",
+    "servings": 4,
+    "tags": [
+      "rognons",
+      "abats",
+      "poêle",
+      "Kinshasa",
+      "street food"
+    ],
+    "ingredients": {
+      "fr": [
+        "600 g de rognons de bœuf (ou de porc), bien nettoyés",
+        "2 oignons, émincés",
+        "2 gousses d’ail, hachées",
+        "2 c. à soupe d’huile",
+        "1 c. à soupe de jus de citron ou vinaigre",
+        "1 tomate, concassée (optionnel)",
+        "Piment, sel et poivre"
+      ],
+      "en": [
+        "600 g beef (or pork) kidneys, well cleaned",
+        "2 onions, sliced",
+        "2 garlic cloves, chopped",
+        "2 tbsp oil",
+        "1 tbsp lemon juice or vinegar",
+        "1 tomato, crushed (optional)",
+        "Chili, salt and pepper"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "600 g de rognons de bœuf (ou de porc), bien nettoyés",
+          "amount": 600,
+          "unit": "g",
+          "name": "rognons de bœuf (ou de porc), bien nettoyés",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 oignons, émincés",
+          "amount": 2,
+          "unit": "piece",
+          "name": "oignons, émincés",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 gousses d’ail, hachées",
+          "amount": 2,
+          "unit": "clove",
+          "name": "ail, hachées",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 c. à soupe d’huile",
+          "amount": 2,
+          "unit": "tbsp",
+          "name": "huile",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 c. à soupe de jus de citron ou vinaigre",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "jus de citron ou vinaigre",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 tomate, concassée (optionnel)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "tomate, concassée (optionnel)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Piment, sel et poivre",
+          "name": "Piment, sel et poivre",
+          "parse_status": "raw_only"
+        }
+      ],
+      "en": [
+        {
+          "raw": "600 g beef (or pork) kidneys, well cleaned",
+          "amount": 600,
+          "unit": "g",
+          "name": "beef (or pork) kidneys, well cleaned",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 onions, sliced",
+          "amount": 2,
+          "unit": "piece",
+          "name": "onions, sliced",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 garlic cloves, chopped",
+          "amount": 2,
+          "unit": "piece",
+          "name": "garlic cloves, chopped",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 tbsp oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "name": "oil",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 tbsp lemon juice or vinegar",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "lemon juice or vinegar",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 tomato, crushed (optional)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "tomato, crushed (optional)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Chili, salt and pepper",
+          "name": "Chili, salt and pepper",
+          "parse_status": "raw_only"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Ouvrir les rognons, retirer le gras blanc et les canaux. Couper en tranches ou dés. Citronner, saler.",
+        "Chauffer l’huile à feu vif. Saisir les rognons 3 à 4 minutes sans les entasser. Réserver.",
+        "Faire revenir oignons et ail. Ajouter la tomate si utilisée, 5 minutes.",
+        "Remettre les rognons, pimenter, remuer 2 à 3 minutes — ne pas trop cuire.",
+        "Servir aussitôt avec pain, frites ou riz."
+      ],
+      "en": [
+        "Open the kidneys, remove white fat and ducts. Slice or dice. Lemon and salt lightly.",
+        "Heat oil high. Sear kidneys 3–4 minutes without crowding. Set aside.",
+        "Sweat onions and garlic. Add tomato if using, 5 minutes.",
+        "Return kidneys, chili, toss 2–3 minutes — do not overcook.",
+        "Serve at once with bread, fries or rice."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "foie-boeuf-saute",
+      "brochettes-foie",
+      "tripes-mijotees",
+      "sauce-pili-pili"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Juan Emilio Prades Bel — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Ri%C3%B1ones_al_Jerez.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ri%C3%B1ones%20al%20Jerez.jpg?width=1600",
+    "image_alt": {
+      "fr": "Rognons sautés en sauce avec oignons",
+      "en": "Sautéed kidneys in sauce with onions"
+    },
+    "image_credit": "Juan Emilio Prades Bel — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Ri%C3%B1ones_al_Jerez.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/rognons-saute/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/rognons-saute/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "saka-madesu",
@@ -33170,7 +36528,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "salade-kisangani",
@@ -33399,7 +36757,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "sambaza",
@@ -33416,6 +36774,11 @@
         {
           "name": "petits poissons",
           "lang": "fr"
+        },
+        {
+          "name": "sambaza na tomatisi",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "Tanganyika",
@@ -33668,7 +37031,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "sambousa-pommes",
@@ -33691,8 +37054,13 @@
         },
         {
           "name": "sambousa",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
+        },
+        {
+          "name": "sambousa ya pommes",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "pommes de terre",
@@ -33935,7 +37303,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "sauce-arachide",
@@ -34191,7 +37559,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "sauce-gombo",
@@ -34438,7 +37806,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "sauce-pili-pili",
@@ -34470,6 +37838,11 @@
         {
           "name": "piri-piri",
           "lang": "en"
+        },
+        {
+          "name": "sauce ya pili-pili",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "sauce piment",
@@ -34714,7 +38087,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "saucisse-frites",
@@ -34730,6 +38103,11 @@
         {
           "name": "sausage and fries",
           "lang": "en"
+        },
+        {
+          "name": "saucisse na frites",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "saucisse",
@@ -34943,7 +38321,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "sombe",
@@ -35520,7 +38898,300 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "soso-grille-entier",
+    "slug": "soso-grille-entier",
+    "names": {
+      "fr": "Poulet entier à la braise",
+      "en": "Whole grilled chicken",
+      "aliases": [
+        {
+          "name": "poulet entier grillé",
+          "lang": "fr"
+        },
+        {
+          "name": "soso grille entier",
+          "lang": "ln"
+        },
+        {
+          "name": "whole grilled chicken",
+          "lang": "en"
+        },
+        {
+          "name": "poulet à la braise entier",
+          "lang": "fr"
+        },
+        {
+          "name": "poulet entier",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "braise",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "street food",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Kinshasa",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "grillade",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette poulet entier grillé — street food Kinshasa",
+      "en": "Whole grilled chicken recipe — Kinshasa street food"
+    },
+    "description": {
+      "fr": "Recette de poulet entier à la braise : volaille ouverte à plat, marinée et grillée entière — présentation de rue et de partage à Kinshasa.",
+      "en": "Whole grilled chicken recipe: butterflied bird, marinated and grilled whole — Kinshasa street and sharing presentation."
+    },
+    "body": {
+      "fr": "Le **poulet entier à la braise** insiste sur la volaille ouverte et présentée entière — geste de partage / étal. Les morceaux et la marinade courte restent sur [soso ya kotumba](/recettes/soso-ya-kotumba/). Mayo : [poulet mayo](/recettes/poulet-mayo/). Condiment : [sauce pili-pili](/recettes/sauce-pili-pili/).",
+      "en": "Whole grilled chicken emphasises the butterflied bird served whole — a sharing / stall gesture. Pieces and shorter marinades stay on [soso ya kotumba](/en/recettes/soso-ya-kotumba/). Mayo: [poulet mayo](/en/recettes/poulet-mayo/). Condiment: [pili-pili sauce](/en/recettes/sauce-pili-pili/)."
+    },
+    "region": "Kinshasa",
+    "region_id": "kinshasa",
+    "region_label": {
+      "fr": "Kinshasa",
+      "en": "Kinshasa"
+    },
+    "region_legacy": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "plat",
+    "difficulty": "moyen",
+    "prep_time": "30 min + 3 h de marinade",
+    "cook_time": "1 h",
+    "prep_time_iso": "PT3H30M",
+    "cook_time_iso": "PT1H",
+    "servings": 6,
+    "tags": [
+      "poulet entier",
+      "braise",
+      "street food",
+      "Kinshasa",
+      "grillade"
+    ],
+    "ingredients": {
+      "fr": [
+        "1 poulet entier (environ 1,5 à 1,8 kg)",
+        "2 oignons, dont un râpé",
+        "5 gousses d’ail, écrasées",
+        "3 cm de gingembre, râpé",
+        "Jus de 2 citrons",
+        "4 c. à soupe d’huile",
+        "1 c. à café de thym ou herbes",
+        "Pili-pili, sel et poivre",
+        "1 cube de bouillon, facultatif"
+      ],
+      "en": [
+        "1 whole chicken (about 1.5–1.8 kg)",
+        "2 onions, one grated",
+        "5 garlic cloves, crushed",
+        "3 cm ginger, grated",
+        "Juice of 2 lemons",
+        "4 tbsp oil",
+        "1 tsp thyme or dried herbs",
+        "Pili-pili, salt and pepper",
+        "1 stock cube, optional"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "1 poulet entier (environ 1,5 à 1,8 kg)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "poulet entier (environ 1,5 à 1,8 kg)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 oignons, dont un râpé",
+          "amount": 2,
+          "unit": "piece",
+          "name": "oignons, dont un râpé",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "5 gousses d’ail, écrasées",
+          "amount": 5,
+          "unit": "clove",
+          "name": "ail, écrasées",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 cm de gingembre, râpé",
+          "amount": 3,
+          "unit": "piece",
+          "name": "cm de gingembre, râpé",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Jus de 2 citrons",
+          "name": "Jus de 2 citrons",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "4 c. à soupe d’huile",
+          "amount": 4,
+          "unit": "tbsp",
+          "name": "huile",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 c. à café de thym ou herbes",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "thym ou herbes",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Pili-pili, sel et poivre",
+          "name": "Pili-pili, sel et poivre",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "1 cube de bouillon, facultatif",
+          "amount": 1,
+          "unit": "cube",
+          "name": "bouillon, facultatif",
+          "parse_status": "structured"
+        }
+      ],
+      "en": [
+        {
+          "raw": "1 whole chicken (about 1.5–1.8 kg)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "whole chicken (about 1.5–1.8 kg)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "2 onions, one grated",
+          "amount": 2,
+          "unit": "piece",
+          "name": "onions, one grated",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "5 garlic cloves, crushed",
+          "amount": 5,
+          "unit": "piece",
+          "name": "garlic cloves, crushed",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 cm ginger, grated",
+          "amount": 3,
+          "unit": "piece",
+          "name": "cm ginger, grated",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Juice of 2 lemons",
+          "name": "Juice of 2 lemons",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "4 tbsp oil",
+          "amount": 4,
+          "unit": "tbsp",
+          "name": "oil",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 tsp thyme or dried herbs",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "thyme or dried herbs",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Pili-pili, salt and pepper",
+          "name": "Pili-pili, salt and pepper",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "1 stock cube, optional",
+          "amount": 1,
+          "unit": "piece",
+          "name": "stock cube, optional",
+          "parse_status": "structured"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Ouvrir le poulet à plat (couper le long du dos, aplatir le bréchet) pour une cuisson uniforme.",
+        "Mélanger oignon râpé, ail, gingembre, citron, huile, herbes, sel, poivre, pili-pili et cube émietté.",
+        "Enrober le poulet, glisser la marinade sous la peau. Réserver au frais au moins 3 heures.",
+        "Griller sur braises moyennes, côté peau d’abord, 45 à 60 minutes en retournant et en arrosant. Alternativement : four à 200 °C.",
+        "Vérifier que le jus de la cuisse coule clair. Servir entier à table avec pili-pili et oignons crus."
+      ],
+      "en": [
+        "Butterfly the chicken (cut along the backbone, flatten the breastbone) for even cooking.",
+        "Mix grated onion, garlic, ginger, lemon, oil, herbs, salt, pepper, chili and crumbled cube.",
+        "Coat the bird, slide marinade under the skin. Chill at least 3 hours.",
+        "Grill over medium coals, skin side first, 45–60 minutes, turning and basting. Alternatively: oven at 200 °C.",
+        "Check that thigh juices run clear. Serve whole with pili-pili and raw onions."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "soso-ya-kotumba",
+      "poulet-mayo",
+      "brochettes-poulet",
+      "sauce-pili-pili",
+      "porc-ya-kotumba"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Jameswasswa — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Whole_spiced_chicken_(roasted).jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Whole%20spiced%20chicken%20(roasted).jpg?width=1600",
+    "image_alt": {
+      "fr": "Poulet entier assaisonné, rôti / grillé",
+      "en": "Whole seasoned chicken, roasted or grilled"
+    },
+    "image_credit": "Jameswasswa — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Whole_spiced_chicken_(roasted).jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/soso-grille-entier/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/soso-grille-entier/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "soso-lumba-lumba",
@@ -35785,7 +39456,296 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "soso-na-madesu",
+    "slug": "soso-na-madesu",
+    "names": {
+      "fr": "Poulet aux haricots",
+      "en": "Chicken with beans",
+      "aliases": [
+        {
+          "name": "soso na madesu",
+          "lang": "ln"
+        },
+        {
+          "name": "poulet aux haricots",
+          "lang": "fr"
+        },
+        {
+          "name": "chicken and beans",
+          "lang": "en"
+        },
+        {
+          "name": "poulet",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "madesu",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "haricots",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "quotidien",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette poulet aux haricots (soso na madesu)",
+      "en": "Chicken with beans recipe (soso na madesu)"
+    },
+    "description": {
+      "fr": "Recette de poulet aux haricots (en lingala : soso na madesu) : poulet mijoté avec des madesu — assiette du quotidien en RDC.",
+      "en": "Chicken with beans recipe (Lingala: soso na madesu): chicken simmered with madesu beans — an everyday Congolese plate."
+    },
+    "body": {
+      "fr": "Le **poulet aux haricots** (en lingala : *soso na madesu*) marie deux classiques de table : le [poulet en sauce](/recettes/soso-ya-sauce/) et les [madesu](/recettes/madesu/). Moins « un seul plat riz-haricots » que [loso na madesu](/recettes/loso-na-madesu/), plus de viande que [saka-madesu](/recettes/saka-madesu/).",
+      "en": "Chicken with beans (Lingala: *soso na madesu*) joins two table classics: [chicken in sauce](/en/recettes/soso-ya-sauce/) and [madesu](/en/recettes/madesu/). Less one-pot rice-and-beans than [loso na madesu](/en/recettes/loso-na-madesu/)."
+    },
+    "region": "Kinshasa",
+    "region_id": "kinshasa",
+    "region_label": {
+      "fr": "Kinshasa",
+      "en": "Kinshasa"
+    },
+    "region_legacy": "Kinshasa",
+    "country": "CD",
+    "geo_tags": [
+      "Kinshasa"
+    ],
+    "category": "plat",
+    "difficulty": "moyen",
+    "prep_time": "25 min + 8 h de trempage",
+    "cook_time": "1 h 30",
+    "prep_time_iso": "PT8H25M",
+    "cook_time_iso": "PT1H",
+    "servings": 6,
+    "tags": [
+      "soso na madesu",
+      "poulet",
+      "madesu",
+      "haricots",
+      "quotidien"
+    ],
+    "ingredients": {
+      "fr": [
+        "1 poulet coupé en morceaux (environ 1,2 kg)",
+        "400 g de haricots rouges ou bruns secs",
+        "3 oignons, émincés",
+        "3 tomates, concassées",
+        "3 gousses d’ail, hachées",
+        "3 c. à soupe d’huile de palme rouge (ou huile neutre)",
+        "1 feuille de laurier",
+        "1 cube de bouillon",
+        "Sel, pili-pili et eau"
+      ],
+      "en": [
+        "1 chicken cut into pieces (about 1.2 kg)",
+        "400 g dried red or brown beans",
+        "3 onions, sliced",
+        "3 tomatoes, crushed",
+        "3 garlic cloves, chopped",
+        "3 tbsp red palm oil (or neutral oil)",
+        "1 bay leaf",
+        "1 stock cube",
+        "Salt, pili-pili and water"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "1 poulet coupé en morceaux (environ 1,2 kg)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "poulet coupé en morceaux (environ 1,2 kg)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "400 g de haricots rouges ou bruns secs",
+          "amount": 400,
+          "unit": "g",
+          "name": "haricots rouges ou bruns secs",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 oignons, émincés",
+          "amount": 3,
+          "unit": "piece",
+          "name": "oignons, émincés",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 tomates, concassées",
+          "amount": 3,
+          "unit": "piece",
+          "name": "tomates, concassées",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 gousses d’ail, hachées",
+          "amount": 3,
+          "unit": "clove",
+          "name": "ail, hachées",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 c. à soupe d’huile de palme rouge (ou huile neutre)",
+          "amount": 3,
+          "unit": "tbsp",
+          "name": "huile de palme rouge (ou huile neutre)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 feuille de laurier",
+          "amount": 1,
+          "unit": "leaf",
+          "name": "laurier",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 cube de bouillon",
+          "amount": 1,
+          "unit": "cube",
+          "name": "bouillon",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Sel, pili-pili et eau",
+          "name": "Sel, pili-pili et eau",
+          "parse_status": "raw_only"
+        }
+      ],
+      "en": [
+        {
+          "raw": "1 chicken cut into pieces (about 1.2 kg)",
+          "amount": 1,
+          "unit": "piece",
+          "name": "chicken cut into pieces (about 1.2 kg)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "400 g dried red or brown beans",
+          "amount": 400,
+          "unit": "g",
+          "name": "dried red or brown beans",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 onions, sliced",
+          "amount": 3,
+          "unit": "piece",
+          "name": "onions, sliced",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 tomatoes, crushed",
+          "amount": 3,
+          "unit": "piece",
+          "name": "tomatoes, crushed",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 garlic cloves, chopped",
+          "amount": 3,
+          "unit": "piece",
+          "name": "garlic cloves, chopped",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "3 tbsp red palm oil (or neutral oil)",
+          "amount": 3,
+          "unit": "tbsp",
+          "name": "red palm oil (or neutral oil)",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 bay leaf",
+          "amount": 1,
+          "unit": "piece",
+          "name": "bay leaf",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 stock cube",
+          "amount": 1,
+          "unit": "piece",
+          "name": "stock cube",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "Salt, pili-pili and water",
+          "name": "Salt, pili-pili and water",
+          "parse_status": "raw_only"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Faire tremper les haricots une nuit, les égoutter puis les cuire 50 à 60 minutes avec le laurier jusqu’à tendreté. Saler en fin de cuisson.",
+        "Faire dorer les morceaux de poulet dans l’huile. Réserver.",
+        "Faire fondre les oignons, ajouter l’ail et les tomates. Cuire 8 à 10 minutes.",
+        "Remettre le poulet, le cube et un peu d’eau. Mijoter 25 minutes à couvert.",
+        "Incorporer les haricots égouttés avec une louche de leur eau. Poursuivre 20 minutes jusqu’à sauce liée.",
+        "Rectifier sel et pili-pili. Servir avec riz, fufu ou plantains."
+      ],
+      "en": [
+        "Soak the beans overnight, drain, then cook 50–60 minutes with the bay leaf until tender. Salt at the end.",
+        "Brown the chicken pieces in oil. Set aside.",
+        "Sweat the onions, add garlic and tomatoes. Cook 8–10 minutes.",
+        "Return the chicken, add the cube and a little water. Simmer covered 25 minutes.",
+        "Stir in the drained beans with a ladle of their cooking water. Cook 20 minutes more until the sauce thickens.",
+        "Adjust salt and chili. Serve with rice, fufu or plantains."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "madesu",
+      "soso-ya-sauce",
+      "loso-na-madesu",
+      "saka-madesu"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Bukky658 — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Beans_and_rice_with_vegetable_and_chicken_stew.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Beans%20and%20rice%20with%20vegetable%20and%20chicken%20stew.jpg?width=1600",
+    "image_alt": {
+      "fr": "Assiette de haricots et poulet en sauce",
+      "en": "Plate of stewed beans with chicken in sauce"
+    },
+    "image_credit": "Bukky658 — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Beans_and_rice_with_vegetable_and_chicken_stew.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/soso-na-madesu/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/soso-na-madesu/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "soso-ya-kotumba",
@@ -36023,6 +39983,7 @@
     "variants": [],
     "related_recipes": [
       "poulet-mayo",
+      "soso-grille-entier",
       "sauce-pili-pili",
       "porc-braise",
       "porc-ya-kotumba",
@@ -36071,7 +40032,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "soso-ya-sauce",
@@ -36338,7 +40299,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "spaghetti-kinshasa",
@@ -36631,7 +40592,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "sukuma-est",
@@ -36868,7 +40829,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "tangawisi",
@@ -36900,8 +40861,13 @@
         },
         {
           "name": "tangawisi",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
+        },
+        {
+          "name": "jus ya tangawisi",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "gingembre",
@@ -37063,10 +41029,12 @@
     },
     "variants": [],
     "related_recipes": [
+      "jus-gingembre-ananas",
       "jus-tamarin",
       "jus-bissap",
       "jus-ananas",
       "jus-mangue",
+      "the-citronnelle",
       "mikate"
     ],
     "sources": [
@@ -37112,7 +41080,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "taro-mijote",
@@ -37128,6 +41096,11 @@
         {
           "name": "taro",
           "lang": "en"
+        },
+        {
+          "name": "taro ya kobila",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "tubercule",
@@ -37375,7 +41348,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "taro-sauce",
@@ -37651,7 +41624,218 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "the-citronnelle",
+    "slug": "the-citronnelle",
+    "names": {
+      "fr": "Thé à la citronnelle",
+      "en": "Lemongrass tea",
+      "aliases": [
+        {
+          "name": "thé citronnelle",
+          "lang": "fr"
+        },
+        {
+          "name": "infusion citronnelle",
+          "lang": "fr"
+        },
+        {
+          "name": "lemongrass tea",
+          "lang": "en"
+        },
+        {
+          "name": "thé ya citronnelle",
+          "lang": "ln"
+        },
+        {
+          "name": "citronnelle",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "thé",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "infusion",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "boisson",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        },
+        {
+          "name": "maison",
+          "lang": "und",
+          "note": "Derived from editorial tags"
+        }
+      ]
+    },
+    "seo_title": {
+      "fr": "Recette thé citronnelle — infusion maison",
+      "en": "Lemongrass tea recipe — homemade infusion"
+    },
+    "description": {
+      "fr": "Recette de thé à la citronnelle : tiges fraîches infusées à l’eau chaude — boisson maison simple, chaude ou glacée.",
+      "en": "Lemongrass tea recipe: fresh stalks infused in hot water — a simple homemade drink, hot or iced."
+    },
+    "body": {
+      "fr": "Le **thé à la citronnelle** est l’infusion du jardin / du marché — sans le piquant du [tangawisi](/recettes/tangawisi/). On le croise souvent glacé en saison chaude, à côté du [bissap](/recettes/jus-bissap/).",
+      "en": "Lemongrass tea is the garden / market infusion — without the heat of [tangawisi](/en/recettes/tangawisi/). Often iced in hot season, alongside [bissap](/en/recettes/jus-bissap/)."
+    },
+    "region": "Toute la RDC",
+    "region_id": "nationwide",
+    "region_label": {
+      "fr": "Toute la RDC",
+      "en": "Across the DRC"
+    },
+    "region_legacy": "Toute la RDC",
+    "country": "CD",
+    "geo_tags": [
+      "Toute la RDC"
+    ],
+    "category": "boisson",
+    "difficulty": "facile",
+    "prep_time": "5 min",
+    "cook_time": "15 min",
+    "prep_time_iso": "PT5M",
+    "cook_time_iso": "PT15M",
+    "servings": 4,
+    "tags": [
+      "citronnelle",
+      "thé",
+      "infusion",
+      "boisson",
+      "maison"
+    ],
+    "ingredients": {
+      "fr": [
+        "4 à 6 tiges de citronnelle fraîche",
+        "1 l d’eau",
+        "30 à 50 g de sucre ou miel, facultatif",
+        "Tranches de citron ou gingembre, facultatif"
+      ],
+      "en": [
+        "4–6 fresh lemongrass stalks",
+        "1 l water",
+        "30–50 g sugar or honey, optional",
+        "Lemon slices or ginger, optional"
+      ]
+    },
+    "ingredients_structured": {
+      "fr": [
+        {
+          "raw": "4 à 6 tiges de citronnelle fraîche",
+          "amount": 4,
+          "unit": "piece",
+          "name": "à 6 tiges de citronnelle fraîche",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "1 l d’eau",
+          "amount": 1,
+          "unit": "l",
+          "name": "eau",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "30 à 50 g de sucre ou miel, facultatif",
+          "amount": 30,
+          "unit": "g",
+          "name": "sucre ou miel, facultatif",
+          "parse_status": "structured",
+          "amount_max": 50
+        },
+        {
+          "raw": "Tranches de citron ou gingembre, facultatif",
+          "name": "Tranches de citron ou gingembre, facultatif",
+          "parse_status": "raw_only"
+        }
+      ],
+      "en": [
+        {
+          "raw": "4–6 fresh lemongrass stalks",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "1 l water",
+          "amount": 1,
+          "unit": "l",
+          "name": "water",
+          "parse_status": "structured"
+        },
+        {
+          "raw": "30–50 g sugar or honey, optional",
+          "parse_status": "raw_only"
+        },
+        {
+          "raw": "Lemon slices or ginger, optional",
+          "name": "Lemon slices or ginger, optional",
+          "parse_status": "raw_only"
+        }
+      ]
+    },
+    "steps": {
+      "fr": [
+        "Laver les tiges, les écraser légèrement au dos d’un couteau, les couper en tronçons.",
+        "Porter l’eau à ébullition. Ajouter la citronnelle (et le gingembre si utilisé).",
+        "Baisser le feu et laisser infuser 10 à 15 minutes à couvert.",
+        "Filtrer. Sucrer selon le goût.",
+        "Servir chaud, ou laisser refroidir et servir glacé."
+      ],
+      "en": [
+        "Wash the stalks, bruise lightly with the back of a knife, cut into pieces.",
+        "Bring the water to a boil. Add lemongrass (and ginger if using).",
+        "Lower the heat and steep covered 10–15 minutes.",
+        "Strain. Sweeten to taste.",
+        "Serve hot, or cool and serve iced."
+      ]
+    },
+    "variants": [],
+    "related_recipes": [
+      "tangawisi",
+      "jus-gingembre-ananas",
+      "jus-bissap",
+      "jus-tamarin"
+    ],
+    "sources": [
+      {
+        "type": "editorial",
+        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
+        "url": "https://mpichi.likeur.xyz/"
+      },
+      {
+        "type": "transmission",
+        "label": "Household transmission notes — quantities are starting points"
+      },
+      {
+        "type": "url",
+        "label": "Photo credit: Andrea Nguyen — Wikimedia Commons, CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Lemongrass_tea.jpg"
+      }
+    ],
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lemongrass%20tea.jpg?width=1600",
+    "image_alt": {
+      "fr": "Tasse de thé / infusion à la citronnelle",
+      "en": "Cup of lemongrass tea / infusion"
+    },
+    "image_credit": "Andrea Nguyen — Wikimedia Commons, CC BY 2.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Lemongrass_tea.jpg",
+    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
+    "urls": {
+      "fr": "https://mpichi.likeur.xyz/recettes/the-citronnelle/",
+      "en": "https://mpichi.likeur.xyz/en/recettes/the-citronnelle/"
+    },
+    "featured": false,
+    "license": "CC-BY-4.0",
+    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
+    "version": "1.6.0",
+    "updated_at": "2026-11-03"
   },
   {
     "id": "tilapia-bugali",
@@ -37896,7 +42080,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "tripes-mijotees",
@@ -37917,6 +42101,11 @@
           "name": "matumbo",
           "lang": "sw",
           "note": "East African tripe name; used in some DRC Swahili zones"
+        },
+        {
+          "name": "matumbo ya kobila",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "abats",
@@ -38132,6 +42321,8 @@
     "variants": [],
     "related_recipes": [
       "foie-boeuf-saute",
+      "rognons-saute",
+      "langue-boeuf-sauce",
       "brochettes-foie",
       "viande-ya-sauce",
       "makosso-pommes"
@@ -38168,7 +42359,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "viande-sechee-tomates",
@@ -38186,6 +42377,11 @@
           "name": "biltong-style",
           "lang": "en",
           "note": "Descriptive; not South African biltong"
+        },
+        {
+          "name": "nyama ya kokauka na tomatisi",
+          "lang": "ln",
+          "note": "Added for site LN locale coverage"
         },
         {
           "name": "Katanga",
@@ -38409,7 +42605,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   },
   {
     "id": "viande-ya-sauce",
@@ -38696,6 +42892,6 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-02"
+    "updated_at": "2026-11-03"
   }
 ]

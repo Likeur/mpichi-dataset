@@ -12,6 +12,9 @@ GitHub releases / Hugging Face revisions.
 
 ### Added
 
+- Editorial wave G (+6 recipes): `soso-na-madesu`, `loso-na-soso`, `pondu-ngulu`, `queue-boeuf-sauce`, `makemba-na-soso`, `beignets-haricot` + curated aliases
+- Editorial wave L (+4 recipes): `soso-grille-entier`, `rognons-saute`, `langue-boeuf-sauce`, `plantain-grille-arachide` + curated aliases
+- Editorial wave K (+5 recipes): `jus-gingembre-ananas`, `the-citronnelle`, `bouillie-manioc`, `gateau-banane`, `galettes-mais` + curated aliases
 - Companion site Lingala locale (`/ln`): UI strings, recipe/guide overlays, region labels; curated `ln` aliases for every recipe slug in `enrichment/aliases.json`
 - `data/meta.json` `site_locales` (`fr`, `en`, `ln`) documenting the trilingual site surface (recipe bodies remain FR/EN until a dedicated LN export)
 

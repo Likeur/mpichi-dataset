@@ -2294,5 +2294,269 @@
       "name": "viande ya sauce",
       "lang": "ln"
     }
+  ],
+  "soso-na-madesu": [
+    {
+      "name": "soso na madesu",
+      "lang": "ln"
+    },
+    {
+      "name": "poulet aux haricots",
+      "lang": "fr"
+    },
+    {
+      "name": "chicken and beans",
+      "lang": "en"
+    }
+  ],
+  "loso-na-soso": [
+    {
+      "name": "loso na soso",
+      "lang": "ln"
+    },
+    {
+      "name": "riz au poulet",
+      "lang": "fr"
+    },
+    {
+      "name": "rice with chicken",
+      "lang": "en"
+    }
+  ],
+  "pondu-ngulu": [
+    {
+      "name": "pondu ya ngulu",
+      "lang": "ln"
+    },
+    {
+      "name": "pondu au porc",
+      "lang": "fr"
+    },
+    {
+      "name": "pondu with pork",
+      "lang": "en"
+    },
+    {
+      "name": "saka-saka porc",
+      "lang": "fr",
+      "note": "Search gloss"
+    }
+  ],
+  "queue-boeuf-sauce": [
+    {
+      "name": "queue de bœuf",
+      "lang": "fr"
+    },
+    {
+      "name": "oxtail stew",
+      "lang": "en"
+    },
+    {
+      "name": "queue ya ngombe",
+      "lang": "ln",
+      "note": "Colloquial"
+    }
+  ],
+  "makemba-na-soso": [
+    {
+      "name": "makemba na soso",
+      "lang": "ln"
+    },
+    {
+      "name": "plantains frits au poulet",
+      "lang": "fr"
+    },
+    {
+      "name": "fried plantain with chicken",
+      "lang": "en"
+    }
+  ],
+  "beignets-haricot": [
+    {
+      "name": "beignets de haricots",
+      "lang": "fr"
+    },
+    {
+      "name": "akara",
+      "lang": "und",
+      "note": "West African name also used in diaspora stalls"
+    },
+    {
+      "name": "kosai",
+      "lang": "ha",
+      "note": "Hausa / Sahel name"
+    },
+    {
+      "name": "bean fritters",
+      "lang": "en"
+    },
+    {
+      "name": "beignets ya madesu",
+      "lang": "ln"
+    }
+  ],
+  "soso-grille-entier": [
+    {
+      "name": "poulet entier grillé",
+      "lang": "fr"
+    },
+    {
+      "name": "soso grille entier",
+      "lang": "ln"
+    },
+    {
+      "name": "whole grilled chicken",
+      "lang": "en"
+    },
+    {
+      "name": "poulet à la braise entier",
+      "lang": "fr"
+    }
+  ],
+  "rognons-saute": [
+    {
+      "name": "rognons sautés",
+      "lang": "fr"
+    },
+    {
+      "name": "rognons",
+      "lang": "fr"
+    },
+    {
+      "name": "sautéed kidneys",
+      "lang": "en"
+    },
+    {
+      "name": "ba rognons",
+      "lang": "ln"
+    }
+  ],
+  "langue-boeuf-sauce": [
+    {
+      "name": "langue de bœuf",
+      "lang": "fr"
+    },
+    {
+      "name": "langue en sauce",
+      "lang": "fr"
+    },
+    {
+      "name": "beef tongue",
+      "lang": "en"
+    },
+    {
+      "name": "monoko ya ngombe",
+      "lang": "ln",
+      "note": "Colloquial gloss"
+    }
+  ],
+  "plantain-grille-arachide": [
+    {
+      "name": "plantain grillé arachide",
+      "lang": "fr"
+    },
+    {
+      "name": "makemba grillé nguba",
+      "lang": "ln"
+    },
+    {
+      "name": "grilled plantain peanut",
+      "lang": "en"
+    },
+    {
+      "name": "plantain braise arachide",
+      "lang": "fr"
+    }
+  ],
+  "jus-gingembre-ananas": [
+    {
+      "name": "jus gingembre ananas",
+      "lang": "fr"
+    },
+    {
+      "name": "tangawisi ananas",
+      "lang": "fr"
+    },
+    {
+      "name": "ginger pineapple juice",
+      "lang": "en"
+    },
+    {
+      "name": "tangawisi ya ananas",
+      "lang": "ln"
+    }
+  ],
+  "the-citronnelle": [
+    {
+      "name": "thé citronnelle",
+      "lang": "fr"
+    },
+    {
+      "name": "infusion citronnelle",
+      "lang": "fr"
+    },
+    {
+      "name": "lemongrass tea",
+      "lang": "en"
+    },
+    {
+      "name": "thé ya citronnelle",
+      "lang": "ln"
+    }
+  ],
+  "bouillie-manioc": [
+    {
+      "name": "bouillie de manioc",
+      "lang": "fr"
+    },
+    {
+      "name": "cassava porridge",
+      "lang": "en"
+    },
+    {
+      "name": "bouillie ya manioc",
+      "lang": "ln"
+    },
+    {
+      "name": "uji ya manioc",
+      "lang": "sw",
+      "note": "Eastern / diaspora gloss"
+    }
+  ],
+  "gateau-banane": [
+    {
+      "name": "gâteau banane",
+      "lang": "fr"
+    },
+    {
+      "name": "cake banane",
+      "lang": "fr"
+    },
+    {
+      "name": "banana cake",
+      "lang": "en"
+    },
+    {
+      "name": "gâteau ya libuma",
+      "lang": "ln"
+    }
+  ],
+  "galettes-mais": [
+    {
+      "name": "galettes de maïs",
+      "lang": "fr"
+    },
+    {
+      "name": "galettes maïs",
+      "lang": "fr"
+    },
+    {
+      "name": "maize flatcakes",
+      "lang": "en"
+    },
+    {
+      "name": "galettes ya maïs",
+      "lang": "ln"
+    }
   ]
 }

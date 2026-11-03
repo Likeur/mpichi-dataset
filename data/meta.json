@@ -1,23 +1,23 @@
 {
   "name": "mpichi-dataset",
   "version": "1.6.0",
-  "updated_at": "2026-11-02",
-  "recipe_count": 143,
-  "instruction_pair_count": 1320,
+  "updated_at": "2026-11-03",
+  "recipe_count": 158,
+  "instruction_pair_count": 1455,
   "instruction_task_counts": {
-    "recipe_full": 286,
-    "list_ingredients": 143,
-    "region_context": 143,
-    "aliases": 143,
-    "alias_to_dish": 429,
-    "structured_ingredients": 143,
+    "recipe_full": 316,
+    "list_ingredients": 158,
+    "region_context": 158,
+    "aliases": 158,
+    "alias_to_dish": 474,
+    "structured_ingredients": 158,
     "region_list": 17,
     "region_dishes": 16
   },
   "eval_qa_count": 95,
   "splits": {
-    "train": 132,
-    "valid": 11
+    "train": 145,
+    "valid": 13
   },
   "source_site": "https://mpichi.likeur.xyz",
   "source_repo": "https://github.com/Likeur/mpichi",
@@ -27,21 +27,14 @@
     "fr",
     "en"
   ],
-  "alias_languages_note": "Curated aliases include ln (and other local languages); see enrichment/aliases.json.",
-  "site_locales": [
-    "fr",
-    "en",
-    "ln"
-  ],
-  "notes": "Companion site locales include Lingala (/ln). Dataset recipe bodies remain FR source + EN translation until a dedicated LN export ships.",
   "country": "CD",
   "region_taxonomy_version": 1,
   "region_counts": {
     "haut_katanga_tanganyika": 6,
-    "kinshasa_west": 10,
-    "nationwide": 25,
+    "kinshasa_west": 11,
+    "nationwide": 31,
     "grand_kasai": 9,
-    "kinshasa": 34,
+    "kinshasa": 41,
     "grand_katanga": 7,
     "kinshasa_basin": 11,
     "bassin_congo": 5,
@@ -52,12 +45,17 @@
     "bandundu": 5,
     "kinshasa_kongo": 3,
     "kisangani": 2,
-    "kinshasa_cuvette": 3
+    "kinshasa_cuvette": 4
   },
   "ingredients_structured": {
-    "total_lines": 1009,
-    "structured_lines": 816,
-    "structured_ratio": 0.8087,
+    "total_lines": 1121,
+    "structured_lines": 907,
+    "structured_ratio": 0.8091,
     "raw_coverage": 1
-  }
+  },
+  "site_locales": [
+    "fr",
+    "en",
+    "ln"
+  ]
 }
