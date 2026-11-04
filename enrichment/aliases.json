@@ -183,6 +183,23 @@
     {
       "name": "brochettes ya ngombe",
       "lang": "ln"
+    },
+    {
+      "name": "brochettes de Lubumbashi",
+      "lang": "fr",
+      "region_hint": "Lubumbashi",
+      "note": "Former catalogue title; redirected to brochettes-boeuf"
+    },
+    {
+      "name": "brochettes",
+      "lang": "fr",
+      "region_hint": "Lubumbashi"
+    },
+    {
+      "name": "mishikaki",
+      "lang": "sw",
+      "region_hint": "Katanga / East",
+      "note": "Swahili skewers"
     }
   ],
   "brochettes-foie": [
@@ -205,24 +222,6 @@
     {
       "name": "grillons grillés",
       "lang": "fr"
-    }
-  ],
-  "brochettes-lubumbashi": [
-    {
-      "name": "brochettes",
-      "lang": "fr",
-      "region_hint": "Lubumbashi"
-    },
-    {
-      "name": "mishikaki",
-      "lang": "sw",
-      "region_hint": "Katanga / East",
-      "note": "Swahili skewers"
-    },
-    {
-      "name": "kamundele",
-      "lang": "ln",
-      "note": "Kinshasa cousin name; same skewering gesture"
     }
   ],
   "brochettes-poulet": [

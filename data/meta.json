@@ -1,22 +1,22 @@
 {
   "name": "mpichi-dataset",
   "version": "1.6.0",
-  "updated_at": "2026-11-03",
-  "recipe_count": 158,
-  "instruction_pair_count": 1455,
+  "updated_at": "2026-11-04",
+  "recipe_count": 157,
+  "instruction_pair_count": 1446,
   "instruction_task_counts": {
-    "recipe_full": 316,
-    "list_ingredients": 158,
-    "region_context": 158,
-    "aliases": 158,
-    "alias_to_dish": 474,
-    "structured_ingredients": 158,
+    "recipe_full": 314,
+    "list_ingredients": 157,
+    "region_context": 157,
+    "aliases": 157,
+    "alias_to_dish": 471,
+    "structured_ingredients": 157,
     "region_list": 17,
     "region_dishes": 16
   },
   "eval_qa_count": 95,
   "splits": {
-    "train": 145,
+    "train": 144,
     "valid": 13
   },
   "source_site": "https://mpichi.likeur.xyz",
@@ -34,8 +34,9 @@
     "kinshasa_west": 11,
     "nationwide": 31,
     "grand_kasai": 9,
-    "kinshasa": 41,
-    "grand_katanga": 7,
+    "kinshasa": 40,
+    "other": 1,
+    "grand_katanga": 6,
     "kinshasa_basin": 11,
     "bassin_congo": 5,
     "kivu": 10,
@@ -48,9 +49,9 @@
     "kinshasa_cuvette": 4
   },
   "ingredients_structured": {
-    "total_lines": 1121,
-    "structured_lines": 907,
-    "structured_ratio": 0.8091,
+    "total_lines": 1113,
+    "structured_lines": 901,
+    "structured_ratio": 0.8095,
     "raw_coverage": 1
   },
   "site_locales": [

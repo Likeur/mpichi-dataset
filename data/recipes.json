@@ -3,8 +3,8 @@
     "id": "andazi-tanganyika",
     "slug": "andazi-tanganyika",
     "names": {
-      "fr": "Andazi du Tanganyika",
-      "en": "Tanganyika andazi",
+      "fr": "Andazi",
+      "en": "Andazi",
       "aliases": [
         {
           "name": "mandazi",
@@ -34,12 +34,12 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette andazi / mandazi — beignets du lac Tanganyika",
-      "en": "Andazi / mandazi recipe — Tanganyika fritters"
+      "fr": "Recette andazi / mandazi — beignets",
+      "en": "Andazi / mandazi recipe — fritters"
     },
     "description": {
-      "fr": "Recette d’andazi (mandazi) : beignets de farine légèrement sucrés frits jusqu’à dorer — encas du quotidien à Kalemie et autour du lac Tanganyika.",
-      "en": "Andazi (mandazi) recipe: lightly sweet flour fritters fried until golden — everyday snack in Kalemie and around Lake Tanganyika."
+      "fr": "Recette d’andazi (mandazi) : beignets de farine légèrement sucrés frits jusqu’à dorer — encas du quotidien autour du lac Tanganyika.",
+      "en": "Andazi (mandazi) recipe: lightly sweet flour fritters fried until golden — everyday snack around Lake Tanganyika."
     },
     "body": {
       "fr": "Les **andazi** (singulier *andazi*, aussi *mandazi* en swahili) sont les beignets du quotidien sur la rive congolaise du Tanganyika — Kalemie en tête. Moins sucrés que certains beignets de ville, ils se mangent au petit déjeuner ou en collation.\n\nCousins : [mikate](/recettes/mikate/), [beignets de manioc](/recettes/beignets-manioc/). Boisson locale : [munkoyo](/recettes/munkoyo/).",
@@ -274,7 +274,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "aubergines-africaines",
@@ -521,17 +521,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Adellah owobusingye — Wikimedia Commons, CC BY 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:African_eggplant.jpg"
+        "label": "Photo credit: Umuhiera — Wikimedia Commons, CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Boiled_Yam_with_garden_egg_stew.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/African%20eggplant.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Boiled%20Yam%20with%20garden%20egg%20stew.jpg?width=1600",
     "image_alt": {
-      "fr": "Aubergines africaines (garden eggs) fraîches",
-      "en": "Fresh African eggplants (garden eggs)"
+      "fr": "Sauce d’aubergines africaines (garden eggs) servie avec igname",
+      "en": "African eggplant (garden egg) stew served with boiled yam"
     },
-    "image_credit": "Adellah owobusingye — Wikimedia Commons, CC BY 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:African_eggplant.jpg",
+    "image_credit": "Umuhiera — Wikimedia Commons, CC0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Boiled_Yam_with_garden_egg_stew.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/aubergines-africaines/",
@@ -541,7 +541,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "bananes-caramel",
@@ -776,7 +776,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "bananes-douces-vapeur",
@@ -977,7 +977,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "beignets-banane",
@@ -1253,7 +1253,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "beignets-haricot",
@@ -1495,7 +1495,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "beignets-igname",
@@ -1747,7 +1747,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "beignets-manioc",
@@ -1995,7 +1995,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "biteku-teku-kasai",
@@ -2246,17 +2246,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Nabunje Leticia — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Amaranth_Greens_(Doodo).jpg"
+        "label": "Photo credit: Kateregga1 — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Akawunga_n'edoodo.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Amaranth%20Greens%20%28Doodo%29.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Akawunga%20n'edoodo.jpg?width=1600",
     "image_alt": {
-      "fr": "Feuilles fraîches d’amarante utilisées pour le biteku-teku",
-      "en": "Fresh amaranth leaves used for biteku-teku"
+      "fr": "Feuilles vertes type amarante / biteku-teku cuites, servies avec une pâte",
+      "en": "Cooked amaranth-style greens served with maize meal"
     },
-    "image_credit": "Nabunje Leticia — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Amaranth_Greens_(Doodo).jpg",
+    "image_credit": "Kateregga1 — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Akawunga_n'edoodo.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "video": {
       "youtube": "https://www.youtube.com/watch?v=SAdbi6jks-E",
@@ -2272,7 +2272,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "boeuf-ya-kotumba",
@@ -2525,17 +2525,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Fanny Schertzer — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Kamundele.jpg"
+        "label": "Photo credit: safaritravelplus — Wikimedia Commons, CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Nyama_choma_barbeque.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kamundele.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nyama%20choma%20barbeque.jpg?width=1600",
     "image_alt": {
-      "fr": "Viande de bœuf grillée servie en portion",
-      "en": "Grilled beef served as a portion"
+      "fr": "Viande de bœuf grillée sur braises (nyama choma / kotumba)",
+      "en": "Beef grilled over coals (nyama choma / kotumba)"
     },
-    "image_credit": "Fanny Schertzer — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kamundele.jpg",
+    "image_credit": "safaritravelplus — Wikimedia Commons, CC0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Nyama_choma_barbeque.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/boeuf-ya-kotumba/",
@@ -2545,7 +2545,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "bonbons-arachide",
@@ -2771,7 +2771,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "bouillie-arachide",
@@ -3003,7 +3003,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "bouillie-mais",
@@ -3230,17 +3230,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Gakuro — Wikimedia Commons, CC BY-SA 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Uji.jpg"
+        "label": "Photo credit: Jessica Sagou — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Bouillie_de_maïs_1.JPG"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Uji.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bouillie%20de%20ma%C3%AFs%201.JPG?width=1600",
     "image_alt": {
-      "fr": "Bol de bouillie de maïs (uji) crémeuse",
-      "en": "Bowl of creamy maize porridge (uji)"
+      "fr": "Bol de bouillie de maïs crémeuse",
+      "en": "Bowl of creamy maize porridge"
     },
-    "image_credit": "Gakuro — Wikimedia Commons, CC BY-SA 3.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Uji.jpg",
+    "image_credit": "Jessica Sagou — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Bouillie_de_maïs_1.JPG",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/bouillie-mais/",
@@ -3250,7 +3250,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "bouillie-manioc",
@@ -3472,17 +3472,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Rwebogora — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Cooking_cassava_porridge.jpg"
+        "label": "Photo credit: Sènabine — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Bouillie_d'Aklui_de_maïs_avec_beignets.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cooking%20cassava%20porridge.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bouillie%20d'Aklui%20de%20ma%C3%AFs%20avec%20beignets.jpg?width=1600",
     "image_alt": {
-      "fr": "Bouillie de manioc en cours de cuisson dans une casserole",
-      "en": "Cassava porridge cooking in a pot"
+      "fr": "Bol de bouillie crémeuse servie (geste proche de la bouillie de manioc)",
+      "en": "Bowl of creamy porridge served (gesture close to cassava porridge)"
     },
-    "image_credit": "Rwebogora — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Cooking_cassava_porridge.jpg",
+    "image_credit": "Sènabine — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Bouillie_d'Aklui_de_maïs_avec_beignets.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/bouillie-manioc/",
@@ -3492,7 +3492,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "brochettes-boeuf",
@@ -3514,9 +3514,21 @@
           "lang": "ln"
         },
         {
+          "name": "brochettes de Lubumbashi",
+          "lang": "fr",
+          "note": "Former catalogue title; redirected to brochettes-boeuf",
+          "region_hint": "Lubumbashi"
+        },
+        {
           "name": "brochettes",
-          "lang": "und",
-          "note": "Derived from editorial tags"
+          "lang": "fr",
+          "region_hint": "Lubumbashi"
+        },
+        {
+          "name": "mishikaki",
+          "lang": "sw",
+          "note": "Swahili skewers",
+          "region_hint": "Katanga / East"
         },
         {
           "name": "bœuf",
@@ -3537,31 +3549,37 @@
           "name": "Kinshasa",
           "lang": "und",
           "note": "Derived from editorial tags"
+        },
+        {
+          "name": "Katanga",
+          "lang": "und",
+          "note": "Derived from editorial tags"
         }
       ]
     },
     "seo_title": {
-      "fr": "Recette brochettes de bœuf — grillade Kinshasa",
-      "en": "Beef skewers recipe — Kinshasa grill"
+      "fr": "Recette brochettes de bœuf — grillade",
+      "en": "Beef skewers recipe — grill"
     },
     "description": {
-      "fr": "Recette de brochettes de bœuf : gros cubes marinés et grillés — portion de table / braise, distincte des petites kamundele de rue.",
-      "en": "Beef skewers recipe: larger marinated cubes grilled over coals — a table portion, distinct from small street kamundele."
+      "fr": "Recette de brochettes de bœuf : cubes marinés et grillés sur braises — street food et table, de Kinshasa au Katanga (mishikaki), distinctes des petites kamundele.",
+      "en": "Beef skewers recipe: marinated cubes grilled over coals — street and table, from Kinshasa to Katanga (mishikaki), distinct from small kamundele."
     },
     "body": {
-      "fr": "Les **brochettes de bœuf** de table sont plus généreuses que les [kamundele](/recettes/kamundele/) (petits cubes de rue). Autre bœuf braise : [bœuf ya kotumba](/recettes/boeuf-ya-kotumba/). Variante foie : [brochettes de foie](/recettes/brochettes-foie/).",
-      "en": "**Beef skewers** at the table are more generous than [kamundele](/en/recettes/kamundele/) (tiny street cubes). Other grilled beef: [boeuf ya kotumba](/en/recettes/boeuf-ya-kotumba/). Liver: [liver skewers](/en/recettes/brochettes-foie/)."
+      "fr": "Les **brochettes de bœuf** sont le bâton de viande grillée — plus généreuses que les [kamundele](/recettes/kamundele/) (petits cubes de rue). Au Katanga on dit aussi *mishikaki* (voir variante). Autre bœuf braise : [bœuf grillé](/recettes/boeuf-ya-kotumba/). Variante foie : [brochettes de foie](/recettes/brochettes-foie/). Accompagnements Est : [andazi](/recettes/andazi-tanganyika/), [bukari](/recettes/bukari-katanga/).",
+      "en": "**Beef skewers** are the grilled meat stick — more generous than [kamundele](/en/recettes/kamundele/) (tiny street cubes). In Katanga also *mishikaki* (see variant). Other grilled beef: [grilled beef](/en/recettes/boeuf-ya-kotumba/). Liver: [liver skewers](/en/recettes/brochettes-foie/). Eastern sides: [andazi](/en/recettes/andazi-tanganyika/), [bukari](/en/recettes/bukari-katanga/)."
     },
-    "region": "Kinshasa",
-    "region_id": "kinshasa",
+    "region": "Kinshasa & Grand Katanga",
+    "region_id": "other",
     "region_label": {
-      "fr": "Kinshasa",
-      "en": "Kinshasa"
+      "fr": "Kinshasa & Grand Katanga",
+      "en": "Kinshasa & Grand Katanga"
     },
-    "region_legacy": "Kinshasa",
+    "region_legacy": "Kinshasa & Grand Katanga",
     "country": "CD",
     "geo_tags": [
-      "Kinshasa"
+      "Kinshasa",
+      "Grand Katanga"
     ],
     "category": "plat",
     "difficulty": "facile",
@@ -3575,7 +3593,9 @@
       "bœuf",
       "street food",
       "grillade",
-      "Kinshasa"
+      "mishikaki",
+      "Kinshasa",
+      "Katanga"
     ],
     "ingredients": {
       "fr": [
@@ -3727,7 +3747,167 @@
         "Serve with raw onion, pili-pili sauce, fries or bread."
       ]
     },
-    "variants": [],
+    "variants": [
+      {
+        "id": "brochettes-lubumbashi",
+        "title": {
+          "fr": "Brochettes de rue (mishikaki)",
+          "en": "Street skewers (mishikaki)"
+        },
+        "description": {
+          "fr": "Au Grand Katanga (Lubumbashi), même geste bœuf + braises sous le nom mishikaki — cubes un peu plus petits, souvent avec andazi ou bukari.",
+          "en": "In Greater Katanga (Lubumbashi), the same beef + coals gesture is often called mishikaki — slightly smaller cubes, often with andazi or bukari."
+        },
+        "ingredients": {
+          "fr": [
+            "700 g de bœuf (tranche à brochettes)",
+            "1 oignon, râpé",
+            "3 gousses d’ail",
+            "1 c. à café de gingembre râpé",
+            "2 c. à soupe d’huile",
+            "1 c. à soupe de jus de citron",
+            "Sel, poivre, pili-pili",
+            "Brochettes en bois"
+          ],
+          "en": [
+            "700 g beef (skewer cut)",
+            "1 onion, grated",
+            "3 garlic cloves",
+            "1 tsp grated ginger",
+            "2 tbsp oil",
+            "1 tbsp lemon juice",
+            "Salt, pepper, pili-pili",
+            "Wooden skewers"
+          ]
+        },
+        "ingredients_structured": {
+          "fr": [
+            {
+              "raw": "700 g de bœuf (tranche à brochettes)",
+              "amount": 700,
+              "unit": "g",
+              "name": "bœuf (tranche à brochettes)",
+              "parse_status": "structured"
+            },
+            {
+              "raw": "1 oignon, râpé",
+              "amount": 1,
+              "unit": "piece",
+              "name": "oignon, râpé",
+              "parse_status": "structured"
+            },
+            {
+              "raw": "3 gousses d’ail",
+              "amount": 3,
+              "unit": "clove",
+              "name": "ail",
+              "parse_status": "structured"
+            },
+            {
+              "raw": "1 c. à café de gingembre râpé",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "gingembre râpé",
+              "parse_status": "structured"
+            },
+            {
+              "raw": "2 c. à soupe d’huile",
+              "amount": 2,
+              "unit": "tbsp",
+              "name": "huile",
+              "parse_status": "structured"
+            },
+            {
+              "raw": "1 c. à soupe de jus de citron",
+              "amount": 1,
+              "unit": "tbsp",
+              "name": "jus de citron",
+              "parse_status": "structured"
+            },
+            {
+              "raw": "Sel, poivre, pili-pili",
+              "name": "Sel, poivre, pili-pili",
+              "parse_status": "raw_only"
+            },
+            {
+              "raw": "Brochettes en bois",
+              "name": "Brochettes en bois",
+              "parse_status": "raw_only"
+            }
+          ],
+          "en": [
+            {
+              "raw": "700 g beef (skewer cut)",
+              "amount": 700,
+              "unit": "g",
+              "name": "beef (skewer cut)",
+              "parse_status": "structured"
+            },
+            {
+              "raw": "1 onion, grated",
+              "amount": 1,
+              "unit": "piece",
+              "name": "onion, grated",
+              "parse_status": "structured"
+            },
+            {
+              "raw": "3 garlic cloves",
+              "amount": 3,
+              "unit": "piece",
+              "name": "garlic cloves",
+              "parse_status": "structured"
+            },
+            {
+              "raw": "1 tsp grated ginger",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "grated ginger",
+              "parse_status": "structured"
+            },
+            {
+              "raw": "2 tbsp oil",
+              "amount": 2,
+              "unit": "tbsp",
+              "name": "oil",
+              "parse_status": "structured"
+            },
+            {
+              "raw": "1 tbsp lemon juice",
+              "amount": 1,
+              "unit": "tbsp",
+              "name": "lemon juice",
+              "parse_status": "structured"
+            },
+            {
+              "raw": "Salt, pepper, pili-pili",
+              "name": "Salt, pepper, pili-pili",
+              "parse_status": "raw_only"
+            },
+            {
+              "raw": "Wooden skewers",
+              "name": "Wooden skewers",
+              "parse_status": "raw_only"
+            }
+          ]
+        },
+        "steps": {
+          "fr": [
+            "Couper la viande en cubes réguliers.",
+            "Mélanger oignon, ail, gingembre, huile, citron, sel, poivre, piment. Enrober. Mariner 1 h au frais.",
+            "Enfiler sur les brochettes sans trop serrer.",
+            "Griller sur braises moyennes 12–15 minutes en retournant.",
+            "Servir avec oignons crus, pili-pili, andazi, ou frites."
+          ],
+          "en": [
+            "Cut the meat into even cubes.",
+            "Mix onion, garlic, ginger, oil, lemon, salt, pepper, chili. Coat. Marinate 1 hour cold.",
+            "Thread onto skewers without packing too tight.",
+            "Grill over medium coals 12–15 minutes, turning.",
+            "Serve with raw onions, pili-pili, andazi, or fries."
+          ]
+        }
+      }
+    ],
     "related_recipes": [
       "kamundele",
       "brochettes-poulet",
@@ -3766,7 +3946,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "brochettes-foie",
@@ -4016,7 +4196,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "brochettes-grillons",
@@ -4250,277 +4430,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
-  },
-  {
-    "id": "brochettes-lubumbashi",
-    "slug": "brochettes-lubumbashi",
-    "names": {
-      "fr": "Brochettes de Lubumbashi",
-      "en": "Lubumbashi skewers",
-      "aliases": [
-        {
-          "name": "brochettes",
-          "lang": "fr",
-          "region_hint": "Lubumbashi"
-        },
-        {
-          "name": "mishikaki",
-          "lang": "sw",
-          "note": "Swahili skewers",
-          "region_hint": "Katanga / East"
-        },
-        {
-          "name": "kamundele",
-          "lang": "ln",
-          "note": "Kinshasa cousin name; same skewering gesture"
-        },
-        {
-          "name": "Lubumbashi",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "Katanga",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "street food",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        },
-        {
-          "name": "bœuf",
-          "lang": "und",
-          "note": "Derived from editorial tags"
-        }
-      ]
-    },
-    "seo_title": {
-      "fr": "Recette brochettes Lubumbashi — street food katanga",
-      "en": "Lubumbashi skewers recipe — Katanga street food"
-    },
-    "description": {
-      "fr": "Recette de brochettes de Lubumbashi : bœuf mariné et grillé sur braises — street food du Grand Katanga, cousine des kamundele de Kinshasa.",
-      "en": "Lubumbashi skewers recipe: marinated beef grilled over coals — Greater Katanga street food, cousin to Kinshasa kamundele."
-    },
-    "body": {
-      "fr": "À **Lubumbashi**, les brochettes de rue ont le même geste que les [kamundele](/recettes/kamundele/) de Kinshasa — marinade, braises, partage. Accompagnement local : [andazi](/recettes/andazi-tanganyika/) ou [bukari](/recettes/bukari-katanga/). Photo Commons : même famille de brochettes congolaises (crédit indiqué).",
-      "en": "In **Lubumbashi**, street skewers share the gesture of Kinshasa [kamundele](/en/recettes/kamundele/)—marinade, coals, sharing. Local side: [andazi](/en/recettes/andazi-tanganyika/) or [bukari](/en/recettes/bukari-katanga/). Commons photo: same Congolese skewer family (credit on the page)."
-    },
-    "region": "Grand Katanga",
-    "region_id": "grand_katanga",
-    "region_label": {
-      "fr": "Grand Katanga",
-      "en": "Greater Katanga"
-    },
-    "region_legacy": "Grand Katanga",
-    "country": "CD",
-    "geo_tags": [
-      "Grand Katanga"
-    ],
-    "category": "plat",
-    "difficulty": "facile",
-    "prep_time": "25 min + 1 h marinade",
-    "cook_time": "15 min",
-    "prep_time_iso": "PT1H25M",
-    "cook_time_iso": "PT15M",
-    "servings": 4,
-    "tags": [
-      "brochettes",
-      "Lubumbashi",
-      "Katanga",
-      "street food",
-      "bœuf"
-    ],
-    "ingredients": {
-      "fr": [
-        "700 g de bœuf (tranche à brochettes)",
-        "1 oignon, râpé",
-        "3 gousses d’ail",
-        "1 c. à café de gingembre râpé",
-        "2 c. à soupe d’huile",
-        "1 c. à soupe de jus de citron",
-        "Sel, poivre, pili-pili",
-        "Brochettes en bois"
-      ],
-      "en": [
-        "700 g beef (skewer cut)",
-        "1 onion, grated",
-        "3 garlic cloves",
-        "1 tsp grated ginger",
-        "2 tbsp oil",
-        "1 tbsp lemon juice",
-        "Salt, pepper, pili-pili",
-        "Wooden skewers"
-      ]
-    },
-    "ingredients_structured": {
-      "fr": [
-        {
-          "raw": "700 g de bœuf (tranche à brochettes)",
-          "amount": 700,
-          "unit": "g",
-          "name": "bœuf (tranche à brochettes)",
-          "parse_status": "structured"
-        },
-        {
-          "raw": "1 oignon, râpé",
-          "amount": 1,
-          "unit": "piece",
-          "name": "oignon, râpé",
-          "parse_status": "structured"
-        },
-        {
-          "raw": "3 gousses d’ail",
-          "amount": 3,
-          "unit": "clove",
-          "name": "ail",
-          "parse_status": "structured"
-        },
-        {
-          "raw": "1 c. à café de gingembre râpé",
-          "amount": 1,
-          "unit": "tsp",
-          "name": "gingembre râpé",
-          "parse_status": "structured"
-        },
-        {
-          "raw": "2 c. à soupe d’huile",
-          "amount": 2,
-          "unit": "tbsp",
-          "name": "huile",
-          "parse_status": "structured"
-        },
-        {
-          "raw": "1 c. à soupe de jus de citron",
-          "amount": 1,
-          "unit": "tbsp",
-          "name": "jus de citron",
-          "parse_status": "structured"
-        },
-        {
-          "raw": "Sel, poivre, pili-pili",
-          "name": "Sel, poivre, pili-pili",
-          "parse_status": "raw_only"
-        },
-        {
-          "raw": "Brochettes en bois",
-          "name": "Brochettes en bois",
-          "parse_status": "raw_only"
-        }
-      ],
-      "en": [
-        {
-          "raw": "700 g beef (skewer cut)",
-          "amount": 700,
-          "unit": "g",
-          "name": "beef (skewer cut)",
-          "parse_status": "structured"
-        },
-        {
-          "raw": "1 onion, grated",
-          "amount": 1,
-          "unit": "piece",
-          "name": "onion, grated",
-          "parse_status": "structured"
-        },
-        {
-          "raw": "3 garlic cloves",
-          "amount": 3,
-          "unit": "piece",
-          "name": "garlic cloves",
-          "parse_status": "structured"
-        },
-        {
-          "raw": "1 tsp grated ginger",
-          "amount": 1,
-          "unit": "tsp",
-          "name": "grated ginger",
-          "parse_status": "structured"
-        },
-        {
-          "raw": "2 tbsp oil",
-          "amount": 2,
-          "unit": "tbsp",
-          "name": "oil",
-          "parse_status": "structured"
-        },
-        {
-          "raw": "1 tbsp lemon juice",
-          "amount": 1,
-          "unit": "tbsp",
-          "name": "lemon juice",
-          "parse_status": "structured"
-        },
-        {
-          "raw": "Salt, pepper, pili-pili",
-          "name": "Salt, pepper, pili-pili",
-          "parse_status": "raw_only"
-        },
-        {
-          "raw": "Wooden skewers",
-          "name": "Wooden skewers",
-          "parse_status": "raw_only"
-        }
-      ]
-    },
-    "steps": {
-      "fr": [
-        "Couper la viande en cubes réguliers.",
-        "Mélanger oignon, ail, gingembre, huile, citron, sel, poivre, piment. Enrober. Mariner 1 h au frais.",
-        "Enfiler sur les brochettes sans trop serrer.",
-        "Griller sur braises moyennes 12–15 minutes en retournant.",
-        "Servir avec oignons crus, pili-pili, etazi / andazi, ou frites."
-      ],
-      "en": [
-        "Cut the meat into even cubes.",
-        "Mix onion, garlic, ginger, oil, lemon, salt, pepper, chili. Coat. Marinate 1 hour cold.",
-        "Thread onto skewers without packing too tight.",
-        "Grill over medium coals 12–15 minutes, turning.",
-        "Serve with raw onions, pili-pili, andazi, or fries."
-      ]
-    },
-    "variants": [],
-    "related_recipes": [
-      "kamundele",
-      "bukari-katanga",
-      "andazi-tanganyika"
-    ],
-    "sources": [
-      {
-        "type": "editorial",
-        "label": "Mpichi editorial documentation (transmitted practices + available sources)",
-        "url": "https://mpichi.likeur.xyz/"
-      },
-      {
-        "type": "transmission",
-        "label": "Household transmission notes — quantities are starting points"
-      },
-      {
-        "type": "url",
-        "label": "Photo credit: Fanny Schertzer — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Kamundele.jpg"
-      }
-    ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kamundele.jpg?width=1600",
-    "image_alt": {
-      "fr": "Brochettes de bœuf marinées avec accompagnements",
-      "en": "Marinated beef skewers with sides"
-    },
-    "image_credit": "Fanny Schertzer — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kamundele.jpg",
-    "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
-    "urls": {
-      "fr": "https://mpichi.likeur.xyz/recettes/brochettes-lubumbashi/",
-      "en": "https://mpichi.likeur.xyz/en/recettes/brochettes-lubumbashi/"
-    },
-    "featured": false,
-    "license": "CC-BY-4.0",
-    "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
-    "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "brochettes-poulet",
@@ -4774,17 +4684,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: NIHEREWENIMANA Richard — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Brochette.jpg"
+        "label": "Photo credit: Benoît Prieur — Wikimedia Commons, CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Brochettes_de_poulet_mariné_en_fin_de_cuisson_au_barbecue_(avril_2020).jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Brochette.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Brochettes%20de%20poulet%20marin%C3%A9%20en%20fin%20de%20cuisson%20au%20barbecue%20(avril%202020).jpg?width=1600",
     "image_alt": {
-      "fr": "Brochette de volaille grillée",
-      "en": "Grilled poultry skewer"
+      "fr": "Brochettes de poulet marinées en fin de cuisson sur le grill",
+      "en": "Marinated chicken skewers finishing on the barbecue"
     },
-    "image_credit": "NIHEREWENIMANA Richard — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Brochette.jpg",
+    "image_credit": "Benoît Prieur — Wikimedia Commons, CC0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Brochettes_de_poulet_mariné_en_fin_de_cuisson_au_barbecue_(avril_2020).jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/brochettes-poulet/",
@@ -4794,7 +4704,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "bukari-katanga",
@@ -5189,7 +5099,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "capitaine-braise",
@@ -5454,17 +5364,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Gra2mb — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Poisson_brais%C3%A9_%C3%A0_Kinkole.jpg"
+        "label": "Photo credit: Penwills — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Spicy_grilled_tilapia.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Poisson%20brais%C3%A9%20%C3%A0%20Kinkole.jpg?width=1400",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Spicy%20grilled%20tilapia.jpg?width=1400",
     "image_alt": {
-      "fr": "Gros poisson braisé servi avec accompagnements",
-      "en": "Large grilled fish served with sides"
+      "fr": "Gros poissons marinés en train de griller sur la braise",
+      "en": "Large marinated fish grilling over coals"
     },
-    "image_credit": "Gra2mb — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Poisson_brais%C3%A9_%C3%A0_Kinkole.jpg",
+    "image_credit": "Penwills — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Spicy_grilled_tilapia.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/capitaine-braise/",
@@ -5474,7 +5384,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "chikwangue",
@@ -5683,7 +5593,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "chikwangue-grillee",
@@ -5869,16 +5779,16 @@
       {
         "type": "url",
         "label": "Photo credit: Lyokoï — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Kikwanga_(chikwangue)_%C3%A0_la_fa%C3%A7on_de_la_RDC_mais_sans_sauce_et_coup%C3%A9.jpg"
+        "url": "https://commons.wikimedia.org/wiki/File:Kikwanga_(chikwangue)_à_la_façon_de_la_RDC_mais_sans_sauce_et_coupé.jpg"
       }
     ],
     "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kikwanga%20(chikwangue)%20%C3%A0%20la%20fa%C3%A7on%20de%20la%20RDC%20mais%20sans%20sauce%20et%20coup%C3%A9.jpg?width=1600",
     "image_alt": {
-      "fr": "Tranches de chikwangue (kwanga) coupées, prêtes à passer sur braises ou poêle",
-      "en": "Sliced chikwangue (kwanga), ready to finish on coals or in a pan"
+      "fr": "Tranches de chikwangue (kwanga) coupées, prêtes à griller",
+      "en": "Sliced Congolese chikwangue (kwanga), ready to grill"
     },
     "image_credit": "Lyokoï — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kikwanga_(chikwangue)_%C3%A0_la_fa%C3%A7on_de_la_RDC_mais_sans_sauce_et_coup%C3%A9.jpg",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kikwanga_(chikwangue)_à_la_façon_de_la_RDC_mais_sans_sauce_et_coupé.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/chikwangue-grillee/",
@@ -5888,14 +5798,14 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "chou-kinshasa",
     "slug": "chou-kinshasa",
     "names": {
-      "fr": "Chou mijoté Kinshasa",
-      "en": "Kinshasa simmered cabbage",
+      "fr": "Chou mijoté à l’huile de palme",
+      "en": "Simmered cabbage with palm oil",
       "aliases": [
         {
           "name": "chou mijoté Kinshasa",
@@ -5937,16 +5847,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette chou mijoté — style Kinshasa",
-      "en": "Simmered cabbage recipe — Kinshasa style"
+      "fr": "Recette chou mijoté à l’huile de palme",
+      "en": "Simmered cabbage with palm oil recipe"
     },
     "description": {
-      "fr": "Recette de chou mijoté façon Kinshasa : chou blanc à l’oignon, tomate et un peu d’huile de palme — légume de table capital, distinct du chou mijoté de l’Est.",
-      "en": "Kinshasa-style simmered cabbage: white cabbage with onion, tomato and a little palm oil — capital table green, distinct from Eastern simmered cabbage."
+      "fr": "Recette de chou mijoté à l’huile de palme : chou blanc à l’oignon, tomate et un peu d’huile de palme — légume de table, distinct du chou mijoté plus simple de l’Est.",
+      "en": "Simmered cabbage with palm oil: white cabbage with onion, tomato and a little palm oil — table green, distinct from the simpler Eastern simmered cabbage."
     },
     "body": {
-      "fr": "Le **chou Kinshasa** est le cousin capital du [chou mijoté de l’Est](/recettes/chou-mijote-est/) : même légume, plus souvent huile de palme et cube. Salade croquante autre ville : [salade Kisangani](/recettes/salade-kisangani/). Vert feuille : [ndunda](/recettes/ndunda/).",
-      "en": "**Kinshasa cabbage** is the capital cousin of [Eastern simmered cabbage](/en/recettes/chou-mijote-est/): same vegetable, more often palm oil and cube. Crunchy salad in another city: [Kisangani salad](/en/recettes/salade-kisangani/). Leaf green: [ndunda](/en/recettes/ndunda/)."
+      "fr": "Le **chou mijoté à l’huile de palme** est le cousin du [chou mijoté](/recettes/chou-mijote-est/) : même légume, plus souvent huile de palme et cube. Salade croquante : [salade chou-carotte](/recettes/salade-kisangani/). Vert feuille : [ndunda](/recettes/ndunda/).",
+      "en": "**Simmered cabbage with palm oil** is the cousin of [simmered cabbage](/en/recettes/chou-mijote-est/): same vegetable, more often palm oil and cube. Crunchy salad: [cabbage-carrot salad](/en/recettes/salade-kisangani/). Leaf green: [ndunda](/en/recettes/ndunda/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -6164,14 +6074,14 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "chou-mijote-est",
     "slug": "chou-mijote-est",
     "names": {
-      "fr": "Chou mijoté de l’Est",
-      "en": "Eastern simmered cabbage",
+      "fr": "Chou mijoté",
+      "en": "Simmered cabbage",
       "aliases": [
         {
           "name": "cabbage stew",
@@ -6215,12 +6125,12 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette chou mijoté — accompagnement Kivu / Est",
-      "en": "Simmered cabbage recipe — Kivu / East side"
+      "fr": "Recette chou mijoté — accompagnement",
+      "en": "Simmered cabbage recipe — side"
     },
     "description": {
-      "fr": "Recette de chou mijoté : chou blanc revenu puis cuit avec oignon et tomate — légume simple du quotidien à l’Est, servi avec bugali ou riz.",
-      "en": "Simmered cabbage recipe: white cabbage softened with onion and tomato — simple everyday Eastern green, served with bugali or rice."
+      "fr": "Recette de chou mijoté : chou blanc revenu puis cuit avec oignon et tomate — légume simple du quotidien, servi avec bugali ou riz.",
+      "en": "Simmered cabbage recipe: white cabbage softened with onion and tomato — simple everyday green, served with bugali or rice."
     },
     "body": {
       "fr": "Le **chou mijoté** est un légume de table à l’Est, moins chanté que le [pondu](/recettes/pondu/) mais très présent dès que le marché en propose. On le pose à côté du [bugali](/recettes/bukari-katanga/). Autre vert du quotidien swahili : [sukuma](/recettes/sukuma-est/).",
@@ -6427,7 +6337,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "cotes-porc",
@@ -6718,7 +6628,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "courge-sauce",
@@ -6985,7 +6895,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "crevettes-fleuve",
@@ -7259,7 +7169,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "crevettes-grillees",
@@ -7498,7 +7408,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "croquettes-manioc",
@@ -7747,7 +7657,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "dongo-dongo",
@@ -7999,7 +7909,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "escargots-congolaise",
@@ -8248,7 +8158,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "foie-boeuf-saute",
@@ -8490,7 +8400,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "fufu-manioc",
@@ -8702,7 +8612,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "fufu-plantain",
@@ -8905,7 +8815,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "fumbwa-arachides",
@@ -9494,7 +9404,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "galettes-mais",
@@ -9769,7 +9679,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "gateau-arachide",
@@ -10037,7 +9947,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "gateau-banane",
@@ -10316,7 +10226,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "gateau-manioc",
@@ -10584,7 +10494,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "haricots-maharage",
@@ -10853,7 +10763,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "haricots-nguba-kasai",
@@ -11107,7 +11017,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "haricots-verts-palme",
@@ -11352,7 +11262,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "igname-bouillie",
@@ -11568,7 +11478,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "igname-sauce",
@@ -11836,7 +11746,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "jus-ananas",
@@ -12039,7 +11949,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "jus-bissap",
@@ -12269,7 +12179,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "jus-gingembre-ananas",
@@ -12491,17 +12401,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Fiktube — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Omunanansi_Juice_Boiling.jpg"
+        "label": "Photo credit: Black Lyn — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Refreshing,_golden_pineapple_juice.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Omunanansi%20Juice%20Boiling.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Refreshing%2C%20golden%20pineapple%20juice.jpg?width=1600",
     "image_alt": {
-      "fr": "Jus d’ananas en préparation, base du mélange gingembre-ananas",
-      "en": "Pineapple juice being prepared, base of the ginger-pineapple mix"
+      "fr": "Verre de jus d’ananas doré, base fruitée du jus gingembre-ananas",
+      "en": "Glass of golden pineapple juice, base of ginger-pineapple juice"
     },
-    "image_credit": "Fiktube — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Omunanansi_Juice_Boiling.jpg",
+    "image_credit": "Black Lyn — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Refreshing,_golden_pineapple_juice.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/jus-gingembre-ananas/",
@@ -12511,7 +12421,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "jus-mangue",
@@ -12719,7 +12629,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "jus-passion",
@@ -12916,7 +12826,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "jus-safou",
@@ -13131,7 +13041,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "jus-tamarin",
@@ -13352,7 +13262,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "kabambale",
@@ -13597,7 +13507,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "kamundele",
@@ -13849,17 +13759,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Fanny Schertzer — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Kamundele.jpg"
+        "label": "Photo credit: François Terrier — Wikimedia Commons, CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Brochettes.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kamundele.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Brochettes.jpg?width=1600",
     "image_alt": {
-      "fr": "Assiette de kamundele, brochettes de bœuf marinées, avec frites et légumes",
+      "fr": "Brochettes de bœuf type kamundele grillées sur braises",
       "en": "Meat skewers grilling over coals"
     },
-    "image_credit": "Fanny Schertzer — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kamundele.jpg",
+    "image_credit": "François Terrier — Wikimedia Commons, CC BY 2.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Brochettes.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "video": {
       "youtube": "https://www.youtube.com/watch?v=dZ9_2GbYuU4",
@@ -13875,7 +13785,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "kapenta-tomates",
@@ -14114,17 +14024,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Shark2025 — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Kapenta_04.jpg"
+        "label": "Photo credit: Simz711 — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Stewed_Capenta_and_Sadza(as_it_is_known_in_Zimbabwe)_dish.JPG"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kapenta%2004.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Stewed%20Capenta%20and%20Sadza(as%20it%20is%20known%20in%20Zimbabwe)%20dish.JPG?width=1600",
     "image_alt": {
-      "fr": "Petits poissons kapenta préparés pour un repas",
-      "en": "Dried kapenta fish"
+      "fr": "Kapenta mijotés servis avec une pâte de maïs (sadza)",
+      "en": "Stewed kapenta served with maize meal (sadza)"
     },
-    "image_credit": "Shark2025 — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kapenta_04.jpg",
+    "image_credit": "Simz711 — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Stewed_Capenta_and_Sadza(as_it_is_known_in_Zimbabwe)_dish.JPG",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "video": {
       "youtube": "https://www.youtube.com/watch?v=SbBwQSLKl8c",
@@ -14140,7 +14050,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "kossa-kossa",
@@ -14377,7 +14287,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "lait-caille",
@@ -14591,7 +14501,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "langue-boeuf-sauce",
@@ -14884,17 +14794,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: WormforEnnio — Wikimedia Commons, domaine public",
-        "url": "https://commons.wikimedia.org/wiki/File:Rinderzunge_zubereitet.jpg"
+        "label": "Photo credit: Benreis — Wikimedia Commons, CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Zunge_Madeirasosse_Klösse.JPG"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rinderzunge%20zubereitet.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Zunge%20Madeirasosse%20Kl%C3%B6sse.JPG?width=1600",
     "image_alt": {
-      "fr": "Langue de bœuf cuite, tranchée, prête pour la sauce",
-      "en": "Cooked beef tongue, sliced, ready for sauce"
+      "fr": "Langue de bœuf en sauce, dressée en assiette",
+      "en": "Beef tongue in sauce, plated"
     },
-    "image_credit": "WormforEnnio — Wikimedia Commons, domaine public",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Rinderzunge_zubereitet.jpg",
+    "image_credit": "Benreis — Wikimedia Commons, CC BY 3.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Zunge_Madeirasosse_Klösse.JPG",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/langue-boeuf-sauce/",
@@ -14904,7 +14814,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "liboke-champignons",
@@ -15170,7 +15080,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "liboke-legumes",
@@ -15470,7 +15380,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "liboke-poisson",
@@ -15719,17 +15629,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Serein — Wikimedia Commons, CC BY-SA 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Liboke_entrouvert_01.JPG"
+        "label": "Photo credit: Lucia236 — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Maboké_de_capitaine_avec_les_bananes_frites.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Liboke%20entrouvert%2001.JPG?width=1920",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mabok%C3%A9%20de%20capitaine%20avec%20les%20bananes%20frites.jpg?width=1600",
     "image_alt": {
-      "fr": "Un liboke entrouvert dans ses feuilles, prêt à être dégusté",
+      "fr": "Liboke / maboke de poisson (capitaine) servi avec plantains frits",
       "en": "An opened liboke in its leaves, ready to eat"
     },
-    "image_credit": "Serein — Wikimedia Commons, CC BY-SA 3.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Liboke_entrouvert_01.JPG",
+    "image_credit": "Lucia236 — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Maboké_de_capitaine_avec_les_bananes_frites.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "video": {
       "youtube": "https://www.youtube.com/watch?v=gu9hWD_x1XA",
@@ -15745,7 +15655,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "liboke-viande",
@@ -16002,17 +15912,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: T.K. Naliaka — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Haumania_liebrechtsiana_-_leaf_pouch_for_libok%C3%A9.jpg"
+        "label": "Photo credit: Namuganyi — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Matooke_and_Luwombo_prepared_chicken.JPG"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Haumania%20liebrechtsiana%20-%20leaf%20pouch%20for%20libok%C3%A9.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Matooke%20and%20Luwombo%20prepared%20chicken.JPG?width=1600",
     "image_alt": {
-      "fr": "Liboke fermé dans ses feuilles, prêt à cuire",
-      "en": "Closed liboke pouch in leaves, ready to cook"
+      "fr": "Papillote type liboke / luwombo ouverte, servie avec accompagnement",
+      "en": "Opened leaf parcel (liboke / luwombo style) served with a side"
     },
-    "image_credit": "T.K. Naliaka — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Haumania_liebrechtsiana_-_leaf_pouch_for_libok%C3%A9.jpg",
+    "image_credit": "Namuganyi — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Matooke_and_Luwombo_prepared_chicken.JPG",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/liboke-viande/",
@@ -16022,7 +15932,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "lituma",
@@ -16226,7 +16136,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "loso-mayonnaise",
@@ -16495,7 +16405,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "loso-na-madesu",
@@ -16781,7 +16691,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "loso-na-mbisi",
@@ -17047,7 +16957,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "loso-na-soso",
@@ -17320,7 +17230,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "loso-petits-pois",
@@ -17568,7 +17478,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "loso-sauce-katanga",
@@ -17846,7 +17756,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "madesu",
@@ -18417,7 +18327,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mais-bouilli",
@@ -18592,17 +18502,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Zak Raha — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Boiled_corn.jpg"
+        "label": "Photo credit: Ncube01 — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Boiled_maize_chibage.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Boiled_corn.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Boiled%20maize%20chibage.jpg?width=1600",
     "image_alt": {
-      "fr": "Épis de maïs bouillis",
-      "en": "Boiled maize cobs"
+      "fr": "Épis de maïs bouillis prêts à servir",
+      "en": "Boiled maize cobs ready to serve"
     },
-    "image_credit": "Zak Raha — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Boiled_corn.jpg",
+    "image_credit": "Ncube01 — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Boiled_maize_chibage.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/mais-bouilli/",
@@ -18612,7 +18522,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mais-grille",
@@ -18810,17 +18720,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: daSupremo — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Roasted_corn.jpg"
+        "label": "Photo credit: Olgatladi2020 — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Grilled_sweet_corn_on_display_on_a_braiistand.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Roasted_corn.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Grilled%20sweet%20corn%20on%20display%20on%20a%20braiistand.jpg?width=1600",
     "image_alt": {
-      "fr": "Épis de maïs grillés",
-      "en": "Grilled maize cobs"
+      "fr": "Épis de maïs grillés sur braises, prêts à servir",
+      "en": "Grilled maize cobs on coals, ready to serve"
     },
-    "image_credit": "daSupremo — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Roasted_corn.jpg",
+    "image_credit": "Olgatladi2020 — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Grilled_sweet_corn_on_display_on_a_braiistand.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/mais-grille/",
@@ -18830,7 +18740,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "makayabu",
@@ -19396,7 +19306,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "makemba",
@@ -19600,7 +19510,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "makemba-na-mbisi",
@@ -19857,7 +19767,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "makemba-na-soso",
@@ -20123,7 +20033,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "makoso",
@@ -20454,7 +20364,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "makosso-pommes",
@@ -20739,7 +20649,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "malafu-vin-palme",
@@ -20926,7 +20836,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "manioc-frites",
@@ -21151,7 +21061,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "manioc-grille",
@@ -21333,7 +21243,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "matembele-katanga",
@@ -21607,7 +21517,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mayebo",
@@ -21843,7 +21753,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mbala",
@@ -22025,17 +21935,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Kwabena — Wikimedia Commons, CC BY 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Sweet_potato.jpg"
+        "label": "Photo credit: PPSseremba — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Roasted_kampala_potatoes.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sweet%20potato.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Roasted%20kampala%20potatoes.jpg?width=1600",
     "image_alt": {
-      "fr": "Patates douces (mbala) bouillies, chair jaune",
-      "en": "Boiled sweet potatoes (mbala), yellow flesh"
+      "fr": "Patates douces (mbala) rôties / cuites, prêtes à servir",
+      "en": "Roasted sweet potatoes (mbala), ready to serve"
     },
-    "image_credit": "Kwabena — Wikimedia Commons, CC BY 3.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Sweet_potato.jpg",
+    "image_credit": "PPSseremba — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Roasted_kampala_potatoes.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/mbala/",
@@ -22045,7 +21955,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mbala-grillee",
@@ -22240,7 +22150,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mbika",
@@ -22475,7 +22385,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mbinzo-grillees",
@@ -22691,16 +22601,16 @@
       {
         "type": "url",
         "label": "Photo credit: T.K. Naliaka — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Ngala_-_edible_caterpillars_-_Imbrasia_forda_-_Cirina_forda,_DR_Congo_(cropped).jpg"
+        "url": "https://commons.wikimedia.org/wiki/File:Mbika_na_mbinzo_-_porridge_with_caterpillars_04.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ngala%20-%20edible%20caterpillars%20-%20Imbrasia%20forda%20-%20Cirina%20forda%2C%20DR%20Congo%20(cropped).jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mbika%20na%20mbinzo%20-%20porridge%20with%20caterpillars%2004.jpg?width=1600",
     "image_alt": {
-      "fr": "Chenilles comestibles (mbinzo / ngala) séchées, prêtes à saisir à la poêle",
-      "en": "Dried edible caterpillars (mbinzo / ngala), ready to sear in a pan"
+      "fr": "Mbinzo (chenilles) cuites, servies avec accompagnements",
+      "en": "Cooked edible caterpillars (mbinzo) served with sides"
     },
     "image_credit": "T.K. Naliaka — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Ngala_-_edible_caterpillars_-_Imbrasia_forda_-_Cirina_forda,_DR_Congo_(cropped).jpg",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Mbika_na_mbinzo_-_porridge_with_caterpillars_04.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/mbinzo-grillees/",
@@ -22710,7 +22620,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mbinzo-tomates",
@@ -22940,7 +22850,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mbisi-na-kwanga",
@@ -23197,17 +23107,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: OussamaHamama — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Kwanga.jpg"
+        "label": "Photo credit: Chado07 — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Plat_de_piron_au_bar_brais%C3%A9.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kwanga.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Plat%20de%20piron%20au%20bar%20brais%C3%A9.jpg?width=1600",
     "image_alt": {
-      "fr": "Kwanga / chikwangue, pain de manioc",
-      "en": "Kwanga / chikwangue cassava bread"
+      "fr": "Poisson braisé servi avec pâtes de manioc",
+      "en": "Braised fish served with cassava paste mounds"
     },
-    "image_credit": "OussamaHamama — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kwanga.jpg",
+    "image_credit": "Chado07 — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Plat_de_piron_au_bar_brais%C3%A9.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/mbisi-na-kwanga/",
@@ -23217,7 +23127,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mbisi-ya-kokalinga",
@@ -23440,7 +23350,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mikate",
@@ -23693,7 +23603,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mikila",
@@ -24011,7 +23921,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mikila-arachide",
@@ -24314,7 +24224,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "missole",
@@ -24579,7 +24489,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "moambe-boeuf",
@@ -24840,17 +24750,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Aboukam — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Sauce_graine.jpg"
+        "label": "Photo credit: Cyriac Gbogou — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Foutou_sauce_graine_et_queue_de_boeuf.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sauce_graine.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Foutou%20sauce%20graine%20et%20queue%20de%20boeuf.jpg?width=1600",
     "image_alt": {
-      "fr": "Sauce graine / moambe onctueuse, base du bœuf à la moambe",
-      "en": "Palm-nut / sauce graine base for beef moambe"
+      "fr": "Sauce graine / moambe avec viande, servie avec foutou",
+      "en": "Palm-nut moambe-style sauce with meat and foutou"
     },
-    "image_credit": "Aboukam — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Sauce_graine.jpg",
+    "image_credit": "Cyriac Gbogou — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Foutou_sauce_graine_et_queue_de_boeuf.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/moambe-boeuf/",
@@ -24860,7 +24770,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "moambe-poulet",
@@ -25424,7 +25334,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mujibujibu",
@@ -25649,17 +25559,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Denis Kasozi — Wikimedia Commons, CC BY 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:African_pumpkin_leaves._07.jpg"
+        "label": "Photo credit: Aderiqueza — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amala_served_with_ewedu(Pumpkin_leaf)_and_beef.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/African%20pumpkin%20leaves.%2007.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Amala%20served%20with%20ewedu(Pumpkin%20leaf)%20and%20beef.jpg?width=1600",
     "image_alt": {
-      "fr": "Jeunes feuilles de courge africaines utilisées pour le mujibujibu",
-      "en": "Fresh African pumpkin leaves"
+      "fr": "Feuilles de courge cuites (mujibujibu / ewedu) servies avec viande et pâte",
+      "en": "Cooked pumpkin-leaf greens with beef and swallow"
     },
-    "image_credit": "Denis Kasozi — Wikimedia Commons, CC BY 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:African_pumpkin_leaves._07.jpg",
+    "image_credit": "Aderiqueza — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Amala_served_with_ewedu(Pumpkin_leaf)_and_beef.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/mujibujibu/",
@@ -25669,7 +25579,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "mukeke-grille",
@@ -25723,8 +25633,8 @@
       "en": "Grilled mukeke recipe: large Lake Tanganyika fish marinated then cooked over fire or in the oven — feast and market gesture in the East (Kalemie, lake shores)."
     },
     "body": {
-      "fr": "Le **mukeke** désigne, selon les marchés, un grand poisson du **lac Tanganyika** — pièce de fête quand le port en reçoit. Le geste reste simple : citron, ail, feu. Les petits poissons du même lac sont plutôt [sambaza](/recettes/sambaza/) ou [kapenta](/recettes/kapenta-tomates/).\n\nAu Kivu, le cousin grillé : [poisson du Kivu](/recettes/poisson-kivu-grille/).",
-      "en": "Mukeke, on many markets, means a large **Lake Tanganyika** fish—a feast piece when the port lands it. The gesture stays simple: lemon, garlic, fire. Smaller fish from the same lake are [sambaza](/en/recettes/sambaza/) or [kapenta](/en/recettes/kapenta-tomates/).\n\nIn Kivu, the grilled cousin: [Kivu fish](/en/recettes/poisson-kivu-grille/)."
+      "fr": "Le **mukeke** désigne, selon les marchés, un grand poisson du **lac Tanganyika** — pièce de fête quand le port en reçoit. Le geste reste simple : citron, ail, feu. Les petits poissons du même lac sont plutôt [sambaza](/recettes/sambaza/) ou [kapenta](/recettes/kapenta-tomates/).\n\nAu Kivu, le cousin grillé : [poisson de lac grillé](/recettes/poisson-kivu-grille/).",
+      "en": "Mukeke, on many markets, means a large **Lake Tanganyika** fish—a feast piece when the port lands it. The gesture stays simple: lemon, garlic, fire. Smaller fish from the same lake are [sambaza](/en/recettes/sambaza/) or [kapenta](/en/recettes/kapenta-tomates/).\n\nIn Kivu, the grilled cousin: [grilled lake fish](/en/recettes/poisson-kivu-grille/)."
     },
     "region": "Haut-Katanga & Tanganyika",
     "region_id": "haut_katanga_tanganyika",
@@ -25936,7 +25846,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "munkoyo",
@@ -26139,7 +26049,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "ndagala-tomates",
@@ -26387,17 +26297,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Erasmus Kamugisha — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Kigoma%27s_small_dried_sardines_-_fish_in_a_local_market.jpg"
+        "label": "Photo credit: VictorOchieng — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Meal_of_Omena,_Vegetables_and_Ugali.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kigoma%27s%20small%20dried%20sardines%20-%20fish%20in%20a%20local%20market.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Meal%20of%20Omena%2C%20Vegetables%20and%20Ugali.jpg?width=1600",
     "image_alt": {
-      "fr": "Petits poissons séchés de lac type ndagala",
-      "en": "Small dried lake fish like ndagala"
+      "fr": "Ndagala / omena cuits servis avec légumes et pâte de maïs",
+      "en": "Cooked omena / ndagala with vegetables and ugali"
     },
-    "image_credit": "Erasmus Kamugisha — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kigoma%27s_small_dried_sardines_-_fish_in_a_local_market.jpg",
+    "image_credit": "VictorOchieng — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Meal_of_Omena,_Vegetables_and_Ugali.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/ndagala-tomates/",
@@ -26407,7 +26317,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "ndunda",
@@ -26690,7 +26600,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "ngai-ngai",
@@ -27248,7 +27158,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "ngolo-grille",
@@ -27484,17 +27394,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Wikimedia Commons — domaine public",
-        "url": "https://commons.wikimedia.org/wiki/File:Clarias_gariepinus.jpg"
+        "label": "Photo credit: Coco lago — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Poisson_chat_à_la_Nanga'aise.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Clarias_gariepinus.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Poisson%20chat%20%C3%A0%20la%20Nanga'aise.jpg?width=1600",
     "image_alt": {
-      "fr": "Poisson-chat africain (Clarias), espèce du ngolo",
-      "en": "African catfish (Clarias), the ngolo fish"
+      "fr": "Poisson-chat (ngolo / silure) préparé et servi",
+      "en": "Prepared African catfish (ngolo), served"
     },
-    "image_credit": "Wikimedia Commons — domaine public",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Clarias_gariepinus.jpg",
+    "image_credit": "Coco lago — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Poisson_chat_à_la_Nanga'aise.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/ngolo-grille/",
@@ -27504,7 +27414,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "ngulu-ya-sauce",
@@ -27773,17 +27683,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: WINEUR — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Cochon_en_feu.jpg"
+        "label": "Photo credit: Cardorel zoko — Wikimedia Commons, CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Porc_braisé_2.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cochon%20en%20feu.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Porc%20brais%C3%A9%202.jpg?width=1600",
     "image_alt": {
-      "fr": "Porc cuit, prêt à être servi en sauce",
-      "en": "Cooked pork ready to serve in sauce"
+      "fr": "Porc braisé / mijoté, prêt à servir en sauce",
+      "en": "Braised pork ready to serve in sauce"
     },
-    "image_credit": "WINEUR — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Cochon_en_feu.jpg",
+    "image_credit": "Cardorel zoko — Wikimedia Commons, CC0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Porc_braisé_2.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/ngulu-ya-sauce/",
@@ -27793,7 +27703,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "nsafu-grilles",
@@ -27933,17 +27843,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: T.K. Naliaka — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Dacryodes_edulis_-_Nsafu_-_fruit_preparation.jpg"
+        "label": "Photo credit: LE MOSAR DE L'ECONOMIE — Wikimedia Commons, CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Bouillon_de_girel_au_safous(3).jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dacryodes%20edulis%20-%20Nsafu%20-%20fruit%20preparation.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bouillon%20de%20girel%20au%20safous(3).jpg?width=1600",
     "image_alt": {
-      "fr": "Nsafu violets tournés pendant leur cuisson sur une grille",
+      "fr": "Safou / nsafu cuits servis dans un plat chaud",
       "en": "Purple nsafu being turned while cooking on a grill"
     },
-    "image_credit": "T.K. Naliaka — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Dacryodes_edulis_-_Nsafu_-_fruit_preparation.jpg",
+    "image_credit": "LE MOSAR DE L'ECONOMIE — Wikimedia Commons, CC0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Bouillon_de_girel_au_safous(3).jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/nsafu-grilles/",
@@ -27953,7 +27863,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "nsafu-sauce",
@@ -28179,17 +28089,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Piki-photow — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Nsafu_-_softened_scraped_fruit_of_Dacryodes_edulis_-_safoutier,_African_plum_or_pear,_butterfruit.jpg"
+        "label": "Photo credit: Pangou Stephane — Wikimedia Commons, CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Photo_d'un_plat_africain_composé_de_maïs_plus_l'arachide_et_le_safou.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nsafu%20-%20softened%20scraped%20fruit%20of%20Dacryodes%20edulis%20-%20safoutier%2C%20African%20plum%20or%20pear%2C%20butterfruit.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Photo%20d'un%20plat%20africain%20compos%C3%A9%20de%20ma%C3%AFs%20plus%20l'arachide%20et%20le%20safou.jpg?width=1600",
     "image_alt": {
-      "fr": "Chair de nsafu / safou assouplie, prête à lier",
-      "en": "Softened nsafu / safou pulp ready to bind"
+      "fr": "Plat avec safou / nsafu cuits, maïs et arachide",
+      "en": "Plate with cooked safou / nsafu, maize and peanut"
     },
-    "image_credit": "Piki-photow — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Nsafu_-_softened_scraped_fruit_of_Dacryodes_edulis_-_safoutier,_African_plum_or_pear,_butterfruit.jpg",
+    "image_credit": "Pangou Stephane — Wikimedia Commons, CC0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Photo_d'un_plat_africain_composé_de_maïs_plus_l'arachide_et_le_safou.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/nsafu-sauce/",
@@ -28199,7 +28109,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "ntaba",
@@ -28482,7 +28392,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "ntaba-mijotee-kasai",
@@ -28757,7 +28667,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "ntaba-sauce",
@@ -29031,7 +28941,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "nyama-bugali-kivu",
@@ -29340,7 +29250,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "pain-mayonnaise",
@@ -29591,7 +29501,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "patate-douce-frite",
@@ -29801,7 +29711,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "pepe-soupe-ya-ngolo",
@@ -30079,14 +29989,14 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "pilau-kivu",
     "slug": "pilau-kivu",
     "names": {
-      "fr": "Pilau du Kivu",
-      "en": "Kivu pilau",
+      "fr": "Pilau",
+      "en": "Pilau",
       "aliases": [
         {
           "name": "pilaw",
@@ -30124,12 +30034,12 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette pilau — riz épicé du Kivu",
-      "en": "Pilau recipe — spiced rice from Kivu"
+      "fr": "Recette pilau — riz épicé",
+      "en": "Pilau recipe — spiced rice"
     },
     "description": {
-      "fr": "Recette de pilau (pilaw) : riz cuit dans un bouillon d’épices avec viande ou légumes — plat d’influence est-africaine très présent au Nord et Sud-Kivu.",
-      "en": "Pilau (pilaw) recipe: rice cooked in a spiced broth with meat or vegetables — East African–influenced dish common in North and South Kivu."
+      "fr": "Recette de pilau (pilaw) : riz cuit dans un bouillon d’épices avec viande ou légumes — plat d’influence est-africaine très présent à l’Est.",
+      "en": "Pilau (pilaw) recipe: rice cooked in a spiced broth with meat or vegetables — East African–influenced dish common in the East."
     },
     "body": {
       "fr": "Le **pilau** (ou *pilaw*) circule dans l’Est swahilophone : épices, riz, viande. Au Kivu il côtoie le [bugali](/recettes/bukari-katanga/) et les plats de lac. Ce n’est pas le [loso mayonnaise](/recettes/loso-mayonnaise/) de Kinshasa : ici le riz boit le bouillon d’épices.\n\nPhoto d’ambiance est-africaine (crédit Commons) — le geste reste celui des foyers de Goma, Bukavu et alentours.",
@@ -30407,7 +30317,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "plantain-grille-arachide",
@@ -30629,7 +30539,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "plantains-vapeur",
@@ -30818,7 +30728,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "poisson-braise-kinkole",
@@ -31073,7 +30983,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "poisson-fume-bidia",
@@ -31311,17 +31221,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: T.K. Naliaka — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Fish_of_Congo_River_-_dried_market_basket_8.jpg"
+        "label": "Photo credit: Lucia236 — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Sauce_d'épinard_avec_le_poisson_fumé_et_la_patte_d'arachide.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fish%20of%20Congo%20River%20-%20dried%20market%20basket%208.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sauce%20d'%C3%A9pinard%20avec%20le%20poisson%20fum%C3%A9%20et%20la%20patte%20d'arachide.jpg?width=1600",
     "image_alt": {
-      "fr": "Panier de poissons séchés / fumés sur un marché congolais",
-      "en": "Basket of dried / smoked fish at a Congolese market"
+      "fr": "Poisson fumé cuit en sauce, servi en plat",
+      "en": "Smoked fish cooked in sauce, plated"
     },
-    "image_credit": "T.K. Naliaka — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Fish_of_Congo_River_-_dried_market_basket_8.jpg",
+    "image_credit": "Lucia236 — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Sauce_d'épinard_avec_le_poisson_fumé_et_la_patte_d'arachide.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/poisson-fume-bidia/",
@@ -31331,7 +31241,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "poisson-fume-tomates",
@@ -31599,17 +31509,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Daniela — Wikimedia Commons, CC BY 2.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Smoked_fish.jpg"
+        "label": "Photo credit: ASSIELOU Marcel — Wikimedia Commons, CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Du_poisson_fumé_dans_la_sauce_de_Déwlé.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Smoked%20fish.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Du%20poisson%20fum%C3%A9%20dans%20la%20sauce%20de%20D%C3%A9wl%C3%A9.jpg?width=1600",
     "image_alt": {
-      "fr": "Poisson fumé prêt à cuisiner",
-      "en": "Smoked fish ready to cook"
+      "fr": "Poisson fumé mijoté dans une sauce, prêt à servir",
+      "en": "Smoked fish simmered in sauce, ready to serve"
     },
-    "image_credit": "Daniela — Wikimedia Commons, CC BY 2.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Smoked_fish.jpg",
+    "image_credit": "ASSIELOU Marcel — Wikimedia Commons, CC0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Du_poisson_fumé_dans_la_sauce_de_Déwlé.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "video": {
       "youtube": "https://www.youtube.com/watch?v=CZD3dKhtGO8",
@@ -31625,14 +31535,14 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "poisson-kisangani",
     "slug": "poisson-kisangani",
     "names": {
-      "fr": "Poisson Kisangani",
-      "en": "Kisangani fish",
+      "fr": "Poisson mijoté",
+      "en": "Simmered fish",
       "aliases": [
         {
           "name": "poisson du fleuve Kisangani",
@@ -31664,16 +31574,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette poisson Kisangani — mijoté du fleuve",
-      "en": "Kisangani fish recipe — river stew"
+      "fr": "Recette poisson mijoté — sauce tomate du fleuve",
+      "en": "Simmered fish recipe — river tomato sauce"
     },
     "description": {
-      "fr": "Recette de poisson Kisangani : poisson d’eau douce mariné puis mijoté tomate-oignon — assiette du fleuve Congo à Kisangani, à côté de la salade locale.",
-      "en": "Kisangani fish recipe: freshwater fish marinated then simmered in tomato-onion sauce — Congo River plate in Kisangani, beside the local salad."
+      "fr": "Recette de poisson mijoté : poisson d’eau douce mariné puis mijoté tomate-oignon — assiette du fleuve Congo, à côté de la salade chou-carotte.",
+      "en": "Simmered fish recipe: freshwater fish marinated then simmered in tomato-onion sauce — Congo River plate, beside cabbage-carrot salad."
     },
     "body": {
-      "fr": "Le **poisson Kisangani** porte le geste mijoté du marché du fleuve : moins « braise pure » que le [poisson de Kinkole](/recettes/poisson-braise-kinkole/), plus sauce que le [ngolo grillé](/recettes/ngolo-grille/). Sur la même table locale : [salade Kisangani](/recettes/salade-kisangani/).",
-      "en": "**Kisangani fish** is the city’s simmered river-market plate: less pure grill than [Kinkole braised fish](/en/recettes/poisson-braise-kinkole/), saucier than [grilled ngolo](/en/recettes/ngolo-grille/). Same local table: [Kisangani salad](/en/recettes/salade-kisangani/)."
+      "fr": "Le **poisson mijoté** porte le geste sauce tomate du marché du fleuve : moins « braise pure » que le [poisson braisé](/recettes/poisson-braise-kinkole/), plus sauce que le [ngolo grillé](/recettes/ngolo-grille/). Sur la même table : [salade chou-carotte](/recettes/salade-kisangani/).",
+      "en": "**Simmered fish** is the river-market tomato-sauce plate: less pure grill than [braised fish](/en/recettes/poisson-braise-kinkole/), saucier than [grilled ngolo](/en/recettes/ngolo-grille/). Same local table: [cabbage-carrot salad](/en/recettes/salade-kisangani/)."
     },
     "region": "Kisangani",
     "region_id": "kisangani",
@@ -31903,14 +31813,14 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "poisson-kivu-grille",
     "slug": "poisson-kivu-grille",
     "names": {
-      "fr": "Poisson du Kivu grillé",
-      "en": "Grilled Lake Kivu fish",
+      "fr": "Poisson de lac grillé",
+      "en": "Grilled lake fish",
       "aliases": [
         {
           "name": "samaki wa kuchoma",
@@ -31949,12 +31859,12 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette poisson du lac Kivu grillé",
-      "en": "Grilled Lake Kivu fish recipe"
+      "fr": "Recette poisson de lac grillé",
+      "en": "Grilled lake fish recipe"
     },
     "description": {
-      "fr": "Recette de poisson du lac Kivu grillé : poisson entier mariné aux aromates puis grillé jusqu’à peau fumée — grillade de l’Est, distincte du braise de Kinkole.",
-      "en": "Grilled Lake Kivu fish recipe: whole lake fish marinated with aromatics then grilled until the skin is smoky — Eastern grillade, distinct from Kinkole river braise."
+      "fr": "Recette de poisson de lac grillé : poisson entier mariné aux aromates puis grillé jusqu’à peau fumée — grillade lacustre de l’Est, distincte du braise de fleuve.",
+      "en": "Grilled lake fish recipe: whole lake fish marinated with aromatics then grilled until the skin is smoky — Eastern lacustrine grillade, distinct from river braise."
     },
     "body": {
       "fr": "Autour de **Goma** et de Bukavu, le poisson de lac se grille souvent entier, avec une marinade citron-ail proche des grillades de Kinshasa. La fiche [poisson braisé à Kinkole](/recettes/poisson-braise-kinkole/) documente le geste fluvial de la capitale ; ici l’ancrage est **lacustre, Est**.",
@@ -32134,17 +32044,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Gra2mb — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Poisson_brais%C3%A9_%C3%A0_Kinkole.jpg"
+        "label": "Photo credit: Umuhiera — Wikimedia Commons, CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Grilled_Tilapia_2.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Poisson%20brais%C3%A9%20%C3%A0%20Kinkole.jpg?width=1400",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Grilled%20Tilapia%202.jpg?width=1400",
     "image_alt": {
-      "fr": "Poisson entier grillé, peau dorée",
-      "en": "Whole grilled fish with golden skin"
+      "fr": "Tilapia entier grillé à la peau noircie, servi en barquette",
+      "en": "Whole grilled tilapia with charred skin in a takeaway tray"
     },
-    "image_credit": "Gra2mb — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Poisson_brais%C3%A9_%C3%A0_Kinkole.jpg",
+    "image_credit": "Umuhiera — Wikimedia Commons, CC0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Grilled_Tilapia_2.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/poisson-kivu-grille/",
@@ -32154,7 +32064,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "poisson-mayo",
@@ -32437,7 +32347,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "poisson-moambe",
@@ -32674,7 +32584,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "pommes-sautees-katanga",
@@ -32889,7 +32799,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "pondu",
@@ -33453,7 +33363,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "pondu-ngulu",
@@ -33720,17 +33630,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Guwo Josephine — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Cassava_leaves.jpg"
+        "label": "Photo credit: BalukuBrian — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Sombe_sauce_with_meat_and_ovacado_01.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cassava%20leaves.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sombe%20sauce%20with%20meat%20and%20ovacado%2001.jpg?width=1600",
     "image_alt": {
-      "fr": "Feuilles de manioc fraîches, base du pondu au porc",
-      "en": "Fresh cassava leaves for pondu with pork"
+      "fr": "Feuilles de manioc mijotées avec de la viande, servies en plat",
+      "en": "Cassava-leaf stew with meat, plated"
     },
-    "image_credit": "Guwo Josephine — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Cassava_leaves.jpg",
+    "image_credit": "BalukuBrian — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Sombe_sauce_with_meat_and_ovacado_01.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/pondu-ngulu/",
@@ -33740,7 +33650,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "pondu-poisson",
@@ -33999,17 +33909,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: PrintyKiss — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Feuilles_de_manioc.jpg"
+        "label": "Photo credit: Ochyengomondi — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Fuufuu_with_dried_fish_and_cassava_leaves.JPG"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Feuilles_de_manioc.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fuufuu%20with%20dried%20fish%20and%20cassava%20leaves.JPG?width=1600",
     "image_alt": {
-      "fr": "Feuilles de manioc fraîches, base du pondu au poisson",
-      "en": "Fresh cassava leaves for pondu with fish"
+      "fr": "Pondu (feuilles de manioc) servi avec poisson séché et fufu",
+      "en": "Cassava-leaf pondu with dried fish and fufu"
     },
-    "image_credit": "PrintyKiss — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Feuilles_de_manioc.jpg",
+    "image_credit": "Ochyengomondi — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Fuufuu_with_dried_fish_and_cassava_leaves.JPG",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/pondu-poisson/",
@@ -34019,7 +33929,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "porc-braise",
@@ -34294,7 +34204,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "porc-ya-kotumba",
@@ -34580,7 +34490,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "poulet-mayo",
@@ -34878,7 +34788,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "poulet-pane",
@@ -35138,7 +35048,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "queue-boeuf-sauce",
@@ -35407,17 +35317,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: FotoosVanRobin — Wikimedia Commons, CC BY-SA 2.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Oxtail.jpg"
+        "label": "Photo credit: Lucia236 — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Deux_plats_queue_de_boeuf_avec_le_manioc.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Oxtail.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Deux%20plats%20queue%20de%20boeuf%20avec%20le%20manioc.jpg?width=1600",
     "image_alt": {
-      "fr": "Queue de bœuf cuite, prête pour une sauce longue",
-      "en": "Cooked oxtail ready for a long sauce"
+      "fr": "Queue de bœuf en sauce servie avec du manioc",
+      "en": "Oxtail in sauce served with cassava"
     },
-    "image_credit": "FotoosVanRobin — Wikimedia Commons, CC BY-SA 2.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Oxtail.jpg",
+    "image_credit": "Lucia236 — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Deux_plats_queue_de_boeuf_avec_le_manioc.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/queue-boeuf-sauce/",
@@ -35427,7 +35337,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "riz-moambe",
@@ -35667,7 +35577,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "rognons-saute",
@@ -35926,7 +35836,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "saka-madesu",
@@ -36528,7 +36438,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "salade-kisangani",
@@ -36757,7 +36667,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "sambaza",
@@ -37005,17 +36915,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Moses Zaso — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Kapenta.jpg"
+        "label": "Photo credit: Simz711 — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:An_Example_of_Kapenta_And_Sadza(as_it_is_known_in_Zimbabwe).JPG"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kapenta.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/An%20Example%20of%20Kapenta%20And%20Sadza(as%20it%20is%20known%20in%20Zimbabwe).JPG?width=1600",
     "image_alt": {
-      "fr": "Petits poissons de lac type sambaza / kapenta",
-      "en": "Small lake fish like sambaza / kapenta"
+      "fr": "Petits poissons de lac type sambaza / kapenta servis avec une pâte de maïs",
+      "en": "Lake fish (sambaza / kapenta style) served with maize meal"
     },
-    "image_credit": "Moses Zaso — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Kapenta.jpg",
+    "image_credit": "Simz711 — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:An_Example_of_Kapenta_And_Sadza(as_it_is_known_in_Zimbabwe).JPG",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "video": {
       "youtube": "https://www.youtube.com/watch?v=SbBwQSLKl8c",
@@ -37031,7 +36941,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "sambousa-pommes",
@@ -37283,17 +37193,17 @@
       },
       {
         "type": "url",
-        "label": "Photo credit: Même à l'ouest — Wikimedia Commons, CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Un_vendeur_de_Sambousa_en_pomme_de_terre_dans_la_ville_de_Goma.jpg"
+        "label": "Photo credit: Madhura Vaze — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Samosa_with_tamarind_chutney_and_tomato_sauce.jpg"
       }
     ],
-    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Un%20vendeur%20de%20Sambousa%20en%20pomme%20de%20terre%20dans%20la%20ville%20de%20Goma.jpg?width=1600",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Samosa%20with%20tamarind%20chutney%20and%20tomato%20sauce.jpg?width=1600",
     "image_alt": {
-      "fr": "Vendeur de sambousa aux pommes de terre à Goma",
-      "en": "Potato sambousa seller in Goma"
+      "fr": "Sambousa / samosas dorés servis avec sauces",
+      "en": "Golden sambousa / samosas served with sauces"
     },
-    "image_credit": "Même à l'ouest — Wikimedia Commons, CC BY-SA 4.0",
-    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Un_vendeur_de_Sambousa_en_pomme_de_terre_dans_la_ville_de_Goma.jpg",
+    "image_credit": "Madhura Vaze — Wikimedia Commons, CC BY-SA 4.0",
+    "image_credit_url": "https://commons.wikimedia.org/wiki/File:Samosa_with_tamarind_chutney_and_tomato_sauce.jpg",
     "image_license_note": "Image binaries are not redistributed. Follow the credit URL and third-party license.",
     "urls": {
       "fr": "https://mpichi.likeur.xyz/recettes/sambousa-pommes/",
@@ -37303,7 +37213,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "sauce-arachide",
@@ -37559,7 +37469,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "sauce-gombo",
@@ -37806,7 +37716,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "sauce-pili-pili",
@@ -38087,7 +37997,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "saucisse-frites",
@@ -38321,7 +38231,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "sombe",
@@ -38898,7 +38808,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "soso-grille-entier",
@@ -39191,7 +39101,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "soso-lumba-lumba",
@@ -39456,7 +39366,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "soso-na-madesu",
@@ -39745,7 +39655,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "soso-ya-kotumba",
@@ -40032,7 +39942,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "soso-ya-sauce",
@@ -40299,14 +40209,14 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "spaghetti-kinshasa",
     "slug": "spaghetti-kinshasa",
     "names": {
-      "fr": "Spaghetti Kinshasa",
-      "en": "Kinshasa spaghetti",
+      "fr": "Spaghetti sauce tomate",
+      "en": "Spaghetti with tomato sauce",
       "aliases": [
         {
           "name": "spaghetti ya Kinshasa",
@@ -40348,16 +40258,16 @@
       ]
     },
     "seo_title": {
-      "fr": "Recette spaghetti Kinshasa — pâtes sauce locale",
-      "en": "Kinshasa spaghetti recipe — local tomato sauce"
+      "fr": "Recette spaghetti sauce tomate — pâtes",
+      "en": "Spaghetti with tomato sauce recipe"
     },
     "description": {
-      "fr": "Recette de spaghetti à la kinshasaise : pâtes nappées d’une sauce tomate-oignon souvent enrichie de viande hachée ou de sardines — street food / table du quotidien.",
-      "en": "Kinshasa-style spaghetti: pasta in tomato-onion sauce often enriched with minced meat or sardines — everyday / street plate."
+      "fr": "Recette de spaghetti sauce tomate : pâtes nappées d’une sauce tomate-oignon souvent enrichie de viande hachée ou de sardines — street food / table du quotidien.",
+      "en": "Spaghetti with tomato sauce: pasta in tomato-onion sauce often enriched with minced meat or sardines — everyday / street plate."
     },
     "body": {
-      "fr": "Les **spaghetti Kinshasa** empruntent le format pâtes italiennes à une sauce locale tomate-oignon — cousin urbain du [loso mayonnaise](/recettes/loso-mayonnaise/) et du [loso na madesu](/recettes/loso-na-madesu/). Autre assiette express : [saucisse-frites](/recettes/saucisse-frites/).",
-      "en": "**Kinshasa spaghetti** borrows the Italian pasta shape for a local tomato-onion sauce — urban cousin of [loso mayonnaise](/en/recettes/loso-mayonnaise/) and [loso na madesu](/en/recettes/loso-na-madesu/). Another quick plate: [sausage and fries](/en/recettes/saucisse-frites/)."
+      "fr": "Les **spaghetti sauce tomate** empruntent le format pâtes italiennes à une sauce locale tomate-oignon — cousin urbain du [loso mayonnaise](/recettes/loso-mayonnaise/) et du [loso na madesu](/recettes/loso-na-madesu/). Autre assiette express : [saucisse-frites](/recettes/saucisse-frites/).",
+      "en": "**Spaghetti with tomato sauce** borrows the Italian pasta shape for a local tomato-onion sauce — urban cousin of [loso mayonnaise](/en/recettes/loso-mayonnaise/) and [loso na madesu](/en/recettes/loso-na-madesu/). Another quick plate: [sausage and fries](/en/recettes/saucisse-frites/)."
     },
     "region": "Kinshasa",
     "region_id": "kinshasa",
@@ -40579,7 +40489,7 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Spaghetti_bolognese.jpg?width=1600",
     "image_alt": {
       "fr": "Spaghetti en sauce tomate, illustration du plat kinshasa",
-      "en": "Spaghetti in tomato sauce, illustrative Kinshasa plate"
+      "en": "Spaghetti in tomato sauce"
     },
     "image_credit": "Noblige — Wikimedia Commons, CC BY-SA 2.5",
     "image_credit_url": "https://commons.wikimedia.org/wiki/File:Spaghetti_bolognese.jpg",
@@ -40592,7 +40502,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "sukuma-est",
@@ -40829,7 +40739,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "tangawisi",
@@ -41080,7 +40990,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "taro-mijote",
@@ -41348,7 +41258,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "taro-sauce",
@@ -41624,7 +41534,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "the-citronnelle",
@@ -41835,7 +41745,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "tilapia-bugali",
@@ -42080,7 +41990,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "tripes-mijotees",
@@ -42359,7 +42269,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "viande-sechee-tomates",
@@ -42605,7 +42515,7 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   },
   {
     "id": "viande-ya-sauce",
@@ -42892,6 +42802,6 @@
     "license": "CC-BY-4.0",
     "attribution": "Mpichi / Likeur — https://mpichi.likeur.xyz",
     "version": "1.6.0",
-    "updated_at": "2026-11-03"
+    "updated_at": "2026-11-04"
   }
 ]

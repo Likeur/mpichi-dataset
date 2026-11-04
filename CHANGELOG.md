@@ -15,6 +15,11 @@ GitHub releases / Hugging Face revisions.
 - Editorial wave G (+6 recipes): `soso-na-madesu`, `loso-na-soso`, `pondu-ngulu`, `queue-boeuf-sauce`, `makemba-na-soso`, `beignets-haricot` + curated aliases
 - Editorial wave L (+4 recipes): `soso-grille-entier`, `rognons-saute`, `langue-boeuf-sauce`, `plantain-grille-arachide` + curated aliases
 - Editorial wave K (+5 recipes): `jus-gingembre-ananas`, `the-citronnelle`, `bouillie-manioc`, `gateau-banane`, `galettes-mais` + curated aliases
+- Image refresh (21 recipes): replace raw/market/species photos with plated Commons dishes (kapenta/sambaza/ndagala, pondu variants, oxtail, garden-egg stew, proxies for ngolo, mbinzo, sambousa, smoked fish, etc.)
+- Fix more mismatched images: `kamundele`, liboke viande/poisson, maïs bouilli/grillé, nsafu sauce/grillés
+- Fix mismatched catalogue images: `bouillie-mais` (Uji.jpg was a Japan river), brochettes Lubumbashi/poulet, bœuf grillé, chikwangue grillée, aubergines, bouillie manioc
+- Differentiate fish braise images: keep Kinkole on `poisson-braise-kinkole`; new photos for `poisson-kivu-grille`, `capitaine-braise`; `mbisi-na-kwanga` → fish + cassava paste (was rice plate)
+- Drop city/region from dish titles: merge `brochettes-lubumbashi` → `brochettes-boeuf` (meat name + mishikaki variant); rename spaghetti / chou / poisson / pilau / andazi titles accordingly
 - Companion site Lingala locale (`/ln`): UI strings, recipe/guide overlays, region labels; curated `ln` aliases for every recipe slug in `enrichment/aliases.json`
 - `data/meta.json` `site_locales` (`fr`, `en`, `ln`) documenting the trilingual site surface (recipe bodies remain FR/EN until a dedicated LN export)
 
